@@ -1,0 +1,845 @@
+<?xml version="1.0" ?>
+<WorldCrises>
+	<Crisis ID="CRI_HAIEAR" Name="2010 Haiti Earthquake">
+		<People>
+			<Person ID="PER_JEABEL"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_UNINAT"/>
+		</Organizations>
+		<Kind>Natural Disaster</Kind>
+		<Date>2010-01-12</Date>
+		<Time>22:53:00</Time>
+		<Locations>
+			<li>southern Haiti</li>
+		</Locations>
+		<HumanImpact>
+			<li>An estimated three million people were affected by the quake. The highest reliable death count was estimated at 220,000. Haitian government estimates were higher.
+While the vast majority of casualties were Haitian civilians, the dead included aid workers, embassy staff, foreign tourists—and a number of public figures, including Archbishop of Port-au-Prince Monsignor Joseph Serge Miot, aid worker Zilda Arns and officials in the Haitian government, including opposition leader Michel &quot;Micha&quot; Gaillard. Also killed were a number of well-known Haitian musicians[104] and sports figures, including thirty members of the Fédération Haïtienne de Football. At least 85 United Nations personnel working with MINUSTAH were killed, among them the Mission Chief, Hédi Annabi, his deputy, Luiz Carlos da Costa., and police commissioner Douglas Coates. Around 200 guests were killed in the collapse of the Hôtel Montana in Port-au-Prince.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Hundreds of thousands of buildings plummeted to the ground including homes, the presidential palace, and even the United Nations Peacekeeping Mission.  The earthquake resulted in 105,000 homes being destroyed, causing $2.3 billion in damage and the nation being covered in rubble (Haiti). The government of Haiti estimated that 250,000 residences and 30,000 commercial buildings had collapsed or were severely damaged.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Many countries responded to the appeals and launched fund-raising efforts, as well as sending search and rescue teams. The neighbouring Dominican Republic was the first country to give aid to Haiti,[111] sending water, food and heavy-lifting machinery.[115] The hospitals in the Dominican Republic were made available; a combined effort of the Airports Department (DA), together with the Dominican Naval Auxiliaries, the UN and other parties formed the Dominican-Haitian Aerial Support Bridge, making the main Dominican airports available for support operations to Haiti. The Dominican website FlyDominicanRepublic.com made available to the internet, daily updates on airport information and news from the operations center on the Dominican side. The Dominican emergency team assisted more than 2,000 injured people, while the Dominican Institute of Telecommunications (Indotel) helped with the restoration of some telephone services.The Dominican Red Cross coordinated early medical relief in conjunction with the International Red Cross.The government sent eight mobile medical units along with 36 doctors including orthopaedic specialists, traumatologists, anaesthetists, and surgeons. In addition, 39 trucks carrying canned food were dispatched, along with 10 mobile kitchens and 110 cooks capable of producing 100,000 meals per day</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>From 12 January, the International Committee of the Red Cross, which has been working in Haiti since 1994, focused on bringing emergency assistance to victims of the catastrophe, in close cooperation with its partners within the International Red Cross and Red Crescent Movement, particularly the Haitian Red Cross and the International Federation of Red Cross and Red Crescent Societies.
+Canadians were able to donate through the Humanitarian Coalition which distributed funds to partner organizations working in the field. During this time the Humanitarian Coalition raised over C$15 Million.
+The Netherlands sponsored a project, called Radio555. The Dutch radio channels 3FM, Radio 538 and Radio Veronica all broadcast under the name of Radio555, funded by a contribution of €80 million.
+Immediately following the earthquake, Real Medicine Foundation began providing medical staffing, in-kind medical supplies and strategic coordination to help meet the surging needs of the health crisis on the ground. Working in close partnership with other relief organizations, Real Medicine organized deployments of volunteer medical specialists to meet the needs of partner hospitals and clinics at the Haiti–Dominican Republic border and in Port-au-Prince, provided direct funding, medical supplies and pharmaceuticals to local health facilities and partner hospitals, provided advisory services and coordination to local health facilities, including physical therapy support, and coordinated mobile health outreaches, field clinics and food supplies to outlying villages overlooked in the relief effort.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2010_Haiti_Earthquake">Haiti Earthquake Wiki</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://haitiearthquake.web.unc.edu/economic-impact-of-the-earthquake/">Haiti Earthquake article</li>
+				<li href="http://www.rdp.sg/film/haiti/">Haiti Earthquake 2010 (HD Documentary Short)</li>
+				<li href="http://insidedisaster.com/haiti/">Inside Disaster interactive website</li>
+				<li href="http://www.nj.com/news/index.ssf/2010/04/haitis_ambassador_to_us_says_e.html">Raymond Joseph article on NJ.com</li>
+				<li href="http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/7022556/Haiti-earthquake-Wyclef-Jean-calls-for-evacuation-of-Port-au-Prince.html">Wyclef Jean calls for evacuation</li>
+				<li href="http://www.canada.com/news/Hard+power+needed+Haiti+Harper/2572453/story.html">Stephen Harper article</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/7/79/UNDP-HTI-10-201.jpg.jpg" text="Haiti Earthquake rubble cleanup"/>
+				<li embed="http://www.coolgeography.co.uk/GCSE/AQA/Restless%20Earth/Earthquakes/Haiti%20Map.gif" text="Haiti Earthquake tremor map"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/d/d5/Haiti_earthquake_damage_overhead.jpg" text="Haiti Earthquake damage overhead"/>
+				<li embed="http://haitiearthquake.web.unc.edu/files/2010/11/800px-Haiti_earthquake_damage1.jpg" text="Haiti Earthquake housing damage"/>
+				<li embed="http://i.i.com.com/cnwk.1d/i/tim//2010/01/12/112_raw_haitiQuake_480x360.jpg" text="Haiti Earthquake aftermath"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/5/58/Flickr_-_Israel_Defense_Forces_-_Rescue_of_a_Haitian_Man_from_Government_Building_%282%29.jpg" text="Israel Defense Forces - Rescue of a Haitian Man"/>
+				<li embed="http://www.doctorswithoutborders.org/images/news/2010/Haiti-52621b.jpg" text="Doctors Without Borders - Haiti"/>
+				<li embed="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=137007" text="In Haiti: This is the spirit of the IDF"/>
+				<li embed="http://www.ifrc.org/PageFiles/40573/haiti_2010_00661.jpg" text="Generic IFRC pic"/>
+				<li embed="http://www.flipbooksoft.com/upload/books/0e900b86120f78e976635e61e6ef9e24/images/thumbs/page_1.jpg" text="RCRC Mag front cover"/>
+				<li embed="http://humanitariancoalition.ca/sites/default/files/styles/large/public/images/primary/haiti-5243015106_606072f092_b.jpg" text="Haiti Earthquake 2010 | Humanitarian Coalition"/>
+				<li embed="http://cdn1.tabletmag.com/wp-content/files_mf/126393781220100119joseph.jpg" text="Raymond Joseph on Rachel Maddow"/>
+				<li embed="http://i.telegraph.co.uk/multimedia/archive/01561/jean_1561579c.jpg" text="Wyclef Jean"/>
+				<li embed="http://www.canada.com/cms/binary/2572466.jpg" text="Stephen Harper visits Haiti"/>
+				<li embed="http://www2.pictures.zimbio.com/gi/Major+Earthquake+Hits+Haiti+G5nm-m9vbQol.jpg" text="René Préval with wife and Dr. Barth Green"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?feature=player_detailpage&amp;v=AhoMuODjrU8" text="2010 Haiti Earthquake Relief"/>
+				<li embed="http://www.youtube.com/watch?v=IfBdiFyxKOk" text="The Week in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=UhLUMNdO8ic" text="Haiti Earthquake Caught on Tape"/>
+				<li embed="http://www.youtube.com/watch?v=V_s4UMLm8LM" text="Sad and disturbing footage of Haiti Earthquake"/>
+				<li embed="http://vimeo.com/13595568" text="NCMO 2010 Haiti Earthquake Relief"/>
+				<li embed="http://www.youtube.com/watch?v=85FLbzuaGlk" text="Google Maps &amp; International Medical Corps - 2010 Haiti Earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=AKju8x4p-dA" text="Laurent Lamothe - Rebuilding Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=nf4lZCwiwX8" text="Sean Penn, Michel Joseph Martelly, Laurent Lamothe"/>
+				<li embed="http://www.youtube.com/watch?v=vw3G85jzhKk" text="Progress Report of President Michel Martelly and Laurent Lamothe"/>
+				<li embed="http://www.youtube.com/watch?v=J_9P8N8OqXk" text="BBC News - PM insists Haiti is recovering from 2010 earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=mU41MbK1C-o" text="Foreign Ministers Discuss Recovery Efforts in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=soPVme4AEfU" text="Honorable Mayor Jean-Yves, Jason of Port-au-Prince"/>
+				<li embed="http://www.youtube.com/watch?v=447BIGFvK_s" text="Frustration in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=viaYXGr7H9Y" text="Jean Yves Jason CNN Interview"/>
+				<li embed="http://www.youtube.com/watch?v=Oxy9PIdkf_A" text="Haiti Ambassador Raymond Joseph on earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=Aq-LpP2w2VU" text="Pat Robertson &amp; Haitian Ambassador on earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=mHEk_qR5l1I" text="Haiti Ambassador on Disaster"/>
+				<li embed="http://www.youtube.com/watch?v=0Q1ASN7Hy7k" text="Wyclef Jean reacts to earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=rAN29LoL21g" text="Wyclef Jean Discusses Haiti Earthquake Relief Efforts"/>
+				<li embed="http://www.youtube.com/watch?v=BZxYSqrYv5E" text="&quot;From The Ashes We Shall Rise&quot; Wyclef Jean"/>
+				<li embed="http://www.youtube.com/watch?v=JumCMHCQmrM" text="PM statement on the situation in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=iBbB9__qt84" text="Haiti Earthquake: Rene Preval video"/>
+				<li embed="http://www.youtube.com/watch?v=pJwpLuCmDz8" text="President haiti rene preval: 'My palace collapsed'"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=http://mw1.google.com/mw-earth-vectordb/haiti/Haiti-Earthquake-nl.kml&amp;sll=40.111689,-95.712891&amp;sspn=41.414553,93.076172&amp;ie=UTF8&amp;z=11" text="Satellite Images of Haiti, Post-Earthquake"/>
+				<li embed="http://mw1.google.com/mw-earth-vectordb/haiti/Haiti-Earthquake-nl.kml" text="Google Earth KML Layer of Haiti, Post-Earthquake"/>
+				<li embed="http://www.bing.com/maps/?v=2&amp;cp=18.54956927907911~-72.32450745999813&amp;lvl=17&amp;sty=h&amp;where1=Port%20au%20Prince%20International%2C%20Haiti#Y3A9MTguNTQ5NTY5fi03Mi4zMjQ1MDcmbHZsPTE3JnN0eT1oJnE9UG9ydCUyNTIwYXUlMjUyMFByaW5jZSUyNTIwSW50ZXJuYXRpb25hbCUyNTJDJTI1MjB" text="Port au Prince International, Haiti"/>
+				<li embed="http://www.bing.com/maps/?form=MPSRCH&amp;cp=18.542811~-72.33903&amp;lvl=18&amp;style=a&amp;app=50328~#Y3A9MTguNTQyODExfi03Mi4zMzkwMzAmbHZsPTE4JnN0eT1h" text="Haiti Earthquake Bing Maps app (req. Silverlight)"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_EGYPTR" Name="Political Unrest in Egypt">
+		<Kind>Political Unrest</Kind>
+		<Date>2013-01-16</Date>
+		<Time>06:00:00</Time>
+		<Locations>
+			<li>Egypt, Africa</li>
+		</Locations>
+		<HumanImpact>
+			<li>Human deaths, political turmoil, economic hardships for the population in general.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Creates   complications for economic reform caused by previous regime fallout. If approved, the loan will come with strict conditions. In order to receive it, the IMF instead of collateral it will require that Egypt implement economic reforms usually in the form of the unpopular austerity measures to cut Egypt's deficit. This translates into a cut in spending on public benefits, social services and development projects. It also comes with an increase in taxes on items such as food, alcohol and cigarettes and petroleum derived products which also include gasoline and cause higher fees for public services including transportation.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>None used other than previous loans to help Egypt of previous political unrest.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Still pending a $4.8 billion loan from the International Monetary Fund (IMF)</li>
+		</WaysToHelp>
+		<Common>
+			<Images>
+				<li embed="http://www.csmonitor.com/var/ezflow_site/storage/images/media/content/2012/6-25-12-mohamed-morsi/12947278-1-eng-US/6-25-12-Mohamed-Morsi_full_600.jpg" text="Morsi picture"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=K9d_P58qMx4" text="Mohamed Morsi - president elect"/>
+			</Videos>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_TOHOQU" Name="2011 Tohoku Earthquake and Tsunami">
+		<People>
+			<Person ID="PER_NAOKAN"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_HLFLIF"/>
+		</Organizations>
+		<Kind>Natural Disaster</Kind>
+		<Date>2011-03-11</Date>
+		<Time>20:46:00</Time>
+		<Locations>
+			<li>Japan</li>
+		</Locations>
+		<HumanImpact>
+			<li>On 12 September 2012, a Japanese National Police Agency report confirmed 15,883 deaths, 6,145 injured, and 2,671 people missing across twenty prefectures, as well as 129,225 buildings totally collapsed, with a further 254,204 buildings 'half collapsed', and another 691,766 buildings partially damaged.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Early estimates placed insured losses from the earthquake alone at US$14.5 to $34.6 billion.The World Bank's estimated economic cost was US$235 billion, making it the costliest natural disaster in world history. By 12 April 2011 the Japanese government estimated that the cost of just the direct material damage could exceed ¥25 trillion ($300 billion).</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>As of March 2012, donations to areas affected by the disaster totaled ¥520 billion and 930,000 people have assisted in disaster recovery efforts.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Following the 2011 T?hoku earthquake and tsunami, Japan received messages of condolence and offers of assistance from a range of international leaders. According to Japan's foreign ministry, 116 countries and 28 international organizations had offered assistance to Japan. The magnitude of the earthquake was estimated at 9.0.</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_AURORA" Name="2012 Aurora Shooting ">
+		<People>
+			<Person ID="PER_JAMHOL"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_COMFFO"/>
+		</Organizations>
+		<Kind>Mass Shooting</Kind>
+		<Date>2012-07-20</Date>
+		<Time>05:30:00</Time>
+		<Locations>
+			<li>Aurora, Colorado </li>
+		</Locations>
+		<HumanImpact>
+			<li>Twelve people were killed at a multiplex Cinemark theater in Aurora Colorado during the midnight screening of the film The Dark Knight Rises. 
+This incident was considered the deadliest shooting since The Columbine massacre on April 20, 1999. 
+Several other incidents followed this one at other theaters where several other men were arrested for acts of violence or attempting to carry through with an act of violence. 
+The Presidential Candidates at the time, Barrack Obama and Mitt Romney, suspended campaign advertising and visited victims at Hospitals. 
+Actor Christian Bale along with other sports teams visited several victims and expressed their condolences. 
+There was a great fear that similar incidents would occur in cinemas across the United States and the world resulting in an increase in security in cinemas throughout the country. 
+This once again brought the issue of gun control to the surface of news and politics. </li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>The Organization The Community First Foundation received substantial donations from Warner Bros. to aid the victims of the shooting. 
+The theater where the incident occurred was shut down for months before reopening on January 2013, resulting in a great loss for the theater owners. 
+Funeral expenses incurred by the victim's families was paid for by Cinemark. Gun sales in Colorado, Washington, Florida, and several other states grew tremendously after the incident along with an increase in background checks. 
+Resources Needed: 
+Cinemas and theaters around the world began hiring more employees to fill out the roles needed in their security increase. 
+Companies associated with the film and theater, Warner Bros. and Cinemark, donated a great amount of time to aid the families of the victims. </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Cinemas and theaters around the world began hiring more employees to fill out the roles needed in their security increase. 
+</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Companies associated with the film and theater, Warner Bros. and Cinemark, donated a great amount of time to aid the families of the victims.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2012_Aurora_shooting">Aurora Wiki page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.communityfirstfoundation.org/index.cfm">The Community First Homepage</li>
+				<li href="http://en.wikipedia.org/wiki/James_Eagan_Holmes">James Holmes Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/0/03/The_Century_16_theater_in_Aurora_CO_-_Shooting_location.jpg" text="Aurora Image"/>
+				<li embed="http://i.huffpost.com/gadgets/slideshows/240288/slide_240288_1263944_free.jpg?1363112552000" text="James Holmes Image1"/>
+				<li embed="http://i.huffpost.com/gen/700200/thumbs/s-JAMES-EAGAN-HOLMES-BRAIN-EXPERTS-large.jpg" text="James Holmes Image2"/>
+				<li embed="http://i.huffpost.com/gen/1174451/thumbs/s-JAMES-HOLMES-MENTAL-HEALTH-large.jpg?6" text="James Holmes Image3"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.cbsnews.com/video/watch/?id=7415902n" text="Aurora Video"/>
+			</Videos>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_COPMAC" Name="2010 Copiago mining accident">
+		<People>
+			<Person ID="PER_LUISUR"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_SEMINE"/>
+		</Organizations>
+		<Kind>Natural Disaster</Kind>
+		<Date>2010-08-05</Date>
+		<Time>05:00:00</Time>
+		<Locations>
+			<li>Copiapo in northern Chile, South America </li>
+		</Locations>
+		<HumanImpact>
+			<li>The country had just experienced an earthquake and tsunami earlier that year, so news of the workers predicament garnered much empathy from the population of Chile which led the national governments take over of search and rescue attempts. 
+Government and international efforts to rescue the miners were greatly driven by the empathy and passion felt by the population of Chile and those around the world who expressed their sympathy.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>$20 Million dollars were spent on the several rescue plans implemented in an attempt to save the miners, with a third of that coming from private donations and the rest coming from the government and mine owners. </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>The Government first used a Strata 950 model raise borer drilling rig to create an escape shaft but this plan was halted due to the danger falling rock debris. 
+They then used a Schramm Inc. T130XD air core drill, to widen one of the holes created by the previously used drill rig but was unfortunately wrecked upon hitting a metal bar in an old working, which was then followed by wearing out of the second drill. 
+The third and last attempt involved a Canadian made RIG-421 oil drilling rig which was able to drill large deep holes at faster rate than the mining drills. 
+Cooperation and resources of companies and individuals came from around the world such as Latin America, South America, United States and Canada, with developmental aid coming from NASA specialists. </li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Miners have already been rescued but donations can probably still be made to an organization associated with helping the miners. </li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident">Mining Accident Wiki Page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.guardian.co.uk/world/2010/sep/05/luis-urzua-chile-trapped-miners">Luis Urzua Wiki Page</li>
+				<li href="http://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Minera_San_Esteban_Primera">San Estaban Mining Company Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/1/13/Mina_San_Jos%C3%A9_-_Trapped_miners_before_rescue_-_Gobierno_de_Chile.jpg" text="Mining Accident Image1"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/0/0d/480382main_miners2.jpg" text="Mining Accident Image2"/>
+				<li embed="http://blogs.babble.com/famecrawler/files/2010/10/1039959_300.jpg" text="Luis Urzua Image"/>
+			</Images>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_ALABUN" Name="2013 Alabama bunker hostage crisis ">
+		<People>
+			<Person ID="PER_JDYKES"/>
+		</People>
+		<Kind>Mass Shooting</Kind>
+		<Date>2013-01-29</Date>
+		<Time>21:00:00</Time>
+		<Locations>
+			<li>Midland City, Alabama </li>
+		</Locations>
+		<HumanImpact>
+			<li>Boy who was kidnapped garnered much sympathy from all those involved and everyone who heard of it on the news.
+There was much confusion about the reason behind this incident, the perpetrator, Jimmy Lee Dykes, did not exhibit any prior motives regarding this event aside from some unusual behavior.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>No real economic impact stemmed from this event.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Food and medicine were provided to Dykes for the child who happened to suffer from several illnesses.
+Tools used by the FBI to access and monitor the bunker before attempting a rescue.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>None</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_MUMBAI" Name="2008 Mumbai attacks ">
+		<People>
+			<Person ID="PER_AJKASA"/>
+			<Person ID="PER_TAHUSS"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_LASHTA"/>
+		</Organizations>
+		<Kind>Terrorist attack</Kind>
+		<Date>2008-11-26</Date>
+		<Time>06:00:00</Time>
+		<Locations>
+			<li>Mumbai, India</li>
+		</Locations>
+		<HumanImpact>
+			<li>There were around 200 victims and 9 attackers killed during the attacks with at least 300 injured consisting of at least 28 foreign nationals and a number of recognized figures from business, media, and security services.
+Plans for an anti-terror force called “Force One” were put in place along with an upgrade to all weapons carried by police.
+Legal framework was strengthened by the Prime Minister and established a federal intelligence agency similar to the FBI
+Indians criticized political leaders after this event, stating their ineptness was responsible, which led to a range of resignations and political changes throughout the country.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Government of Maharashtra gave around $8,600 as compensation to the families of the deceased and around $860 to those that were severely injured
+The company and group that owned the bombed buildings received around $28 million from insurance claims.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Man power in the form of police officers, Rapid Action Force personnel, Marine Commandos and National Security Guards.
+Material to rebuild damaged buildings.
+Money spent on trials against the those affiliated with the attackers as well as the one attacker that was captured.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Donations provided to the families of the victims.
+Memorials held for the victims.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://www.nytimes.com/2008/11/27/world/asia/27mumbai.html?pagewanted=all&amp;_r=0">2008 Mumbai attacks citation</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://en.wikipedia.org/wiki/Ajmal_Kasab">Ajmal Kasab Wiki Page</li>
+				<li href="http://en.wikipedia.org/wiki/Lashkar-e-Taiba">Lashkar-e-Taiba Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="https://upload.wikimedia.org/wikipedia/commons/9/9b/2008_Mumbai_terror_attacks_Oberoi_Restaurant.jpg" text="Mumbai attacks Image1"/>
+				<li embed="http://graphics8.nytimes.com/packages/images/photo/2008/11/26/20081128-INDIATIMELINE/14497036.JPG" text="Mumbai attacks Image2"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/c/ce/Mohammed_Ajmal_Kasab.jpg" text="Ajmal Kasab Image"/>
+			</Images>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_PIRATE" Name="Piracy in Somalia">
+		<People>
+			<Person ID="PER_CAPRIC"/>
+		</People>
+		<Kind>Piracy</Kind>
+		<Date>2005-01-01</Date>
+		<Time>06:00:00</Time>
+		<Locations>
+			<li>Coast of Somalia</li>
+		</Locations>
+		<HumanImpact>
+			<li>Each pirate attack means at least a few kidnappings for ransom. Illegal fishing conduced by the pirates has led to depletion of fish in the Somalia ocean region, which is causing hunger on the mainland. </li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Piracy has impeded the delivery of shipments and increased shipping expenses, costing an estimated $6.6 to $6.9 billion a year in global trade. Insurance Premiums have increased significantly as a result</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Russian and Indian navy forces have been dispatched to assist with containing the piracy problem. In addition, a international task forces were put together as part of Operation: Enduring Freedom (Combined Task Force 150).</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Humanitarian Aid in the form of food to the home regions of the pirates has been distributed in an attempt to make the risk of piracy less attractive.</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_OSLOSH" Name="Oslo Shootings">
+		<People>
+			<Person ID="PER_ANDVIK"/>
+		</People>
+		<Kind>Terrorism</Kind>
+		<Date>2011-07-22</Date>
+		<Time>19:25:34</Time>
+		<Locations>
+			<li>Oslo, Norway; Utoya, Norway</li>
+		</Locations>
+		<HumanImpact>
+			<li>Killed 77 (8 in Oslo and 69 in Utoya). 110 injured on Utoya Island and 209 in Oslo. Many from countries other than Norway since many were vacationing. </li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>The economic impact of this incident is negligible since there is virtually no mention of it. </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>N/A</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>N/A</li>
+		</WaysToHelp>
+		<Common>
+			<Images>
+				<li embed="http://www.thegatewaypundit.com/wp-content/uploads/2011/07/utoya.jpg" text="Oslo shootings"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=uub7Sk8HLic" text="Oslo: we will never forget"/>
+			</Videos>
+			<Maps>
+				<li embed="http://goo.gl/maps/TIavV" text="Oslo location"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_RRCOMP" Name="2008 Raid on Religious Compound">
+		<Organizations>
+			<Org ID="ORG_WWCPSE"/>
+			<Org ID="ORG_FCLATT"/>
+			<Org ID="ORG_FEDBOI"/>
+		</Organizations>
+		<Kind>Raid</Kind>
+		<Date>2008-04-03</Date>
+		<Time>05:00:00</Time>
+		<Locations>
+			<li>Eldorado, Texas United States</li>
+		</Locations>
+		<HumanImpact>
+			<li>Children were separated from their families due to suspicion of physical and sexual abuse.
+462 Children went into the care of the state of Texas and were held by Child Protective Services at the Fort Concho and Wells Fargo Pavillion in San Angelo.
+Throughout their stay at the Fort women complained about the living conditions within the Fort, claiming children exposed to horrifying physical examinations and interrogation sessions and that the temporary houses were cramped.
+Several men were sentenced to prison for sexually assualting an children while one man was sentenced to 33 years in prison for fathering a child with an underage girl.
+A year after the event two-thirds families had been reunited with their families and were back at the ranch.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>State of Texas spent a large amount of money to shelter the women and children and provide a safe and comfortable environment for them.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Police Officers to thoroughly search every house on the compound for any evidence that could point to any form of abuse to the hundreds of children on the compound.
+Money for housing requirements such as food, beds, and cribs that would be used over the period of 3 months.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Families were reunited and sect leaders promised to end underage marriage, so there is no real way to help.
+Possibly contacting any of the families and making donations to them.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Texas_Department_of_Family_and_Protective_Services">Child Protective Services</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints">Fundamentalist Church Wiki page</li>
+			</ExternalLinks>
+		</Common>
+	</Crisis>
+	<Person ID="PER_BROBMA" Name="Barack Obama">
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_FEDBOI"/>
+			<Org ID="ORG_CENTIA"/>
+		</Organizations>
+		<Kind>President</Kind>
+		<Location>Washington, D.C, United States of America</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Barack_Obama">Wikipedia page for Barack Obama</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.whitehouse.gov/administration/president-obama/">Official Whitehouse page for Barack Obama</li>
+				<li href="http://www.barackobama.com">Barack Obama's campaign website</li>
+				<li href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=o000167">Official Congressional page for Barack Obama</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg" text="President Barack Obama"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Ann_Dunham_with_father_and_children.jpg/220px-Ann_Dunham_with_father_and_children.jpg" text="Young Barack Obama with family"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flickr_Obama_Springfield_01.jpg/220px-Flickr_Obama_Springfield_01.jpg" text="President Obama and First Lady at a rally"/>
+				<li embed="http://disinfo.s3.amazonaws.com/wp-content/uploads/2010/02/JointSessionCongress.jpg" text="United States Congress joint session"/>
+			</Images>
+			<Videos>
+				<li embed="http://commons.wikimedia.org/wiki/Obama_Administration_weekly_video_addresses" text="President Obama's first weekly video address"/>
+				<li embed="http://www.youtube.com/user/BarackObamadotcom" text="President Obama's youtube channel"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=1600+Pennsylvania+Avenue+Northwest,+Washington,+DC&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.732698,0.95993&amp;oq=1600+pen&amp;hnear=1600+Pennsylvania+Ave+NW,+Washington,+District+of+Columbia+20500&amp;t=m&amp;z=16" text="The White House"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_JEABEL" Name="Jean-Max Bellerive">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+		</Crises>
+		<Kind>2010 Haitian Prime Minister</Kind>
+		<Location>Haiti</Location>
+		<Common>
+			<Images>
+				<li embed="http://www3.pictures.zimbio.com/gi/Haitian+Prime+Minister+Jean+Max+Bellervie+N-mlwE0caabl.jpg" text="Jean-Max Bellerive"/>
+				<li embed="http://secretaryclinton.files.wordpress.com/2010/09/610x-42.jpg" text="Jean-Max Bellerive and H.Clinton"/>
+				<li embed="http://haiti.pordescubrir.com/wp-content/uploads/2009/11/primer-ministro.jpg" text="Jean Max Bellerive picture"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=mU41MbK1C-o" text="Foreign Ministers Discuss Recovery Efforts in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=KJwnseI9ols" text="Jean Max Bellerive video"/>
+			</Videos>
+		</Common>
+	</Person>
+	<Person ID="PER_JAMHOL" Name="James Eagan Holmes ">
+		<Crises>
+			<Crisis ID="CRI_AURORA"/>
+		</Crises>
+		<Kind>Shooter</Kind>
+		<Location> Aurora, Colorado</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2012_Aurora_shooting">Aurora Wiki page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.communityfirstfoundation.org/index.cfm">The Community First Homepage</li>
+				<li href="http://en.wikipedia.org/wiki/James_Eagan_Holmes">James Holmes Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/0/03/The_Century_16_theater_in_Aurora_CO_-_Shooting_location.jpg" text="Aurora Image"/>
+				<li embed="http://i.huffpost.com/gadgets/slideshows/240288/slide_240288_1263944_free.jpg?1363112552000" text="James Holmes Image1"/>
+				<li embed="http://i.huffpost.com/gen/700200/thumbs/s-JAMES-EAGAN-HOLMES-BRAIN-EXPERTS-large.jpg" text="James Holmes Image2"/>
+				<li embed="http://i.huffpost.com/gen/1174451/thumbs/s-JAMES-HOLMES-MENTAL-HEALTH-large.jpg?6" text="James Holmes Image3"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.cbsnews.com/video/watch/?id=7415902n" text="Aurora Video"/>
+			</Videos>
+		</Common>
+	</Person>
+	<Person ID="PER_AJKASA" Name="Ajmal Kasab">
+		<Crises>
+			<Crisis ID="CRI_MUMBAI"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_LASHTA"/>
+		</Organizations>
+		<Kind>Terrorist</Kind>
+		<Location>Pakistan</Location>
+		<Common>
+			<Citations>
+				<li href="http://www.nytimes.com/2008/11/27/world/asia/27mumbai.html?pagewanted=all&amp;_r=0">2008 Mumbai attacks citation</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://en.wikipedia.org/wiki/Ajmal_Kasab">Ajmal Kasab Wiki Page</li>
+				<li href="http://en.wikipedia.org/wiki/Lashkar-e-Taiba">Lashkar-e-Taiba Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="https://upload.wikimedia.org/wikipedia/commons/9/9b/2008_Mumbai_terror_attacks_Oberoi_Restaurant.jpg" text="Mumbai attacks Image1"/>
+				<li embed="http://graphics8.nytimes.com/packages/images/photo/2008/11/26/20081128-INDIATIMELINE/14497036.JPG" text="Mumbai attacks Image2"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/c/ce/Mohammed_Ajmal_Kasab.jpg" text="Ajmal Kasab Image"/>
+			</Images>
+		</Common>
+	</Person>
+	<Person ID="PER_LUISUR" Name="Luis Urzúa">
+		<Crises>
+			<Crisis ID="CRI_COPMAC"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_SEMINE"/>
+		</Organizations>
+		<Kind>Miner</Kind>
+		<Location>Chile</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident">Mining Accident Wiki Page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.guardian.co.uk/world/2010/sep/05/luis-urzua-chile-trapped-miners">Luis Urzua Wiki Page</li>
+				<li href="http://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Minera_San_Esteban_Primera">San Estaban Mining Company Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/1/13/Mina_San_Jos%C3%A9_-_Trapped_miners_before_rescue_-_Gobierno_de_Chile.jpg" text="Mining Accident Image1"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/0/0d/480382main_miners2.jpg" text="Mining Accident Image2"/>
+				<li embed="http://blogs.babble.com/famecrawler/files/2010/10/1039959_300.jpg" text="Luis Urzua Image"/>
+			</Images>
+		</Common>
+	</Person>
+	<Person ID="PER_NAOKAN" Name="Naoto Kan">
+		<Crises>
+			<Crisis ID="CRI_TOHOQU"/>
+		</Crises>
+		<Kind>Prime Minister</Kind>
+		<Location>Japan</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Naoto_Kan">Wikipedia</li>
+			</Citations>
+		</Common>
+	</Person>
+	<Person ID="PER_TAHUSS" Name="Tahawwur Hussain Rana">
+		<Crises>
+			<Crisis ID="CRI_MUMBAI"/>
+		</Crises>
+		<Kind>Terrorist</Kind>
+		<Location>Pakistan</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_JDYKES" Name="Jimmy Lee Dykes">
+		<Crises>
+			<Crisis ID="CRI_ALABUN"/>
+		</Crises>
+		<Kind>KidNapper</Kind>
+		<Location>Midland City, Alabama</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_CAPRIC" Name="Captain Richard Phillips">
+		<Crises>
+			<Crisis ID="CRI_PIRATE"/>
+		</Crises>
+		<Kind>Captain/Hostage</Kind>
+		<Location>Underhill, Vermont</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_ANDVIK" Name="Anders Behring Breivik">
+		<Crises>
+			<Crisis ID="CRI_OSLOSH"/>
+		</Crises>
+		<Kind>Mass Shooter</Kind>
+		<Location>Oslo and Utøya, Norway</Location>
+		<Common/>
+	</Person>
+	<Organization ID="ORG_REDCRS" Name="Red Cross">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+			<Crisis ID="CRI_TOHOQU"/>
+		</Crises>
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Kind>relief organization</Kind>
+		<Location>Washington, D.C, United States of America</Location>
+		<History>
+			<li>Issued a corporate charter by the United States Congress under Title 36 of the United States Code, Section 3001, the American National Red Cross is governed by volunteers and supported by community donations, income from health and safety training and products, and income from blood products. The American Red Cross is headquartered in Washington, D.C. The Chairman of the Board of Governors, serving her second three-year term, is Bonnie McElveen-Hunter. The current President and Chief Executive Officer is Gail J.  McGovern.
+</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.redcross.org/contact-us/general-inquiry</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.redcross.org/about-us/history">Red Cross history</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.redcross.org/about-us/publications">Red Cross publications</li>
+				<li href="http://www.redcross.org">Official Red Cross website</li>
+				<li href="http://www.nps.gov/history/NR/twhp/wwwlps/lessons/27barton/27barton.htm">History of Red Cross founder</li>
+				<li href="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/American_Red_Cross_Administrative_Headquarters.JPG/450px-American_Red_Cross_Administrative_Headquarters.JPG">Red Cross administrative headquarters</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/e/e9/Amer_redcross_2012_logo.png" text="Red Cross logo"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/American_Red_Cross_headquarters.JPG/800px-American_Red_Cross_headquarters.JPG" text="Red Cross headquarters"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Clara_Barton1.jpg/509px-Clara_Barton1.jpg" text="Red Cross founder Clara Barton"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=3yufZP-LZrk" text="Red Cross stories"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=2025+E+Street,+NW+Washington,+DC+20006&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.698312,0.95993&amp;hnear=2025+E+St+NW,+Washington,+District+of+Columbia,+20006&amp;t=m&amp;z=16" text="Location of Red Cross Headquarters"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_UNINAT" Name="United Nations">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+		</Crises>
+		<Kind>international organization</Kind>
+		<Location>New York City, USA</Location>
+		<History>
+			<li>fter the League of Nations failed to prevent World War II (1939–1945), there was widespread recognition that humankind could not afford a third world war. Therefore, the United Nations was established to replace the flawed League of Nations in 1945 in order to maintain international peace and promote cooperation in solving international economic, social, and humanitarian problems. The earliest concrete plan for a new world organization was begun under the aegis of the U.S. State Department in 1939. Franklin D. Roosevelt first coined the term 'United Nations' as a term to describe the Allied countries. The term was first officially used on 1 January 1942, when 26 governments signed the Atlantic Charter, pledging to continue the war effort. On 25 April 1945, the UN Conference on International Organization began in San Francisco, attended by 50 governments and a number of non-governmental organizations involved in drafting the United Nations Charter. The UN officially came into existence on 24 October 1945 upon ratification of the Charter by the five then-permanent members of the Security Council—France, the Republic of China, the Soviet Union, the United Kingdom and the United States—and by a majority of the other 46 signatories. The first meetings of the General Assembly, with 51 nations represented, and the Security Council, took place in Methodist Central Hall Westminster in London beginning 6 January 1946.
+The organization was based at the Sperry Gyroscope Corporation's facility in Lake Success, New York, from 1946–1952, before moving to the United Nations Headquarters building in Manhattan upon its completion.
+Since its creation, there has been controversy and criticism of the United Nations. In the United States, an early opponent of the UN was the John Birch Society, which began a &quot;get US out of the UN&quot; campaign in 1959, charging that the UN's aim was to establish a &quot;One World Government&quot;. After the Second World War, the French Committee of National Liberation was late to be recognized by the US as the government of France, and so the country was initially excluded from the conferences that aimed at creating the new organization. Charles de Gaulle criticized the UN, famously calling it a machin (&quot;contraption&quot;), and was not convinced that a global security alliance would help maintain world peace, preferring direct defence treaties between countries.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.un.org/</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/United_Nations">United Nations Wiki page</li>
+			</Citations>
+			<Images>
+				<li embed="http://esa.un.org/techcoop/associateexperts/images/The-United-Nations.jpg" text="United Nations building"/>
+				<li embed="http://www.cameraoncampus.org/middle-east-issues/united_nations_security_council.jpg" text="United Nations empty council room"/>
+				<li embed="http://eurasianfinance.com/wp-content/uploads/2011/05/The-United-Nations-Security-Council1.jpg" text="United Nations filled security council room"/>
+			</Images>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_COMFFO" Name="The Community First Foundation">
+		<Crises>
+			<Crisis ID="CRI_AURORA"/>
+		</Crises>
+		<Kind>Fund-Raising Group</Kind>
+		<Location>Colorado</Location>
+		<History>
+			<li>Founded in 1975 as a Lutheran Medical Center foundation to serve as a fund-raising section of the Medical Center a non-profit hospital.
+In mid-90's it participated in a two-year study to give a voice to the community when it came to health care and community programs and services.
+1997 became part of a nonprofit health care system and changed their name to LMC Community Foundation.
+In 2007 changed their name to the Community First Foundation to reflect new mission as a community foundation to improve quality of life in the Denver area.</li>
+		</History>
+		<ContactInfo>
+			<li>Phone: 720-898-5900 URL: http://www.communityfirstfoundation.org/index.cfm Address: 6870 West 52nd Avenue, Suite 103 Arvada, Colorado 80002 </li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2012_Aurora_shooting">Aurora Wiki page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.communityfirstfoundation.org/index.cfm">The Community First Homepage</li>
+				<li href="http://en.wikipedia.org/wiki/James_Eagan_Holmes">James Holmes Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/0/03/The_Century_16_theater_in_Aurora_CO_-_Shooting_location.jpg" text="Aurora Image"/>
+				<li embed="http://i.huffpost.com/gadgets/slideshows/240288/slide_240288_1263944_free.jpg?1363112552000" text="James Holmes Image1"/>
+				<li embed="http://i.huffpost.com/gen/700200/thumbs/s-JAMES-EAGAN-HOLMES-BRAIN-EXPERTS-large.jpg" text="James Holmes Image2"/>
+				<li embed="http://i.huffpost.com/gen/1174451/thumbs/s-JAMES-HOLMES-MENTAL-HEALTH-large.jpg?6" text="James Holmes Image3"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.cbsnews.com/video/watch/?id=7415902n" text="Aurora Video"/>
+			</Videos>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_SEMINE" Name="San Estaban Mining Company">
+		<Crises>
+			<Crisis ID="CRI_COPMAC"/>
+		</Crises>
+		<People>
+			<Person ID="PER_LUISUR"/>
+		</People>
+		<Kind>Mining Company</Kind>
+		<Location>Santiago, Chile</Location>
+		<History>
+			<li>Began operations in the San Jose Mine in 1889 but the company was not officially founded until 1957 but a Hungarian immigrant named Jorge Kemeny Letay.
+Became notoriously known in the mineral-rich region and has had 8 workers die while working in their mines along with a number of fines for safety breaching.
+The San Jose Mine which is owned by the company was closed in 2007 when relatives of deceased workers sued the company but was reopened in 2008 even though it failed to comply with regulations.
+The company has a history of ignoring warnings and worker lawsuits of unsafe working conditions and many believe that were it not for this the event could have been avoided.</li>
+		</History>
+		<ContactInfo>
+			<li>Phone: +56 2 223 9116</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident">Mining Accident Wiki Page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.guardian.co.uk/world/2010/sep/05/luis-urzua-chile-trapped-miners">Luis Urzua Wiki Page</li>
+				<li href="http://en.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Minera_San_Esteban_Primera">San Estaban Mining Company Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/1/13/Mina_San_Jos%C3%A9_-_Trapped_miners_before_rescue_-_Gobierno_de_Chile.jpg" text="Mining Accident Image1"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/0/0d/480382main_miners2.jpg" text="Mining Accident Image2"/>
+				<li embed="http://blogs.babble.com/famecrawler/files/2010/10/1039959_300.jpg" text="Luis Urzua Image"/>
+			</Images>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_LASHTA" Name="Lashkar-e-Taiba">
+		<Crises>
+			<Crisis ID="CRI_MUMBAI"/>
+		</Crises>
+		<People>
+			<Person ID="PER_AJKASA"/>
+		</People>
+		<Kind>Terrorist Organization</Kind>
+		<Location>Pakistan</Location>
+		<History>
+			<li>It is one of the largest and most active Islamist terrorist organizations in South Asia operating mainly from Pakistan.
+Founded in 1990 by Hafez Saeed, Abdullah Azzam, and Zafar Iqbal in Afghansitan's Kunar province and gained prominence as an offshoot of a previously established preaching group.
+In the early 2000's several countries including the United States and the UK declared the group a terrorist organization.
+Main goal has been stated to be not only the destruction of the Indian republic but to annihilate Hinduism and Judaism throughout South Asia.
+Is known for target military and civilian targets with the most notable events  being the 2001 Indian Parliament attack and the 2008 Mumbai attacks.
+After the 2008 Mumbai attacks Pakistan was pressured by the US and India to launch operations against the group and while they have clamped down on the group it is suspected by many that they continue to support the group.</li>
+		</History>
+		<ContactInfo>
+			<li>Probably don't want to contact these guys</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.nytimes.com/2008/11/27/world/asia/27mumbai.html?pagewanted=all&amp;_r=0">2008 Mumbai attacks citation</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://en.wikipedia.org/wiki/Ajmal_Kasab">Ajmal Kasab Wiki Page</li>
+				<li href="http://en.wikipedia.org/wiki/Lashkar-e-Taiba">Lashkar-e-Taiba Wiki Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="https://upload.wikimedia.org/wikipedia/commons/9/9b/2008_Mumbai_terror_attacks_Oberoi_Restaurant.jpg" text="Mumbai attacks Image1"/>
+				<li embed="http://graphics8.nytimes.com/packages/images/photo/2008/11/26/20081128-INDIATIMELINE/14497036.JPG" text="Mumbai attacks Image2"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/c/ce/Mohammed_Ajmal_Kasab.jpg" text="Ajmal Kasab Image"/>
+			</Images>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_WWCPSE" Name="Child Protective Services">
+		<Crises>
+			<Crisis ID="CRI_RRCOMP"/>
+		</Crises>
+		<Kind>Child Protection</Kind>
+		<Location>Austin, Texas</Location>
+		<History>
+			<li>The Texas Department of Family and Protective Services (DFPS) is responsible for investigating charges of abuse, neglect or exploitation of children, elderly adults and adults with disabilities. It was created effective February 1, 2004 by House Bill 2292 of the 78th Texas Legislature (2003) as the first new agency in a major reorganization of Texas's health and human services system.[1] Prior to this time the agency had been called the Texas Department of Protective and Regulatory Services (PRS).[2][3] The change was made to help &quot;consolidate organizational structures and functions, eliminate duplicative administrative systems, and streamline processes and procedures that guide the delivery of health and human services to Texans.&quot;</li>
+		</History>
+		<ContactInfo>
+			<li>URL: http://www.dfps.state.tx.us/child_protection/ address: 701 W. 51st St. Austin, Texas 78751 Phone: (512) 438-4800</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Texas_Department_of_Family_and_Protective_Services">Child Protective Services</li>
+			</Citations>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_FCLATT" Name="Fundamentalist Church of Jesus Christ of Latter Day Saints">
+		<Crises>
+			<Crisis ID="CRI_RRCOMP"/>
+		</Crises>
+		<Kind>Church</Kind>
+		<Location>Hildale, Utah</Location>
+		<History>
+			<li>The Fundamentalist Church of Jesus Christ of Latter-Day Saints (FLDS Church, known to some as Mormon Fundamentalists) is one of the largest fundamentalist denominations[3][4] and one of the largest organizations in the United States whose members practice polygamy.[5] The FLDS Church emerged in the early twentieth century when its founding members left The Church of Jesus Christ of Latter-day Saints (LDS Church). The split occurred largely because of the LDS Church's suspension of the practice of polygamy and its decision to excommunicate its members who would continue the practice.The FLDS Church is estimated to have 6,000 - 10,000 members residing in the sister cities of Hildale, Utah and Colorado City, Arizona; Eldorado, Texas; Westcliffe, Colorado; Mancos, Colorado; Creston and Bountiful, British Columbia; and Pringle, South Dakota.[6] There are also developing communities near Benjamín Hill, Sonora (south of Nogales in the state of Sonora) and Ensenada, Baja California (south of Tijuana). n 2003, the church received increased attention from the state of Utah when police officer Rodney Holm, a member of the church, was convicted of unlawful sexual conduct with a 16- or 17-year-old and one count of bigamy for his marriage to and impregnation of plural wife Ruth Stubbs. The conviction was the first legal action against a member of the FLDS Church since the Short Creek raid.</li>
+		</History>
+		<ContactInfo>
+			<li>FLDS.org</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Fundamentalist_Church_of_Jesus_Christ_of_Latter-Day_Saints">Fundamentalist Church Wiki page</li>
+			</Citations>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_FEDBOI" Name="Federal Bureau of Investigation">
+		<Crises>
+			<Crisis ID="CRI_RRCOMP"/>
+		</Crises>
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Kind> Government agency</Kind>
+		<Location>Washington, D.C</Location>
+		<History>
+			<li>Established in 1908 as the Bureau of Investigation later changed to Fedar Bureau of Investigation in 1935.
+J. Edgar Hoover served as director of the of FBI from 1924-1972 and was responsible for creating the FBI Laboratory.
+The FBI were responsible for apprehending or killing a multitude of notorious criminals who carried out kidnappings, robberies and other such crimes throughout the country.
+They went on to become heavily involved in many of the Nations greatest and worst incidents.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.fbi.gov/</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+	<Organization ID="ORG_CENTIA" Name="Central Intelligence Agency">
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Kind>Government agency</Kind>
+		<Location>Washington, D.C</Location>
+		<History>
+			<li>Created by Congress with the passage of the Nationaly Security Act of 1947, signed into law by President Harry Truman.
+It was inspired by the OSS's success during World War II, and after it was dissolved was proposed to Roosevelt as a possible new organization that would be directly supervised by the president.
+The CIA played a much bigger role during the Cold War going as far as to overthrow a foreign government for the first time during the 1953 Iranian coup d'etat at Churchill' request.</li>
+		</History>
+		<ContactInfo>
+			<li>https://www.cia.gov/index.html</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+	<Organization ID="ORG_HLFLIF" Name="Valve">
+		<Crises>
+			<Crisis ID="CRI_TOHOQU"/>
+		</Crises>
+		<Kind>Privately owned Software company</Kind>
+		<Location>Bellevue, WA</Location>
+		<History>
+			<li>Founded on August 24, 1996 by long-time Microsoft employees Gabe Newell and Mike Harrington as an L.L.C. based in Washington.
+They began working on their game Half-Life in 1996 and launched the game in 1998.
+The game's success allowed them to continue on and make sequels and other side projects that wold be greatly received by the public.
+The company's success would later allow it to become heavily involved with charity events such as Child's Play, a children's charity group, and the relief for Japan during the 2011 earthquake.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.valvesoftware.com/</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+</WorldCrises>
