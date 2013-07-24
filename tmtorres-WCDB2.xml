@@ -1,0 +1,1530 @@
+<?xml version="1.0" ?>
+
+<!-- World Crises XML using schema (WCDB2.xsd) -->
+
+<WorldCrises>
+    <!-- Crisis elements -->
+    <Crisis ID="CRI_SHESSG" Name="Sandy Hook Elementary School Shooting">
+        <People>
+            <Person ID="PER_ADMLNZ" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_UNDWAY" />
+        </Organizations>
+        <Kind>Spree Shooting</Kind>
+        <Date>2012-12-14</Date>
+        <Time>09:35:00</Time>
+        <Locations>
+            <li>Newtown, Connecticut</li>
+        </Locations>
+        <HumanImpact>
+            <li>28 total deaths.</li>
+            <li>20 among the 28 were first grade students.</li>
+            <li>6 among the 28 were school personnel.</li> 
+            <li>1 among the 28 was the perpetrator mother.</li>
+            <li>The 28th death was the suicide of the perpetrator.</li>
+            <li>2 others were injured.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>The shares of gun manufactures have decreased significantly. The number of gun and ammunition purchases rose over 180% the day after the shooting due to fear of harsher gun laws.  The school has been closed and a $57 million proposal has been made to demolish and rebuild the school.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Connecticut State Police received the first call at 9:41 am and with Newtown police they quickly mobilized local police dog, SWAP, a bomb squad, and a state helicopter.</li>
+            <li>At approximately 10:00 am, Danbury Hospital moved extra medical personnel in expectation of having to treat numerous victims.</li>
+            <li>The New York City medical examiner sent out a portable morgue to assist the authorities to remove the victims' bodies from the school.</li>
+            <li>A state trooper was assigned to each victim's family to protect their privacy and provide them with information.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <!-- Put text with optional hyperlinks here -->
+            <li href="https://newtown.uwwesternct.org/">Donate to the Sandy Hook School Support Fund</li>
+            <li href="https://www.facebook.com/SandyHookChildren?fref=ts">Memoriam Facebook Page: R.I.P Sandy Hook Elementary School Children</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <!-- Put text with optional hyperlinks here -->
+                <li href="http://www.cnn.com/interactive/2012/12/us/sandy-hook-timeline/index.html">"Sandy Hook shooting: What happened?". CNN.</li>
+                <li href="http://www.cnbc.com/id/100325110">"The Sandy Hook Effect: Gun Sales Rise as Stocks Fall". CNBC.</li>
+                <li href="http://www.investopedia.com/financial-edge/0113/sandy-hooks-consequences-for-the-gun-industry.aspx">"Sandy Hook's Consequences For The Gun Industry". Investopedia US.</li>
+            </Citations>
+            <ExternalLinks>
+                <!-- Put text with compulsory hyperlinks here -->
+                <li href="http://en.wikipedia.org/wiki/Newtown_shooting">"Sandy Hook Elementary School shooting". Wikipedia.</li>
+            </ExternalLinks>
+            <!-- hrefs optional in the following depending on how you want them to behave on your site -->
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://www.realbiblecodes.com/blog/wp-content/uploads/2012/12/2012-12-17T065603Z_1_CBRE8BG0J9I00_RTROPTP_2_USA-SHOOTING-CONNECTICUT.jpg" text="Shooting victims: Sandy Hook Elementary School" />
+            </Images>
+            <Videos>
+                <!-- Put youtube link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by youtube) -->
+                <!-- Embed example for your site: <iframe width="420" height="315" src="[THIS LINK]" frameborder="0" allowfullscreen></iframe> -->
+                <li embed="//www.youtube.com/embed/RVHufEjU9VU" text="President Barack Obama makes a Statement on the Shooting."/>
+            </Videos>
+            <Maps>
+                <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
+                <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=m&amp;source=embed&amp;oe=UTF8&amp;msa=0&amp;msid=213845869214841596682.0004d0d7915820d13990e&amp;ll=41.414362,-73.253222&amp;spn=0.01001,0.05083&amp;output=embed" />
+            </Maps>
+            <!-- Optional summary field for extra random data -->
+            <Summary>
+              Adam Lanza is believed to have shot his mother, Nancy Lanza, in the head at her home in Newtown, Connecticut, around 9 a.m. on December 14, 2012, before taking her car and driving approximately five miles to the Sandy Hook Elementary School, where he shot and killed 20 students between the ages of 5 and 10, as well as six adult workers. According to reports, most of the shooting occurred in two of the school's first-grade classrooms; 14 students in one classroom, and six in the other, were murdered. Only two of the victims who were shot by Lanza—both teachers—survived the attack. According to police, after firing between 50 to 100 shots, Lanza then turned the gun on himself, fatally shooting himself in the head as responders began arriving on scene, around 9:50 a.m.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_SCHERQ" Name="2008 Sichuan earthquake">
+        <People>
+            <Person ID="PER_HUJNTO" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_SNQKRF" />
+        </Organizations>
+        <Kind>Earthquake</Kind>
+        <Date>2008-05-12</Date>
+        <Time>14:28:01</Time>
+        <Locations>
+            <li>Wenchuan County, Sichuan</li>
+            <li>Sichuan Province</li>
+        </Locations>
+        <HumanImpact>
+            <li>It killed 69,195 people.</li>
+            <li>374,643 injured.</li>
+            <li>18,392 others missing.</li>
+            <li>It left about 4.8 million people homeless.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>On November 6, 2008, the central government announced that it would spend 1 trillion yuan (about $146.5 billion) over the next three years to rebuild areas ravaged by the earthquake, as part of the Chinese economic stimulus program.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>A little over 90 minutes after the earthquake, the Ministry of Health sent ten emergency medical teams to Wenchuan County.</li>
+            <li>The Chengdu Military Region Command dispatched 50,000 troops and armed police to help with disaster relief work in Wenchuan County.</li>
+            <li>An earthquake emergency relief team of 184 people (consisting of 12 people from the State Seismological Bureau, 150 from the Beijing Military Area Command, and 22 from the Armed Police General Hospital) left Beijing in two military transport planes to travel to Wenchuan County.</li>
+            <li>Over 150 aircrafts were deployed for the delivery of food, water, and emergency aid, and also the evacuation of the injured and reconnaissance of quake-stricken areas. 60 were to be provided by the PLAAF, 30 were to be provided by the civil aviation industry, and the rest by the air force, army, and civil aviation.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <!-- Put text with optional hyperlinks here -->
+            <li href="http://sichuan-quake-relief.org/">Donate to the Sichuan Quake Relief</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <!-- Put text with optional hyperlinks here -->
+                <li href="http://www.nytimes.com/2009/05/08/world/asia/08china.html?_r=0">"China Reports Student Toll for Quake". New York Times.</li>
+                <li href="http://www.bloomberg.com/apps/news?pid=newsarchive&amp;sid=aZhtsxh8IlB4&amp;refer=home">"50,000 troops deployed". Bloomberg L.P.</li>
+            </Citations>
+            <ExternalLinks>
+                <!-- Put text with compulsory hyperlinks here -->
+                <li href="http://en.wikipedia.org/wiki/2008_Sichuan_earthquake">"2008 Sichuan Earthquake". Wikipedia.</li>
+            </ExternalLinks>
+            <!-- hrefs optional in the following depending on how you want them to behave on your site -->
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://rcmi.files.wordpress.com/2008/05/705px-2008_sichuan_earthquake_map_no_labelssvg.png" text="Sichuan Earthquake Impact Map" />
+                <li embed="http://www.spark-of-inspiration.com/images/Sichuan_Earthquake.jpg" text="Sichuan Earthquake"/>
+                <li embed="http://media-1.web.britannica.com/eb-media/64/117264-004-4F6187D9.jpg" text="Rescue workers searching for survivors" />
+                <li embed="http://i.telegraph.co.uk/multimedia/archive/01112/earthquake-damage-_1112578c.jpg" text="Millions still homeless a year after Sichuan earthquake" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/78h-BpSkk1w" text="15 May 2008 - China Sichuan Quake - BBC Report"/>
+            </Videos>
+            <Maps>
+                <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
+                <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=h&amp;oe=UTF8&amp;msa=0&amp;msid=206935958482646980562.00044d19b32c5c9a07f6b&amp;ll=31.028366,103.470526&amp;spn=0.014132,0.206852&amp;output=embed" />
+            </Maps>
+            <!-- Optional summary field for extra random data -->
+            <Summary>
+                A deadly earthquake that measured at 8.0 Ms and 7.9 Mw, occured at 02:28 PM China Standard Time on Monday, May 12, 2008 in Sichuan province, killing 69,195 people, 374,643 injured, 18,392 missing, and 4.8 million people homeless.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_LYCLWR" Name="Libyan Civil War">
+        <People>
+            <Person ID="PER_MURGDI" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_NLTLCL" />
+        </Organizations>
+        <Kind>Civil War</Kind>
+        <Date>2011-02-15</Date>
+        <Locations>
+            <li>Libya</li>
+        </Locations>
+        <HumanImpact>
+            <li>Anti-Gaddafi forces take control of all major Libyan cities.</li>
+            <li>Death of Muammar Gaddafi</li>
+            <li>Assumption of interim control by National Transitional Council (NTC)</li>
+            <li>Diplomatic recognition of NTC as sole governing authority for Libya by 105 countries, UN, EU, AL and AU</li>
+            <li>Ongoing inter-factional fighting</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>On December 29th, 2011, Libya's National Oil Corporation announced that the country's output of crude oil was a little over 1 million barrels per day (bpd), compared to 1.6 million bpd before the uprising.</li>
+            <li>At the beginning of the civil war, the UN Security Council froze an estimated $150 billion in foreign Libyan assets. By late November 2011, $18 billion had been released to the NTC by the council's sanctions committee. Meanwhile, demands for wages, medication and reconstruction were putting a strain on Libya's limited supply of cash, causing prices to rise. On December 10th, senior figures in Libya's new leadership wrote a letter to the United Nations, urging it to release the frozen assets which they said were "essential for the economic stability of Libya". On December 16th, the UN Security Council lifted sanctions on Libya's central bank and its offshore subsidiary, Libyan Foreign Bank. Later the same day, the U.S. Treasury Department said it had unblocked more than $30 billion in Libyan government assets. Western officials said legal complications prevented the money from being released quickly. A British Foreign Office minister said his administration would release Libyan assets frozen in the United Kingdom once Libyan authorities demonstrated their ability to manage them effectively.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>The Libyan government were reported to have employed snipers, artillery, helicopter gunships, warplanes, anti-aircraft weaponry, and warships against demonstrations and funeral processions.</li>
+            <li>Security forces and foreign mercenaries repeatedly used firearms, including assault rifles and machine guns, as well as knives against protesters.</li>
+            <li>On 25 February, the International Committee of the Red Cross launched an emergency appeal for US$6.4 million to meet the emergency needs of people affected by the violent unrest</li>
+            <li>In March, the Swedish government donated medical supplies and other humanitarian aid and the UN World Food Programme provided food. Turkey sent a hospital ship to Misrata and a Turkish cargo ship brought 141 tons of humanitarian aid.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="https://twitter.com/huffpostimpact">Follow Huffington Post IMPACT on Twitter</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <!-- Put text with optional hyperlinks here -->
+                <li href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8335934/Libya-protests-140-massacred-as-Gaddafi-sends-in-snipers-to-crush-dissent.html">"Libya protests: 140 'massacred' as Gaddafi sends in snipers to crush dissent". The Daily Telegraph (UK).</li>
+                <li href="http://www.icrc.org/eng/resources/documents/news-release/2011/libya-news-2011-02-25.htm"> "Libya: ICRC Launches Emergency Appeal as Humanitarian Situation Deteriorates". International Committee of the Red Cross.</li>
+            </Citations>
+            <ExternalLinks>
+                <!-- Put text with compulsory hyperlinks here -->
+                <li href="en.wikipedia.org/wiki/Libyan_civil_war">"Libyan Civil War". Wikipedia.</li>
+            </ExternalLinks>
+            <!-- hrefs optional in the following depending on how you want them to behave on your site -->
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="https://static-secure.guim.co.uk/sys-images/Guardian/About/General/2011/11/19/1321713344809/Libyans-celebrate-news-of-007.jpg" text="Libyans celebrate news of Gadhafi's death." />
+                <li embed="http://images.politico.com/global/news/110220_libya_protests_ap_328.jpg" text="Protesters have seized control of some military bases and tanks. | AP Photo." />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/p3GN1fxA-B0" text="Visual diary shows Libyan soldier at war"/>
+            </Videos>
+            <Maps>
+                <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
+                <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
+                <li embed="https://maps.google.co.uk/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=200809166078445189642.00049f7a79747b94b2b24&amp;t=m&amp;ll=31.515851,13.320786&amp;spn=24.023962,39.334073&amp;output=embed" />
+            </Maps>
+            <!-- Optional summary field for extra random data -->
+            <Summary>
+                The 2011 Libyan civil war war an armed conflict in the North African state of Libya, fought between forces loyal to Colonel Muammar Gaddafi and those seeking to oust his government. The war was preceded by protests in Benghazi beginning on Tuesday, 15 February 2011, which led to clashes with security forces that fired on the crowd. The protests escalated into a rebellion that spread across the country. This concluded with the forces opposing Gaddafi establishing an interim governing body, the National Transitional Council, which received diplomatic recognition as sole governing authority for Libya by 105 countries, the United Nations, European Union, Arab League, and African Union.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_NRMACF" Name="Northern Mali Conflict">
+        <People>
+            <Person ID="PER_AMTOTO" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_AFIUNI" />
+        </Organizations>
+        <Kind>Armed Conflict</Kind>
+        <Date>2012-01-16</Date>
+        <Locations>
+            <li>Northern Mali</li>
+        </Locations>
+        <HumanImpact>
+            <li>Malian president Amadou Toumani Touré is ousted</li>
+            <li>A Peace deal between the government and Tuareg rebels was signed on June 18th, 2013</li>
+            <li>Between 2000-3000 deaths.</li>
+            <li>More than 475,000 people, out of a total population of 15 million, have been displaced</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>The events happening in Mali are still ongoing.</li>
+            <li>They are in desparate need for humanitarian aid. The instability will make it harder for donors and NGOs to do their work, especially since funds are low. But the need won’t wait; hundreds of thousands of men, women and children are hungry, endangered or displaced at this very moment.</li>
+            <li>Bergamaschi hopes that big changes are in order. Over time, she said, aid groups should work toward better coordination, more civil engagement and a more concerted effort to engage with the different economic systems in various parts of the vast country.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Some of the millions of dollars raised from ransoms and drug trafficking are now helping to fund the Malian insurgency.</li>
+            <li>The rebel groups are using some of this money to buy weapons and military equipment on the black market, from dealers in countries like Chad and Russia, but a good deal of their weapons have been brought back from Libya by Tuaregs who fought alongside Moammar Gadhafi's forces.</li>
+            <li>Canada sent one Royal Canadian Air Force C-17 cargo plane to Mali.</li>
+            <li>Canada announced on Jan. 29, 2013, that it would provide  another $13 million in aid to Mali. The funding appears to be for humanitarian relief alone, including $3 million for food and nutrition through the UN World Food Program, $2.5 million for health care and medical supplies, and $1 million for hygiene and sanitation promotion through World Vision Canada.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.plan-uk.org/news/news-and-features/urgent-support-for-children-in-northern-mali/">Urgent support for children in northern Mali</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <!-- Put text with optional hyperlinks here -->
+                <li href="http://www.cbc.ca/news/world/story/2013/01/14/f-mali-faq.html">"9 questions about the Mali conflict". CBC News.</li>
+                <li href="http://www.voanews.com/content/malian-troops-enter-rebelheld-town-under-peace-deal/1696221.html">  "Malian Troops Enter Rebel-Held Town Under Peace Deal". Voice of America.</li>
+                <li href="http://www.ibtimes.com/aftermath-mali-things-we-forgot-about-humanitarian-aid-1189251#">"Aftermath In Mali: Things We Forgot About Humanitarian Aid". International Business Times.</li>
+            </Citations>
+            <ExternalLinks>
+                <!-- Put text with compulsory hyperlinks here -->
+                <li href="http://en.wikipedia.org/wiki/Northern_Mali_conflict">"Northern Mali conflict". Wikipedia.</li>
+            </ExternalLinks>
+            <!-- hrefs optional in the following depending on how you want them to behave on your site -->
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Northern_Mali_conflict.svg/350px-Northern_Mali_conflict.svg.png" text="Map showing the fullest extent of rebel-held territory (January 2013) before it was re-taken by Malian and French forces" />
+                <li embed="http://static.guim.co.uk/sys-images/Education/Pix/pictures/2013/2/14/1360855805620/Malian-soldiers-arrive-in-008.jpg" text="Malian soldiers arrive in the recently liberated town of Douentza. French troops have moved to wrap up the first phase of a military operation to wrest northern Mali from rebel hands. Photograph: Joe Penney/Reuters" />
+                <li embed="http://cdn.theatlantic.com/static/infocus/mali012513/s_m17_59913469.jpg" text="A woman who fled northern Mali looks out from a tent at a camp for internally displaced person" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/GKgHE7C_HRc" text="France fighter jets pound rebels in northern Mali"/>
+            </Videos>
+            <Maps>
+                <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
+                <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
+                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;oe=utf-8&amp;q=mali+africa+google+maps&amp;ie=UTF8&amp;hq=&amp;hnear=Mali&amp;gl=us&amp;t=m&amp;z=5&amp;ll=17.570692,-3.996166&amp;output=embed" />
+                <!--https://maps.google.com/maps?client=ubuntu&channel=fs&q=northern+mali+conflict+google+maps&oe=utf-8&ie=UTF-8&ei=LafcUdniEouK9gTe-oHoDg&ved=0CAoQ_AUoAg -->
+            </Maps>
+            <!-- Optional summary field for extra random data -->
+            <Summary>
+                On January 16th, 2012, several insurgent groups began fighting a campaign against the Malian government for independence or greater autonomy for northern Mali, an area known as Azawad. The National Movement for the Liberation of Azawad (MNLA), an organization fighting to make Azawad an independent homeland for the Tuareg people, had taken control of the region by April 2012. On March 22nd, 2012, President Amadou Toumani Touré was ousted in a coup d'état over his handling of the crisis. After the rebels took control and suspended the constitution of Mali, he government of Mali asked for foreign military help to re-take the north. On January 11th, 2013, the French military began operations against the Islamists while other African Union states were deployed shortly after. By February 8th, the Islamist-held territory had been re-taken by the Malian military, with help from the international coalition. Mali's government and the Tuareg rebel group, MNLA, signed a peace deal that called for Malian security forces and civilian officials to return to Kidal before a July 28 presidential election. It also called for the rebels to be disarmed. The July 28 election is meant to restore democracy in Mali.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_TUKPRO" Name="2013 protests in Turkey">
+        <People>
+            <Person ID="PER_ERDOGA"/>
+        </People>
+        <Organizations>
+            <Org ID="ORG_TWITER"/>
+        </Organizations>
+        <Kind>Protests</Kind>
+        <Date>2013-05-28</Date>
+        <Time>17:00:00</Time>
+        <Locations>
+            <li>Turkey</li>
+        </Locations>
+        <HumanImpact>
+            <li>7 people died.</li>
+            <li>9 people missing.</li>
+            <li>More than 100,000 protesters at times.</li>
+            <li>7822 injuries.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Istanbul's stock exchange experienced a loss of 10.5%, the biggest one-day loss in a decade.</li>
+            <li>Delay of EU accession talks.</li>
+            <li>Cancellation of the planned construction, in Taksim area, that sparked the protests.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Not Applicable</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="https://twitter.com/OccupyGezi">#OccupyGezi to save Istanbul park</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.bbc.co.uk/news/business-22750491">"Turkish stock market falls 10.5% as demonstrations escalate". BBC.</li>
+                <li href="http://www.reuters.com/article/2013/06/24/us-germany-turkey-merkel-idUSBRE95N11420130624">"Germany's Merkel calls on Turkey to remove hurdles to EU accession". Reuters.</li>
+                <li href="http://uk.reuters.com/article/2013/07/03/turkey-court-taksim-idUKL5N0F93C120130703">"Turkish court blocks disputed park project". Reuters.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="https://en.wikipedia.org/wiki/2013_protests_in_Turkey">"2013 protests in Turkey." Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="https://upload.wikimedia.org/wikipedia/commons/d/d2/%C4%B0stanbul_-_Taksim_Gezi_Park%C4%B1_-_Mart_2013_-_r6.JPG" text="Taksim Gezi Park" />
+                <li embed="https://upload.wikimedia.org/wikipedia/commons/a/a1/2013_Taksim_Gezi_Park_protests_%2815th_June%29.jpg" text="Taksim Gezi Park protests on June 15th, 2013" />
+                <li embed="http://www.theblaze.com/wp-content/uploads/2013/06/Turkey-protests1-620x362.jpeg" text="Protestors clash with riot police between Taksim and Besiktas in Istanbul, on June 1, 2013, during a demonstration against the demolition of the park. AP." />
+                <li embed="http://photographyblog.dallasnews.com/files/2013/06/Turkey_Protest.jpg" text="A man sleeps inside a destroyed car after clashes at the Taskim square in Istanbul, Sunday, June 2, 2013. AP." />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/W8b1YyP4_8c" text="'Most violent in years': Istanbul protests spread across Turkey"/>
+            </Videos>
+            <Maps>
+                <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
+                <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Taksim+Gezi+Park&amp;aq=&amp;sll=40.878218,29.196167&amp;sspn=0.467774,1.056747&amp;ie=UTF8&amp;hq=Taksim+Gezi+Park&amp;hnear=&amp;t=m&amp;z=10&amp;output=embed" />
+                <!--https://maps.google.com/maps?client=ubuntu&channel=fs&q=northern+mali+conflict+google+maps&oe=utf-8&ie=UTF-8&ei=LafcUdniEouK9gTe-oHoDg&ved=0CAoQ_AUoAg -->
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/OccupyGezi" />
+            </Feeds>
+            <!-- Optional summary field for extra random data -->
+            <Summary>
+                Protests in Turkey started on May 28th, 2013 to initially contest the plans of replacing Taksim Gezi Park with a shopping mall and possible residence. The protests developed into riots when a group occupying the park was attacked by police with no mercy. The subjects of the protests have since broadened beyond the development of Taksim Gezi Park, covering issues such as freedom of assembly and freedom of expression, as well as more broadly defending the secularism of Turkey. The protests also spread to other cities in Turkey, and protests were seen in other countries with significant Turkish communities. On July 8th, Istanbul governor Hüseyin Avni Mutlu led a public reopening of the Gezi Park in front of all the media cameras. People called by the Taksim Solidarity group for a mass visit quickly filled it up. Within less than an hour of governor's leave, the park was cordoned by police and people forcefully evacuated, thus closing the park to the public again. This is still an ongoing event.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_AIDSHI" Name="HIV/AIDS">
+        <People>
+            <Person ID="PER_MAGICJ"/>
+        </People>
+        <Organizations>
+            <Org ID="ORG_CDCPRE"/>
+        </Organizations>
+        <Kind>Epidemic</Kind>
+        <Date>1981-01-01</Date>
+        <Locations>
+            <li>Worldwide</li>
+        </Locations>
+        <HumanImpact>
+            <li>Since its discovery, AIDS has caused nearly 30 million deaths (as of 2009). As of 2010, approximately 34 million people are living with HIV globally.</li>
+            <li>AIDS is considered a pandemic—a disease outbreak which is present over a large area and is actively spreading.</li>
+            <li>HIV/AIDS has had a great impact on society, both as an illness and as a source of discrimination.</li>
+            <li>AIDS stigma exists around the world in a variety of ways, including ostracism, rejection, discrimination and avoidance of HIV infected people; compulsory HIV testing without prior consent or protection of confidentiality; violence against HIV infected individuals or people who are perceived to be infected with HIV and the quarantine of HIV infected individuals. Stigma-related violence or the fear of violence prevents many people from seeking HIV testing, returning for their results, or securing treatment, possibly turning what could be a manageable chronic illness into a death sentence and perpetuating the spread of HIV.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Economic theory predicts that HIV/AIDS reduces labour supply and productivity, reduces exports, and increases imports.</li>
+            <li>The pandemic has already reduced average national economic growth rates by 2-4% a year across Africa.</li>
+            <li>Prevention and treatment programmes and economic measures such as targeted training in skills needed in key industries will limit the economic effects of HIV/AIDS.</li>
+            <li>HIV/AIDS affects the economics of both individuals and countries. The gross domestic product of the most affected countries has decreased due to the lack of human capital. Without proper nutrition, health care and medicine, large numbers of people die from AIDS-related complications. They will not only be unable to work, but will also require significant medical care. It is estimated that as of 2007 there were 12 million AIDS orphans.</li>
+            <li>By affecting mainly young adults, AIDS reduces the taxable population, in turn reducing the resources available for public expenditures such as education and health services not related to AIDS resulting in increasing pressure for the state's finances and slower growth of the economy. This causes a slower growth of the tax base, an effect that is reinforced if there are growing expenditures on treating the sick, training (to replace sick workers), sick pay and caring for AIDS orphans. This is especially true if the sharp increase in adult mortality shifts the responsibility and blame from the family to the government in caring for these orphans.</li>
+            <li>At the household level, AIDS causes both loss of income and increased spending on healthcare. A study in Côte d'Ivoire showed that households with an HIV/AIDS patient, spent twice as much on medical expenses as other households. This additional expenditure also leaves less income to spend on education and other personal or family investment.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>In many developing countries, high HIV rates are over-burdening already fragile health systems. As these health sectors struggle to provide basic health services, they must now also make HIV/AIDS prevention, services, and care available. To contain the spread and minimize the impact of HIV/AIDS, several global initiatives are making large amounts of financial and medical resources available. However, without efficient health systems, their impact will be limited.</li>
+            <li>Consistent condom use reduces the risk of HIV transmission by approximately 80% over the long term. When condoms are used consistently by a couple in which one person is infected, the rate of HIV infection is less than 1% per year. There is some evidence to suggest that female condoms may provide an equivalent level of protection. Application of a vaginal gel containing tenofovir (a reverse transcriptase inhibitor) immediately before sex seems to reduce infection rates by approximately 40% among African women.</li>
+            <li>Circumcision in Sub-Saharan Africa "reduces the acquisition of HIV by heterosexual men by between 38% and 66% over 24 months". Based on these studies, the World Health Organization and UNAIDS both recommended male circumcision as a method of preventing female-to-male HIV transmission in 2007. Whether it protects against male-to-female transmission is disputed and whether it is of benefit in developed countries and among men who have sex with men is undetermined. Some experts fear that a lower perception of vulnerability among circumcised men may cause more sexual risk-taking behavior, thus negating its preventive effects.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://hab.hrsa.gov/">Ryan White HIV/AIDS Program, Federal Funding</li>
+            <li href="http://www.aidsetc.org/">AIDS Education and Training Centers (AETC)</li>
+            <li href="https://minorityhealth.hhs.gov/templates/browse.aspx?lvl=2&amp;lvlid=36">Minority AIDS Initiative (MAI)</li>
+            <li href="http://www.aids.gov/federal-resources/hiv-aids-programs/testing/">Federal Testing Programs</li>
+            <li href="http://magicjohnson.org/">Magic Johnson Foundation</li>
+            <li>There is currently no cure or effective HIV vaccine. However, treatment includes preventive and active treatment of opportunistic infections.</li>
+            <li>Programs encouraging sexual abstinence do not appear to affect subsequent HIV risk. Evidence for a benefit from peer education is equally poor. Comprehensive sexual education provided at school may decrease high risk behavior. A substantial minority of young people continues to engage in high-risk practices despite knowing about HIV/AIDS, underestimating their own risk of becoming infected with HIV.</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.nejm.org/doi/full/10.1056/NEJM200106073442306">"AIDS &#45; The First 20 Years". The New England Journal of Medicine.</li>
+                <li href="http://www.nejm.org/doi/full/10.1056/NEJM200106073442306">"AIDS &#45; The First 20 Years". The New England Journal of Medicine.</li>
+                <li href="http://perspectivesinmedicine.cshlp.org/content/1/1/a006841">"Origins of HIV and the AIDS Pandemic". Cold Spring Harbor Laboratory Press.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/HIV/AIDS">"HIV/AIDS". Wikipedia</li>
+                <li href="http://en.wikipedia.org/wiki/Economic_impact_of_HIV/AIDS">"Economic impact of HIV/AIDS". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://aids.gov/images/aids-infographics/what-is-hiv-1b.jpg" />
+                <li embed="http://aids.gov/images/aids-infographics/what-is-hiv-aids-2.jpg" />
+                <li embed="http://aids.gov/images/aids-infographics/what-is-hiv-aids-3.jpg" />
+                <li embed="http://media.nbcwashington.com/images/654*491/AIDS-ribbon2.jpg" text="The red ribbon is a symbol for solidarity with HIV-positive people and those living with AIDS." />
+                <li embed="http://jnvkannur.nic.in/AIDS-pic3.gif" text="Anatomy of the AIDS Virus" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/6/68/People_living_with_HIV_AIDS_world_map.PNG" text="People living with HIV/AIDS world map" />
+                <li embed="http://myplace.frontier.com/~dffix/medmicro/pix/aids_map.gif" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/P91nIGt1axs" text="Understanding HIV and AIDS (HIV #1)" />
+                <li embed="//www.youtube.com/embed/68I7JlVhuhY" text="When HIV Becomes AIDS (HIV #2)" />
+                <li embed="//www.youtube.com/embed/0GK6Vg008Mk" text="Testing for HIV (HIV #3)" />
+                <li embed="//www.youtube.com/embed/GLreHYWsk3s" text="Treating HIV (HIV #4)" />
+            </Videos>
+            <Feeds>
+                <li embed="https://twitter.com/CDC_HIVAIDS" />
+            </Feeds>
+            <Summary>
+                Human immunodeficiency virus infection / acquired immunodeficiency syndrome (HIV/AIDS) is a disease of the human immune system caused by infection with human immunodeficiency virus (HIV). Genetic research indicates that HIV originated in west-central Africa during the early twentieth century, although it was first recognized by the Centers for Disease Control and Prevention (CDC) in 1981 and its cause—HIV infection—was identified in the early part of the decade. During the initial infection, a person may experience a brief period of influenza-like illness. This is typically followed by a prolonged period without symptoms. As the illness progresses, it interferes more and more with the immune system, making the person much more likely to get infections, including opportunistic infections and tumors that do not usually affect people who have working immune systems.
+                HIV is transmitted primarily via unprotected sexual intercourse (including anal and even oral sex), contaminated blood transfusions, hypodermic needles, and from mother to child during pregnancy, delivery, or breastfeeding. Some bodily fluids, such as saliva and tears, do not transmit HIV. Prevention of HIV infection, primarily through safe sex and needle-exchange programs, is a key strategy to control the spread of the disease. There is no cure or vaccine; however, antiretroviral treatment can slow the course of the disease and may lead to a near-normal life expectancy. While antiretroviral treatment reduces the risk of death and complications from the disease, these medications are expensive and may be associated with side effects.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_TOHOQU" Name="2011 Tohoku Earthquake and Tsunami">
+        <People>
+            <Person ID="PER_NAOKAN"/>
+        </People>
+        <Organizations>
+            <Org ID="ORG_USGEOS"/>
+        </Organizations>
+        <Kind>Megathrust Earthquake</Kind>
+        <Date>2011-03-11</Date>
+        <Time>20:46:00</Time>
+        <Locations>
+            <li>Japan</li>
+        </Locations>
+        <HumanImpact>
+            <li>On September 12th, 2012, a Japanese National Police Agency report confirmed 15,883 deaths, 6,145 injured, and 2,671 people missing across twenty prefectures, as well as 129,225 buildings totally collapsed, with a further 254,204 buildings 'half collapsed', and another 691,766 buildings partially damaged.</li>
+            <li>The earthquake and tsunami also caused extensive and severe structural damage in north-eastern Japan, including heavy damage to roads and railways as well as fires in many areas, and a dam collapse.</li>
+            <li>Nuclear incidents including radiation releases.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Early estimates placed insured losses from the earthquake alone at US$14.5 to $34.6 billion. The World Bank's estimated economic cost was US$235 billion, making it the costliest natural disaster in world history. By April 12th, 2011 the Japanese government estimated that the cost of just the direct material damage could exceed ¥25 trillion ($300 billion).</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>As of March 2012, donations to areas affected by the disaster totaled ¥520 billion and 930,000 people have assisted in disaster recovery efforts.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li>The Bank of Japan offered ¥15 trillion (US$183 billion) to the banking system on March 14th in an effort to normalize market conditions.</li>
+            <li>Following the 2011 Tohoku earthquake and tsunami, Japan received messages of condolence and offers of assistance from a range of international leaders. According to Japan's foreign ministry, 116 countries and 28 international organizations had offered assistance to Japan.</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.npa.go.jp/archive/keibi/biki/higaijokyo_e.pdf">"Damage Situation and Police Countermeasures... 10 June, 2013". National Police Agency of Japan.</li>
+                <li href="http://www.bbc.co.uk/news/business-12756379">"Japan quake: Infrastructure damage will delay recovery". BBC News.</li>
+                <li href="http://edition.cnn.com/2011/WORLD/asiapcf/03/13/japan.quake/index.html?iref=NS1">"Anxiety in Japan grows as death toll steadily climbs". CNN.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami">"2011 Tohoku earthquake and tsunami". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/2/2a/SH-60B_helicopter_flies_over_Sendai.jpg" text="An aerial view of damage in the Sendai region with black smoke coming from the Nippon Oil Sendai oil refinery" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Tsunami_map_Tohoku2011.svg/2000px-Tsunami_map_Tohoku2011.svg.png" text="Peak tsunami wave height summits, color-coded with red representing most severe" />
+                <li embed="http://atquake.files.wordpress.com/2011/03/esp-japan-tsunami-031111.jpg" />
+                <li embed="http://www.thetruthaboutcars.com/wp-content/uploads/2011/07/tsunami-japan-1.jpg" />
+                <li embed="http://lifeasahuman.com/files/2011/03/japan-tsunami-ap110311113416.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/TDYcEYMXSwU" text="Tsunami - The Tohoku earthquake (March 11, 2011- at Kesennuma)" />
+                <li embed="//www.youtube.com/embed/56DMGD-lVZ8" text="Operation Tomodachi" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=205893302153370574806.00049e52d42b9a623db52&amp;t=m&amp;ll=38.628722,140.141916&amp;spn=8.010473,3.998393&amp;output=embed" />
+            </Maps>
+            <Summary>
+                The 2011 Tohoku earthquake, was a magnitude 9.0 (Mw) undersea megathrust earthquake off the coast of Japan with the epicentre approximately 70 kilometres (43 mi) east of the Oshika Peninsula of Tohoku and the hypocenter at an underwater depth of approximately 30 km (19 mi). It was the most powerful known earthquake ever to have hit Japan, and the fifth most powerful earthquake in the world since modern record-keeping began in 1900. The earthquake triggered powerful tsunami waves that reached heights of up to 40.5 metres (133 ft) in Miyako in Tohoku's Iwate Prefecture, and which, in the Sendai area, travelled up to 10 km (6 mi) inland. The earthquake moved Honshu (the main island of Japan) 2.4 m (8 ft) east and shifted the Earth on its axis by estimates of between 10 cm (4 in) and 25 cm (10 in).
+
+                Japanese Prime Minister Naoto Kan said, "In the 65 years after the end of World War II, this is the toughest and the most difficult crisis for Japan." Around 4.4 million households in northeastern Japan were left without electricity and 1.5 million without water.
+
+                The tsunami caused nuclear accidents, primarily the level 7 meltdowns at three reactors in the Fukushima Daiichi Nuclear Power Plant complex, and the associated evacuation zones affecting hundreds of thousands of residents. Many electrical generators were taken down, and at least three nuclear reactors suffered explosions due to hydrogen gas that had built up within their outer containment buildings after cooling system failure. Residents within a 20 km (12 mi) radius of the Fukushima Daiichi Nuclear Power Plant and a 10 km (6.2 mi) radius of the Fukushima Daini Nuclear Power Plant were evacuated. In addition, the U.S. recommended that its citizens evacuate up to 80 km (50 mi) of the plant.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_HAIEAR" Name="2010 Haiti Earthquake">
+        <People>
+            <Person ID="PER_BROBMA"/>
+        </People>
+        <Organizations>
+            <Org ID="ORG_WHORGN"/>
+        </Organizations>
+        <Kind>Natural Disaster</Kind>
+        <Date>2010-01-12</Date>
+        <Time>22:53:00</Time>
+        <Locations>
+            <li>Haiti</li>
+            <li>Dominican Republic</li>
+        </Locations>
+        <HumanImpact>
+            <li>An estimated three million people were affected by the quake. The highest reliable death count was estimated at 220,000. Haitian government estimates were higher.</li>
+            <li>While the vast majority of casualties were Haitian civilians, the dead included aid workers, embassy staff, foreign tourists—and a number of public figures, including Archbishop of Port-au-Prince Monsignor Joseph Serge Miot, aid worker Zilda Arns and officials in the Haitian government, including opposition leader Michel "Micha" Gaillard. Also killed were a number of well-known Haitian musicians and sports figures, including thirty members of the Fédération Haïtienne de Football. At least 85 United Nations personnel working with MINUSTAH were killed, among them the Mission Chief, Hédi Annabi, his deputy, Luiz Carlos da Costa., and police commissioner Douglas Coates. Around 200 guests were killed in the collapse of the Hôtel Montana in Port-au-Prince.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Hundreds of thousands of buildings plummeted to the ground including homes, the presidential palace, and even the United Nations Peacekeeping Mission. The earthquake resulted in 105,000 homes being destroyed, causing $2.3 billion in damage and the nation being covered in rubble (Haiti). The government of Haiti estimated that 250,000 residences and 30,000 commercial buildings had collapsed or were severely damaged.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Many countries responded to appeals for humanitarian aid, pledging funds and dispatching rescue and medical teams, engineers and support personnel. Communication systems, air, land, and sea transport facilities, hospitals, and electrical networks had been damaged by the earthquake, which hampered rescue and aid efforts; confusion over who was in charge, air traffic congestion, and problems with prioritisation of flights further complicated early relief work. Port-au-Prince's morgues were overwhelmed with tens of thousands of bodies. These had to be buried in mass graves. As rescues tailed off, supplies, medical care and sanitation became priorities. Delays in aid distribution led to angry appeals from aid workers and survivors, and looting and sporadic violence were observed. On January 22nd, the United Nations noted that the emergency phase of the relief operation was drawing to a close, and on the following day the Haitian government officially called off the search for survivors.</li>
+            <li>The neighbouring Dominican Republic was the first country to give aid to Haiti, sending water, food and heavy-lifting machinery. The hospitals in the Dominican Republic were made available; a combined effort of the Airports Department (DA), together with the Dominican Naval Auxiliaries, the UN and other parties formed the Dominican-Haitian Aerial Support Bridge, making the main Dominican airports available for support operations to Haiti. The Dominican emergency team assisted more than 2,000 injured people, while the Dominican Institute of Telecommunications (Indotel) helped with the restoration of some telephone services.</li>
+            <li>The Dominican website FlyDominicanRepublic.com made available to the internet, daily updates on airport information and news from the operations center on the Dominican side.</li>
+            <li>The Dominican Red Cross coordinated early medical relief in conjunction with the International Red Cross. The government sent eight mobile medical units along with 36 doctors including orthopaedic specialists, traumatologists, anaesthetists, and surgeons. In addition, 39 trucks carrying canned food were dispatched, along with 10 mobile kitchens and 110 cooks capable of producing 100,000 meals per day.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li>From January 12th, the International Committee of the Red Cross, which has been working in Haiti since 1994, focused on bringing emergency assistance to victims of the catastrophe, in close cooperation with its partners within the International Red Cross and Red Crescent Movement, particularly the Haitian Red Cross and the International Federation of Red Cross and Red Crescent Societies.</li>
+            <li>Canadians were able to donate through the Humanitarian Coalition which distributed funds to partner organizations working in the field. During this time the Humanitarian Coalition raised over C$15 Million.</li>
+            <li>The Netherlands sponsored a project, called Radio555. The Dutch radio channels 3FM, Radio 538 and Radio Veronica all broadcast under the name of Radio555, funded by a contribution of €80 million.</li>
+            <li>Immediately following the earthquake, Real Medicine Foundation began providing medical staffing, in-kind medical supplies and strategic coordination to help meet the surging needs of the health crisis on the ground. Working in close partnership with other relief organizations, Real Medicine organized deployments of volunteer medical specialists to meet the needs of partner hospitals and clinics at the Haiti–Dominican Republic border and in Port-au-Prince, provided direct funding, medical supplies and pharmaceuticals to local health facilities and partner hospitals, provided advisory services and coordination to local health facilities, including physical therapy support, and coordinated mobile health outreaches, field clinics and food supplies to outlying villages overlooked in the relief effort.</li>
+            <li href="https://secure3.convio.net/ffp/site/Donation2?df_id=16413&amp;16413.donation=form1&amp;gclid=CMzKu--vxLgCFRFp7AodE1UAFg">Help Restore Hope for a child in Haiti</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>  
+                <li href="http://www.nj.com/news/index.ssf/2010/04/haitis_ambassador_to_us_says_e.html">"Haiti's ambassador to U.S. says earthquake gave country much needed attention". NJ.com.</li>
+                <li href="http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/7022556/Haiti-earthquake-Wyclef-Jean-calls-for-evacuation-of-Port-au-Prince.html">"Haiti earthquake: Wyclef Jean calls for evacuation of Port-au-Prince". The Telegraph.</li>
+                <li href="http://www.canada.com/news/Hard+power+needed+Haiti+Harper/2572453/story.html">"'Hard power' needed for Haiti: Harper". Postmedia News.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://insidedisaster.com/haiti/">Inside Disaster: Haiti</li>
+                <li href="http://haitiearthquake.web.unc.edu/economic-impact-of-the-earthquake/">"Economic Impact of the Earthquake". University of North Carolina.</li>
+                <li href="http://en.wikipedia.org/wiki/2010_Haiti_Earthquake">"2010 Haiti Earthquake". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/7/79/UNDP-HTI-10-201.jpg.jpg" text="Haiti Earthquake rubble cleanup"/>
+                <li embed="http://www.coolgeography.co.uk/GCSE/AQA/Restless%20Earth/Earthquakes/Haiti%20Map.gif" text="Haiti Earthquake tremor map"/>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/d/d5/Haiti_earthquake_damage_overhead.jpg" text="Haiti Earthquake damage overhead"/>
+                <li embed="http://haitiearthquake.web.unc.edu/files/2010/11/800px-Haiti_earthquake_damage1.jpg" text="Haiti Earthquake housing damage"/>
+                <li embed="http://i.i.com.com/cnwk.1d/i/tim//2010/01/12/112_raw_haitiQuake_480x360.jpg" text="Haiti Earthquake aftermath"/>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/5/58/Flickr_-_Israel_Defense_Forces_-_Rescue_of_a_Haitian_Man_from_Government_Building_%282%29.jpg" text="Israel Defense Forces - Rescue of a Haitian Man"/>
+                <li embed="http://www.doctorswithoutborders.org/images/news/2010/Haiti-52621b.jpg" text="Doctors Without Borders - Haiti"/>
+                <li embed="http://www2.pictures.zimbio.com/gi/Major+Earthquake+Hits+Haiti+G5nm-m9vbQol.jpg" text="René Préval with wife and Dr. Barth Green"/>
+                <li embed="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=137007" text="In Haiti: This is the spirit of the IDF"/>
+                <li embed="http://www.ifrc.org/PageFiles/40573/haiti_2010_00661.jpg" text="Generic IFRC pic"/>
+                <li embed="http://www.flipbooksoft.com/upload/books/0e900b86120f78e976635e61e6ef9e24/images/thumbs/page_1.jpg" text="RCRC Mag front cover"/>
+                <li embed="http://humanitariancoalition.ca/sites/default/files/styles/large/public/images/primary/haiti-5243015106_606072f092_b.jpg" text="Haiti Earthquake 2010 | Humanitarian Coalition"/>
+                <li embed="http://cdn1.tabletmag.com/wp-content/files_mf/126393781220100119joseph.jpg" text="Raymond Joseph on Rachel Maddow"/>
+                <li embed="http://i.telegraph.co.uk/multimedia/archive/01561/jean_1561579c.jpg" text="Wyclef Jean"/>
+                <li embed="http://www.canada.com/cms/binary/2572466.jpg" text="Stephen Harper visits Haiti"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/AhoMuODjrU8" text="2010 Haiti Earthquake Relief"/>
+                <li embed="//www.youtube.com/embed/IfBdiFyxKOk" text="The Week in Haiti"/>
+                <li embed="//www.youtube.com/embed/UhLUMNdO8ic" text="Haiti Earthquake Caught on Tape"/>
+                <li embed="//www.youtube.com/embed/V_s4UMLm8LM" text="Sad and disturbing footage of Haiti Earthquake"/>
+                <li embed="//www.youtube.com/embed/85FLbzuaGlk" text="Google Maps &amp; International Medical Corps - 2010 Haiti Earthquake"/>
+                <li embed="//www.youtube.com/embed/iBbB9__qt84" text="Haiti Earthquake: Rene Preval video"/>
+                <li embed="//www.youtube.com/embed/pJwpLuCmDz8" text="President haiti rene preval: 'My palace collapsed'"/>
+                <li embed="//www.youtube.com/embed/AKju8x4p-dA" text="Laurent Lamothe - Rebuilding Haiti"/>
+                <li embed="//www.youtube.com/embed/nf4lZCwiwX8" text="Sean Penn, Michel Joseph Martelly, Laurent Lamothe"/>
+                <li embed="//www.youtube.com/embed/vw3G85jzhKk" text="Progress Report of President Michel Martelly and Laurent Lamothe"/>
+                <li embed="//www.youtube.com/embed/J_9P8N8OqXk" text="BBC News - PM insists Haiti is recovering from 2010 earthquake"/>
+                <li embed="//www.youtube.com/embed/mU41MbK1C-o" text="Foreign Ministers Discuss Recovery Efforts in Haiti"/>
+                <li embed="//www.youtube.com/embed/soPVme4AEfU" text="Honorable Mayor Jean-Yves, Jason of Port-au-Prince"/>
+                <li embed="//www.youtube.com/embed/447BIGFvK_s" text="Frustration in Haiti"/>
+                <li embed="//www.youtube.com/embed/viaYXGr7H9Y" text="Jean Yves Jason CNN Interview"/>
+                <li embed="//www.youtube.com/embed/Oxy9PIdkf_A" text="Haiti Ambassador Raymond Joseph on earthquake"/>
+                <li embed="//www.youtube.com/embed/Aq-LpP2w2VU" text="Pat Robertson &amp; Haitian Ambassador on earthquake"/>
+                <li embed="//www.youtube.com/embed/mHEk_qR5l1I" text="Haiti Ambassador on Disaster"/>
+                <li embed="//www.youtube.com/embed/0Q1ASN7Hy7k" text="Wyclef Jean reacts to earthquake"/>
+                <li embed="//www.youtube.com/embed/rAN29LoL21g" text="Wyclef Jean Discusses Haiti Earthquake Relief Efforts"/>
+                <li embed="//www.youtube.com/embed/BZxYSqrYv5E" text="'From The Ashes We Shall Rise' Wyclef Jean"/>
+                <li embed="//www.youtube.com/embed/JumCMHCQmrM" text="PM statement on the situation in Haiti"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=L%C3%A9og%C3%A2ne,+haiti+earthquake&amp;aq=&amp;sll=18.483516,-72.463074&amp;sspn=0.28198,0.528374&amp;ie=UTF8&amp;hq=earthquake&amp;hnear=L%C3%A9og%C3%A2ne,+Ouest,+Haiti&amp;ll=18.483516,-72.463074&amp;spn=0.017319,0.358275&amp;t=m&amp;output=embed" />
+            </Maps>
+            <Summary>
+                The 2010 Haiti earthquake was a catastrophic magnitude 7.0 Mw earthquake, with an epicenter near the town of Léogâne (Ouest Department), approximately 25 km (16 miles) west of Port-au-Prince, Haiti's capital. By January 24th, at least 52 aftershocks measuring 4.5 or greater had been recorded. The earthquake caused major damage in Port-au-Prince, Jacmel and other settlements in the region. Many notable landmark buildings were significantly damaged or destroyed, including the Presidential Palace, the National Assembly building, the Port-au-Prince Cathedral, and the main jail. With the governments death estimate at 316,000, this makes it the 2nd deadliest earthquake of all time.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_SPTMEL" Name="September 11th">
+        <People>
+            <Person ID="PER_OSAMAB"/>
+        </People>
+        <Organizations>
+            <Org ID="ORG_UNNSCL"/>
+        </Organizations>
+        <Kind>Terrorism</Kind>
+        <Date>2001-09-11</Date>
+        <Time>08:46:00</Time>
+        <Locations>
+            <li>New York City</li>
+            <li>Washington D.C.</li>
+            <li>Arlington County, Virginia</li>
+            <li>Shankville, Pennsylvania</li>
+        </Locations>
+        <HumanImpact>
+            <li>2,996 total deaths, including the 227 civilians and 19 hijackers aboard the four planes.</li>
+            <li>6000 injured.</li>
+            <li>It also was the deadliest incident for firefighters in the history of the United States.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>The destruction of the Twin Towers and other properties caused serious damage to the economy of Lower Manhattan and had a significant effect on global markets. Cleanup of the World Trade Center site was completed in May 2002, and the Pentagon was repaired within a year.</li>
+            <li>The stock exchanges did not open on September 11 and remained closed until September 17. Reopening, the Dow Jones Industrial Average (DJIA) fell 684 points, or 7.1%, to 8921, a record-setting one-day point decline. By the end of the week, the DJIA had fallen 1,369.7 points (14.3%), at the time its largest one-week point drop in history. In 2001 dollars, U.S. stocks lost $1.4 trillion in valuation for the week.</li>
+            <li>In New York City, about 430,000 job-months and $2.8 billion dollars in wages were lost in the three months after the attacks. The economic effects were mainly on the economy's export sectors. The city's GDP was estimated to have declined by $27.3 billion for the last three months of 2001 and all of 2002. The U.S. government provided $11.2 billion in immediate assistance to the Government of New York City in September 2001, and $10.5 billion in early 2002 for economic development and infrastructure needs.</li>
+            <li>Also hurt were small businesses in Lower Manhattan near the World Trade Center, 18,000 of which were destroyed or displaced, resulting in lost jobs and their consequent wages. Assistance was provided by Small Business Administration loans, federal government Community Development Block Grants, and Economic Injury Disaster Loans. Some 31,900,000 square feet (2,960,000 square meters) of Lower Manhattan office space was damaged or destroyed. Many wondered whether these jobs would return, and if the damaged tax base would recover. Studies of the economic effects of 9/11 show the Manhattan office real-estate market and office employment were less affected than first feared, because of the financial services industry's need for face-to-face interaction.</li>
+            <li>North American air space was closed for several days after the attacks and air travel decreased upon its reopening, leading to a nearly 20% cutback in air travel capacity, and exacerbating financial problems in the struggling U.S. airline industry.</li>
+            <li>The September 11 attacks also led indirectly to the U.S. wars in Afghanistan and Iraq, as well as additional homeland security spending, totaling at least $5 trillion.</li>
+            <li>In December 2010, Congress passed legislation to provide up to $4.2 billion in new aid to survivors of the September 2001 terrorism attack on the World Trade Center and responders who became ill working in its ruins.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>The New York City Police Department quickly responded with the Emergency Service Units.</li>
+            <li>The New York City Fire Department deployed 200 units (half of the department) to the site. Their efforts were supplemented by numerous off-duty firefighters and emergency medical technicians. The New York City Police Department sent Emergency Service Units and other police personnel, and deployed its aviation unit.</li>
+            <li>Emergency medical technicians along with 911 system ambulances operated by voluntary hospitals and volunteer ambulance corps, quickly arrived on site and set up a staging area. As more EMTs responded to the scene, five triage areas were set up around the World Trade Center site.</li>
+            <li>Coast Guard, maritime industry, and other individual boat owners took quick action as well. Immediately after the first attack, the captains and crews of a large number of local boats steamed into the attack zone to assist in evacuation.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.tuesdayschildren.org">Tuesday's Children provides mentoring, college and career guidance and Leadership programs for all of those affected by 9/11.</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.cbc.ca/news/world/story/2004/10/29/binladen_message041029.html">"Bin Laden claims responsibility for 9/11". CBC.</li>
+                <li href="http://www.lowermanhattan.info/construction/project_updates/freedom_tower_26204.aspx">"1 World Trade Center (Freedom Tower". Lower Manhattan Development Corporation.</li>
+                <li href="http://www.harborheroes.com/mission.html">"Harbor Heroes". HarborHeroes.org.</li>
+                <li href="http://www.washingtontimes.com/news/2010/dec/22/sources-deal-reached-911-health-bill/#ixzz2YVrsi4af">"Congress passes aid package for 9/11 responders". The Washington Times, LLC</li>
+                <li href="http://www.washingtonpost.com/business/economy/osama-bin-laden-didnt-win-but-he-was-enormously-successful/2011/05/02/AFexZjbF_story.html">"Osama bin Laden didn’t win, but he was ‘enormously successful’". The Washington Post.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Rescue_and_recovery_effort_after_the_September_11_attacks">"Rescue and recovery effort after the September 11 attacks". Wikipedia.</li>
+                <li href="http://en.wikipedia.org/wiki/September_11_attacks">"September 11 attacks". Wikipedia. </li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://cdn.theatlantic.com/static/infocus/911theday090811/a03_0RTRMNQW.jpg" />
+                <li embed="http://blogs.reuters.com/faithworld/files/2008/12/nyc-sept-11.jpg" />
+                <li embed="http://cdn.theatlantic.com/static/infocus/911theday090811/a07_11018629.jpg" />
+                <li embed="http://2.bp.blogspot.com/-BIYZ48JlDNM/TeGm79z_PoI/AAAAAAAAA40/A2mMpVAz64w/s1600/flag-raising-lgimg.jpg" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/0/04/Aerial_view_of_the_Pentagon_during_rescue_operations_post-September_11_attack.JPEG" text="Arial view of the Pentagon during rescue operations." />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/1lKZqqSI9-s" text="September 11, 2001 - As It Happened - The South Tower Attack" />
+                <li embed="//www.youtube.com/embed/XbqCquDl4k4" text="George W. Bush The Night of 9-11-01" />
+                <li embed="//www.youtube.com/embed/_CSPbzitPL8" text="Sept. 20, 2001 - Bush Declares War on Terror" />
+                <li embed="//www.youtube.com/embed/ZNYmK19-d0U" text="President Obama on Death of Osama bin Laden" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps/ms?source=embed&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=208322038254079068608.000486ad598c3e76ad271&amp;t=m&amp;ll=39.791048,-76.469012&amp;spn=1.840921,4.913538&amp;output=embed" />
+            </Maps>
+            <Summary>
+                The September 11 attacks (also referred to as September 11, September 11th, or 9/11) were a series of four coordinated terrorist attacks launched by the Islamic terrorist group al-Qaeda upon the United States in New York City and the Washington, D.C. area on Tuesday, September 11, 2001.
+                Four passenger airliners were hijacked by 19 al-Qaeda terrorists so they could be flown into buildings in suicide attacks. Two of those planes, American Airlines Flight 11 and United Airlines Flight 175, were crashed into the North and South towers, respectively, of the World Trade Center complex in New York City. Within two hours, both towers collapsed with debris and the resulting fires causing partial or complete collapse of all other buildings in the WTC complex, as well as major damage to ten other large surrounding structures. A third plane, American Airlines Flight 77, was crashed into the Pentagon (the headquarters of the United States Department of Defense), leading to a partial collapse in its western side. The fourth plane, United Airlines Flight 93, was targeted at the United States Capitol in Washington, D.C., but crashed into a field near Shanksville, Pennsylvania, after its passengers tried to overcome the hijackers.
+                Suspicion quickly fell on al-Qaeda. Although the group's leader, Osama bin Laden, initially denied any involvement, in 2004 he claimed responsibility for the attacks. Al-Qaeda and bin Laden cited U.S. support of Israel, the presence of U.S. troops in Saudi Arabia, and sanctions against Iraq as motives for the attacks. The United States responded to the attacks by launching the War on Terror and invading Afghanistan to depose the Taliban, which had harbored al-Qaeda. Many countries strengthened their anti-terrorism legislation and expanded law enforcement powers. Having evaded capture for years, bin Laden was located and killed by U.S. forces in May 2011.
+                Numerous memorials have been constructed, including the National September 11 Memorial &amp; Museum in New York, the Pentagon Memorial, and the Flight 93 National Memorial in Pennsylvania. After a lengthy delay, the 1,776-foot-tall (541 m) One World Trade Center was completed at the World Trade Center site in New York City in 2013.
+            </Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_EXXVAL" Name="Exxon Valdez Oil Spill ">
+        <People>
+            <Person ID="PER_JOSHAZ"/>
+        </People>
+        <Organizations>
+            <Org ID="ORG_EXXSHI"/>
+        </Organizations>
+        <Kind>Human-caused environmental disasters</Kind>
+        <Date>1989-03-24</Date>
+        <Time>06:00:00</Time>
+        <Locations>
+            <li>Prince William Sound, Alaska</li>
+        </Locations>
+        <HumanImpact>
+            <li>11 million gallons raw crude.</li>
+            <li>Tanker collision (carrying 50 million gallons raw crude).</li>
+            <li>Several residents, including one former mayor, committed suicide after the spill.</li>
+            <li>20 communities were in the oil's path where it caused major social and psychological impact like depression and Post-Traumatic Stress Disorder.This injury continues in places like Cordova today.</li>
+            <li>Cleanup workers faced average oil mist exposure 12 times in excess of the regulatory limits, with a maximum exposure 400 times higher during hot water beach washing.  In 1989, 1,811 workers filed compensation claims, primarily for respiratory system damage, according to National Institute of Occupational Safety and Health</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>$2 billion cleanup.</li>
+            <li>$1 billion civil and criminal charges.</li>
+            <li>$500 million punitive damages.</li>
+            <li>According to several studies funded by the state of Alaska, the spill had both short-term and long-term economic effects. These included the loss of recreational sports, fisheries, reduced tourism, and an estimate of what economists call "existence value", which is the value to the public of a pristine Prince William Sound.</li>
+            <li>The economy of the city of Cordova, Alaska was adversely affected after the spill damaged stocks of salmon and herring in the area.</li>
+            <li>In 1991, following the collapse of the local marine population (particularly clams, herring, and seals) the Chugach Alaska Corporation, an Alaska Native Corporation, filed for Chapter 11 bankruptcy protection. It has since recovered</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>There was use of a dispersant, a surfactant and solvent mixture. A private company applied dispersant on March 24 with a helicopter and dispersant bucket. Because there was not enough wave action to mix the dispersant with the oil in the water, the use of the dispersant was discontinued. One trial explosion was also conducted during the early stages of the spill to burn the oil, in a region of the spill isolated from the rest by another explosion.[clarification needed] The test was relatively successful, reducing 113,400 liters of oil to 1,134 liters of removable residue, but because of unfavorable weather no additional burning was attempted.Mechanical cleanup was started shortly afterwards using booms and skimmers, but the skimmers were not readily available during the first 24 hours following the spill, and thick oil and kelp tended to clog the equipment.Despite civilian insistence for a complete clean, only 10% of total oil was actually completely cleaned.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li>In 1991, the Trustee Council was formed to restore Prince William Sound and the Gulf of Alaska to the "healthy, productive, world-renowned ecosystem" that existed before the spill. In February 2012, funding commenced for the two long-term Programs: the Herring Research and Monitoring Program and the Long-Term Monitoring Program, also known as GulfWatch Alaska. The Programs are administrated under five-year contracts, which include annual Council and Public Advisory Committee meetings to review the past-year's results and future year's requested funding. The current Council contemplates the Programs to be twenty-years in length, concluding in 2032.</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.epa.gov/osweroe1/content/learning/exxon.htm">"Exxon Valdez". US. Environmental Protenction Agency.</li>
+                <li href="http://www.alaskadispatch.com/article/former-gov-cowper-exxon-valdez-we-couldn-t-just-throw-towel">"Former Gov. Cowper on Exxon Valdez: 'We couldn’t just throw in the towel'". Alaska Dispatch.</li>
+                <li href="http://www.nola.com/news/gulf-oil-spill/index.ssf/2010/06/alaskas_present_after_1989_exxon_valdez_oil_spill_might_be_gulf_coast_future.html">"Alaska's present, after 1989 Exxon Valdez oil spill, might be Gulf Coast's future". NOLA Media Group.</li>
+                <li href="http://arcticcircle.uconn.edu/SEEJ/Alaska/miller2.htm">"EXXON VALDEZ OIL SPILL: Ten Years Later". Pamela A. Miller, Arctic Connections 3/99.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill">"Exxon Valdez Oil Spill". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="https://www.ufz.de/export/data/1/27801_oil_spill.jpg" text="Cleaning work after the oil spill of the Exxon Valdez in the Prinz-William-Sund 1989, Alaska. Photo courtesy of the Exxon Valdez Oil Spill Trustee Council" />
+                <li embed="http://www.thedailygreen.com/cm/thedailygreen/images/Y7/exxon-valdez-oil-otter-lg.jpg" />
+                <li embed="http://pdxretro.com/wp-content/uploads/2011/03/Exxon-Valdez-oil-spill.jpg" text="Exxon-Valdez-oil-spill"/>
+                <li embed="http://media1.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-090317-exxon-valdez/ss-090317-exxon-valdez-05.grid-8x2.jpg" text="Oil Slick from Exxon Valdez"/>
+                <li embed="http://media.treehugger.com/assets/images/2011/10/wxxon-valdez-oil-spill-photo.jpg" text="oil-spill-photo"/>
+                <li embed="http://www.onthisdeity.com/wp-content/uploads/2011/03/dead-whale1.jpg" text="Dead Whale from oil spill"/>
+                <li embed="http://www.explorenorth.com/library/maps/images/exxonvaldezmap-adn.gif" text="Spread of oil from Exxon Valdez"/>
+                <li embed="http://cdn2.shipspotting.com/photos/middle/8/8/1/976188.jpg" text="Exxon Valdez ship"/>
+                <li embed="http://static.ddmcdn.com/gif/blogs/6a00d8341bf67c53ef016769462b79970b-640wi.jpg" text="Exxon Valdez ship, back view"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/YkzB1ZYcTwM" text="Exxon Valdez Oil Spill 1989"/>
+                <li embed="//www.youtube.com/embed/MbjC9SMKClE" text="The Exxon Valdez Disaster: 20 Years Later"/>
+                <li embed="//www.youtube.com/embed/qS2FbvfnNDw" text="Hindsight and Foresight: 20 Years After the Exxon Valdez Spill"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=p&amp;oe=UTF8&amp;msa=0&amp;msid=218316811799567847406.0004898c12dd6c8d7df7e&amp;ll=16.123683,-37.798462&amp;spn=99.76913,218.600464&amp;iwloc=0004898cedc8b31e37b13&amp;output=embed" />
+            </Maps>
+            <Summary>
+                The Exxon Valdez oil spill occurred in Prince William Sound, Alaska, on March 24, 1989, when Exxon Valdez, an oil tanker bound for Long Beach, California, struck Prince William Sound's Bligh Reef and spilled 260,000 to 750,000 barrels (41,000 to 119,000 cubic meters) of crude oil. It is considered to be one of the most devastating human-caused environmental disasters. The Valdez spill was the largest ever in US waters until the 2010 Deepwater Horizon oil spill, in terms of volume released. However, Prince William Sound's remote location, accessible only by helicopter, plane, or boat, made government and industry response efforts difficult and severely taxed existing plans for response. The region is a habitat for salmon, sea otters, seals and seabirds. The oil, originally extracted at the Prudhoe Bay oil field, eventually covered 1,300 miles (2,100 km) of coastline, and 11,000 square miles (28,000 squared km) of ocean. Exxon's CEO, Lawrence Rawl, shaped the company's response.
+                According to official reports, the ship was carrying approximately 55 million US gallons (210,000 cubic meters) of oil, of which about 10.1 to 11 million US gallons (240,000 to 260,000 bbl; 38,000 to 42,000 cubic meters) were spilled into the Prince William Sound. A figure of 11 million US gallons (260,000 bbl; 42,000 cubic meters) was a commonly accepted estimate of the spill's volume and has been used by the State of Alaska's Exxon Valdez Oil Spill Trustee Council, the National Oceanic and Atmospheric Administration and environmental groups such as Greenpeace and the Sierra Club. Some groups, such as Defenders of Wildlife, dispute the official estimates, maintaining that the volume of the spill, which was calculated by subtracting the volume of material removed from the vessel's tanks after the spill from the volume of the original cargo, has been underreported. Alternative calculations, based on the assumption that the official reports underestimated how much seawater had been forced into the damaged tanks, placed the total at 25 to 32 million US gallons (600,000 to 760,000 bbl; 95,000 to 120,000 cubic meters).
+            </Summary>
+        </Common>
+    </Crisis>
+    
+    <!-- Person elements -->
+    <Person ID="PER_ADMLNZ" Name="Adam Lanza">
+        <Crises>
+            <Crisis ID="CRI_SHESSG" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_UNDWAY" />
+        </Organizations>
+        <Kind>Murderer</Kind>
+        <Location>Newtown, Connecticut</Location>
+        <!-- See Crisis element above for examples of everything under <Common> -->
+        <Common>
+            <Citations>
+                <li href="http://www.biography.com/people/adam-lanza-21068899">"Adam Lanza biography". A+E Television Networks, LLC.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Adam_lanza#Perpetrator">"Sandy Hook Elementary School shooting". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://www.mrconservative.com/files/2013/03/0219_adam-lanza2.jpg" />
+                <li embed="http://upload.wikimedia.org/wikipedia/en/f/f0/Adam_lanza_sandy_hook_shooter.jpg" />
+                <li embed="http://www.abc.net.au/reslib/201305/r1113059_13548909.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/ItsOJUpK-cY" text="ABC News: Why Did Adam Lanza Snap?"/>
+                <li embed="//www.youtube.com/embed/ddyiMd3tdwE" text="Chilling Details Emerge on Newtown School Shooter Adam Lanza "/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Sandy+Hook+Elementary+School,+Newtown,+CT&amp;aq=1&amp;oq=s&amp;sll=41.419431,-73.278894&amp;sspn=0.007104,0.016512&amp;ie=UTF8&amp;hq=Sandy+Hook+Elementary+School,+Newtown,+CT&amp;t=m&amp;z=16&amp;iwloc=A&amp;output=embed" text="Newtown, Connecticut, USA" />
+            </Maps>
+            <Summary>
+                Adam Lanza was the perpetrator of the 2012 Sandy Elementary School shooting in Newtown, Connecticut, USA. Lanza lived in Sandy Hook, 5 miles from the school with his mother. He attended Western Connecticut State University in 2008 and 2009. Students and teachers who knew him in high school described Lanza as "intelligent, but nervous and fidgety". He avoided attracting attention and was uncomfortable socializing. He is not known to have had any close friends in school. According to a law enforcement official, Lanza was reported to have been diagnosed with Asperger Syndrome. Lanza's brother told law enforcement that Adam was believed to have a personality disorder and was "somewhat autistic". On December 14, 2012, Lanza killed his mother and 26 others at the school.
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_HUJNTO" Name="Hu Jintao">
+        <Crises>
+            <Crisis ID="CRI_SCHERQ" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_SNQKRF" />
+        </Organizations>
+        <Kind>President</Kind>
+        <Location>Communist Party of China</Location>
+        <!-- See Crisis element above for examples of everything under <Common> -->
+        <Common>
+            <Citations>
+                <li href="http://english.peopledaily.com.cn/data/people/hujintao.shtml">"Hu Jintao". People's Daily.</li>
+                <li href="http://news.bbc.co.uk/2/hi/asia-pacific/4165209.stm">"China's leader shows his stripes". BBC.</li>
+                <li href="http://www.time.com/time/magazine/article/0,9171,1668457,00.html">"In China, Hu is the Man to See". Time Inc.</li>
+
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Hu_Jintao">"Hu Jintao". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/5/59/Hu_Jintao_Cannes2011.jpg" text="Chinese President Hu Jintao" />
+                <li embed="http://politics.blogs.foxnews.com/sites/politics.blogs.foxnews.com/files/Obama%20Hu%20Jintao.jpg" text="Hu Jintao and Obama" />
+                <li embed="http://houston.china-consulate.org/eng/nv/W020080524158158759020.jpg" text="Hu Jintao tries to comfort an earthquake surviving pupil" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/QqSSjqpBrNw" />
+                <li embed="//www.youtube.com/embed/9auz-AAGyks" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=zhongnanhai,+Beijing,+China&amp;aq=1&amp;oq=Zhongnanhai&amp;sll=30.307761,-97.753401&amp;sspn=1.046869,2.113495&amp;ie=UTF8&amp;hq=zhongnanhai,&amp;hnear=Beijing,+China&amp;t=m&amp;z=15&amp;output=embed" text="Zhongnanhai, Beijing, China"/>
+            </Maps>
+            <Summary>
+                Hu Jintao was the 6th President of the People's Republic of China from 2003-2013. Hu has been involved in the Communist party bureaucracy for most of his adult life, notably as Party secretary for Guizhou province and the Tibet Autonomous Region, and then later First secretary of the Party Central Secretariat and Vice-President under former leader Jiang Zemin. Hu is the first leader of the Communist Party without any significant revolutionary credentials.
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_MURGDI" Name="Muammar Gaddafi">
+        <Crises>
+            <Crisis ID="CRI_LYCLWR" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_NLTLCL" />
+        </Organizations>
+        <Kind>Revolutionary and Politician</Kind>
+        <Location>Libya</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.biography.com/people/muammar-al-qaddafi-39014">Biography.com</li>
+                <li href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8344034/Libya-civil-war-breaks-out-as-Gaddafi-mounts-rearguard-fight.html">Gaddafi Mounts Rearguard Fight</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.biography.com/people/muammar-al-qaddafi-39014">"Muammar al-Qaddafi biography". A+E Television Networks, LLC.</li>
+                <li href="http://en.wikipedia.org/wiki/Muammar_Gaddafi">"Muammar Gaddafi". Wikipedia.</li>
+                <li href="http://en.wikipedia.org/wiki/Death_of_Muammar_Gaddafi">"Death of Muammar Gaddafi". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://www.biography.com/imported/images/Biography/Images/Profiles/Q/Muammar-al-Qaddafi-39014-1-402.jpg" />
+                <li embed="http://www.dailyguideghana.com/wp-content/uploads/2011/10/muammar_gaddafi.jpg" />
+                <li embed="http://www.timeslive.co.za/incoming/2011/07/02/gaddafi.jpg/ALTERNATES/crop_630x400/Gaddafi.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/6O8vM0-6EEE"> The Real Reason Why Gaddafi Was Killed  </li>
+                <li embed="//www.youtube.com/embed/pzI5_fa8CAY"> Fighting Gaddafi (BBC Documentary) </li>
+                <li embed="//www.youtube.com/embed/sGm492qVEzA">Warning: Graphic Video!</li>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=214301650463033871851.0004aaf73e7ee9a96c942&amp;t=m&amp;ll=28.578823,14.051256&amp;spn=8.693769,9.01926&amp;output=embed" text="Free Libya Google Maps"/>
+            </Maps>
+            <Summary>
+                Muammar Muhammad Abu Minyar al-Gaddafi, or Colonel Gaddafi, was an Libyan politician who de facto ruled Lybya for 42 years. In 1969 he conducted a coup against King Idris and that led to the formation of the Libyan Arab Republic. He died on 20 October 2011 during the Battle of Sirte, and was found hiding in a culvert west of Sirte and captured by National Transitional Council forces. He was killed shortly afterwards. 
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_AMTOTO" Name="Amadou Toumani Touré">
+        <Crises>
+            <Crisis ID="CRI_NRMACF" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_AFIUNI" />
+        </Organizations>
+        <Kind>President</Kind>
+        <Location>Mali</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.nytimes.com/2012/04/09/world/africa/mali-president-amadou-toumani-toure-resigns-after-coup.html?ref=amadoutoumanitoure&amp;_r=0">"Mali’s President, Ousted in Coup, Steps Down". The New York Times.</li>
+                <li href="http://www.aljazeera.com/news/africa/2012/03/20123229824215677.html">"Profile: Amadou Toumani Toure" Aljazeera.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://news.bbc.co.uk/2/shared/spl/hi/picture_gallery/05/africa_mali_president/html/2.stm">"Photo journal: Mali president". BBC.</li>
+                <li href="http://en.wikipedia.org/wiki/Amadou_Toumani_Tour%C3%A9">"Amadou Toumani Touré". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://blogs.luc.edu/hubbub/wp-content/blogs.dir/478/files/evan-peterson/mali-iii.jpg" text="Former Malian President Amadou Toumani Touré" />
+                <li embed="http://www.bloomberg.com/image/iwjVOKWVaNaE.jpg" text="Amadou Toumani Touré" />
+                <li embed="http://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/v2_article_large/public/2012/04/18/264413-malis-ex-president-amadou-toumani-toure-at-the-presidential-palace-in-.jpg" text="Amadou Toumani Touré Speech" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/dSWdg5kTYHo" text="Mali soldiers say president toppled in coup"/>
+                <li embed="//www.youtube.com/embed/5ecQtecInJs" text="Toure Speaks After 2012 Coup"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=Bamako&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=Bamako,+Mali&amp;t=m&amp;z=11&amp;iwloc=A&amp;output=embed" text="Bamako, Mali"/>
+            </Maps>
+            <Summary>
+                Amadou Toumani Touré (born November 4th, 1948) is a Malian politician who was President of Mali from 2002 to 2012.
+                Touré was head of President Moussa Traoré's personal guard (and parachute regiment) when a popular revolution overthrew the regime in March 1991 and Colonel Touré arrested the President and led the revolution. He presided over a year-long military-civilian transition process that produced a new Constitution and multiparty elections; Touré handed power to Mali's first democratically elected president, Alpha Oumar Konaré, on June 6th, 1992. Konaré promoted Touré to the rank of General.
+                Prince Amadou Toumani Touré was forced into exile and resignation on March 22, 2012 via coup d’état for his handling of the Northern Mali conflict. A group of rebel soldiers calling themselves the National Committee for the Restoration of Democracy and State took power and suspended Mali’s constitution. 
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_ERDOGA" Name="Recep Tayyip Erdogan">
+        <Crises>
+            <Crisis ID="CRI_TUKPRO"/>
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_TWITER"/>
+        </Organizations>
+        <Kind>25th Prime Minister</Kind>
+        <Location>Turkey</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.akparti.org.tr/english/yonetim/genel-baskan">Turkey's Justice and Development Party</li>
+                <li href="http://www.news.com.au/world-news/turkey-protesters-defy-deadline-riot-police-fire-tear-gas/story-fndir2ev-1226664741434">"Turkey leader Recep Tayyip Erdogan holds rally as riot police try to quell protest".  News Limited.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.britannica.com/EBchecked/topic/913988/Recep-Tayyip-Erdogan">"Recep Tayyip Ergodan". Encyclopædia Britannica, Inc.</li>
+                <li href="http://en.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan">"Recep Tayyip Ergodan". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/b/b8/Tayyip_Erdo%C4%9Fan.JPG" text="Turkish Prime Minister Recep Tayyip Erdogan" />
+                <li embed="http://www.2013mersin.net//HLIC/b274db2d66e1173a46a5ed5b74721ad3.jpg" text="Recep Tayyip Erdogan" />
+                <li embed="http://galeri.uludagsozluk.com/41/recep-tayyip-erdo%C4%9Fan-%C4%B1n-muhte%C5%9Fem-karizmas%C4%B1_129465.jpg" text="Recep Tayyip Erdogan Hand on Heart" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/Ael3SSICrLA" text="Erdogan Rejects 'dictator' Label"/>
+                <li embed="//www.youtube.com/embed/zSwup4gy8wc" text="BBC News - Turkey clashes: Thousands rally as PM Erdogan returns "/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=Ba%C5%9Fbakanl%C4%B1k+Konutu&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=Ba%C5%9Fbakanl%C4%B1k+Konutu&amp;t=m&amp;z=16&amp;iwloc=A&amp;output=embed" text="Başbakanlık Konutu, Ankara, Turkey"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/RT_Erdogan" />
+            </Feeds>
+            <Summary>
+                Recep Tayyip Erdogan is the 25th and current Prime Minister of Turkey, in office since 2003. He served as Mayor of Istanbul from 1994 to 1998 and established the Justice and Development Party (AKP) in 2001. From its first year, the AKP became the largest publicly supported political movement in Turkey. May and June 2013 saw protests against what large sections of the Turkish public perceive as a growing authoritarianism of Erdogan and his government and his policies.
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_MAGICJ" Name="Magic Johnson">
+        <Crises>
+            <Crisis ID="CRI_AIDSHI"/>
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_CDCPRE"/>
+        </Organizations>
+        <Kind>Basketball player</Kind>
+        <Location>L.A.</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.biography.com/people/magic-johnson-9356150">"Magic Johnson biography". A+E Television Networks, LLC.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://magicjohnson.org/">Magic Johnson Foundation</li>
+                <li href="http://www.basketball-reference.com/players/j/johnsma02.html">"Magic Johnson". Sports Reference LLC.</li>
+                <li href="http://en.wikipedia.org/wiki/Magic_Johnson">"Magic Johnson". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://lakers.topbuzz.com/gallery/d/1295-3/magic-johnson-oly_full_56875188cc009_radio_shack_s.jpg" />
+                <li embed="http://www.biography.com/imported/images/Biography/Images/Profiles/J/Magic-Johnson-9356150-1-402.jpg" />
+                <li embed="http://www.easyreadsystem.com/news/wp-content/uploads/2012/08/earvin-magic-johnson_pictures4_us_1.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/q8Qbo0WqvOI" text="Magic Johnson NBA Career Highlights"/>
+                <li embed="//www.youtube.com/embed/qoPmLYArzHI" text="Magic Johnson Foundation -20 years"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=los+angeles&amp;aq=&amp;sll=34.043136,-118.267025&amp;sspn=0.017905,0.031629&amp;gl=us&amp;ie=UTF8&amp;hq=&amp;hnear=Los+Angeles,+California&amp;t=m&amp;z=10&amp;ll=34.052234,-118.243685&amp;output=embed"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/MagicJohnson" />
+            </Feeds>
+            <Summary>
+                Earvin "Magic" Johnson, Jr. is a former NBA player of the Los Angeles Lakers.  He is one of the most decorated point guard to play the game with 5 NBA Championships, 3 MVP awards, and an induction into the NBA Hall of Fame. On November 7, 1991 Magic announced his retirement due to him testing positive for HIV.  After the announcement, he created the Magic Johnson Foundation to help combat HIV and provide other charitable causes.  Magic has been a 20+ year survivor of HIV and continues to do amazing things through his foundation.
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_NAOKAN" Name="Naoto Kan">
+        <Crises>
+            <Crisis ID="CRI_TOHOQU"/>
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_USGEOS"/>
+        </Organizations>
+        <Kind>Prime Minister</Kind>
+        <Location>Japan</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.britannica.com/EBchecked/topic/1658252/Kan-Naoto">"Kan Naoto". Encyclopædia Britannica, Inc.</li>
+                <li href="http://www.bbc.co.uk/news/10228471">"Profile: Naoto Kan". BBC.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Naoto_Kan">"Naoto Kan". Wikipedia.</li>
+                <li href="http://www.forbes.com/profile/naoto-kan/">"Naoto Kan". Forbes.com LLC.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://i.dailymail.co.uk/i/pix/2011/04/14/article-0-0B6F583C00000578-799_306x423.jpg" />
+                <li embed="http://www.browsebiography.com/images/3/8995-Naoto_Kan_bio.jpg" />
+                <li embed="http://www.thehindu.com/multimedia/dynamic/00369/DEVA_JAPAN_POLITICS_369058f.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/5NTCcruJsPE" text="Naoto Kan- Fukushima Interview"/>
+                <li embed="//www.youtube.com/embed/VqteFhsr-Lo" text="Naoto Kan Says Japan Must Review Nuclear Power Policy"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=S%C5%8Dri+Daijin+Kantei&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=68.344727,129.550781&amp;ie=UTF8&amp;hq=S%C5%8Dri+Daijin+Kantei&amp;hnear=&amp;radius=15000&amp;t=m&amp;ll=35.673063,139.742578&amp;spn=0.071946,0.071946&amp;output=embed" text="Sōri Daijin Kantei (Prime Minister's House)"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/NaotoKan" />
+            </Feeds>
+            <Summary>
+                Naoto Kan (born October 10th, 1946) is a Japanese politician, and former Prime Minister of Japan. In June 2010, then-Finance Minister Kan was elected as the leader of the Democratic Party of Japan (DPJ) and designated Prime Minister by the Diet to succeed Yukio Hatoyama. Kan was the first Prime Minister of Japan since the resignation of Junichiro Koizumi in 2006 to serve for more than 1 year, with predecessors Yukio Hatoyama, Taro Aso, Yasuo Fukuda, and Shinzo Abe either resigning prematurely or losing an election. On 26 August 2011, Kan announced his resignation. Yoshihiko Noda was formally appointed as Prime Minister on September 2nd, 2011. On August 1st, 2012, United Nations Secretary-General Ban Ki-moon announced Kan would be one of the members of the UN high-level panel on the post-2015 development agenda.
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_BROBMA" Name="Barack Obama">
+        <Crises>
+            <Crisis ID="CRI_HAIEAR"/>
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_WHORGN"/>
+        </Organizations>
+        <Kind>President</Kind>
+        <Location>Washington, D.C, United States of America</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.whitehouse.gov/administration/president-obama/">"President Barack Obama". Official Whitehouse page.</li>
+                <li href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=o000167">"OBAMA, Barack - Biographical Information". Official Congressional Page.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.barackobama.com">Barack Obama's campaign website.</li>
+                <li href="http://en.wikipedia.org/wiki/Barack_Obama">"Barack Obama". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg" text="President Barack Obama"/>
+                <li embed="http://rogueoperator.files.wordpress.com/2012/03/obama-smiling-2-01-50576.jpg" text="Barack Obama"/>
+                <li embed="http://media.al.com/wire/photo/barack-obama-90a238b2071e197a.jpg" text="President Obama"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/-1ljmtaibC4" text="Barack Obama's first inaugural address (2009)"/>
+                <li embed="//www.youtube.com/embed/zncqb-n3zMo" text="Barack Obama's second inaugural address (2013)"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=cs&amp;ie=UTF8&amp;q=google+map+white+house&amp;fb=1&amp;gl=us&amp;hq=google+map+white+house&amp;hnear=google+map+white+house&amp;cid=0,0,8167675777476425407&amp;t=m&amp;ll=38.897683,-77.036497&amp;spn=0.006295,0.006295&amp;output=embed" text="The White House"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/BarackObama" />
+            </Feeds>
+            <Summary>
+                Barack Obama is the 44th President of the United States and former U.S. Senator from Illinois. Born in Honolulu, Hawaii, Obama is a graduate of Columbia University and Harvard Law School, where he was president of the Harvard Law Review. He defeated Republican nominee John McCain in the general election becoming the first African American elected to the presidency. Nine months later, Obama was named the 2009 Nobel Peace Prize laureate. He was re-elected president in November 2012, defeating Republican Mitt Romney, and was sworn in for a second term on January 20, 2013.
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_OSAMAB" Name="Osama Bin Laden">
+        <Crises>
+            <Crisis ID="CRI_SPTMEL"/>
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_UNNSCL"/>
+        </Organizations>
+        <Kind>Leader of Al-Qaeda</Kind>
+        <Location>Middle East</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.biography.com/people/osama-bin-laden-37172">"Osama bin Laden biography".  A+E Television Networks, LLC.</li>
+                <li href="http://www.pbs.org/wgbh/pages/frontline/shows/binladen/who/bio.html">"A Biography of Osama Bin Ladin". PBS.org.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Death_of_Osama_bin_Laden">"Death of Osama bin Laden". Wikipedia.</li>
+                <li href="http://en.wikipedia.org/wiki/Osama_bin_Laden">"Osama Bin Laden". Wikipedia.</li>
+                <li href="http://www.imdb.com/title/tt1790885/">"Zero Dark Thirty". IMDb.com, Inc.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://a.abcnews.com/images/Blotter/gty_osama_bin_laden_jef_111209_wg.jpg" />
+                <li embed="http://deathandtaxesmag.wpengine.netdna-cdn.com/wp-content/uploads/2010/10/alg_osama_bin_laden.jpeg" />
+                <li embed="http://ohverlycritical.com/news/wp-content/uploads/2011/05/Osama-Bin-Laden-dead-killed-650x4871.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/RjXGOluWSR0" text="1998 - Osama Bin Laden Interview With ABC John Miller"/>
+                <li embed="//www.youtube.com/embed/gWVC4JBjtEE" text="Osama Bin Laden Talks About the 9/11 Attacks"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=34%C2%B010%E2%80%B209.51%E2%80%B3N+73%C2%B014%E2%80%B232.78%E2%80%B3E&amp;aq=&amp;sll=35.464026,140.104523&amp;sspn=1.126331,2.024231&amp;ie=UTF8&amp;ll=34.169308,73.242439&amp;spn=0.008939,0.015814&amp;t=m&amp;z=14&amp;iwloc=6545032258397794998&amp;output=embed" text="Osama Bin Laden's Compound"/>
+            </Maps>
+            <Summary>
+                Osama Bin Laden was the founder of al-Qaeda, the Sunni Islamist group responsible for the September 11 attacks against the United States.  After these attacks, Osama was a prime target in War on Terror.  On May 2, 2011, bin Laden was shot and killed inside a private residential compound in Abbottabad, Pakistan by the United States Special Ops under the command of Barack Obama.
+            </Summary>
+        </Common>
+    </Person>
+
+    <Person ID="PER_JOSHAZ" Name="Joseph Hazelwood">
+        <Crises>
+            <Crisis ID="CRI_EXXVAL"/>
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_EXXSHI"/>
+        </Organizations>
+        <Kind>Captain of the Exxon Valdez</Kind>
+        <Location>Alaska</Location>
+        <Common>
+            <Citations>
+                <li href="http://library.thinkquest.org/10867/spill/people/hazelwood.shtml">"EVOS: People: Joseph Hazelwood". Biography Magazine.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Joseph_Hazelwood">"Joseph Hazelwood". Wikipedia.</li>
+                <li href="http://www.nypost.com/p/news/national/valdez_captain_spills_on_far_worse_Pax0hwPLjt2tWXdFcjPLGJ">"Valdez captain spills on far-worse fiasco". NYP Holdings, Inc.</li>  
+            </ExternalLinks>
+            <Images>
+                <li embed="http://www.akpresswomen.org/files/images/1243672059-hazelwood.jpg" text="Joseph Hazelwood Old"/>
+                <li embed="http://einestages.spiegel.de/hund-images/2009/03/20/6/bffa111561aa81e0e8ad2b7d53703279_image_document_large_featured_borderless.jpg" text="Joseph Hazelwood Trial"/>
+                <li embed="http://www.nypost.com/rw/nypost/2010/05/31/news/photos_stories/cropped/joseph_hazelwood--300x300.jpg" text="Joseph Hazelwood Hat"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/gFkZ8zd4684" text="Exxon Valdez Story - Why Things Went So Wrong"/>
+                <li embed="//www.youtube.com/embed/xLuLSNiDA5U" text="CBS News Special Report: Hazelwood Trial (1990)"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=60.83333%C2%B0N+146.86667%C2%B0W&amp;aq=&amp;sll=30.307761,-97.753401&amp;sspn=1.193878,2.024231&amp;ie=UTF8&amp;t=m&amp;z=12&amp;ll=60.83333,-146.86667&amp;output=embed" text="Coordinates of Oil Spill"/>
+            </Maps>
+            <Summary>
+                Joseph Hazelwood was the captain of the Exxon Valdez, an oil tanker that spilled more than 257,000 barrels of oil off the Alaskan coastline.  Before the spill, Hazelwood was sleeping in his cabin and left the third mate in charge.  Hazelwood was supposedly heavily drinking that night, but his trial never convicted him as being intoxicated during the spill.  After his trial, Hazelwood's license was suspended for 9 months, fined $50,000, and sentenced to 1,000 hours of community service.
+            </Summary>
+        </Common>
+    </Person>
+
+    <!-- Organization elements -->
+    <Organization ID="ORG_UNDWAY" Name="United Way">
+        <Crises>
+            <Crisis ID="CRI_SHESSG" />
+        </Crises>
+        <People>
+            <Person ID="PER_ADMLNZ" />
+        </People>
+        <Kind>Non-profit Organization</Kind>
+        <Location>Worldwide</Location>
+        <History>
+            <li>In 1887, a Denver woman, a priest, two ministers and a rabbi recognized the need for cooperative action to address their city’s welfare problems.</li>
+            <li>Frances Wisebart Jacobs, the Rev. Myron W. Reed, Msgr. William J.O’Ryan, Dean H. Martyn Hart and Rabbi William S. Friedman put their heads together to plan the first united campaign for ten health and welfare agencies. They created an organization to serve as an agent to collect funds for local charities, as well as to coordinate relief services, counsel and refer clients to cooperating agencies, and make emergency assistance grants in cases which could not be referred.</li>
+            <li>That year, Denver raised $21,700 and created a movement that would spread throughout the country to become the United Way. More than 125 years later, United Way is still focused on mobilizing the caring power of communities and making a difference in people’s lives.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://apps.unitedway.org/contact/">Contact Form</li>
+        </ContactInfo>
+        <!-- See Crisis element above for examples of everything under <Common> -->
+        <Common>
+            <Citations>
+                <li href="http://www.unitedway.org/">United Way Worldwide</li>
+            </Citations>
+            <ExternalLinks>
+            	<li href="https://www.facebook.com/UnitedWay">United Way Facebook</li>
+                <li href="http://en.wikipedia.org/wiki/United_Way_Worldwide">"United Way Worldwide". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://www.unitedwayokc.org/sites/all/themes/uw/images/1.jpg" />
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/YCT9cZNh0MQ" text="United Way Campaign" />
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+Way-Western+Ct,+West+Street,+Danbury,+CT&amp;aq=0&amp;oq=united+way+western+c&amp;sll=42.352582,-71.047726&amp;sspn=0.118487,0.124454&amp;ie=UTF8&amp;hq=United+Way-Western+Ct,&amp;hnear=West+St,+Danbury,+Connecticut+06810&amp;ll=41.391889,-73.45814&amp;spn=0.015035,0.015557&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=2348952424447283674&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/UnitedWay" />
+            </Feeds>
+            <Summary>
+                Immediately following the tragedy on December 14, 2012, The Sandy Hook School SupportFund (SHSSF) was created by United Way of Western Connecticut and the Newtown Savings Bank. The fund was established to receive undesignated financial donations, with the intent that the money raised would support families impacted by the tragedy, first responders, teachers, and the Newtown community in both the short and long-term. No fees or expenses have been taken for the administration of the SHSSF.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_SNQKRF" Name="Sichuan Quake Relief">
+        <Crises>
+            <Crisis ID="CRI_SCHERQ" />
+        </Crises>
+        <People>
+            <Person ID="PER_HUJNTO" />
+        </People>
+        <Kind>Non-profit, humanitarian Organization</Kind>
+        <Location>Chengdu, China</Location>
+        <History>
+            <li>Founded the morning after the disaster struck, SQR immediately began coordinating emergency relief aid to the affected area. In the first 6 to 8 months, SQR funnelled cash, services and material donations in excess of 15 million RMB to towns and villages in the quake zone – mainly tents, food, water, medical, hygiene and camping supplies, as well as several small-scale water and sanitation projects. SQR’s Winter Relief Project supplied warm bedding, clothing and camping gear worth more than 2 million RMB to more than 6,000 villagers.</li>
+            <li>Acting as a logistics and information hub, SQR connected with other NGOs, donors and volunteers, as well as keeping media and wider communities updated on the latest situation. Recognising the repercussions for survivors and those who had suffered loss or injury, we linked dozens of international and local psychological experts with stricken communities.</li>
+            <li>In summer 2008 SQR sent over 70 foreign and local teachers to coordinate and run Summer Camps in six temporary villages, delivering basic school equipment and educational supplies to more than 30 schools. This project was expanded in the summer of 2009 to become the Sports, Art, Music and English (SAME) Camps in 13 affected villages. More than 260 local and foreign volunteers taught about 4,000 children in the SAME Camps over a 7-week period.</li>
+            <li>As the need for relief aid became less pressing, SQR began to look towards the long-term recovery and future development of the affected region. The badly-damaged Di Kang Le Kindergarten serving five villages in rural Guangji, Mianzhu County, was identified as in need of rebuilding. SQR entered into an agreement with the principal to not only rebuild the kindergarten, but vastly improve the community facilities in the area with a new community centre. The construction phase is complete and the community centre available for use by local community groups.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://sichuan-quake-relief.org/contact-us/">Contact Form</li>
+            <li>Phone: (+91) 1-800-DONTKNOW</li>
+            <li>General enquiries: info@sichuan-quake-relief.org</li>
+            <li>Volunteer: volunteer@sichuan-quake-relief.org</li>
+            <li>Address:
+                c/o The Bookworm (LaoShuChong)
+                Renmin Nan Road, Section 4,#28
+                YuJie East Street, No2-7
+                Sichuan Province
+                Chengdu, China 610041
+            </li>
+            <li>Fax: +86 (0)28 8552-1997</li>
+        </ContactInfo>
+        <!-- See Crisis element above for examples of everything under <Common> -->
+        <Common>
+            <Citations>
+                <li href="http://sichuan-quake-relief.org/">Sichuan Quake Relief</li>
+            </Citations>
+            <ExternalLinks>
+            	<li href="https://www.facebook.com/pages/Sichuan-Quake-Relief/195505027139931">SQR Facebook</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://www.gochengdoo.com/images/blog/7031.jpg" />
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/nR3DPKzBrwo" text="SQR 2008 Report"/>
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?q=chengdu,+sichuan,+china&amp;hl=en&amp;client=safari&amp;oe=UTF-8&amp;hnear=Chengdu,+Sichuan,+China&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=11&amp;ll=30.572312,104.06662&amp;output=embed"/> 	
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/SichuanRelief" />
+            </Feeds>
+            <Summary>
+                Sichuan Quake Relief (SQR) is a non-profit, humanitarian organisation dedicated to improving the lives of those affected by the 12 May 2008 Sichuan earthquake.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_NLTLCL" Name="National Transitional Council">
+        <Crises>
+            <Crisis ID="CRI_LYCLWR" />
+        </Crises>
+        <People>
+            <Person ID="PER_MURGDI" />
+        </People>
+        <Kind>de facto Government</Kind>
+        <Location>Benghazi, Libya</Location>
+        <History>
+            <li>A National Transitional Council was formed on February 26th, 2011 to act as "the political face of the revolution". Its spokesman, Hafiz Ghoga, made clear at the launch press conference that the national council was not a provisional government and added that the newly formed council was not in contact with foreign governments and did not want them to intervene.</li>
+            <li>On March 5th, 2011, the council issued a statement in which it declared itself to be the "sole representative of all Libya". Mustafa Abdul Jalil was named as chairman of the council.</li>
+            <li>On March 10th, 2011, France became the first country to recognise the council as Libya's only legitimate government.</li>
+            <li>In a ceremony on August 8th, 2012, the NTC formally transferred power to the General National Congress. Jalil stepped down as chairman, passing the position to the GNC's oldest member, Mohammed Ali Salim. The NTC was then dissolved, while the GNC members took their oath of office, led by Salim.</li>
+        </History>
+        <ContactInfo>
+            <li> Organization is no longer active. </li>
+        </ContactInfo>
+        <!-- See Crisis element above for examples of everything under <Common> -->
+        <Common>
+            <Citations>
+                <li href="http://www.boston.com/news/world/middle-east/2012/08/08/libya-transitional-rulers-hand-over-power/uMPkXd9vTSSHg589mU9ykJ/story.html">"Libya's transitional rulers hand over power". Boston.com.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/National_Transitional_Council">Wikipedia</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Seal_of_the_National_Transitional_Council_%28Libya%29.svg/200px-Seal_of_the_National_Transitional_Council_%28Libya%29.svg.png" />
+                <li embed="http://www1.pictures.zimbio.com/gi/President+Obama+Meets+President+National+Transitional+STm2i_EQWMMl.jpg"/>
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/gIVZlSk1qbI"/>
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=National+Transitional+Council,+Tripoli,+Tarabulus,+Libya&amp;aq=0&amp;oq=national+transitional+counc&amp;sll=41.391894,-73.45813&amp;sspn=0.015035,0.015557&amp;ie=UTF8&amp;hq=National+Transitional+Council,+Tripoli,+Tarabulus,+Libya&amp;ll=32.862133,13.197563&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/NTC_of_Libya" />
+            </Feeds>
+            <Summary>
+                The National Transitional Council of Libya was the de facto government of Libya for a period during and after the Libyan civil war, in which rebel forces overthrew the regime of Muammar Gaddafi. The NTC governed Libya for a period of ten months after the end of the war, holding elections to a General National Congress on July 7th, 2012, and handing power to the newly elected assembly on August 8th, 2012.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_AFIUNI" Name="African Union">
+        <Crises>
+            <Crisis ID="CRI_NRMACF" />
+        </Crises>
+        <People>
+            <Person ID="PER_AMTOTO" />
+        </People>
+        <Kind>Union</Kind>
+        <Location>Addi Ababa, Ethiopia</Location>
+        <History>
+            <li>The AU was established on May 26th, 2001, in Addis Ababa and launched on July 9th, 2002 in South Africa to replace the Organisation of African Unity (OAU).</li>
+            <li>The union consists of 54 African states. The only all-African state not in the AU is Morocco.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://au.int/en/contact">Contact Form</li>
+        </ContactInfo>
+        <!-- See Crisis element above for examples of everything under <Common> -->
+        <Common>
+            <Citations>
+            	<li href="http://reliefweb.int/report/mali/africa-readies-funds-military-mission-war-torn-mali">African Union Aids Mali</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/African_Union">"African Union". Wikipedia.</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://1.bp.blogspot.com/-gxJP8gYN4DU/Tqmx3Vxe0BI/AAAAAAAAAtE/xzv4M8pB7gU/s320/49169African-Union.png"> African Union Symbol</li>
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/G5Sn7PrXDoA" text="African Union on Mali" />
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Addis+Ababa,+Ethiopia&amp;aq=0&amp;oq=addis+ababa&amp;sll=32.862142,13.19767&amp;sspn=0.134675,0.124454&amp;ie=UTF8&amp;hq=&amp;hnear=Addis+Ababa,+Ethiopia&amp;ll=9.022736,38.746799&amp;spn=0.158348,0.124454&amp;t=m&amp;z=13&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/_AfricanUnion" />
+            </Feeds>
+            <Summary>
+                The African Union played a big role in the coup d'état that overthrew President Amadou Toumani Touré. Shortly after, the MNLA declared independence from Mali. However, the declaration was rejected as invalid by the African Union. On January 27th, the African Union held a summit in Addis Ababa, Ethiopia. Outgoing AU chairperson Thomas Boni Yayi, the president of Benin, told fellow leaders their response to conflict in Mali had been too slow, and thanked France, the country's former colonial ruler, for taking the lead in its military intervention there.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_TWITER" Name="Twitter">
+        <Crises>
+            <Crisis ID="CRI_TUKPRO"/>
+        </Crises>
+        <People>
+            <Person ID="PER_ERDOGA"/>
+        </People>
+        <Kind>Social Network</Kind>
+        <Location>Worldwide</Location>
+        <History>
+            <li>Twitter was created in March 2006 by Jack Dorsey and by July, the social networking site was launched.</li>
+            <li>The service rapidly gained worldwide popularity, with over 500 million registered users as of 2012, generating over 340 million tweets daily and handling over 1.6 billion search queries per day.</li>
+            <li>Since its launch, Twitter has become one of the ten most visited websites on the Internet, and has been described as "the SMS of the Internet."</li>
+            <li>Unregistered users can read tweets, while registered users can post tweets through the website interface, SMS, or a range of apps for mobile devices.</li>
+        </History>
+        <ContactInfo>
+            <li>Twitter, Inc. 1355 Market St, Suite 900 San Francisco, CA 94103</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://www.creativereview.co.uk/cr-blog/2013/june/occupygezi">"#OccupyGezi: The art of the Turkish protests". Creative Review.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Twitter">Wikipedia</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://25.media.tumblr.com/19e6fef221cb39926b9f0399eac6913c/tumblr_mnyuelETRW1ste7qoo1_1280.jpg" text="Twitter role with Turkey Protests"/>
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/J0xbjIE8cPM" text="How to Use Twitter" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=9.022762,38.746719&amp;sspn=0.158348,0.124454&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;ll=37.776618,-122.417112&amp;spn=0.017639,0.032015&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/twitter" />
+            </Feeds>
+            <Summary>
+            	Twitter was founded as an online medium for microblogging and creating text-based messages in a social networking environment. Twitter headquarters are located in San Francisco, and additional corporate locations include New York City, Boston and San Antonio.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_CDCPRE" Name="Centers for Disease Control and Prevention">
+        <Crises>
+            <Crisis ID="CRI_AIDSHI"/>
+        </Crises>
+        <People>
+            <Person ID="PER_MAGICJ"/>
+        </People>
+        <Kind>Federal Agency</Kind>
+        <Location>Druid Hills, Georgia</Location>
+        <History>
+            <li>The Communicable Diseases Center was founded July 1, 1946 as the successor to the World War II Malaria Control in War Areas program of Office of National Defense Malaria Control Activities.</li>
+            <li>It became the National Communicable Disease Center (NCDC) effective July 1, 1967. The organization was renamed the Center for Disease Control (CDC) on June 24, 1970, and Centers for Disease Control effective October 14, 1980. An act of the United States Congress appended the words "and Prevention" to the name effective October 27, 1992. However, Congress directed that the initialism CDC be retained because of its name recognition. CDC now operates under the Department of Health and Human Services umbrella.</li>
+            <li>The Centers for Disease Control and Prevention first recognized HIV/AIDS in 1981.</li>
+        </History>
+        <ContactInfo>
+            <li href="www.cdc.gov/contact">CDC Contact</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://web.archive.org/web/20050204141148/http://www.cdc.gov/HIV/pubs/facts/transmission.htm">"HIV and Its Transmission". CDC.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention">Wikipedia</li>
+            </ExternalLinks>
+            <Images>
+            	<li embed="http://childrenshospital.org/clinicalservices/Site1899/Images/CDC.jpg"/>
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/I_o_wkr7N8A?list=PL87B964CE4CF0A98C" text="CDC &amp; HIV/AIDS"/>
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Center+for+Disease+Control+and+Prevention,+Clifton+Road,+Atlanta,+GA&amp;aq=0&amp;oq=center+for+disease+control+and+&amp;sll=37.776618,-122.417112&amp;sspn=0.063364,0.062227&amp;ie=UTF8&amp;hq=Center+for+Disease+Control+and+Prevention,+Clifton+Road,+Atlanta,+GA&amp;ll=33.798494,-84.327162&amp;spn=0.006295,0.006747&amp;t=m&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/CDCgov" />
+            </Feeds>
+            <Summary>
+            	The Centers for Disease Control and Prevention is a major national public health institution based in the United States. It is recognized by the Department of Health and Human Services as a federal agency, and aims to maintain public health by preventing disease, injury and disability. The CDC focuses on infectious and non-infectious diseases, and environmental health among many other things.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_USGEOS" Name="United States Geological Survey">
+        <Crises>
+            <Crisis ID="CRI_TOHOQU"/>
+        </Crises>
+        <People>
+            <Person ID="PER_NAOKAN"/>
+        </People>
+        <Kind>Scientific Agency</Kind>
+        <Location>Reston, Virginia</Location>
+        <History>
+            <li>Prompted by a report from the National Academy of Sciences, the USGS was created, by a last-minute amendment, to an act of Congress on March 3, 1879. It was charged with the "classification of the public lands, and examination of the geological structure, mineral resources, and products of the national domain". This task was driven by the need to inventory the vast lands added to the United States by the Louisiana Purchase in 1803 and the Mexican-American War in 1848. The legislation also provided that the Hayden, Powell, and Wheeler surveys be discontinued as of June 30, 1879.</li>
+        </History>
+        <ContactInfo>
+            <li href="www.usgs.gov/ask/index.php">USGS Contact</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+            	<li href="http://www.usgs.gov/">USGS Official Site</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/United_States_Geological_Survey">United States Geological Survey Wiki</li>
+            </ExternalLinks>
+            <Images>
+            	<li embed="http://wxow.images.worldnow.com/images/20427163_BG1.jpg"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/sMzK_aySff0" text="USGS Earthquakes" />
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=U.S.+Geological+Survey,+Sunrise+Valley+Drive,+Reston,+VA&amp;aq=2&amp;oq=US+Geological+Survey&amp;sll=33.929527,-84.263227&amp;sspn=0.066516,0.062227&amp;ie=UTF8&amp;hq=U.S.+Geological+Survey,+Sunrise+Valley+Drive,+Reston,+VA&amp;ll=38.947187,-77.367639&amp;spn=0.017356,0.032015&amp;t=m&amp;output=embed" />            
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/USGS" />
+            </Feeds>
+            <Summary>
+            	The United States Geological Survey is a scientific agency under the government of the United States. The USGS has four major focuses in regards to science discipline: biology, geography, geology and hydrology. USGS is headquartered in Reston, Virginia and has other major offices in locations such as Lakewood, Colorado and Menio Park, California.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_WHORGN" Name="World Health Organization">
+        <Crises>
+            <Crisis ID="CRI_HAIEAR"/>
+        </Crises>
+        <People>
+            <Person ID="PER_BROBMA"/>
+        </People>
+        <Kind>Public Health</Kind>
+        <Location>Geneva, Switzerland</Location>
+        <History>
+            <li> The World Health Organization was established on 7 April 1948. Its predecessor, the Health Organization, was an agency of the League of Nations.</li>
+            <li>The constitution of the World Health Organization had been signed by all 61 countries of the United Nations by 22 July 1946, with the first meeting of the World Health Assembly finishing on 24 July 1948. It incorporated the Office International d'Hygiène Publique and the League of Nations Health Organization. </li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.who.int/about/contact_form/en/index.html">WHO Contact</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://en.wikipedia.org/wiki/World_Health_Organization#History">WHO Wiki Page</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.who.int/en/">WHO Home Page</li>
+                <li href="https://www.facebook.com/WorldHealthOrganization">WHO Facebook</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_WHO.svg/800px-Flag_of_WHO.svg.png" text="WHO Flag"/>
+                <li embed="http://www.examiner.com/images/blog/EXID22920/images/World_Health_Organization(1).jpg"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/QCljON3Pa4E" text="WHO Promotional Video"/>
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=World+Health+Organization+(WHO),+Avenue+Appia,+Geneva,+Switzerland&amp;aq=0&amp;oq=world+health+organization&amp;sll=38.947127,-77.367439&amp;sspn=0.249388,0.248909&amp;ie=UTF8&amp;hq=World+Health+Organization+(WHO),&amp;hnear=Avenue+Appia,+Gen%C3%A8ve,+Switzerland&amp;ll=46.232728,6.134357&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed" text="Location of WHO Headquarters"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/WHO" />
+            </Feeds>
+            <Summary>
+            	The World Health Organization (WHO) is a specialized agency of the United Nations (UN) that is concerned with international public health. They are headquartered in Geneva, Switzerland, and is a member of the United Nations Development Group. Since its creation, WHO has been responsible for playing a leading role in the eradication of smallpox. Its current priorities include communicable diseases, in particular, HIV/AIDS, malaria and tuberculosis; the mitigation of the effects of non-communicable diseases; sexual and reproductive health, development, and aging; nutrition, food security and healthy eating; occupational health; substance abuse; and drive the development of reporting, publications, and networking. WHO is responsible for the World Health Report, a leading international publication on health, the worldwide World Health Survey, and World Health Day (7th-April of every Year).
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_UNNSCL" Name="United Nations Security Council">
+        <Crises>
+            <Crisis ID="CRI_SPTMEL"/>
+        </Crises>
+        <People>
+            <Person ID="PER_OSAMAB"/>
+        </People>
+        <Kind>Principal Organ</Kind>
+        <Location>New York City</Location>
+        <History>
+            <li>The Security Council held its first session on January 17th, 1946 at Church House, Westminster, London. Since its first meeting, the Council, which exists in continuous session, has travelled widely, holding meetings in many cities, such as Paris and Addis Ababa, as well as at its current permanent home at the United Nations Headquarters in New York City.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.un.org/en/sc/contact">UNSC Contact Form</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://en.wikipedia.org/wiki/United_Nations_Security_Council">United Nations Security Council Wiki</li>
+            </Citations>
+            <ExternalLinks>
+            	<li href="https://www.facebook.com/pages/United-Nations-Security-Council/107569195932885">UNSC Facebook</li>
+            </ExternalLinks>
+            <Images>
+            	<li embed="http://bosmun.org/wp-content/uploads/2012/06/United-Nations-Security-Council.jpg" />
+            	<li embed="http://graphics8.nytimes.com/images/2009/06/24/timestopics/UN-395.jpg" />
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/gTB-LDWoETA" text="Obama at UN Security Council"/>
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+Nations+Security+Council,+New+York,+NY&amp;aq=0&amp;oq=UN+security&amp;sll=46.232815,6.134491&amp;sspn=0.221812,0.248909&amp;ie=UTF8&amp;hq=United+Nations+Security+Council,+New+York,+NY&amp;hnear=&amp;radius=15000&amp;ll=40.749911,-73.974858&amp;spn=0.071946,0.071946&amp;t=m&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/SCRtweets" />
+            </Feeds>
+            <Summary>
+            	The United Nations Security Council (UNSC) is one of six organs of the U.N. Their main duties are to maintain international peace and security. Powers of the UNSC granted by the U.N. are the establishment of peacekeeping operations, establishment of international sanctions and military authorization.
+            </Summary>
+        </Common>
+    </Organization>
+        
+    <Organization ID="ORG_EXXSHI" Name="Exxon Shipping Company">
+        <Crises>
+            <Crisis ID="CRI_EXXVAL"/>
+        </Crises>
+        <People>
+            <Person ID="PER_JOSHAZ"/>
+        </People>
+        <Kind>Multinational oil and gas corporation</Kind>
+        <Location>Irving, Texas</Location>
+        <History>
+            <li>Exxon Mobil Corporation was formed in 1999 by the merger of two major oil companies, Exxon and Mobil. Both Exxon and Mobil were descendants of the John D. Rockefeller corporation, Standard Oil which was established in 1870. The reputation of Standard Oil in the public eye suffered badly after publication of Ida M. Tarbell's classic exposé The History of the Standard Oil Company in 1904, leading to a growing outcry for the government to take action against the company.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.exxonmobil.com/">ExxonMobil Site</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://en.wikipedia.org/wiki/Exxon_Shipping_Company">ExxonMobil Wiki page</li>
+            </Citations>
+            <ExternalLinks>
+            	<li href="https://www.facebook.com/pages/ExxonMobil/312303928430">ExxonMobil Facebook</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://cdn2.shipspotting.com/photos/middle/8/8/1/976188.jpg" text="Exxon Valdez ship"/>
+                <li embed="http://static.ddmcdn.com/gif/blogs/6a00d8341bf67c53ef016769462b79970b-640wi.jpg" text="Exxon Valdez ship, back view"/>
+                <li embed="http://www.exxonmobil.com.tr/Corporate/Newsroom/Publications/XOMGlobalCap/images/intro1.jpg" text="ExxonMobil corporate pic"/>
+                <li embed="http://www.1prime.ru/images/76116/13/761161389.jpg" text="ExxonMobil signage"/>
+            </Images>
+            <Videos>
+            	<li embed="//www.youtube.com/embed/dODJ85R5-r4"/>
+            </Videos>
+            <Maps>
+            	<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Exxon+Mobil+Corporation,+Las+Colinas+Boulevard,+Irving,+TX&amp;aq=1&amp;oq=exxon+mobil+irving+tx&amp;sll=40.749858,-73.974724&amp;sspn=0.242924,0.248909&amp;ie=UTF8&amp;hq=Exxon+Mobil+Corporation,&amp;hnear=Las+Colinas+Blvd,+Irving,+Texas&amp;ll=32.889861,-96.950211&amp;spn=0.067304,0.062227&amp;t=m&amp;z=14&amp;iwloc=A&amp;cid=2295103862368292286&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/exxonmobil" />
+            </Feeds>
+            <Summary>
+            	ExxonMobil is a U.S. based oil and gas corporation with headquarters in Irving, Texas. It is the world's largers company in terms of revenue, and in addition, was recognized in 2013 as the world's largest publicly traded company in regards to market capitalization.
+            </Summary>
+        </Common>
+    </Organization>
+</WorldCrises>
