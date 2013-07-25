@@ -1,0 +1,1529 @@
+<?xml version="1.0" ?>
+
+<!-- World Crises XML using schema (WorldCrises.xsd) -->
+
+<WorldCrises>
+
+    <Crisis ID="CRI_NSAWRT" Name="NSA Wiretapping">
+        <People>
+            <Person ID="PER_ESNWDN" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_NSAAAA" />
+        </Organizations>
+        <Kind>Civil Liberties</Kind>
+        <Date>2013-06-06</Date>
+        <Locations>
+            <li>United States of America</li>
+            <li>Hong Kong</li>
+            <li>Moscow</li>
+            <li>Ecuador</li>
+        </Locations>
+        <HumanImpact>
+            <li>By conducting massive surveillance operations over hundreds of millions of Americans and millions of others overseas and insisting that it has the right to do so whenever it feels American interests may be involved, the United States Government has violated the Fourth Amendment of the United States Constitution. The willingness of Congress, the Executive Branch, and even the Courts to go along with this program bodes ill for the future of our civil liberties. While it likely can be truthfully said that this surveillance program is not currently being abused to do things like shut down political opposition, the US Government has a history of doing such things in the past (COINTELPRO, Alien and Sedition Acts, Japanese Internment, etc.), and blindly trusting that such immense power would never be abused or wielded against the interests of the American people will not end well.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>As a result of the United States Government's decision to implement an extensive surveillance program not only on its own citizens, but also on foreign allies, there has been significant damage to the USA's relations with other countries. As a result, relations between them have become strained, resulting in countries becoming less willing to encourage economic interactions with America.</li>
+            <li>In addition, fear that the US government may be spying on them has led many European businesses and entities associated with European governments to drop or consider dropping American telecommunications service providers such as Verizon and ATT.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Money</li>
+            <li>Time</li>
+            <li>Effort</li>
+            <li>Passion</li>
+            <li>Awareness</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.restorethefourth.net/protests/">Restore The Fourth</li>
+            <li href="https://donate.fightforthefuture.org/donate/fftf?amount=">Donate To Fight For The Future</li>
+            <li href="https://supporters.eff.org/donate">Donate To Electronic Frontier Foundation</li>
+            <li href="http://cms.fightforthefuture.org/call-for-freedom/">Contact Your Representative Through Fight For The Future</li>
+            <li href="https://action.eff.org/o/9042/p/dia/action3/common/public/?action_KEY=9260">Contact Your Representative Through Electronic Frontier Foundation</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.guardian.co.uk/world/2013/jul/04/european-us-internet-providers-nsa">Traynor, Ian. "European Firms 'Could Quit US Internet Providers Over NSA Scandal'". The Guardian. 4 July, 2013. Visited: 7 July, 2013.</li>
+                <li href="http://www.nytimes.com/2013/06/28/opinion/the-criminal-nsa.html?pagewanted=all&amp;_r=0">Granick, Jennifer Stisa; Sprigman, Christopher Jon. "The Criminal N.S.A.". The New York Times. 27 June, 2013. Visited: 7 July, 2013.</li>
+                <li href="http://www.huffingtonpost.com/peter-h-schuck/national-security_b_3543312.html">Schuck, Peter H. "The Courts and National Security: A False Hope". The Huffington Post. 3 July, 2013. Visited: 7 July, 2013.</li>
+
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/PRISM_(surveillance_program)">Wikipedia: PRISM</li>
+                <li href="http://www.businessweek.com/news/2013-06-30/europe-shocked-as-spiegel-publishes-report-of-nsa-wiretapping">Business Week: Europe Shocked as Speigel Publishes Report of NSA Wiretapping</li>
+                <li href="http://en.wikipedia.org/wiki/NSA_warrantless_surveillance_controversy">Wikipedia: Warrantless Surveillance Controversy</li>
+                <li href="http://en.wikipedia.org/wiki/NSA_call_database">Wikipedia: NSA Call Database</li>
+                <li href="http://www.huffingtonpost.com/peter-h-schuck/national-security_b_3543312.html">Huffington Post: The Courts and National Security</li>
+                <li href="http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order">The Guardian: NSA Collecting Phone Records of Verizon Customers</li>
+                <li href="http://www.washingtonpost.com/www.washingtonpost.com/investigations/us-intelligence-mining-data-from-nine-us-internet-companies-in-broad-secret-program/2013/06/06/3a0c0da8-cebf-11e2-8845-d970ccb04497_story.html">The Washington Post: US, British Intelligence Mining Data From US Internet Companies</li>
+                <li href="https://www.eff.org/deeplinks/2012/08/ny-times-reminds-us-nsa-still-warrantlessly-wiretapping-americans-and-congress-has">EFF: NSA Warrantlessly Wiretapping</li>
+                <li href="http://www.nytimes.com/2013/06/28/opinion/the-criminal-nsa.html?pagewanted=all&amp;_r=0">New York Times: The Criminal NSA</li>
+                <li href="http://www.guardian.co.uk/world/2013/jul/04/european-us-internet-providers-nsa">The Guardian: European Businesses Drop American Providers</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://media.salon.com/2013/06/aptopix-nsa-phone-records-big-data-photo-gallery.jpeg-620x412.jpg" text="img not found">NSA Supercomputers Storing and Mining Massive Quantities of Data</li>
+                <li embed="http://news.antiwar.com/wp-content/uploads/2012/07/nsahq.jpg" text="img not found">NSA Headquarters</li>
+                <li embed="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/1/31/1328029813998/The-US-director-of-nation-007.jpg" text="img not found">Director of Intelligence for the United States of America James Clapper</li>
+                <li embed="http://www.thedailysheeple.com/wp-content/uploads/2013/06/snowden.jpg" text="img not found">Edward Snowden The man who leaked the details of the NSA's surveillance program being interviewed in Hong Kong</li>
+                <li embed="http://media.cagle.com/29/2013/06/07/132863_600.jpg" text="img not found">The Government's Always Listening...</li>
+            </Images>
+            <Videos>
+                 <li embed='//www.youtube.com/embed/wB4Gn0u4DSE'></li>
+                 <li embed='//www.youtube.com/embed/FHN8D5bExtU'></li>
+                 <li embed='//www.youtube.com/embed/Rz6rd_q2SYM'></li>
+                 <li embed='//www.youtube.com/embed/mRoVxUL5X7Q'></li>
+                 <li embed='//www.youtube.com/embed/6H_ENrJNEi8'></li>
+            </Videos>
+            <Maps>
+                <li embed='https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=National+Security+Agency,+9800+Savage+Road,+Fort+Meade,+MD&amp;aq=0&amp;oq=nsa+headquarters&amp;sll=30.307761,-97.753401&amp;sspn=1.129858,2.113495&amp;t=h&amp;ie=UTF8&amp;hq=National+Security+Agency,+9800+Savage+Road,+Fort+Meade,+MD&amp;ll=39.108518,-76.771774&amp;spn=0.007992,0.013733&amp;z=16&amp;output=embed'></li>
+                <li embed='https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=united+states&amp;aq=&amp;sll=39.110046,-76.77074&amp;sspn=0.015867,0.033023&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=United+States&amp;ll=37.09024,-95.712891&amp;spn=16.79998,28.125&amp;z=5&amp;output=embed'></li>
+            </Maps>
+            <Feeds>
+                <li href="https://www.facebook.com/pages/Edward-Snowden/548707555193474">Edward Snowden's Facebook</li>
+                <li href="https://www.facebook.com/NSACareers">NSA's Facebook</li>
+                <li href="https://twitter.com/EJosephSnowden">Edward Snowden's Twitter</li>
+                <li href="https://twitter.com/nsa">NSA's Twitter</li>
+            </Feeds>
+            <Summary>The NSA has, ever since September 11, 2001, been steadily expanding its reach and in doing so has quickly crossed the boundaries of what is legal. Driven by a need to know essentially everything, the NSA has begun warrantlessly wiretapping American citizens and collecting massive quantities of metadata about hundreds of millions of Americans and foreigners. Claiming that they are allowed this power because it "might be related to an investigation" the NSA has attempted to claim that their methods are fully legal and allowed by American Law, but this claim is clearly in violation of our constitutional rights. More importantly, it puts the NSA, and by proxy the US government, in a position of astonishing power, power that they have shown the capability of abusing in the past.</Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_BEEDIE" Name="Bee Colony Collapse Disorder">
+        <People>
+            <Person ID="PER_TTHBLD" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_EPAAAA" />
+        </Organizations>
+      <Kind>agency of the U.S. federal government which was created for the purpose of protecting human health and the environment by writing and enforcing regulations based on laws passed by Congress</Kind>
+      <Date>2005-01-01</Date>
+      <Locations>
+        <li>Belgium</li>
+        <li>France</li>
+        <li>Netherlands</li>
+        <li>Greece</li>
+        <li>Italy</li>
+        <li>Portugal</li>
+        <li>Spain</li>
+        <li>Switzerland</li>
+        <li>Germany</li>
+        <li>England</li>
+        <li>USA</li>
+    </Locations>
+    <HumanImpact>
+        <li>Colony collapse disorder can catastrophically reduce global food supply because it’s believed that one third of human nutrition is due to bee pollination.</li>
+    </HumanImpact>
+    <EconomicImpact>
+        <li>Shortages of bees in the US have increased the cost to farmers of renting them for pollination services by up to 20%</li>
+    </EconomicImpact>
+    <ResourcesNeeded>
+        <li>Money for research</li>
+        <li>Government colaboration to change current laws about pesticides</li>
+        <li>Effort</li>
+        <li>Passion</li>
+        <li>Awareness</li>
+    </ResourcesNeeded>
+    <WaysToHelp>
+        <li>Use of alternative pollinators like leafcutter, alkali bees, or bumblebees</li>
+        <li>Hand Pollination which is labor intensive, time consuming, and costly.</li>
+        <li>Prairie restoration</li>
+        <li>Establishment of wildlife preserves</li>
+        <li>encouragement of diverse wildlife landscaping rather than monoculture lawns</li>
+    </WaysToHelp>
+    <Common>
+        <Citations>
+            <li href="https://en.wikipedia.org/wiki/Colony_collapse_disorder"> "Colony collapse disorder". Wikipedia.Updated: 8 July, 2013. Visited: 9 July, 2013.</li>
+            <li href="https://en.wikipedia.org/wiki/Pollinator_decline">Pollinator decline. Wikipedia.Updated: 4 July, 2013. Visited: 9 July, 2013.</li>
+            <li href="http://ucanr.edu/blogs/bugsquad/index.cfm?tagname=colony%20collapse%20disorder">Garvey, Kathy Keatley . "Neonics Creating Quite a Buzz". Bug Squad. 1 April, 2013. Visited: 10 July, 2013.</li>
+            <li href="http://inhabitat.com/study-finds-honey-bee-food-may-contribute-to-colony-collapse/">Garvey, Kathy Keatley . "Morgana Matus Study Finds Honey Bee Food May Contribute to Colony Collapse". Inhabitat. 4 June, 2013. Visited: 10 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://thebeephotographer.photoshelter.com/gallery/Hand-Pollination-in-China/G0000M46TBQX4Odc/">Hand Pollination in China</li>
+            <li href="https://en.wikipedia.org/wiki/List_of_crop_plants_pollinated_by_bees">List of crop plants pollinated by bees</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://ucanr.edu/blogs/bugsquad/blogfiles/10809.jpg" text="img not found">A thriving honey bee colony</li>
+            <li embed="http://ucanr.edu/blogs/bugsquad/blogfiles/10810.jpg" text="img not found">Bees have abandoned the hive in an apparent colony collapse disorder.</li>
+            <li embed="http://assets.inhabitat.com/wp-content/blogs.dir/1/files/2013/06/honey-bee-food-colony-collapse-537x405.jpg" text="img not found">Honeyees</li>
+        </Images>
+        <Videos>
+                <li embed='//www.youtube.com/embed/BRGrI4AQG70'></li>
+                <li embed='//www.youtube.com/embed/Y0i8A2zCxWM'></li>
+                <li embed='//www.youtube.com/embed/unca1QR3nLs'></li>
+            </Videos>
+            <Maps>
+                <li embed='https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=usa&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=United+States&amp;t=h&amp;ll=37.09024,-95.712891&amp;spn=33.435463,56.25&amp;z=4&amp;output=embed'></li>
+                <li embed='https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Belgium&amp;aq=&amp;sll=37.09024,-95.712891&amp;sspn=68.344727,101.425781&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Belgium&amp;ll=50.502946,4.471436&amp;spn=1.677083,3.515625&amp;z=8&amp;output=embed'></li>
+                <li embed='https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=France&amp;aq=&amp;sll=50.503887,4.469936&amp;sspn=3.518451,6.339111&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=France&amp;ll=46.225453,2.219238&amp;spn=7.296992,14.0625&amp;z=6&amp;output=embed'></li>
+            </Maps>
+    </Common>
+</Crisis>
+
+
+    <Crisis ID="CRI_TXWDFR" Name="Texas Wild Fires">
+        <People>
+            <Person ID="PER_RPERRY" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_FEMAAA" />
+        </Organizations>
+        <Kind>Natural disaster</Kind>
+        <Date>2011-09-04</Date>
+        <Locations>
+            <li>Texas</li>
+        </Locations>
+        <HumanImpact>
+            <li>These wildfires burned 2,862 homes, caused six fatalities, including two firefighters, and injuring 62 other people.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>They also burned down over 2,700 other structures, causing a total of $510.927 million in damages.1 FEMA has reimbursed the state of Texas $48 million for the fire suppression costs during the wildfires.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Money</li>
+            <li>Physical Labor</li>
+            <li>Awareness</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.txwildfirerelief.org/">Texas Wildfire Relief</li>
+            <li href="http://www.helpthechildren.org/disaster-relief/project-help-texas-wildfires">Donate To Help The Children: Project Help Texas</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://en.wikipedia.org/wiki/2011_Texas_wildfires">"2011 Texas Wildfires". Wikipedia. 8 June, 2013. Visited: 12 July, 2013.</li>
+                <li href="http://www.kvue.com/news/state/FEMA-reimburses-Texas-nearly-48M-after-wildfires-214925101.html">Vess, Jessica. "FEMA reimburses Texas nearly $48M After Wildfires". Associated Press. 10 July, 2013. Visited: 12, July 2013</li>
+                <li href="http://www.texastribune.org/2011/09/07/records-femas-wildfire-spending/">Becca, Aaronson. "On the Records: FEMA's Wildfire Spending". The Texas Tribune. 7 September, 2011. Visited: 12 July, 2013.</li>
+                <li href="http://www.csmonitor.com/USA/Politics/2011/0907/Texas-wildfires-Is-Rick-Perry-being-hypocritical-asking-for-federal-aid">Jonsson, Patrik. "Texas Wildfires: Is Rick perry Being Hypocritical Asking For Federal Aid?". The Christian Science Monitor. 7 September, 2011. Visited: 12 July, 2013.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/2011_Texas_wildfires">Wikipedia: 2011 Texas Wildfires</li>
+                <li href="http://www.huffingtonpost.com/2011/04/11/texas-wildfires-2011-video_n_847776.html">Huffington post: Texas Wildfires 2011</li>
+                <li href="http://www.kvue.com/news/state/FEMA-reimburses-Texas-nearly-48M-after-wildfires-214925101.html">Associated Press: FEMA Reimburses Texas</li>
+                <li href="http://www.csmonitor.com/USA/Politics/2011/0907/Texas-wildfires-Is-Rick-Perry-being-hypocritical-asking-for-federal-aid">Christian Science Monitor: Texas Wildfires</li>
+                <li href="http://www.cnn.com/2011/US/09/06/texas.fires/index.html">CNN: Texas Wildfires</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://cdn.theatlantic.com/static/infocus/texasfire042011/s_t01_00000001.jpg" text="img not found">Wildfires burning on Black Mountain</li>
+                <li embed="http://cdn.theatlantic.com/static/infocus/texasfire042011/s_t05_19010027.jpg" text="img not found">Smoke rises from wildfire near Possum Kingdom, Texas</li>
+            </Images>
+            <Videos>
+                <li embed='//www.youtube.com/embed/pqr2DNaMLiQ'></li>
+                <li embed='//www.youtube.com/embed/m67ZokFYl2A'></li>
+                <li embed='//www.youtube.com/embed/PyG-m8Pd0r8'></li>
+            </Videos>
+            <Maps>
+                <li embed='https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Bastrop,+TX&amp;aq=0&amp;oq=bastrop+county&amp;sll=30.307761,-97.753401&amp;sspn=1.166617,0.792389&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Bastrop,+Texas&amp;ll=30.110385,-97.315178&amp;spn=0.103948,0.145912&amp;z=12&amp;iwloc=A&amp;output=embed'></li>
+                <li embed='https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=texas&amp;aq=&amp;sll=30.110533,-97.315178&amp;sspn=0.146121,0.099049&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=Texas&amp;z=5&amp;iwloc=A&amp;output=embed'></li>
+            </Maps>
+            <Feeds>
+                <li href="https://www.facebook.com/helptexaswildfires">Help Texas Wildfires Facebook</li>
+                <li href="https://twitter.com/texas_wildfires">Texas Wildfires On Twitter</li>
+            </Feeds>
+            <Summary>Spurred on by the currently ongoing 2011 Southern US Drought, the 2011 Texas Wildfires, beginning on November 15, 2013 and ending on October 31, 2011, were some of the worst the state of Texas has ever seen. It included what is generally acknowledged to be the most catastrophic wildfire in Texas history - the Bastrop County Complex Fire which destroyed over 1600 homes and burned over 34,000 acres of land, killing two people. Declaring a State of Disaster on December 21, 2010, Texas Governor Rick Perry requested President Obama to send federal aid to help with the wildfires.</Summary>
+        </Common>
+    </Crisis>
+
+<Crisis ID="CRI_BRZLPR" Name="Brazilian Protests">
+    <People>
+        <Person ID="PER_HPASSS" />
+        <Person ID="PER_DLVRUS" />
+    </People>
+    <Organizations>
+        <Org ID="ORG_BRAGOV" />
+    </Organizations>
+    <Kind>Socioeconomic Crisis</Kind>
+    <Date>2013-06-17</Date>
+    <Locations>
+        <li>Rio de Janeiro</li>
+        <li>Sao Paulo</li>
+        <li>Porto Alegre</li>
+        <li>Brasilia</li>
+    </Locations>
+    <HumanImpact>
+        <li>National Pact to improve Education, Health, and Public Transportation</li>
+        <li>Visibility of votes for forfeit of office</li>
+        <li>Criminalization of Corruption and Embezzlement</li>
+    </HumanImpact>
+    <EconomicImpact>
+        <li>Public transportation fares lowered</li>
+        <li>Portion of petroleum royalties go to education</li>
+        <li>Brazilian citizens feel too much money is being spent on the 2015 World Cup</li>
+    </EconomicImpact>
+    <ResourcesNeeded>
+        <li>Awareness as to why there are Brazilian protests.</li>
+        <li>Negotiators</li>
+        <li>Voters in Brazil</li>
+    </ResourcesNeeded>
+    <WaysToHelp>
+        <li>Understanding as to why the protests are happening.</li>
+        <li>Join a protest in your area supporting Brazil.</li>
+        <li>Boycott the World Cup.</li>
+    </WaysToHelp>
+    <Common>
+        <Citations>
+            <li href="http://www.nytimes.com/2013/06/28/world/americas/public-rage-catching-up-with-brazils-congress.html?pagewanted=all&amp;_r=1&amp;">Romero, Simon. "Public Rage Catching Up With Brazil’s Congress". InterAmerican Security Watch. 28 June, 2013. Visited: 11 July, 2013.</li>
+            <li href="http://www.guardian.co.uk/world/2013/jun/29/brazilian-dilma-rousseff-support-protests?INTCMP=SRCH">"Brazilian president Dilma Rousseff's support plummets in wake of protests". The Guardian. 29 June, 2013. Visited: 11 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/2013_protests_in_Brazil">Wikipedia: 2013 Brazilian Protests</li>
+            <li href="http://brazilprotestsguide.blogspot.ch/">Brazil Protest Blog</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/1/11/Protestos_no_Rio_em_2013.jpg">If the fare doesn't drop, Rio is going to stop!</li>
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/4/4b/Protesto_no_Congresso_Nacional_do_Brasil%2C_17_de_junho_de_2013.jpg">Protest at the Brazilian Congress Building</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/Mic0AYK8F-c" />
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=cs&amp;q=map+of+brazil&amp;ie=UTF8&amp;hq=&amp;hnear=Brazil&amp;gl=us&amp;t=m&amp;z=4&amp;ll=-14.235004,-51.92528&amp;output=embed"></li>
+        </Maps>
+        <Summary>The 2013 Brazilian protests started as upset citizens protesting the increase of fares of public transportation methods. Lately the protests have evolved into demanding a better oversite of government workers, better public transportation with lesser cost, and controversy over hosting the 2015 World Cup.</Summary>
+    </Common>
+</Crisis>
+
+<Crisis ID="CRI_MEXDRG" Name="Mexican Drug Violence">
+    <People>
+        <Person ID="PER_GUZMAN" />
+    </People>
+    <Organizations>
+        <Org ID="ORG_SINCAR" />
+    </Organizations>
+    <Kind>Violent Conflict</Kind>
+    <Date>2006-01-01</Date>
+    <Locations>
+        <li>Mexico</li>
+        <li>United States</li>
+        <li>Guatemala</li>
+    </Locations>
+    <HumanImpact>
+        <li>The Mexican drug war is not a conventional war, but with more than 60,000 killed in Mexico in the last several years [1] it has a high enough death toll to be one.
+            At least 106 US residents killed by April 2011.[3]
+            An additional 230,000 people have been displaced, half internally and half in US. [2]  The US State Department considers Mexico to be a Tier 2 country for human trafficking.[4]  While not entirely responsible for the situation, drug cartels exacerbate it, both by directly by subjecting captives to forced labor and prostitution and through the general atmosphere of lawlessness.[4]  Central Americans passing through Mexico on their way to the United States make up a significant portion of the human trafficking victims.[4]</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Although the drug trade injects billions of dollars into the Mexican economy each year and employs many people, it is generally considered to be detrimental to the Mexican economy.  Mexico's economy has enjoyed strong growth during the conflict, but a 1% reduction to economic growth each year [5] and total economic losses of $4.3 billion dollars per year due to violence, lost investment, and drug use [6] are attributed to it.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Decreased drug demand or increased supply.</li>
+            <li>An military/law enforcement solution is possible but very difficult.  It could be attempted with a heavy police or military presence throughout Mexico, an elimination of drug supply from South America, or an elimination of the illegal drug market in the United States.  A combination of all three would be effective but each would be difficult to achieve.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <!-- Put text with optional hyperlinks here -->
+            <li>1. Legalize drugs.  Legalizing marijuana in California could reduce drug trafficking revenues by 20%.</li>
+            <li>2. Abstain from drugs, reducing the demand for drug and as a consequence, the price of drugs, which is the incentive for the drug war.</li>
+            <li>3. Use drugs from local sources.  Encouraging local drug production leads to increased drug supply reduces, which reduces the price.</li>
+        </WaysToHelp>
+        <Common>
+            <ExternalLinks>
+                <!-- Put text with compulsory hyperlinks here -->
+                <li href="http://www.bbc.co.uk/news/world-latin-america-10681249">[1] BBC: death toll</li>
+                <li href="http://www.borderlandbeat.com/2011/03/report-230000-displaced-by-mexicos-drug.html">[2] Borderland Beat: displaced people</li>
+                <li href="http://www.nbcnews.com/id/42232161/ns/us_news-crime_and_courts/t/more-will-die-mexico-drug-wars-claim-us-lives/#.UdiLBRX1Mak">[3] NBC: US residents killed</li>
+                <li href="http://www.state.gov/j/tip/rls/tiprpt/2012/192367.htm">[4] US State Dept: Human Trafficking</li>
+                <li href="http://www.bbc.co.uk/news/business-13120598">[5] BBC: lost economic growth</li>
+                <li href="http://www.gov.harvard.edu/files/Rios2008_MexicanDrugMarket.pdf">[6] Harvard: Annual economic losses</li>
+                <li href="http://www.rand.org/news/press/2010/10/12.html">[7] RAND: Marijuana</li>
+            </ExternalLinks>
+            
+            <!-- hrefs optional in the following depending on how you want them to behave on your site -->
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://4.bp.blogspot.com/-55oBz9ds3lk/TYkOZbYLQbI/AAAAAAAAAEU/X-APwSyyaqk/s1600/martin%2Bfigure%2B2.jpg" text="This is the alt element of the image." />
+                <li embed="http://media.economist.com/sites/default/files/murders-2012.png?1353601636" text="This is the alt element of the image." />
+                <li embed="http://www.google.com/url?q=https://upload.wikimedia.org/wikipedia/commons/f/f2/Perpetrators-Zetas.jpg&amp;usd=2&amp;usg=ALhdy28vFsU9ryNEKUW5G3mWeGHR8zyWIQ" text="This is the alt element of the image." />
+                <li embed="http://www.aljazeera.com/mritems/Images/2010/10/19/20101019201733824572_20.jpg" text="This is the alt element of the image." />
+                <li embed="http://cdn.theatlantic.com/static/mt/assets/international/las%20zetas%20banner.jpg" text="This is the alt element of the image." />
+                <li embed="http://mcauleysworld.files.wordpress.com/2010/07/12765047921.jpg" text="This is the alt element of the image." />
+                <li embed="http://static1.businessinsider.com/image/5065e7cceab8eaff04000020-480/map.jpg" text="This is the alt element of the image." />
+                <li embed="http://www.globalpost.com/sites/default/files/imagecache/use-with-caution_original/cartel_smuggling_routes.jpg" text="This is the alt element of the image." />
+            </Images>
+            <Videos>
+                <!-- Put youtube link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by youtube) -->
+                <!-- Embed example for your site: <iframe width="420" height="315" src="[THIS LINK]" frameborder="0" allowfullscreen></iframe> -->
+                <li embed="//www.youtube.com/embed/Mn8hEoVYfyU" />
+                <li embed="//www.youtube.com/embed/H7a1-HXBCAU" />
+            </Videos>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_LGBTRU" Name="LGBT Issues in Russia">
+        <People>
+            <Person ID="PER_NIKALX" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_GAYRUS" />
+        </Organizations>
+        <Kind>Civil/Human Rights</Kind>
+        <Locations>
+            <li>Russia</li>
+        </Locations>
+        <HumanImpact>
+            <li>Basic civil rights are in danger as sexual minorities are subject to political ridicule and civilian abuse.</li>
+        </HumanImpact>
+
+        <ResourcesNeeded>
+            <li>Prime Minister of India undertook an aerial survey of the affected areas and announced 1,000 crore (US$170 million) aid package for disaster relief efforts in the state.</li>
+            <li>The Indian Army and the National Disaster Response Force were deployed to evacuate stranded people on June 15th 2013.</li>
+            <li>The Indian Airforce has flown hundreds of sorties every day to airdrop food and fuel for trapped villages.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.gayrussia.eu/">LGBT Human Rights Project GayRussia.Ru</li>
+            <li href="http://www.lgbtnet.ru/">Russian LGBT Network's website</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.usatoday.com/story/news/world/2013/06/11/russian-gay/2411939/"> "Russia OKs Bill Banning Gay 'propaganda'" USA Today. Gannett, 11 June 2013. Web. 10 July 2013.</li>
+                <li href="http://www.bbc.co.uk/news/world-europe-19293465"> "Gay Parades Banned in Moscow for 100 Years." BBC News. BBC, 17 Aug. 2012. Web. 10 July 2013.</li>
+                <li href="http://www.pinknews.co.uk/2013/03/27/russia-gay-pride-march-organiser-beaten-after-city-announces-ban/"> Ashenden, Amy. "Russia: Gay Pride March Organiser Beaten after City Announces ban." PinkNews.co.uk. PinkNews, 27 Mar. 2013. Web. 10 July 2013.</li>
+                <li href="http://www.huffingtonpost.com/2012/12/12/lady-gaga-gay-rights-russia-threatened-arrest-fine_n_2285857.html?ir="> Sieczkowski, Cavan. "Lady Gaga Threatened With Arrest, $50,000 Fine For Promoting Gay Rights In Russia." The Huffington Post. TheHuffingtonPost.com, 12 Dec. 2012. Web. 10 July 2013.</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/LGBT_rights_in_Russia">Wikipedia</li>
+            </ExternalLinks>
+
+            <Images>
+                <li embed="http://static3.businessinsider.com/image/51d1b329ecad043e77000003/russia-officially-makes-it-illegal-to-talk-to-kids-about-gays.jpg" text="img not found"> Police detain a gay rights activist during a Gay Pride event in St. Petersburg, June 29, 2013. </li>
+                <li embed="http://global.fncstatic.com/static/managed/img/U.S./russia_gay_rights_protest_061113.jpg" text="img not found"> Police officers detain gay rights activists as they gathered near the State Duma, Russia's lower parliament chamber, in Moscow, Russia. (AP)</li>
+                <li embed="http://media.npr.org/assets/img/2013/06/30/ap13062904235_wide-815c43d62f2e3cb91b889a819918f0458914925d-s4.jpg " text="img not found"> Riot police guard gay rights activists who were beaten by anti-gay protesters during an authorized gay rights rally in St. Petersburg, Russia, on Saturday. While a march there was allowed to go ahead, gay rights activists in Moscow turned to the Web on Sunday to celebrate gay pride.</li>
+                <li embed="http://static.themoscowtimes.com/upload/iblock/eeb/gays.jpg" text="img not found" > A bloodied gay rights opponent engaging in a tug-of-war over the gay rights flag with a supporter at a rally in St. Petersburg.</li>
+                <li embed="http://www.polarimagazine.com/wp-content/uploads/2012/05/Russian-Orthodox-Church-Atacks-Gay-Rights1.jpg" text="img not found"> A Russian LGBT activist is assaulted by traditional protester </li>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/0X8RqyjI208" />
+                <li embed="//www.youtube.com/embed/F3PGNOk4dWA" />
+                <li embed="//www.youtube.com/embed/Btwu7smgKYo" />
+            </Videos>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_UEGYPT" Name="Political unrest in Egypt">
+        <People>
+            <Person ID="PER_MMORSI" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_MUSBRO" />
+            <Org ID="ORG_EGYGOV" />
+        </Organizations>
+        <Kind>Revolution</Kind>
+        <Date>2011-01-25</Date>
+        <Time>09:00:00+05:30</Time>
+        <Locations>
+            <li>Cairo</li>
+            <li>Alexandria</li>
+            <li>Mansoura</li>
+            <li>Suez</li>
+        </Locations>
+        <HumanImpact>
+            <li>Anger towards the corruption in the Egyption political system influenced millions of protesters to join plaza marches and other demonstrations against the government.</li>
+            <li>Many protests were organized using social media, demonstrating the powerful new influence of technology over politics and human action.</li>
+            <li>The movement united Egytian citizens over a spectrum of socio-economic and religious foundations.</li>
+            <li>Eight hundred forty-six people were killed and around six thousand have assumed injuries participating in demonstrations against Egypt's police and military.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>As the government is restructured in Egypt, the economic situation of people will change based our their dependency on the corrupt system as a source of wealth.</li>
+            <li>It is possible that the gap in leadership will be taken advantage of and a party with a different form of corruption will refactor the system completely.</li>
+            <li>If Egypt adopts a better set of leaders, it may positively influence its trade with Western countries.</li>
+            <li> Importers of Egypts oil will see prices of gasoline affected by the turnover of Egypts political leaders.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Money</li>
+            <li>Support for positive political reorganization</li>
+            <li>New leaders (non-corrupt)</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+           <li href="http://en.wikipedia.org/wiki/Egyptian_Organization_for_Human_Rights"> Egyption Organization for Human Rights</li>
+           <li href="http://www.americanprogress.org/"> Center for American Progress</li>
+           <li href="http://www.cewla.org/"> Center for Egyptian Womens Legal Assistance (CEWLA)</li>
+       </WaysToHelp>
+       <Common>
+        <Citations>
+            <li href="http://www.bloomberg.com/news/2013-07-05/gasoline-rises-on-u-s-job-gains-amid-political-unrest-in-egypt.html"> Powell, Barbara. Gasoline Rises on US Job Gains Amid Political Unrest in Egypt. 2013 Jul 5. Bloomberg.</li>
+            <li href="http://www.economist.com/topics/egyptian-politics"> The Economist. Egyptian politics.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://www.livescience.com/38023-protecting-egypt-artifacts-during-crisis.html"> Egypt's National Treasures Threatened by Political Unrest</li>
+            <li href="https://en.wikipedia.org/wiki/2011_Egyptian_revolution"> Wikipedia : Egyptian Revolution of 2011</li>
+            <li href="http://www.bbc.co.uk/news/world-middle-east-23228297"> Egypts political unrest causes regional concern</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://radio.foxnews.com/wp-content/uploads/2011/02/egypt-drama-2.jpg"> Egypt unrest continues</li>
+            <li embed="http://media.themalaysianinsider.com/images/uploads/2011/january/31/mubarak.jpg"> Down with Mubarak Protest sign</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/oo3T9bbsMT0"> Egypt's president ousted in military coup"</li>
+            <li embed="//www.youtube.com/embed/1dGDv7kzJEI"> Obama, staff huddle over Egypt</li>
+            <li embed="//www.youtube.com/embed/bptZAPw2lgQ"> Analysis: Victory or a sad day for Egypt?</li>
+            <li embed="//www.youtube.com/embed/GcLmi0ZdEpc"> Protest in Egypt - Jan 25, 2011</li>
+        </Videos>
+        <Summary>Egypt is on the brink of drastic political changes that will affect its future political systems and socioeconomic climate.</Summary>
+    </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_FWATER" Name="Fresh Water Scarcity">
+        <People>
+            <Person ID="PER_MTTDMN" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_WATERO" />
+        </Organizations>
+        <Kind>Environmental</Kind>
+        <Locations>
+            <li>Sudan</li>
+            <li>Venezuela</li>
+            <li>Ethiopia</li>
+            <li>Tunisia</li>
+            <li>Cuba</li>
+        </Locations>
+        <HumanImpact>
+            <li>The United Nations' FAO states that by 2025, 1.9 billion people will be living in countries or regions with absolute water scarcity, and two-thirds of the world population could be under stress conditions. </li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Several solutions to the problem are expensive.</li>
+            <li>Construciton and maintenance of wastewater treatment plants is highly capital intensive and many regions don't have access to such technology.</li>
+            <li>Reducing groundwater overdrafting reduces crop yield, negatively impacting farmers and world's populations food needs.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Construction of wastewater treatment plants to produce more potable water, but there are issues to this.</li>
+            <li>Reducing groundwater overdrafting, but there are issues to this</li>
+            <li>Developing countries need to improve primary wastewater treatment. They should also develop more secure septic systems, such as more widespread adoption of septic tanks.</li>
+            <li>Desalination research</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <!-- Put text with optional hyperlinks here -->
+            <li href="http://www.charitywater.org/">Non-profit organization aimed at bringing clean, safe drinking water to people in developing countrie</li>
+            <li href="http://thewaterproject.org/">The Water Project: Bring Clean Water to Africa</li>
+            <li href="http://water.org/">Help people gain access to safe water and sanitation.</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <!-- Put text with optional hyperlinks here -->
+                <li href="http://www.unicef.org/specialsession/about/sgreport-pdf/03_SafeDrinkingWater_D7341Insert_English.pdf"> "Safe Drinking Water." UNICEF. UNICEF/WHO, 2001. Web. 11 July 2016.</li>
+                <li href="http://www.fao.org/english/newsroom/news/2003/15254-en.html"> "FAO : No Global Water Crisis - but Many Developing Countries Will Face Water Scarcity." FAO. FAO, 12 Mar. 2003. Web. 11 July 2013.</li>
+                <li href="http://www.redorbit.com/news/science/1367352/desalination_is_the_solution_to_water_shortages/"> McKinley, Conway. "Desalination Is the Solution to Water Shortages." RedOrbit. N.p., 2 May 2008. Web. 11 July 2013.</li>
+            </Citations>
+            <ExternalLinks>
+                <!-- Put text with compulsory hyperlinks here -->
+                <li href="http://en.wikipedia.org/wiki/Water_crisis">Wikipedia article</li>
+                <li href="http://www.unicef.org/specialsession/about/sgreport-pdf/03_SafeDrinkingWater_D7341Insert_English.pdf">Safe Drinking Water</li>
+                <li href="http://www.fao.org/english/newsroom/news/2003/15254-en.html">FAO : No Global Water Crisis - but Many Developing Countries Will Face Water Scarcity</li>
+                <li href="http://www.redorbit.com/news/science/1367352/desalination_is_the_solution_to_water_shortages/">Desalination Is the Solution to Water Shortages.</li>
+                <li href="http://www.utexas.edu/news/2008/07/22/desalination/">New Chlorine-Tolerant, Desalination Membrane Hopes to Boost Access to Clean Water</li>
+
+            </ExternalLinks>
+            
+            <!-- hrefs optional in the following depending on how you want them to behave on your site -->
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://d555kv4p2mtwa.cloudfront.net/birthdays/images/clean-water.jpg" text="img not found"></li>
+                <li embed="http://newswatch.nationalgeographic.com/files/2013/06/08C9CDCA-93F0-372D-DC3FD21B45F47F5B_1.jpg"></li>
+                <li embed="http://static6.businessinsider.com/image/4d7922b74bd7c81671160000/water-scarcity-chart.png" text="img not found"> Water Scarcity Chart </li>
+                <li embed="http://static.themoscowtimes.com/upload/iblock/eeb/gays.jpg" text="img not found" > A bloodied gay rights opponent engaging in a tug-of-war over the gay rights flag with a supporter at a rally in St. Petersburg.</li>
+                <li embed="http://www.polarimagazine.com/wp-content/uploads/2012/05/Russian-Orthodox-Church-Atacks-Gay-Rights1.jpg" text="img not found"> A Russian LGBT activist is assaulted by traditional protester </li>
+            </Images>
+            <Videos>
+                <!-- Put youtube link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by youtube) -->
+                <!-- Embed example for your site: <iframe width="420" height="315" src="[THIS LINK]" frameborder="0" allowfullscreen></iframe> -->
+                <li embed="//www.youtube.com/embed/djOX_GZmJ6s"></li>
+                <li embed="//www.youtube.com/embed/jscOuWpw_iU"></li>
+                <li embed="//www.youtube.com/embed/_9OGvcVA3Gw"></li>
+            </Videos>
+
+            <!-- Optional summary field for extra random data -->
+            <Summary>
+              In less privileged regions of the world there is a difficulty in obtaining fresh water.
+            </Summary>
+        </Common>
+    </Crisis>
+
+<Crisis ID="CRI_FOREST" Name="Deforestation">
+    <People>
+        <Person ID="PER_XNSHNG" />
+    </People>
+    <Organizations>
+        <Org ID="ORG_IUCNAT" />
+        <Org ID="ORG_EPAAAA" />
+    </Organizations>
+    <Kind>Environmental</Kind>
+    <Date>1900-01-01</Date>
+    <Locations>
+        <li>Africa</li>
+        <li>Latin America</li>
+        <li>South Asia</li>
+    </Locations>
+    <HumanImpact>
+        <li>Natural systems account for about half of GDP of poor.[1]</li>
+        <li>Almost 3 billion people rely on wood for fuel and timber.[2]</li>
+    </HumanImpact>
+    <EconomicImpact>
+        <li>7% reduction to world GDP by 2050.[1]</li>
+    </EconomicImpact>
+    <ResourcesNeeded>
+        <li>Land-efficient agriculture.  Modern technology and plants offer greater yields than subsistence agriculture and the raising of livestock.  48% of deforestation is due to subsistence and 32% due to commercial agriculture.3</li>
+        <li>Reduced use of wood products.</li>
+    </ResourcesNeeded>
+    <WaysToHelp>
+        <li>Eat plant products.  Livestock is much more land-intensive.</li>
+        <li>Limit paper use.</li>
+        <li>Use fuels besides wood.</li>
+    </WaysToHelp>
+    <Common>
+        <ExternalLinks>
+            <li href="http://news.bbc.co.uk/2/hi/science/nature/7424535.stm"> BBC: Economic consequences of deforestation</li>
+            <li href='http://atlas.aaas.org/pdf/63-66.pdf'> Forest Products</li>
+            <li href='http://unfccc.int/files/essential_background/background_publications_htmlpdf/application/pdf/pub_07_financial_flows.pdf'> Investment and Financial Flows to Address Climate Change</li>
+        </ExternalLinks>
+
+        <Images>
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/4/4c/Global_Forest_Cover_Sub-Regional_Trends.png" text="This is the alt element of the image." />
+            <li embed="http://blog.conservation.org/wp-content/uploads/2013/04/brazil-deforestation-map.jpg" text="This is the alt element of the image." />
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/ghp0_YB0osw"> Democracy Now: Deforestation Consequences in Africa</li>
+            <li embed="//www.youtube.com/embed/Fo4WXly4QYk"> Greenpeace: Stopping Amazon Deforestation</li>
+        </Videos>
+    </Common>
+</Crisis>
+
+<Crisis ID="CRI_NUCDIS" Name="Nuclear Disasters">
+    <People>
+        <Person ID="PER_YYAMAD" />
+    </People>
+    <Organizations>
+        <Org ID="ORG_NSAAAA" />
+        <Org ID="ORG_FEMAAA" />
+        <Org ID="ORG_UOCSCI" />
+    </Organizations>
+    <Kind>Radioactive</Kind>
+    <Date>2011-03-31</Date>
+    <Time>09:00:00+05:30</Time>
+    <Locations>
+        <li>Fukushima, Japan</li>
+        <li>Three-Mile Island</li>
+        <li>USA Nuclear Power Plants</li>
+        <li>Chernobyl Nuclear Power Plant</li>
+    </Locations>
+    <HumanImpact>
+        <li>Nuclear weapons can kill hundreds of thousands of people at a time.</li>
+        <li>Nuclear power has the potential to destroy entire cities and hundreds of years of human development in an instant.</li>
+        <li>Radiation lingers in an environment for an unknown amount of time after a nuclear blast, meaning that a location can be permanently altered. This may cause an increase in cancer rates within that environment.</li>
+    </HumanImpact>
+    <EconomicImpact>
+        <li>Nuclear weapons represent power (persuasive power?) and are a direct demonstration of a country's wealth in technology and science.</li>
+        <li>The components involved with nuclear power are so reactive as to be intolerable to human and environmental  systems. Thus, nuclear energy is criticized as being a profit-for-person trade off.</li>
+    </EconomicImpact>
+    <ResourcesNeeded>
+        <li>Fallout shelters</li>
+        <li>Red phones</li>
+        <li>Fallout body gear</li>
+        <li>Clean-up robots</li>
+        <li>Moral and Ethical training</li>
+    </ResourcesNeeded>
+    <WaysToHelp>
+        <li href="http://www.who.int/ionizing_radiation/a_e/en/"> World Health Organization: Radiation accidents and emergencies</li>
+        <li href="http://world-nuclear.org/WNA/"> World Nuclear Association</li>
+    </WaysToHelp>
+    <Common>
+        <Citations>
+            <li href="http://www.bbc.co.uk/news/world-asia-pacific-13598607"> Buerk, Roland. Japanese pensioners volunteer to tackle nuclear crisis. BBC News, Tokyo. 2011 May 31.</li>
+            <li href="http://www.pslweb.org/liberationnews/news/japan-nuclear-crisis.html"> Freeman, Sunil. Japan nuclear crisis highlights dangers of profit-before-people industry. 2011 Mar 27.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="https://en.wikipedia.org/wiki/Chernobyl_disaster"> Wikipedia Chernobyl disaster</li>
+            <li href="http://en.wikipedia.org/wiki/List_of_nuclear_power_accidents_by_country"> List of nuclear power accidents by country</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://adamant.typepad.com/photos/uncategorized/propaganda_penguin_1_1.jpg"> What beats global warming? Nuclear Winter! </li>
+            <li embed="http://www.nation.com.pk/print_images/670/2013-04-15/iran-does-not-need-atomic-bomb-nejad-1366049651-3665.jpg"> Mushroom Cloud </li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/UHkGJEiDpdw"> Victory Gardens 1941 </li>
+            <li embed="//www.youtube.com/embed/LLCF7vPanrY"> Time lapse map of every nuclear explosion since 1945 </li>
+        </Videos>
+        <Maps>
+            <li embed="http://cnnjohnkingusa.files.wordpress.com/2011/03/nuc-map-2.png"> US Nuclear Power Plants </li>
+            <li embed="http://kboo.fm/sites/default/files/nodeimages/US-NRC-Japan-Fallout-Map-From-Destroyed-Fukushima-Daiichi-Nuclear-Plant.jpg"> Japan Nuclear Fallout Map </li>
+            <li embed="http://www.npr.org/news/graphics/maps/three_mile.jpg"> Map of Three Mile Island and surrounding area </li>
+        </Maps>
+    </Common>
+</Crisis>
+
+<Person ID="PER_YYAMAD" Name="Yasuteru Yamad">
+    <Crises>
+        <Crisis ID="CRI_NUCDIS" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_UOCSCI" />
+    </Organizations>
+    <Kind>Proactive engineer</Kind>
+    <Location>Japan</Location>
+    <Common>
+        <Citations>
+            <li href="http://interamericansecuritywatch.com/public-rage-catching-up-with-brazils-congress/">Fujita. "Japan Nuclear Crisis: Retirees Volunteer for Fukushima Duty". ABC News. Jun 1, 2011</li>
+        </Citations>
+        <Videos>
+            <li embed="//www.youtube.com/embed/enRGG1KJpWE" />
+        </Videos>
+        <Summary>
+            Yasuteru Yamad is a Japanese engineer who attempted to gather retired engineers as volunteers to clean up Japan's nuclear fallout.He reasoned that older people are less likely to develop the devastating cancers associated with nuclear energy. 
+        </Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_HPASSS" Name="Hildebrando Pascoal">
+    <Crises>
+        <Crisis ID="CRI_BRZLPR" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_BRAGOV"/>
+    </Organizations>
+    <Kind>Former Politician</Kind>
+    <Location>Rio de Janeiro</Location>
+    <Common>
+        <Citations>
+            <li href="http://interamericansecuritywatch.com/public-rage-catching-up-with-brazils-congress/">Romero, Simon. "Public Rage Catching Up With Brazil’s Congress". InterAmerican Security Watch. 28 June, 2013. Visited: 11 July, 2013.</li>
+            <li href="http://news.bbc.co.uk/2/hi/americas/454174.stm">Cviic, Stephen. "World: Americas Brazilian deputy 'ran death squads'". BBC News. 22 September, 1999. Visited: 17 July, 2013</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://pt.wikipedia.org/wiki/Hildebrando_Pascoal">Wikipedia: Hildebrando Pascoal</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/d/d0/Hildebrando.jpg" text="img not found">Hildebrando Pascoal arriving at court to be tried.</li>
+            <li embed="http://graphics8.nytimes.com/images/2013/06/28/world/jp-brazil2/jp-brazil2-popup.jpg">Hildebrando Pascoal</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/I199ISU6lOE" />
+        </Videos>
+        <Summary>
+            Hildebrando Pascoal "the chainsaw congressman" is a former Brazilian congressman associated with drug-trafficking and a death squad torture and mass murder incident. He was removed from office, convicted, and sent to prison September of 2009.
+            A prime example of occasional political corruption in Brazil. Under former Brazilian law federal deputies are immune from prosecution.
+        </Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_TTHBLD" Name="Tom Theobald">
+    <Crises>
+        <Crisis ID="CRI_BEEDIE" />
+    </Crises>
+    <Organizations><Org ID="ORG_EPAAAA" /></Organizations>
+    <Kind>Beekeeper</Kind>
+    <Location>4802 Gatewood Dr, Colorado Springs, CO, USA</Location>
+    <Common>
+        <Citations>
+            <li href="http://www.fastcompany.com/1709448/beekeeper-who-leaked-epa-documents-i-dont-think-we-can-survive-winter">Schwartz, Ariel. Beekeeper Who Leaked EPA Documents: "I Don't Think We Can Survive This Winter" Fast Company. 13 December, 2010. Visited: July 9, 2013.</li>
+            <li href="http://www.frontrangeliving.com/cooking/Honeybee.htm">Hayden, Niki. THE PLIGHT OF THE HONEYBEE Front Range Living. Spring and Summer, 2013. Visited: July 9, 2013.</li>
+            <li href="http://howonearthradio.org/archives/1807">Schlender, Shelley. "Pesticides, Bees and Niwot Honey Farm’s Tom Theobald [extended version]" How on Earth. 30 March, 2012. Visited: July 9, 2013.</li>
+            <li href="http://www.theorganicview.com/uncategorized/david-bronner-talks-about-the-right2knowmarch-org-gmo-labeling-now/">Stoyer, June. "David Bronner Talks About The Right2KnowMarch.org: GMO Labeling Now!" The Organic View. 29 September, 2011. Visited: July 9, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://beyondpesticides.org/pollinators/Available%20for%20Interviews.pdf">Pollinators available for interviews</li>      
+        </ExternalLinks>
+        <Images>
+            <li embed="http://howonearthradio.org/wp-content/uploads/2012/03/Beekeeper-Tom-Theobald.jpg" text="img not found">Tom Theobald</li>
+            <li embed="http://www.theorganicview.com/wp-content/uploads/2011/08/Tom-Theobald-Photo-by-Catherine-Jaffee.jpg" text="img not found">Tom Theobald</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/2zuJdY_Wrng" />
+            <li embed="//www.youtube.com/embed/grRdue1wG3M" />
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;oe=utf-8&amp;q=4802+Gatewood+Dr,+Colorado+Springs,+CO+%E2%80%8E&amp;ie=UTF8&amp;hq=&amp;hnear=4802+Gatewood+Dr,+Colorado+Springs,+Colorado+80916&amp;gl=us&amp;t=h&amp;ll=38.800855,-104.739532&amp;spn=0.032107,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed" />
+        </Maps>
+        <Feeds>
+            <li href="https://twitter.com/MrTomTheobald">Twitter</li>
+        </Feeds>
+    </Common>
+</Person>
+
+<Person ID="PER_DLVRUS" Name="Dilma Vana Rousseff">
+    <Crises>
+        <Crisis ID="CRI_BRZLPR"></Crisis>
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_BRAGOV"/>
+    </Organizations>
+    <Kind>Politician</Kind>
+    <Location>Rio de Janeiro</Location>
+    <Common>
+        <Citations>
+            <li href="http://www.guardian.co.uk/world/2013/jun/29/brazilian-dilma-rousseff-support-protests?INTCMP=SRCH"> "Brazilian president Dilma Rousseff's support plummets in wake of protests". The Guardian. 29 June, 2013. Visited: 11 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/Dilma_Rousseff">Wikipedia: Dilma Rousseff</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/8/81/Dilma_Rousseff_-_foto_oficial_2011-01-09.jpg" text="img not found"/>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/Mic0AYK8F-c" />
+        </Videos>
+        <Feeds>
+            <li href="https://twitter.com/dilmabr">Dilma Rousseff Twitter</li>
+        </Feeds>
+        <Summary>Dilma Rousseff is the current president of Brazil.</Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_ESNWDN" Name="Edward Snowden">
+    <Crises>
+    <Crisis ID="CRI_NSAWRT"></Crisis>
+    </Crises>
+    <Organizations><Org ID="ORG_NSAAAA"/></Organizations>
+    <Kind>Whistleblower</Kind>
+    <Location>Moscow, Russia</Location>
+    <!-- More elements here -->
+    <Common>
+        <Citations>
+            <li href="http://en.wikipedia.org/wiki/Edward_Snowden"> Edward Snowden. Wikipedia. Updated: 7 July, 2013. Visited: 7 July, 2013. </li>
+            <li href="http://www.guardian.co.uk/world/2013/jul/08/edward-snowden-surveillance-excess-interview"> Greenwald, Glenn. Edward Snowden: US surveillance 'not something I'm willing to live under'. The Guardian. 8 July, 2013. Visited: July 9, 2013. </li>
+            <li href="http://www.guardian.co.uk/world/2013/jul/05/edward-snowden-nsa-whistleblower-spy">Ackerman, Spencer. "Edward Snowden is a Whistleblower, Not a Spy - But Do Our Leaders Care?". The Guardian. 5 July, 2013. Visited: July 7, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://www.cnn.com/2013/06/10/politics/edward-snowden-profile">CNN: Eric Snowden, A Profile</li>
+            <li href="http://www.fool.com/investing/general/2013/07/06/is-edward-snowden-a-hero-or-a-villain.aspx">The Motley Fool: Is Snowden a Hero or a Villain?</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://www.thedailysheeple.com/wp-content/uploads/2013/06/snowden.jpg" text="img not found">Edward Snowden being interviewed in Hong Kong after leaking details of NSA's surveillance program to the press</li>
+            <li embed="http://newswire.kulmun.be/wp-content/uploads/2013/03/NicolasMaduro.jpg" text="img not found">Venezuelan President Nicolas Maduro Maduro is one of the few leaders who has offered political asylum to Snowden</li>
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/c/c5/Vladimir_Putin_beefcake-1.jpg" text="img not found">Russian President Vladimir Putin. Despite Snowden currently being holed up in Moscow Airport, Putin has essentially avoided taking a side by not offering asylum to Snowden while simultaneously refusing to hand him over to the U.S. Governmen</li>
+            <li embed="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/6/11/1370966794013/Lindsay-Mills-girlfriend--010.jpg" text="img not found">Edward Snowden's Girlfriend Lindsay</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/wB4Gn0u4DSE" />
+            <li embed="//www.youtube.com/embed/qiWpJuUWqOA" />
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Russia&amp;aq=&amp;sll=30.245673,-97.768836&amp;sspn=0.141324,0.264187&amp;g=78704&amp;ie=UTF8&amp;hq=&amp;hnear=Russia&amp;ll=61.52401,105.318756&amp;spn=47.221317,135.263672&amp;t=m&amp;z=4&amp;output=embed"/>
+        </Maps>
+        <Feeds>
+            <li href="https://www.facebook.com/pages/Edward-Snowden/548707555193474">Edward Snowden's Facebook page</li>
+            <li href="https://twitter.com/EJosephSnowden">Edward Snowden's Twitter page</li>
+        </Feeds>
+        <Summary>Edward Snowden is a whistleblower who revealed the NSA's PRISM surveillance program. Throughout his life, he has had a history of working in defense of the US government, first as a Special Forces recruit, then as an NSA security guard, and finally as a private contractor working for Booz Allen Hamilton inside the NSA at the Kunia Regional SIGINT Operations Center in Hawaii. He grew increasingly unsettled as he learned just how far the US government was going with its surveillance program and believed that the decision of how far the US government was allowed to go lay with the American people and not with the NSA or the executive branch. In an attempt to correct the situation, he released information about the NSA's PRISM surveillance program to The Guardian's Glenn Greenwald and fled the US to first Hong Kong and later Russia. Currently, he is trapped in Moscow Airport, attempting to gain political asylum and safe transport to another country.</Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_RFLCRR" Name="Rafael Correa">
+    <Crises>
+        <Crisis ID="CRI_NSAWRT"></Crisis>
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_NSAAAA"/>
+    </Organizations>
+    <Kind>President</Kind>
+    <Location>Ecuador</Location>
+	<Common>
+		<Citations>
+			<li href="http://en.wikipedia.org/wiki/Rafael_Correa">"Rafael Correa". Wikipedia. Updated: 15 July, 2013. Visited: 23 July, 2013.</li>
+			<li href="http://www.theaustralian.com.au/news/world/ecuador-leader-rafael-correa-urges-julian-assange-settlement/story-e6frg6so-1226580631223">"Ecuador Leader Rafael Correa Urges Julian Assange Settlement". The Australian. 19 February, 2013. Visited: 23 July, 2013.</li>
+		</Citations>
+		<ExternalLinks>
+			<li href="http://en.wikipedia.org/wiki/Rafael_Correa">Wikipedia: Rafael Correa</li>
+			<li href="http://en.mercopress.com/2011/05/10/president-correa-s-victory-margin-in-controversial-referendum-is-narrowing">Rafael Correa's Controversial Referendum</li>
+			<li href="http://www.theaustralian.com.au/news/world/ecuador-leader-rafael-correa-urges-julian-assange-settlement/story-e6frg6so-1226580631223">
+			Ecuadorian Leader Rafael Correa Urges Julian Assange Settlement</li>
+			<li href="http://www.politico.com/story/2013/06/edward-snowden-ecuador-93600.html">Rafael Correa On Edward Snowden's Situation</li>
+		</ExternalLinks>
+		<Images>
+			<li embed="http://cdn.informationnigeria.org/wp-content/uploads/2013/06/ecuador-rafael-correa.gif" text="img not found">Ecuadorian President Rafael Correa</li>
+			<li embed="http://en.mercopress.com/data/cache/noticias/31429/0x0/rafael-correa.jpg" text="img not found">Rafael Correa anxiously awaiting the results of a controversial referendum to ban cockfighting</li>
+		</Images>
+		<Videos>
+			<li embed="//www.youtube.com/embed/dAGjn547tcs" />
+			<li embed="//www.youtube.com/embed/ZvUwC5JTAJY" />
+		</Videos>
+		<Maps>
+			<li embed="https://maps.google.com/maps?q=ecuador&amp;ie=UTF8&amp;hq=&amp;hnear=Ecuador&amp;t=m&amp;ll=-1.845384,-78.134766&amp;spn=30.383735,37.353516&amp;z=4&amp;output=embed" />
+		</Maps>
+		<Feeds>
+			<li href="https://www.facebook.com/pages/Rafael-Correa/15525611124">Rafael Correa On Facebook</li>
+			<li href="https://twitter.com/MashiRafael">Rafael Correa On Twitter</li>
+		</Feeds>
+		<Summary>Rafael Correa is the president of the Republic of Ecuador. He is also the former president of the Union of South American Nations. Elected in 2006, he used his power as president of Ecuador to declare Ecuador's national debt illegitimate and successfully fought in international courts to have the debt reduced by 60%. He is currently famous, however, for offering to provide asylum to Edward Snowden, the whistleblower who leaked information about the American government's vast surveillance program known as PRISM and for protecting Wikileaks founder Julian Assange by allowing him to remain within the Ecuadorian embassy in the United Kingdom.</Summary>
+	</Common>
+</Person>
+
+<Person ID="PER_GUZMAN" Name="Joaquin Guzman Loera">
+    <Crises>
+        <Crisis ID="CRI_MEXDRG" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_SINCAR" />
+    </Organizations>
+    <Kind>Drug Cartel Leader</Kind>
+    <Location>Mexico</Location>
+    <Common>
+        <ExternalLinks>
+            <li href="http://www.forbes.com/profile/joaquin-guzman-loera/">[1] Forbes: Guzman Fortune</li>
+            <li href="http://web.archive.org/web/20080315071013/http://www.state.gov/p/inl/narc/rewards/39413.htm">[2] US State Dept: Bounty</li>
+            <li href="http://www.forbes.com/sites/nathanvardi/2011/06/15/joaquin-guzman-has-become-the-biggest-drug-lord-ever/">[3] Forbes: Biggest Drug Lord Ever</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://2.bp.blogspot.com/-u-TnjeTzz24/TsmuUHOMNdI/AAAAAAAAI0c/QHrUSxufOVw/s1600/chapo01.jpg" text="This is the alt element of the image." />
+            <li embed="http://images.forbes.com/media/lists/10/2009/joaquin-guzman-loera.jpg" text="This is the alt element of the image." />
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/v7h3WkcEU00" />
+            <li embed="//www.youtube.com/embed/H6X1nFa53uQ" />
+        </Videos>
+        <Summary>
+            Joaquin Guzman Loera, also known as "El Chapo Guzman" is the leader of Mexico's most powerful drug cartel, the Sinaloas.  According to Forbes, Guzman is a billionaire[1] and the "biggest drug lord ever."[3]  He is Mexico's wanted man with a US State Department reward of up to $5 million for information leading to his arrest.[2]
+        </Summary>
+  </Common>    
+</Person>
+
+<Person ID="PER_RPERRY" Name="Rick Perry">
+    <Crises>
+        <Crisis ID="CRI_TXWDFR" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_FEMAAA" />
+    </Organizations>
+    <Kind>Governor of Texas</Kind>
+    <Location>Texas</Location>
+    <Common>
+        <Citations>
+            <li href="http://en.wikipedia.org/wiki/Rick_Perry"> "Rick Perry". Wikipedia. 9 July, 2013. Visited: 12 July, 2013. </li>            
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/Rick_Perry">Wikipedia: Rick Perry</li>
+            <li href="http://www.usatoday.com/story/news/politics/2013/07/08/rick-perry-texas-governor-president/2497773/">USA Today: Rick Perry Won't Run Again</li>
+            <li href="http://www.governor.state.tx.us/">Governor of the State of Texas Website</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://governor.state.tx.us/multimedia/photos/TexasGovernorRickPerry.jpg" text="img not found">Governor Rick Perry posing for a photo</li>
+            <li embed="http://a.abcnews.com/images/Politics/ap_Rick_Perry_2_jt_110813_wg.jpg" text="img not found">Governor Rick Perry in the middle of a fiery speech</li>
+        </Images>
+        <Videos>
+            <li embed='//www.youtube.com/embed/0uvmKnFY4uk'></li>
+            <li embed='//www.youtube.com/embed/iESaX8YioyQ'></li>
+            <li embed='//www.youtube.com/embed/iaXDrTGmCgU'></li>
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?q=texas&amp;client=ubuntu&amp;channel=cs&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=Texas&amp;t=h&amp;z=5&amp;iwloc=A&amp;output=embed"></li>
+        </Maps>
+        <Feeds>
+            <li href="https://www.facebook.com/GovernorPerry">Governor Perry's Facebook</li>
+            <li href="https://twitter.com/GovernorPerry">Governor Perry On Twitter</li>
+        </Feeds>
+        <Summary>Born in Paint Creek, Texas on March 4, 1950, Rick Perry is currently the Governor of the state of Texas. He is a staunchly conservative politician who is famous for attempting to name 3 federal agencies he intended to end if he won the 2012 Presidential Election but failing to be able to name the third. He is also famous for holding 3 days of prayer in an attempt to end the Texas Wildfire crisis in 2011. Eventually, Texas firefighters were able to successfully put out the flames as the wildfire season drew to a close. Perry requested federal aid, and in response, FEMA reimbursed the state of Texas $48 million for fire suppression costs.</Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_MMORSI" Name="Mohammed Morsi">
+    <Crises>
+        <Crisis ID="CRI_UEGYPT" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_EGYGOV" />
+    </Organizations>
+    <Kind>Politician</Kind>
+    <Location>Egypt</Location>
+    <Common>
+        <Citations>
+            <li href="http://en.wikipedia.org/wiki/Mohamed_Morsi"> "Mohamed Morsi". Wikipedia. 12 July, 2013. Visited on: 12 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/Mohamed_Morsi">Wikipedia: Mohamed Morsi</li>
+            <li href="http://www.guardian.co.uk/world/2012/jul/08/egyptian-president-orders-parliament-reconvene">The Guardian: Egyptian President Orders Parliament to Reconvene</li>
+            <li href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/10171198/Egypt-orders-arrest-of-Muslim-Brotherhood-leader.html">The Telegraph: Egypt Orders Arrest of Muslim Brotherhood Leader</li>
+            <li href="http://www.huffingtonpost.com/2012/06/17/egypt-election-results-muslim-brotherhood-mohammed-morsi_n_1604499.html">Huffington Post: Mohamed Morsi Elected as President of Egypt</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/7/8/1341761552172/Mohamed-Morsi-president-o-008.jpg" text="img not found">Mohamed Morsi - newly elected, and now recently deposed President of Egypt</li>
+            <li embed="http://i.telegraph.co.uk/multimedia/archive/02613/egypt-morsi_2613799b.jpg" text="img not found">Crowds rallying for the deposing of Egyptian President Mohamed Morsi</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/LyDOAQNsTrI"></li>
+            <li embed="//www.youtube.com/embed/u0Trsszw1Uo"></li>
+            <li embed="//www.youtube.com/embed/TbnYc65pN_g"></li>
+        </Videos>
+        <Feeds>
+            <li href="https://www.facebook.com/pages/Mohamed-Morsy/264081660269685">Mohamed Morsi On Facebook</li>
+            <li href="https://twitter.com/MuhammadMorsi">Mohamed Morsi On Twitter</li>
+        </Feeds>
+        <Summary>Born on August 8, 1951, Mohamed Morsi was elected as President of Egypt and assumed office on April 30, 2011. However, many Egyptian citizens were unhappy with his heavy-handed approach to governance and with his strong leaning towards incorporating religion into law. They were especially displeased with his decision to significantly expand his presidential powers and remove judicial review of his decrees soon after being elected into office. As a result, he was deposed on July 3, 2013.</Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_XNSHNG" Name="Zhang Xinsheng">
+    <Crises>
+        <Crisis ID="CRI_FOREST" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_IUCNAT" />
+    </Organizations>
+    <Kind>President of International Union for Conservation of Nature</Kind>
+    <Location>China</Location>
+    <Common>
+        <Citations>
+            <li href="https://www.iucn.org/news_homepage/?11060/IUCNs-New-President-elected">"IUCN's New President Elected". IUCN. 12 September, 2012. Visited: 12 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="https://www.iucn.org/news_homepage/?11060/IUCNs-New-President-elected">IUCN: Zhang Xinsheng Elected New President of IUCN</li>
+            <li href="http://www.cbd.int/idb/doc/2013/messages/idb-2013-iucn-pres-message.pdf">IUCN: Zhang Xinsheng On Plan For Next Four Years</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://cmsdata.iucn.org/img/zhang_xinsheng_51854.jpg" text="img not found">Newly elected President of the International Union for Conservation of Nature, Zhang Xinsheng</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/o-rR4nKbUO8">Zhang Xinsheng</li>
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=china&amp;aq=&amp;sll=30.307761,-97.753401&amp;sspn=1.110889,0.792389&amp;t=h&amp;ie=UTF8&amp;hq=&amp;hnear=China&amp;z=4&amp;output=embed"></li>
+        </Maps>
+        <Summary>Zhang Xinsheng was recently elected to be President of the International Union for Conservation of Nature on September 12, 2012.</Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_NIKALX" Name="Nikolay Alexeyev">
+    <Crises>
+        <Crisis ID="CRI_LGBTRU" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_GAYRUS" />
+    </Organizations>
+    <Kind>Activist/Lawyer/Journalist</Kind>
+    <Location>Russia</Location>
+    <Common>
+        <Citations>
+            <li href="http://news.bbc.co.uk/2/hi/europe/8050068.stm"> Galpin, Richard. "Violence Feared over Moscow Gay March." BBC News. BBC, 14 May 2009. Web. 10 July 2013..</li>
+            <li href="http://www.ontopmag.com/article.aspx?id=11939"> "Nikolai Alexeyev Arrested In Attempted Moscow Gay Pride Parade." On Top Magazine. N.p., 27 May 2012. Web. 10 July 2013</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/Nikolai_Alekseev">Wikipedia</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/3/32/Nikolaialekseev.jpg" text="img not found"> </li>
+             <li embed="http://i1.ytimg.com/vi/EXxdYH5USwQ/hqdefault.jpg" text="img not found"> </li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/ToBi_jctmXs" />
+            <li embed="//www.youtube.com/embed/EXxdYH5USwQ" />
+        </Videos>
+
+        <Summary>Nikolay Alexeyev was born on December 23, 2013 and is head of the Russian LGBT Human Rights Project GayRussia.Ru</Summary>
+    </Common>
+</Person>
+
+<Person ID="PER_MTTDMN" Name="Matt Damon">
+    <Crises>
+        <Crisis ID="CRI_FWATER" />
+    </Crises>
+    <Organizations>
+        <Org ID="ORG_WATERO" />
+    </Organizations>
+    <Kind>Actor/Environmentalist</Kind>
+    <Location>United States</Location>
+    <Common>
+        <Citations>
+            <li href="http://www.fastcocreate.com/1682644/matt-damon-and-waterorg-on-building-a-winning-youtube-campaign-toilet-striking"> McGirt, Ellen. "Matt Damon And Water.Org On Building A Winning YouTube Campaign: Toilet Striking." Co.Create. N.p., 25 Mar. 2013. Web. 11 July 2013.</li>
+            <li href="http://www.fastcompany.com/1760918/can-matt-damon-bring-clean-water-africa"> "Can Matt Damon Bring Clean Water To Africa? | Fast Company | Business Innovation." Fast Company. N.p., July-Aug. 2011. Web. 11 July 2013.</li>
+            <li href="http://www.thedailybeast.com/articles/2013/03/22/matt-damon-and-gary-white-on-the-road-from-ted-to-world-water-day.html"> White, Matt Damon,Gary. "Matt Damon and Gary White on the Road From TED to World Water Day." The Daily Beast. Newsweek/Daily Beast, 22 Mar. 2013. Web. 11 July 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/Nikolai_Alekseev">Wikipedia</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://www.hollywoodchicago.com/sites/default/files/mattdamonbottle.jpg" text="img not found"> </li>
+            <li embed="http://a.abcnews.com/images/Politics/ht_TW_Matt_Damon_2_jt_111127_wg.jpg" text="img not found"> </li>
+            <li embed="http://big.assets.huffingtonpost.com/Matt-Damon-2.jpg" text="img not found"> </li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/z_Sc2_HFv88" />
+            <li embed="//www.youtube.com/embed/CezkRO3_r0c" />
+            <li embed="//www.youtube.com/embed/VHAg8gmJqqo" />
+        </Videos>
+        <Feeds>
+            <!-- Put feed URL here and embed on your site in your own cool way-->
+            <li href="https://twitter.com/OfficialMDamon" />
+        </Feeds>
+        <Summary>Matt Damon was born on October 8, 1970. He co-founded Water.org in July 2009 to help bring potable water to those less fortunate </Summary>
+    </Common>
+</Person>
+
+<Organization ID="ORG_UOCSCI" Name="The Union of Concerned Scientists">
+    <Crises>
+        <Crisis ID="CRI_NUCDIS" />
+    </Crises>
+    <People>
+        <Person ID="PER_YYAMAD" />
+    </People>
+    <Kind>Government Fund</Kind>
+    <Location>USA</Location>
+    <History>
+        <li> A group that reports on safety issues at nuclear plants.</li>
+        <li> Founded in 1969 by faculty and students of MIT. </li>
+    </History>
+    <ContactInfo>
+        <li>Phone: (202) 223-6133</li>
+    </ContactInfo>
+    <Common>
+        <Citations>
+            <li href="http://topics.nytimes.com/topics/reference/timestopics/organizations/u/union_of_concerned_scientists/index.html"> Union of Concerned Scientists. The New York Times. 22 July, 2013. Times Topics.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://www.ucsusa.org/about/"> Union of Concerned Scientists : About page</li>
+        </ExternalLinks>
+        <Videos>
+            <li embed="//www.youtube.com/embed/7FBmfseoKeg?list=PLTsyt5jJvEGJQQa7Y2hI1-NYi8uYpmPdq"> David Lochbaum on Lessons Learned from Fukushima</li>
+            <li embed="//www.youtube.com/embed/XibS-W_loJ0"> Edwin Lyman explains the nuclear crisis in Japan on the Rachel Maddow Show, 3/11/2011.</li>
+        </Videos>
+        <Feeds>
+            <li href="https://twitter.com/CleanEnergyPrin">Twitter</li>
+        </Feeds>
+    </Common>
+</Organization>
+
+<Organization ID="ORG_NSAAAA" Name="National Security Agency">
+    <Crises>
+        <Crisis ID="CRI_NSAWRT" />
+    </Crises>
+    <People>
+        <Person ID="PER_ESNWDN" />
+    </People>
+    <Kind>Government</Kind>
+    <Location>Fort Meade, Maryland</Location>
+    <History>
+        <li>The National Security Agency (NSA) was originally known as Armed Forces Security Agency (AFSA), which was created on May 20, 1949. AFSA, however, failed to achieve its goal of a centralized intelligence community due to its inability to coordinate properly with civilian agencies with similar goals, such as the FBI. In light of this failure, the agency was overhauled, strengthened, and rebranded as the NSA in 1952. It has a storied history of protecting the United States from its enemies, providing it with the intelligence needed to capture and remove the threat of enemy spies within its borders while also providing the government with insight into what the USAs enemies are thinking and planning. However, spurred by the recent emergence of terrorism as a significant threat to national security on September 11, 2011, the NSA has steadily grown its intelligence gathering capabilities to the point where it has begun ignoring the Constitution and American law by wiretapping American citizens without first obtaining a warrant and by obtaining massive amounts of metadata about what American citizens are doing over the internet. In order to manage these expanded operations, the NSA has begun building a new facility in Utah said to be capable of storing data at the level of yottabytes (1 yottabyte = 1 trillion terabytes) of data.</li>
+    </History>
+    <ContactInfo>
+        <li>Phone: (301) 688-6524</li>
+        <li>E-Mail: nsapao@nsa.gov</li>
+    </ContactInfo>
+    <!-- See Crisis element above for examples of everything under <Common> -->
+    <Common>
+        <Citations>
+            <li href="http://en.wikipedia.org/wiki/National_Security_Agency">National Security Agency. Wikipedia. Updated: 7 July, 2013. Visited: 7 July, 2013.</li>
+            <li href="http://www.guardian.co.uk/world/2013/jun/06/nsa-phone-records-verizon-court-order">Greenwald, Glenn. "NSA Collecting Phone Records of Millions of Verizon Customers Daily". The Guardian. 5 June, 2013. Visited: 7 July, 2013.</li>
+            <li href="http://www.nytimes.com/2013/06/28/opinion/the-criminal-nsa.html?pagewanted=all&amp;_r=0">Granick, Jennifer Stisa; Sprigman, Christopher Jon. "The Criminal N.S.A.". The New York Times. 27 June, 2013. Visited: 7 July, 2013. </li>
+            <li href="http://en.wikipedia.org/wiki/Utah_Data_Center">Utah Data Center. Wikipedia. Updated: 6 July, 2013. Visited: 7 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://www.nsa.gov/">National Security Agency</li>
+            <li href="http://en.wikipedia.org/wiki/National_Security_Agency">Wikipedia:NSA</li>
+            <li href="http://en.wikipedia.org/wiki/NSA_warrantless_surveillance_controversy">Wikipedia: Warrantless Surveillance Controversy</li>
+            <li href="http://en.wikipedia.org/wiki/NSA_call_database">Wikipedia: NSA Call Database</li>
+            <li href="http://www.nytimes.com/2013/06/28/opinion/the-criminal-nsa.html?pagewanted=all&amp;_r=0">New York Times: The Criminal NSA</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://news.antiwar.com/wp-content/uploads/2012/07/nsahq.jpg" text="img not found">Headquarters of the National Security Agency</li>
+            <li embed="http://media.salon.com/2013/06/aptopix-nsa-phone-records-big-data-photo-gallery.jpeg-620x412.jpg" text="img not found">NSA Supercomputers Storing and Mining Massive Quantities of Data</li>
+            <li embed="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/1/31/1328029813998/The-US-director-of-nation-007.jpg" text="img not found">Director of Intelligence for the United States of America</li>
+            <li embed="http://www.thedailysheeple.com/wp-content/uploads/2013/06/snowden.jpg" text="img not found">Edward Snowden being interviewed in Hong Kong regarding the NSA's massive surveillance program</li>
+            <li embed="http://media.cagle.com/29/2013/06/07/132863_600.jpg" text="img not found">Big Brother is Always Listening...</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/FHN8D5bExtU"></li>
+            <li embed="//www.youtube.com/embed/Rz6rd_q2SYM"></li>
+            <li embed="//www.youtube.com/embed/mRoVxUL5X7Q"></li>
+            <li embed="//www.youtube.com/embed/qAPh5Pe1Iwk"></li>
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=National+Security+Agency,+9800+Savage+Road,+Fort+Meade,+MD&amp;aq=0&amp;oq=nsa+head&amp;sll=61.52401,105.318756&amp;sspn=88.368649,270.527344&amp;t=h&amp;ie=UTF8&amp;hq=National+Security+Agency,+9800+Savage+Road,+Fort+Meade,+MD&amp;ll=39.110316,-76.771903&amp;spn=0.011655,0.018239&amp;z=15&amp;iwloc=A&amp;output=embed"></li>
+        </Maps>
+        <Feeds>
+            <li href="https://www.facebook.com/NSACareers">NSA On Facebook</li>
+            <li href="https://twitter.com/nsa">NSA On Twitter</li>
+        </Feeds>
+    </Common>
+</Organization>
+
+
+<Organization ID="ORG_FEMAAA" Name="Federal Emergency Management Service">
+    <Crises>
+        <Crisis ID="CRI_TXWDFR" />
+    </Crises>
+    <People>
+        <Person ID="PER_RPERRY" />
+    </People>
+    <Kind>Government Organization</Kind>
+    <Location>500 C Street SW, Washington, DC 20472</Location>
+    <History>
+        <li>Federal emergency management in the U.S. has existed in one form or another for over 200 years.</li>
+    </History>
+    <ContactInfo>
+        <li>Phone: (800) 621-FEMA (3362)</li>
+        <li href="https://faq.fema.gov/ci/documents/detail/2/home"></li>
+    </ContactInfo>
+    <Common>
+        <Citations>
+            <li href="https://en.wikipedia.org/wiki/Federal_Emergency_Management_Agency">Federal Emergency Management Agency. Wikipedia. Updated: 10 July, 2013. Visited: 11 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://www.fema.gov/">FEMA official website</li>      
+        </ExternalLinks>
+        <Images>
+            <li embed="http://openir.media.mit.edu/main/wp-content/uploads/2012/08/FEMA_Clr.jpeg" text="img not found">FEMA</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/DpBDSbVClgQ?list=PL720Kw_OojlJMk-_Hk1T_gbcOgYJf7jGW" />
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=cs&amp;q=500+C+Street+SW,+Washington,+DC+2047&amp;ie=UTF8&amp;hq=&amp;hnear=500+C+St+SW,+Washington,+District+of+Columbia+20024&amp;gl=us&amp;t=h&amp;z=14&amp;ll=38.885446,-77.018576&amp;output=embed" />
+        </Maps>
+        <Feeds>
+            <li href="https://www.facebook.com/FEMA">Facebook</li>
+            <li href="https://twitter.com/fema">Twitter</li>
+        </Feeds>
+        <Summary>Agency of the United States Department of Homeland Security which primary purpose is to coordinate the response to a disaster that has occurred in the United States and that overwhelms the resources of local and state authorities. </Summary>
+    </Common>
+</Organization>
+
+<Organization ID="ORG_EPAAAA" Name="Environmental Protection Agency">
+    <Crises>
+        <Crisis ID="CRI_BEEDIE" />
+    </Crises>
+    <People>
+        <Person ID="PER_TTHBLD" />
+    </People>
+    <Kind>agency of the U.S. federal government which was created for the purpose of protecting human health and the environment by writing and enforcing regulations based on laws passed by Congress</Kind>
+    <Location>1200 Pennsylvania Ave. NW Washington, DC 20460</Location>
+    <History>
+        <li>The EPA was proposed by President Richard Nixon and began operation on December 2, 1970, after Nixon signed an executive order. The order establishing the EPA was ratified by committee hearings in the House and Senate.</li>
+    </History>
+    <ContactInfo>
+        <li>Phone: 1-800-858-7378</li>
+        <li>Email: npic@ace.orst.edu</li>
+    </ContactInfo>
+    <Common>
+        <Citations>
+            <li href="https://en.wikipedia.org/wiki/United_States_Environmental_Protection_Agency">Environmental Protection Agency. Wikipedia. Updated: 7 July, 2013. Visited: 7 July, 2013.</li>
+            <li href="http://www.earthtimes.org/business/energy-star-requirements-updated-epa/480/">Silven, Kirsten E. "Energy Star Requirements Updated by EPA". Earth Time. 16 March, 2011. Visited: 10 July, 2013.</li>
+            <li href="http://hiddencityphila.org/2013/05/epa-grant-awarded-to-clean-develop-contaminated-land-in-riverwards/">Currall, Steve. "EPA Grant Awarded To Clean and Develop Contaminated Land In Riverwards". Hiddencityphila. 23 may, 2013. Visited: 10 July, 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://www.epa.gov/">EPA official website</li>      
+        </ExternalLinks>
+        <Images>
+            <li embed="http://www.earthtimes.org/newsimage/energy-star-requirements-updated-epa.jpg" text="img not found">Energy Star Requirements Updated by EPA</li>
+            <li embed="http://hiddencityphila.org/wp-content/uploads/2013/05/epa_logo.jpg" text="img not found">EPA</li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/hcPeP8R7I38?list=PLBhfkkujnoRCd1gjqEoXGzNtIiDsH34B6" />
+            <li embed="//www.youtube.com/embed/yvrAJ5tq7Fc?list=PLBhfkkujnoRCd1gjqEoXGzNtIiDsH34B6" />
+        </Videos>
+        <Maps>
+            <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=EPA&amp;aq=&amp;sll=38.894089,-77.028719&amp;sspn=0.008409,0.012381&amp;t=h&amp;ie=UTF8&amp;hq=EPA&amp;hnear=&amp;ll=38.894089,-77.028708&amp;spn=0.008016,0.013733&amp;z=16&amp;output=embed" />
+        </Maps>
+        <Feeds>
+            <li href="facebook.com">Facebook</li>
+            <li href="twitter.com">Twitter</li>
+        </Feeds>
+    </Common>
+</Organization>
+
+<Organization ID="ORG_MUSBRO" Name="The Muslim Brotherhood">
+    <Crises>
+        <Crisis ID="CRI_UEGYPT" />
+    </Crises>
+    <People>
+        <Person ID="PER_MMORSI" />
+    </People>
+    <Kind>Islamic Movement</Kind>
+    <Location>Egypt</Location>
+    <History>
+        <li>Founded in 1928.</li>
+        <li>Largest political opposition organization across Arab states.</li>
+    </History>
+    <ContactInfo>
+        <li>Email: mail@bro.org</li>
+    </ContactInfo>
+    <Common>
+        <ExternalLinks>
+            <li href="http://www.ikhwanweb.com/">The official English website of Muslim Brotherhood</li>      
+        </ExternalLinks>
+        <Videos>
+            <li embed="//www.youtube.com/embed/ra-Cvi6cT5E">Egypt: The future of the Muslim Brotherhood</li>
+            <li embed="//www.youtube.com/embed/D3ICP1hvbdo">Muslim Brotherhood representative realizes he's on same show with Israeli, gets hysterical</li>
+        </Videos>
+        <Feeds>
+            <li href="twitter.com">Twitter</li>
+        </Feeds>
+        <Summary>
+            The Muslim Brotherhood is assumed to encourage high levels of violence, and holds bigoted views to justify the anger that leads to attacks.
+        </Summary>
+    </Common>
+</Organization>
+
+<Organization ID="ORG_EGYGOV" Name="Egyptian Government">
+    <Crises>
+        <Crisis ID="CRI_UEGYPT" />
+    </Crises>
+    <People>
+        <Person ID="PER_MMORSI" />
+    </People>
+    <Kind>Semi-presidental government</Kind>
+    <Location>Egypt</Location>
+    <History>
+        <li>The Egyptian Revolution of 2011 led to the resignation of President Hosni Mubarak.</li>
+        <li>Upon the resignation of Mubarak, the Supreme Council of the Armed Forces assumed executive power.</li>
+        <li>Mohammed Morsi became Egypts fifth president after the 2010 presidential elections.</li>
+        <li>Mohammed ElBaradei part of the ousting revolution of 2011 as the Vice President of Egypt.</li>
+        <li>A military coup deposed Morsi  on July 3, 2013.</li>
+    </History>
+    <Common>
+        <Citations>
+            <li href="http://abcnews.go.com/blogs/headlines/2013/07/egypts-interim-government-sworn-in-after-deadly-clashes/"> Hunter, Molly. Egypt’s Interim Government Sworn in After Deadly Clashes. 16 July, 2013. ABC News Blog.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://www.sis.gov.eg/en/">Egypt state information service</li>      
+        </ExternalLinks>
+        <Videos>
+            <li embed="//www.youtube.com/embed/pR95q8VmCOM">Egypt's anti-government protesters celebrate army's ultimatum</li>
+            <li embed="//www.youtube.com/embed/wTb6RtziZZs">Egypt swears in new interim government</li>
+        </Videos>
+        <Summary>
+            Right now Egypt's government structure is highly unstable and is largely influenced by the military and corrupt politicians.
+        </Summary>
+    </Common>
+</Organization>
+
+<Organization ID="ORG_IUCNAT" Name="International Union for Conservation of Nature">
+    <Crises>
+        <Crisis ID="CRI_FOREST" />
+    </Crises>
+    <People>
+        <Person ID="PER_XNSHNG" />
+    </People>
+    <Kind>Conservation Organization</Kind>
+    <Location>Global</Location>
+    <History>
+        <li>Founded in 1948.</li>
+        <li>Over 1,000 staff members, 1,200 member organizations, and 11,000 volunteer scientists and experts.</li>
+    </History>
+    <ContactInfo>
+        <li>Phone: +41 (22) 999-0000 </li>
+        <li>Email: mail@iucn.org</li>
+    </ContactInfo>
+    <Common>
+        <Videos>
+            <li embed="//www.youtube.com/embed/0uf5e9vsXWo">International Union for Conservation of Nature></li>
+            <li embed="//www.youtube.com/embed/cnth0SouJrA">IUCN: Forests for the 21st Century></li>
+        </Videos>
+        <Feeds>
+            <li href="https://twitter.com/IUCN" />
+        </Feeds>
+    </Common>
+</Organization>
+
+<Organization ID="ORG_SINCAR" Name="Sinaloa Cartel">
+    <Crises>
+        <Crisis ID="CRI_MEXDRG" />
+    </Crises>
+    <People>
+        <Person ID="PER_GUZMAN" />
+    </People>
+    <Kind>Mexican Drug Cartel</Kind>
+    <Location>Mexico</Location>
+    <History>
+        <li>Founded in 1989, the Sinaloa Cartel has become the most powerful cartel in the last few years.[2] It's success has come in part from infiltrating and bribing Mexican officals and being less confrontational than other cartels.[1]  While minimizing direct conflict with the Mexican government, the Sinaloa Cartel is at war with rival cartels, including Los Zetas, and is a big part of the Mexican drug violence.</li>
+        <li>Its leader is Joaquin Guzman Loera, Mexico's most wanted man.</li>
+        <li>In addition to weed and cocaine, the Sinaloas control 80% of the US meth trade.[3]</li>
+    </History>
+    <ContactInfo>
+        <li>Phone: (+91) 1-800-DONTKNOW</li>
+        <li>Email: donot@email.me</li>
+    </ContactInfo>
+    <Common>
+        <ExternalLinks>
+            <li href="http://www.npr.org/2010/05/19/126906809/mexico-seems-to-favor-sinaloa-cartel-in-drug-war">[1] NPR: Sinaloa Strategy</li>
+            <li href="http://articles.latimes.com/2011/jul/24/local/la-me-cartel-20110724">[2] LATimes: Sinaloas Most Powerful Cartel</li>
+            <li href="http://abcnews.go.com/ABC_Univision/News/chapo-guzman-controls-meth-trafficking-us-asia-study/story?id=18865196#.UduOkeHBKe4">[3] ABC: Sinaloa meth</li>
+
+        </ExternalLinks>
+
+        <Images>
+            <li embed="http://2.bp.blogspot.com/-SEX1xuXGPbI/Trd3ZI2kzfI/AAAAAAAAAAo/CO1HbEAs_vQ/s1600/chapovista5.jpg" text="This is the alt element of the image." />
+            <li embed="http://upload.wikimedia.org/wikipedia/commons/f/f0/Sinaloa_Cartel_Hierarchy.JPG" text="This is the alt element of the image." />
+
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/n8ReCrNOHJ8" />
+            <li embed="//www.youtube.com/embed/vFDVV1YxKuI" />
+        </Videos>
+    </Common>            
+</Organization>
+
+
+<Organization ID="ORG_LOSZTA" Name="Los Zetas Cartel">
+    <Crises>
+        <Crisis ID="CRI_MEXDRG" />
+    </Crises>
+    <People>
+        <Person ID="PER_GUZMAN" />
+    </People>
+    <Kind>Drug Cartel</Kind>
+    <Location>Mexico</Location>
+    <History>
+        <li>Founded in 1999</li>
+    </History>
+    <ContactInfo>
+        <li>Phone: (+91) 1-800-DONTKNOW</li>
+        <li>Email: donot@email.me</li>
+    </ContactInfo>
+    <Common>
+        <Images>
+            <li embed="http://www.cbc.ca/gfx/images/news/photos/2011/08/28/li-drug-cartels-bodies620-r.jpg" />
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/00DimMKganQ" />
+            <li embed="//www.youtube.com/embed/kcW1uZ52mYo" />
+        </Videos>
+        <Summary>
+            One of the largest two Mexican drug cartels, Los Zetas dominate Northeastern Mexico bordering of Texas.  Whereas the Sinaloa cartel favors bribery and diplomacy, Los Zetas tend toward confronation and brutality, including extortions, beheadings, and mass killings.
+        </Summary>
+    </Common>
+</Organization>
+
+
+<Organization ID="ORG_MEXGOV" Name="Government of Mexico">
+    <Crises>
+        <Crisis ID="CRI_MEXDRG" />
+    </Crises>
+    <People>
+        <Person ID="PER_GUZMAN" />
+    </People>
+    <Kind>Government</Kind>
+    <Location>Mexico</Location>
+    <History>
+        <li>Involved in violent conflict with drug cartels since a government crackdown in 2006.  Over 1000 Mexican police and prosecutors have been killed.[1]</li>
+    </History>
+    <ContactInfo>
+        <li>Phone: (+91) 01-800-080-1127</li>
+        <li>Email: donot@email.me</li>
+    </ContactInfo>
+    <Common>
+        <ExternalLinks>
+            <li href="http://www.eluniversal.com.mx/nacion/166613.html">[1] El Universal</li>
+        </ExternalLinks>
+
+        <Images>
+            <li embed="http://www.badassoftheweek.com/donalejo1.jpg" />
+            <li embed="http://www.globalpost.com/sites/default/files/imagecache/gp3_small_article/photos/215/Mexico_04_16_09_Navarrette_DrugWar.jpg" />
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/HM0gqTf4KNM" />
+            <li embed="//www.youtube.com/embed/tTWZCu2vezg" />
+        </Videos>
+    </Common>
+</Organization>
+
+<Organization ID="ORG_GAYRUS" Name="LGBT Human Rights Project GayRussia.Ru">
+    <Crises>
+        <Crisis ID="CRI_LGBTRU" />
+    </Crises>
+    <People>
+        <Person ID="PER_NIKALX" />
+    </People>
+    <Kind>Activist Group</Kind>
+    <Location>Russia</Location>
+    <History>
+        <li>Founded in 2005.</li>
+    </History>
+    <ContactInfo>
+        <li>Email: media@gayrussia.eu </li>
+    </ContactInfo>
+    <Common>
+        <Citations>
+            <li href="http://news.bbc.co.uk/2/hi/europe/8050068.stm"> Galpin, Richard. "Violence Feared over Moscow Gay March." BBC News. BBC, 14 May 2009. Web. 10 July 2013..</li>
+            <li href="http://www.ontopmag.com/article.aspx?id=11939"> "Nikolai Alexeyev Arrested In Attempted Moscow Gay Pride Parade." On Top Magazine. N.p., 27 May 2012. Web. 10 July 2013</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/Gayrussia">Wikipedia</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://unfinishedlives.files.wordpress.com/2011/05/moscowpride2011big1.jpg" text="img not found"> </li>
+             <li embed="http://ukgaynews.org.uk/images/2010/Slavic_Pride/Minsk_g.jpg" text="img not found"> </li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/_MYTwUDCOWM" />
+        </Videos>
+
+        <Summary>Founded in 2005, LGBT Human Rights Project GayRussia.Ru (Gayrussia.ru) is an LGBT Advocate organization in Russia. </Summary>
+    </Common>
+</Organization>
+
+    <Organization ID="ORG_BRAGOV" Name="Brazilian Government">
+        <Crises>
+            <Crisis ID="CRI_BRZLPR" />
+        </Crises>
+        <People>
+            <Person ID="PER_DLVRUS" />
+            <Person ID="PER_HPASSS" />
+        </People>
+        <Kind>Presidential Representative Democratic Republic</Kind>
+        <Location>Brasilia, Brazil</Location>
+        <History>
+            <li>Current constitution which was passed in 1988 is very democratic</li>
+            <li>There are two political parties which are internationalist liberals and state nationalists</li>
+            <li>President is both Head of State and Head of Government</li>
+            <li>Central government compose of executive, judicial, and legislative branches</li>
+        </History>
+        <ContactInfo>
+            <li href="https://sistema.planalto.gov.br/falepr2/index.php?IND_IDIOMA=I">Ask the President</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+            <li href="http://en.wikipedia.org/wiki/Politics_of_Brazil">Politics of Brazil: 20 June, 2013. Visited: 11 July, 2013.</li>
+            </Citations>
+            <ExternalLinks>
+            <li href="http://www.brasil.gov.br/?set_language=en">Brazilian Government official website</li>      
+            </ExternalLinks>
+            <Images>
+            <li embed="http://www.patentbaristas.com/wp/wp-content/uploads/2008/02/brazil-flag.gif" text="img not found">Brazilian Government</li>
+            </Images>
+            <Videos>
+            <li embed="//www.youtube.com/embed/E_6pa0zgO4k" />
+            <li embed="//www.youtube.com/embed/08P0i-TAI0c" />
+            </Videos>
+            <Maps>
+            <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=cs&amp;q=map+of+brazil&amp;ie=UTF8&amp;hq=&amp;hnear=Brazil&amp;gl=us&amp;t=m&amp;z=4&amp;ll=-14.235004,-51.92528&amp;output=embed" />
+            </Maps>
+            <Feeds>
+            <li href="https://www.facebook.com/pages/Brazilian-military-government/119755061404595?nr">Facebook</li>
+            </Feeds>
+            <Summary>The governing body of the country of the state of Brazil</Summary>
+        </Common>
+    </Organization>
+
+<Organization ID="ORG_WATERO" Name="Water.org">
+    <Crises>
+        <Crisis ID="CRI_FWATER" />
+    </Crises>
+    <People>
+        <Person ID="PER_NIKALX" />
+    </People>
+    <Kind>Nonprofit Developmental Aid Organization</Kind>
+    <Location>United States</Location>
+    <History>
+        <li>Water.org is an American nonprofit developmental aid organization resulting from the merger between H2O Africa, co-founded by Matt Damon, and WaterPartners, co-founded by Gary White in July 2009. </li>
+    </History>
+    <ContactInfo>
+        <li>http://water.org/contact/ </li>
+    </ContactInfo>
+    <Common>
+        <Citations>
+            <li href="http://environment.about.com/od/environmentalevents/a/waterdayqa.htm"> West, Larry. "World Water Day: A Billion People Worldwide Lack Safe Drinking Water." About.com Environmental Issues. N.p., n.d. Web. 11 July 2013.</li>
+            <li href="http://online.wsj.com/article/SB122244674302979203.html"> Spector, Mike. "Coalition Pledges $400 Million For Clean Water, Sanitation." The Wall Street Journal. N.p., n.d. Web. 11 July 2013.</li>
+        </Citations>
+        <ExternalLinks>
+            <li href="http://en.wikipedia.org/wiki/Water.org">Wikipedia</li>
+            <li href="http://environment.about.com/od/environmentalevents/a/waterdayqa.htm">"World Water Day: A Billion People Worldwide Lack Safe Drinking Water."</li>
+            <li href="http://online.wsj.com/article/SB122244674302979203.html">"Coalition Pledges $400 Million For Clean Water, Sanitation.</li>
+        </ExternalLinks>
+        <Images>
+            <li embed="http://images.fastcompany.com/magazine/157/features/157-features-74-matt-damon-gary-white-water.org-tamil-nadu.jpg" text="img not found"> </li>
+            <li embed="http://b.vimeocdn.com/ps/797/79721_300.jpg" text="img not found"> </li>
+        </Images>
+        <Videos>
+            <li embed="//www.youtube.com/embed/KdwinEmUqF0" />
+            <li embed="//www.youtube.com/embed/u9NJrd88LPM" />
+        </Videos>
+        <Feeds>
+            <!-- Put feed URL here and embed on your site in your own cool way-->
+            <li embed="https://twitter.com/Water" />
+        </Feeds>
+        <Summary>Its goal is to provide aid to regions of developing countries that do not have access to safe drinking water and sanitation.</Summary>
+    </Common>
+</Organization>
+
+</WorldCrises> 
