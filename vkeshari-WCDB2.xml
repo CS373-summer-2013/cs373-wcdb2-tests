@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!-- World crises XML database -->
+<!-- Team: CrisCS -->
+
+<!-- Schema: WCDB1.xsd.xml -->
+
+<WorldCrises>
+
+    <Crisis ID="CRI_NRINFL" Name="2013 Northern India Floods">
+        <People>
+            <Person ID="PER_MNSNGH" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_PMRLFD" />
+        </Organizations>
+        <Kind>Natural Disaster</Kind>
+        <Date>2013-06-14</Date>
+        <Time>09:00:00</Time>
+        <Locations>
+            <li>Uttarakhand, India</li>
+            <li>Himachal Pradesh, India</li>
+            <li>Nepal</li>
+        </Locations>
+        <HumanImpact>
+            <li>More than 1000 dead.</li>
+            <li>Over 70000 stranded.</li>
+            <li>Over 100000 more evacuated.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Ongoing large-scale crisis, impact has not been evaluated as of July 5th 2013.</li>
+            <li>Estimates over 500 Billion INR (10 Billion USD)</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Prime Minister of India undertook an aerial survey of the affected areas and announced 1,000 crore (US$170 million) aid package for disaster relief efforts in the state.</li>
+            <li>The Indian Army and the National Disaster Response Force were deployed to evacuate stranded people on June 15th 2013.</li>
+            <li>The Indian Airforce has flown hundreds of sorties every day to airdrop food and fuel for trapped villages.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="https://pmnrf.gov.in/">Donate to Prime Minister's Relief Fund</li>
+            <li href="http://google.org/personfinder/2013-uttrakhand-floods/">Google Person Finder</li>
+            <li href="http://indialookup.in/uttarakhand-helpline-numbers/">List of Helpline Numbers</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://pib.nic.in/newsite/erelease.aspx?relid=96637">Govt. of India Press Release 1</li>
+                <li href="http://pib.nic.in/newsite/erelease.aspx?relid=96702">Govt. of India Press Release 2</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://uttarakhandfloodrelief.org/">Uttarakhand Flood Relief Network</li>
+                <li href="http://en.wikipedia.org/wiki/2013_North_India_floods">Wikipedia</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://images.jagran.com/ukhand-ss-02-07-13.jpg" />
+                <li embed="http://timesofindia.indiatimes.com/photo/15357310.cms" />
+                <li embed="http://static.indianexpress.com/m-images/Sat%20Jun%2022%202013,%2019:34%20hrs/M_Id_395757_uttarakhand_floods.jpg" />
+                <li embed="http://news.oneindia.in/img/2013/06/26-army-soldiers-carry-an-injured-rescued-pilgrim.jpg" />
+                <li embed="http://d2yhexj5rb8c94.cloudfront.net/sites/default/files/styles/article_node_view/public/Uttarakhand%20Floods%20rescue_0_0_0_0_0_0_0_0_0_0.jpg" />
+                <li embed="http://static.ibnlive.in.com/ibnlive/pix/sitepix/06_2013/uttarakhand_floods_rains.jpg" />
+                <li embed="http://static.dnaindia.com/images/cache/1851113.jpg" />
+                <li embed="http://www.orissapost.com/wp-content/uploads/2013/07/Uttarakhand-floods.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/qV3s7Sa6B6w" />
+                <li embed="//www.youtube.com/embed/qYlNC55PXTE" />
+                <li embed="//www.youtube.com/embed/1WQYdj16XU0" />
+                <li embed="//www.youtube.com/embed/92aSXwKvAv0" />
+                <li embed="//www.youtube.com/embed/ZJjMSXhQA5w" />
+            </Videos>
+            <Maps>
+                <li embed="https://www.google.com/maps?sll=30.08236989592049,79.31189246107706&amp;sspn=3.2522150867582833,7.2072687770004205&amp;t=m&amp;q=uttarakhand&amp;dg=opt&amp;ie=UTF8&amp;hq=&amp;hnear=Uttarakhand,+India&amp;ll=30.066753,79.0193&amp;spn=2.77128,5.07019&amp;z=6&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/search?q=%23uttarakhand%20floods" />
+            </Feeds>
+            <Summary>In June 2013, the North Indian states of Uttarakhand and Himachal Pradesh, some regions of Western Nepal and their adjoining areas experienced heavy rainfall that triggered devastating floods and landslides. As of 29 June 2013, more than 1,000 people have died with many more missing. Damage to bridges and roads left over 70,000 pilgrims and tourists trapped in various places. The Indian Air Force, the Army and paramilitary troops have evacuated more than 100,000 people from the flood hit areas.</Summary>
+        </Common>
+    </Crisis>
+    
+    <Crisis ID="CRI_EHAITI" Name="2010 Haiti Earthquake">
+        <People>
+            <Person ID="PER_MICHEL" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_DIEMCO" />
+        </Organizations>
+        <Kind>Natural Disaster</Kind>
+        <Date>2010-01-12</Date>
+        <Time>16:53:00</Time>
+        <Locations>
+            <li>Port-au-Prince, Haiti</li>
+            <li>Leogane, Haiti</li>
+            <li>Tabarre, Haiti</li>
+            <li>Petionville, Haiti</li>
+            <li>Jacmel, Haiti</li>
+            <li>Petit Goave, Haiti</li>
+            <li>Grand Goave, Haiti</li>
+            <li>Gressier, Haiti</li>
+        </Locations>
+        <HumanImpact>
+            <li>3,500,000 people were affected and over 300,000 people were injured.</li>
+            <li>Haitian government estimated 316,000 deaths one year after the earthquake while the highest reliable death count was estimated at 220,000.</li>
+            <li>25% of civil servants in Port-au-Prince died.</li>
+            <li>Tens of thousands of refugees relocated to areas not affected.</li>
+            <li>Over 600,000 people left thier home area in Port-au-Prince and mostly stayed with host families.</li>
+            <li>At its peak, one and a half million people were living in camps including over 100,000 at critical risk from storms and flooding.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Over 188,383 houses were badly damaged and 105,000 were destroyed.</li>
+            <li>1,500,000 people became homeless.</li>
+            <li>4,000 schools were damaged or destroyed.</li>
+            <li>60% of Government and administrative buildings, 80% of schools in Port-au-Prince and 60% of schools in the South and West Departments were destroyed or damaged</li>
+            <li>After the quake there were 19 million cubic metres of rubble and debris in Port-au-Prince,  enough to fill a line of shipping containers stretching end to end from London to Beirut.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>The DEC Appeal has now raised pound 107m, two-thirds directly and one-third through its member agencies, which will be spent over three years.</li>
+            <li>DEC agencies and their partners have nearly pound 380m to spend in total from all sources</li>
+            <li>1.8million people reached by DEC funded aid.</li>
+            <li>DEC is also working on improving the water supply of 340,000 people.</li>
+            <li>DEC is also supplying drugs to five cholera treatment facilities serving 18,000 people.</li>
+            <li>DEC is also providing free medical care to 39,000 people and has improved shelters for 34,000 people.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.haitianhealthfoundation.org/">Donate to the Haitian Health Foundation</li>
+            <li href="http://www.savethechildren.org/">Sponser a child through Save the Children</li>
+            <li href="http://www.pih.org/">Partners in Health</li>
+            <li href="http://www.concernusa.org/">Help rebuild Haiti's schools through Concern Worldwide US</li>
+            <li href="http://mfkhaiti.org/index.php/contribute/">Help MFK raise money for a Medicine and Food Factory</li>
+            <li href="http://jphro.org/">Donate to the J/P Haitian Relief Foundation</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://earthquake.usgs.gov/earthquakes/eqinthenews/2010/us2010rja6/#details">US Geological Survey Releases</li>
+                <li href="http://www.dec.org.uk/haiti-earthquake-facts-and-figures">Disasters Emergency Committee</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/2010_Haiti_earthquake">Wikipedia - 2010 Haiti Earthquake</li>
+                <li href="http://news.nationalgeographic.com/news/2010/01/100113-haiti-earthquake-red-cross/">National Geographic Article: Haiti Earthquake Strange, Strongest in 200 Years</li>
+                <li href="http://www.trust.org/spotlight/Haiti-earthquake-2010">Haiti Earthquake - Thomson Reuters Foundation</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://earthquake.usgs.gov/earthquakes/dyfi/events/us/2010rja6/us/us2010rja6_ciim_zoom.jpg" />
+                <li embed="http://earthquake.usgs.gov/earthquakes/shakemap/global/shake/2010rja6/download/intensity.jpg" />
+                <li embed="http://racismandnationalconsciousness.files.wordpress.com/2012/07/dd.jpg" />
+                <li embed="http://i.dailymail.co.uk/i/pix/2010/01/15/article-1243540-07DCFE9B000005DC-496_964x659.jpg" />
+                <li embed="http://i.dailymail.co.uk/i/pix/2010/01/15/article-1243540-07DD03CB000005DC-719_964x607.jpg" />
+                <li embed="http://i.dailymail.co.uk/i/pix/2010/01/15/article-1243540-07DCFE8F000005DC-762_964x636.jpg" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/c/ce/Haitian_national_palace_earthquake.jpg" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/1/16/2010_Haiti_earthquake_relief_efforts_by_the_US_Army.jpg" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/3/34/AirdropcloseJan18haiti_edited.jpg" />
+            </Images>
+            <Videos>
+                <li embed="http://www.youtube.com/embed/RdxnGEfLbvc" />
+                <li embed="http://www.youtube.com/embed/gn9ZmForiyo" />
+                <li embed="http://www.youtube.com/embed/B5dG6vyFWFo" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?q=18.443+-72.571(M7.0+-+HAITI+REGION+-+2010+January+12++21:53:10+UTC)&amp;f=d&amp;t=m&amp;ie=UTF8&amp;z=6&amp;ll=18.443,-72.571&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/nprnews/haiti-earthquake" />
+            </Feeds>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_CYCNAR" Name="Cyclone Nargis">
+        <Organizations>
+            <Org ID="ORG_PMRLFD" />
+        </Organizations>
+        <Kind>Natural Disaster</Kind>
+        <Date>2008-04-27</Date>
+        <Time>09:00:00</Time>
+        <Locations>
+            <li>Bangladesh</li>
+            <li>Burma</li>
+            <li>India</li>
+            <li>Sri Lanka</li>
+        </Locations>
+        <HumanImpact>
+            <li>More than 138000 dead.</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Damage was estimated at over US$10 billion, which made it the most damaging cyclone ever recorded in this basin.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>The United Kingdom donated 33.5 million USD for the relief effort.</li>
+            <li>Burma made it very difficult to provide aid to the country, claiming foreign personel providing aid would violate their sovereignty.</li>
+            <li>The rice production was affected because of the cyclone and it was necesseary to aid to prevent famine. </li>
+            <li>The UN Human Settlements Programme (UN-HABITAT) reported the extent of the international response to date as less than 7 percent of the actual needs for shelter after 15 months, although emergency shelter relief efforts were well funded.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <!-- Put text with optional hyperlinks here -->
+            <li href="http://salsa.democracyinaction.org/o/1189/t/5102/campaign.jsp?campaign_KEY=24494">Sign your name to request aid</li>
+        </WaysToHelp>
+        <Common>
+            <ExternalLinks>
+                <!-- Put text with compulsory hyperlinks here -->
+                <li href="http://en.wikipedia.org/wiki/Cyclone_Nargis">Wikipedia</li>
+            </ExternalLinks>
+            
+            <!-- hrefs optional in the following depending on how you want them to behave on your site -->
+            <Images>
+                <!-- Put full URLs to images here, display them on your site in your own cool way -->
+                <li embed="http://www.unocha.org/sites/default/files/OCHA_Category/Top_Stories/nargis.jpg" />
+                <li embed="http://www.sampsoniaway.org/wp-content/uploads/2010/06/How-to-Help-Imprisoned-Burmese-Journalist-Zaw-Thet-Htwe.jpg" />
+            </Images>
+            <Videos>
+                <!-- Put youtube link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by youtube) -->
+                <!-- Embed example for your site: <iframe width="420" height="315" src="[THIS LINK]" frameborder="0" allowfullscreen></iframe> -->
+                <li embed="//www.youtube.com/embed/E4b8b8YbK9w?feature=player_detailpage" />
+            </Videos>
+            <Maps>
+                <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
+                <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
+                <li embed="https://www.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=cyclone+nargis&amp;aq=&amp;sll=16.943842,96.696167&amp;sspn=2.403853,4.22699&amp;t=m&amp;ie=UTF8&amp;hq=cyclone+nargis&amp;hnear=&amp;ll=16.943842,96.696167&amp;spn=2.403853,4.22699&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <!-- Put feed URL here and embed on your site in your own cool way-->
+                <li embed="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/in_depth/asia_pacific/2008/burma_cyclone/rss.xml" />
+            </Feeds>
+        </Common>
+    </Crisis>
+
+     <Crisis ID="CRI_AIDSHI" Name="AIDS">
+        <People>
+            <Person ID="PER_BGATES" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_UNITED" />
+            <Org ID="ORG_BAMGFN" />
+        </Organizations>
+        <Kind>Epidemic</Kind>
+        <Locations>
+            <li>Worldwide</li>
+        </Locations>
+        <HumanImpact>
+            <li>22 million dead</li>
+            <li>42 million infected</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>UN projects annual costs of 10 billion</li>
+            <li>Drug regimens cost $1,500 in developing countries, up to $15,000 in first-world countries.</li>
+            <li>Those infected are typically in the peak productivity of their lives and the loss on productiviy as the disease progresses causes billions in indirect costs.</li>
+            <li>Heavily infected nations typically enter spirals of declining GDP, causing a drop in health care support. Human capital development typically halts and even regresses as parents are unable to pass on capital to their children.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Monetary donations to subsidize drug therapy for developing countries and those who cannot afford prescriptions.</li>
+            <li>Those infected in third world countries typically do not know how the disease is transmitted, the HIV/AIDS link, etc. Education on the nature of the disease can reduce transmission rates</li>
+            <li>Programs that educate at-risk populations (sex workers, IV drug users, etc.) on methods to limit transmission, e.g. limiting sexual partners, increasing condom use, and delaying sexual debut.</li>
+            <li>Programs to help families effected by AIDS including care for orphans and income supplementation in an effort to curb human capital loss.</li>
+            <li>Testing kits to make those infected aware of their condition in an effort to limit transmission.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.aidforafrica.org/donate/">Donate to an African-focused AIDs organization.</li>
+            <li href="https://donations.unaids.org/form.asp?id=7">Donate to United Nations AIDS relief program.</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.un.org/esa/population/publications/AIDSimpact/92_CHAP_IX.pdf">United Nations report on the societal and economic impact of AIDS</li>
+                <li href="http://siteresources.worldbank.org/INTPRH/Resources/Longrun_economic_costs_of_AIDS.pdf">World Bank report on the long-term economic impact of AIDS</li>
+                <li href="http://siteresources.worldbank.org/INTPRH/Resources/Longrun_economic_costs_of_AIDS.pdf">Overview of how AIDS effects Sub-Saharan African nations and preventive measures that are being taken to help.</li>
+                <li href="http://web.worldbank.org/WBSITE/EXTERNAL/COUNTRIES/AFRICAEXT/EXTAFRHEANUTPOP/EXTAFRREGTOPHIVAIDS/0,,contentMDK:21140970~pagePK:34004173~piPK:34003707~theSitePK:717148,00.html">World Bank bullet point list on AIDS worldwide impact.</li>
+                <li href="http://www.npr.org/blogs/health/2012/07/27/157499134/cost-of-treatment-still-a-challenge-for-hiv-patients-in-u-s">Cost of AIDS in America</li>
+                <li href="http://www.who.int/hiv/mediacentre/news62/en/">WHO report on growing AIDS epidemic and ways to limit its expansion</li>        
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.un.org/millenniumgoals/">UN's Millenium Goals</li>
+                <li href="http://www.avert.org/testing.htm">How AIDS testing works</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/6/68/People_living_with_HIV_AIDS_world_map.PNG" />
+                <li embed="http://healthyliving.blog.ocregister.com/files/2011/03/aids_red_ribbon-other1.jpg" />
+                <li embed="http://us.123rf.com/400wm/400/400/designua/designua1210/designua121000010/15819881-structure-of-the-aids-virus.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/rv0yIICeg-E" />
+            </Videos>
+            <Summary>
+                Disease of human immune system that is transferred during unprotected sex, blood, breastfeeding, and child delivery with an infected person. Believed to have originiated in Africa in the early 20th century, it is reponsible
+                for millions of deaths. AIDs also serves as a source of discrimination and economic drain, and has profoundly impacted the countries where it is most prevelant.
+            </Summary>
+        </Common>
+    </Crisis>
+
+     <Crisis ID="CRI_MALARI" Name="Malaria">
+        <People>
+            <Person ID="PER_BGATES" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_UNITED" />
+            <Org ID="ORG_BAMGFN" />
+            <Org ID="ORG_NBNETS" />
+        </Organizations>
+        <Kind>Epidemic</Kind>
+        <Locations>
+            <li>Worldwide, tropical climates.</li>
+        </Locations>
+        <HumanImpact>
+            <li>219 million infections annually</li>
+            <li>660,000 deaths annually</li>
+            <li>3.3 billion reside in infectious zones</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>12 billion in direct healthcare costs</li>
+            <li>Heavily infected countries show a 33% drop in GDP growth over last 30 years compared to neighbours that have low infection rates.</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li>Insecticides and Pesticides have historically had amazing results, virtually eliminating infections in UAE while neighboring Oman has one of the highest infection rates in the world.</li>
+            <li>Rapid diagnostic tests ensure people get treatment when they need it.</li>
+            <li>Artemisinin-based combination therapies cost arround a dollar and can cure a child within three days</li>
+            <li>Mosquito nets provide a cheap barrier at night and can reduce infection rates by up to 90 percent.</li> 
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="http://www.malarianomore.org/">Donate money to subsidize drug therapy</li>
+            <li href="http://www.psi.org/our-work/healthy-lives/malaria">Donate both nets and drug therapy</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.cdc.gov/malaria/about/index.html">CDC information dashboard Malaria</li>
+                <li href="http://www.ncbi.nlm.nih.gov/books/NBK2624/">Report on the economic burden of Malaria</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.malarianomore.org/pages/the-solution">List of solutions for the Malaria crisis</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://malare-aware.weebly.com/uploads/1/8/6/3/18636798/1246003_orig.jpg" />
+                <li embed="http://www.newswise.com/images/uploads/2013/04/26/vecnet_malaria_hires.png" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/d/db/Symptoms_of_Malaria.png"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/hztGkzwWR1I" />
+            </Videos>
+            <Summary>
+                Malaria is a life threatening illness and a major cause of death worldwide. It exists in tropical and subtropical climates and still infects hundred of millions of people annually. It is a major drain on productivity of heavily infected nations and has a major economic impact. Nations have successfully eliminated malaria with wide use of insecticides in the past, such as DDT. Global eradication of the four types of malaria is a major 
+                goal of several globaliazed communal orginizations.
+            </Summary>
+        </Common>
+    </Crisis>    
+    
+   <Crisis ID="CRI_ZMBDMD" Name="Zimbabwe Conflict Diamonds">
+        <People>
+            <Person ID="PER_ROBMUG" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_UNITED" />
+        </Organizations>
+        <Kind>Systemic Exploitation</Kind>
+        <Date>2006-01-01</Date>
+        <Locations>
+            <li>Diamond fields Southwest of Mutare, Zimbabwe</li>
+        </Locations>
+        <HumanImpact>
+            <li>Forced labor</li>
+            <li>Torture</li>
+            <li>Widespread rape</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Thousands of native residents forcibly relocated</li>
+            <li>Environmental impact, poisoning of Save river</li> 
+            <li>One of the world's richest diamond deposits</li>
+        </EconomicImpact>
+        <WaysToHelp>
+            <li>Advocate for tighter restrictions on the Kimerly Process member countries</li>
+            <li>Demand proof that a diamond is conflict-free</li>
+            <li>Ultimately, refrain from purchasing diamonds</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://www.bbc.co.uk/news/world-africa-14377215">BBC Article on Humans Rights violations at Zimbabwean diamond mines in 2011</li> 
+                <li href="http://www.irinnews.org/report/89682/rights-the-blood-diamond-is-making-a-comeback">Article on the UN's decision to sanction Zimbabwean diamond exports in 2006 due to human rights abuses</li> 
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.globalwitness.org/conflict-diamonds">Primer on how diamonds fuel human rights violations</li>
+                <li href="http://www.kimberleyprocess.com/web/kimberley-process/kp-basics">United Nation's attempt at preventing sale of conflict diamonds</li>
+                <li href="http://www.humantraffickingmovie.com/stopping-blood-diamonds.html">Advocacy Group's suggestions on how to help African conflict diamond crisis</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://www.globalwitness.org/sites/default/files/IND_08_GW_09.JPG" />
+                <li embed="http://farm3.static.flickr.com/2766/4222563296_18662087b5_o.jpg" />
+                <li embed="http://24.media.tumblr.com/tumblr_m6m85lFmqH1r7k54qo1_500.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/XPDC0WV9xjs" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?q=Mutare,+Zimbabwe&amp;hl=en&amp;sll=-18.986168,32.648621&amp;sspn=0.555142,1.056747&amp;hnear=Mutare,+Manicaland,+Zimbabwe&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=6&amp;ll=-18.97476,32.65556&amp;output=embed" />
+            </Maps>
+            <Summary>
+                Extensive diamond deposits were located in late 2006 around Marange, Zimbabwe. The government quickly moved in and displaced local residents and miners. By 2008 the Zimbabwean military was practicing many humans right violations such as forced labor, torture, and mass killings to maintain its grasp. The United Nation's Kimberly Process dispatched a reviewer in 2009 to inspect claims of widespread violations and ultimately came to a
+                compromise with the Zimbabwean government.
+            </Summary>
+        </Common>
+    </Crisis>    
+
+     <Crisis ID="CRI_IOTSUN" Name="Indian Ocean Tsunami and Earthquake (2004)">
+        <People>
+            <Person ID="PER_JANEGE" />
+        </People>
+        <Organizations>
+            <Org ID="ORG_UNOCHA" />
+            <Org ID="ORG_PMRLFD" />
+        </Organizations>
+        <Kind>Natural Disaster</Kind>
+        <Date>2004-12-26</Date>
+        <Time>00:58:53</Time>
+        <Locations>
+            <li>Sumatra, Indonesia</li>
+            <li>Tamil Nadu, India</li>
+            <li> Andhra Pradesh, India</li>
+            <li> Andaman and Nicobar Islands, India</li>
+            <li> Sri Lanka</li>
+            <li> Maldives</li>
+        </Locations>
+        <HumanImpact>
+            <li>A total of 227,898 people died </li>
+            <li>125,000 injured.</li>
+            <li>Around 45,000 missing.</li>
+            <li> Nearly 1.69 million displaced</li>
+        </HumanImpact>
+        <EconomicImpact>
+            <li>Damages worth 5.59 Billion USD</li>
+            <li>Loss of property worth 4.33 Billion USD</li>
+            <li>Total economic impact worth 9.93 billion USD</li>
+        </EconomicImpact>
+        <ResourcesNeeded>
+            <li> A great deal of humanitarian aid was needed because of widespread damage of the infrastructure, shortages of food and water, and economic damage.</li>
+            <li>The main concern of humanitarian and government agencies was to provide sanitation facilities and fresh drinking water to contain the spread of diseases such as cholera, diphtheria, dysentery, typhoid and hepatitis A and B.</li>
+            <li> The World Food Programme provided food aid to more than 1.3 million people affected by the tsunami.</li>
+        </ResourcesNeeded>
+        <WaysToHelp>
+            <li href="https://pmnrf.gov.in/">Donate to the Indian Prime Minister's Relief Fund</li>
+            <li href="http://www.care.org/careswork/emergencies/tsunami/">Donate to CARE</li>
+            <li href="http://www.americares.org/emergency-response/2004-tsunami-floods-southeast-asia-india-sri-lanka.html">Americares, a non-profit emergency health organisation.</li>
+        </WaysToHelp>
+        <Common>
+            <Citations>
+                <li href="http://earthquake.usgs.gov/earthquakes/eqinthenews/2004/us2004slav/">US Geological Survey Release</li>
+                <li href="http://news.bbc.co.uk/onthisday/hi/dates/stories/december/26/newsid_4631000/4631713.stm">BBC Article</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://news.nationalgeographic.com/news/2004/12/1227_041226_tsunami.html">National Geographic Article : The Deadliest Tsunami in History ?</li>
+                <li href="http://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami">Wikipedia - 2004 Indian Ocean earthquake and tsunami</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/4/47/2004_Indonesia_Tsunami_Complete.gif" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/d/d2/TsunamiAftermathNorthofPhuket_NASA.jpg" />
+                <li embed="http://i.telegraph.co.uk/multimedia/archive/01116/tsunami_1116437i.jpg" />
+                <li embed="http://img.thesun.co.uk/multimedia/archive/01427/SNN23313GA---23_12_1427643a.jpg" />
+            </Images>
+            
+            <Videos>
+                <li embed="//www.youtube.com/embed/R-jlyfzGP-o" />
+                <li embed="//www.youtube.com/embed/RDOuwMj7Xzo" />
+                <li embed="//www.youtube.com/embed/agqy1LncD-I" />
+                <li embed="//www.youtube.com/embed/OGkeMvxotzI" />
+                <li embed="//www.youtube.com/embed/J3sSkbnCtB0" />
+            </Videos>
+            
+            <Maps>
+                <li embed="https://maps.google.com/maps?q=google+maps+indian+ocean+tsunami&amp;safe=off&amp;hnear=2004+Indian+Ocean+earthquake+and+tsunami&amp;gl=us&amp;t=m&amp;ie=UTF8&amp;hq=&amp;z=6&amp;iwloc=A&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/search?q=%23boxingday%20%23tsunami" />
+            </Feeds>
+            <Summary>The 2004 Indian Ocean earthquake was an undersea megathrust earthquake that occurred at 00:58:53 UTC on Sunday, 26 December 2004, with an epicentre off the west coast of Sumatra, Indonesia. The quake itself is known by the scientific community as the Sumatra earthquake.The resulting tsunami was given various names, including the 2004 Indian Ocean tsunami, South Asian tsunami, Indonesian tsunami, and the Boxing Day tsunami.
+The earthquake was caused when the Indian Plate was subducted by the Burma Plate and triggered a series of devastating tsunamis along the coasts of most landmasses bordering the Indian Ocean, killing over 230,000 people in fourteen countries, and inundating coastal communities with waves up to 30 meters (98 ft) high. It was one of the deadliest natural disasters in recorded history. Indonesia was the hardest-hit country, followed by Sri Lanka,India, and Thailand.
+With a magnitude of Mw 9.1, it is the third largest earthquake ever recorded on a seismograph. The earthquake had the longest duration of faulting ever observed, between 8.3 and 10 minutes. It caused the entire planet to vibrate as much as 1 centimetre (0.4 inches)and triggered other earthquakes as far away as Alaska. Its epicentre was between Simeulue and mainland Indonesia.</Summary>
+        </Common>
+    </Crisis>
+
+    <Crisis ID="CRI_USDAIP" Name="US Drone Attacks in Pakistan">
+                <People>
+                  <Person ID="PER_GEDAPE" />
+                  <Person ID="PER_BROBMA" />
+              </People>
+            <Organizations>
+                <Org ID="ORG_CEINAG" />
+            </Organizations>
+            <Kind>Civilian Casualties of War</Kind>
+            <Date>2004-06-18</Date>
+            <Time>00:00:00</Time>
+            <Locations>
+                <li>Various locations in northwest Pakistan</li>
+            </Locations>
+            <HumanImpact>
+                <li>Estimated between 1,969 and 3,461 dead (as of 8 February 2013).</li>
+            </HumanImpact>
+            <EconomicImpact>
+                <li>It is hard to estimate the economic impact of the drone attacks.  Obviously there is a socio-economic impact for the people having to live under the constant threat of drone attacks, but again it is hard to quantitatively define that impact.</li>
+            </EconomicImpact>
+            <ResourcesNeeded>
+                <li>Given that this is a CIA operation, I am not sure there is much any one individual can do to stop the drone attacks besides contacting their appropriate govermental officials.</li>
+                <li>There are two clinics put on by Stanford and NYU Law Schools (http://www.livingunderdrones.org/about-the-clinics/), but again these are more for students and faculty of the given institutions.</li>
+            </ResourcesNeeded>
+            <WaysToHelp>
+                <li href="http://www.usa.gov/Contact/Elected.shtml">Contact your local Senators and Representative</li>
+            </WaysToHelp>
+            <Common>
+              <Citations>
+                  <li href="http://natsec.newamerica.net/drones/pakistan/analysis">New America Foundation.</li>
+              </Citations>
+          <ExternalLinks>
+              <li href="http://en.wikipedia.org/wiki/Drone_attacks_in_Pakistan">Wikipedia article</li>
+              <li href="http://www.thebureauinvestigates.com/2013/01/03/obama-2013-pakistan-drone-strikes/">The Bureau of Investigative Journalism</li>
+              <li href="http://www.livingunderdrones.org/living-under-drones/">Stanford International Human Rights and Conflict Resolution Clinic</li>
+              <li href="http://www.washingtonpost.com/national/national-security/under-obama-an-emerging-global-apparatus-for-drone-killing/2011/12/13/gIQANPdILP_story.html">Washington Post</li>
+          </ExternalLinks>
+          <Images>
+              <li embed="http://si.wsj.net/public/resources/images/OB-DJ296_dronea_G_20090325222127.jpg" />
+              <li embed="http://previous.presstv.ir/photo/20111031/reportint20111031184732543.jpg" />
+              <li embed="http://www.thenewstribe.com/wp-content/uploads/2013/06/drone-attack.jpg" />
+              <li embed="http://www.opinion-maker.org/wp-content/uploads/2012/09/US-Drone-attacks-on-Pakistan.jpg" />
+          </Images>
+          <Videos>
+              <li embed="//www.youtube.com/embed/3mlWqdO1VRw" />
+              <li embed="//www.youtube.com/embed/IsbjrEHQmNE" />
+              <li embed="//www.youtube.com/embed/-4-oOnjiGx8" />
+          </Videos>
+          <Maps>
+                <li embed="https://maps.google.com/maps?q=Federally+Administered+Tribal+Areas&amp;client=ubuntu&amp;channel=cs&amp;ie=UTF8&amp;hq=&amp;hnear=Federally+Administered+Tribal+Areas,+Pakistan&amp;t=m&amp;z=7&amp;ll=32.667476,69.859741&amp;output=embed"/>
+            </Maps>
+            <Feeds>
+              <li embed="https://www.facebook.com/ProtestAgainstUsDroneAttacks?fref=ts" />
+              <li embed="https://twitter.com/SLShumanrights" />
+          </Feeds>
+          </Common>
+        </Crisis>
+
+        <Crisis ID="CRI_UEGYPT" Name="Political Unrest in Egypt">
+                <People>
+                  <Person ID="PER_HOSMUB" />
+              </People>
+            <Organizations>
+                <Org ID="ORG_SCOTAF" />
+            </Organizations>
+            <Kind>Political Revolution</Kind>
+            <Date>2011-01-25</Date>
+            <Time>00:00:00</Time>
+            <Locations>
+                <li>Egypt</li>
+            </Locations>
+            <HumanImpact>
+                <li>As many as 846 deaths and over 6000 injuries.</li>
+            </HumanImpact>
+            <EconomicImpact>
+                <li>$13.8 billion in lost foreign currency and gold reserves.</li>
+            </EconomicImpact>
+            <ResourcesNeeded>
+                <li>Economist, social reformers, stable govermental types.</li>
+                <li>General post revolution help.</li>
+            </ResourcesNeeded>
+            <WaysToHelp>
+                <li href="http://www.helpinegypt.com/">Help in Egypt</li>
+            </WaysToHelp>
+            <Common>
+              <Citations>
+                  <li href="http://www.haaretz.com/news/international/government-fact-finding-mission-shows-846-killed-in-egypt-uprising-1.356885">Haaretz.</li>
+                  <li href="http://rt.com/business/egypt-revolution-economy-impact-657/">rt.com</li>
+              </Citations>
+          <ExternalLinks>
+              <li href="https://en.wikipedia.org/wiki/2011_Egyptian_revolution#cite_note-autogenerated3-16">Wikipedia article</li>
+          </ExternalLinks>
+          <Images>
+              <li embed="http://www.david-campbell.org/wp-content/uploads/2011/02/Egypt.jpg" />
+          </Images>
+          <Videos>
+              <li embed="//www.youtube.com/embed/jxvBDTYiM2g" />
+          </Videos>
+          <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=2011+Egyptian+revolution,+Ad+Doqi+A,+Ad+Doqi,+Giza,+Egypt&amp;aq=&amp;sll=26.824071,30.805664&amp;sspn=17.885571,33.815918&amp;t=m&amp;ie=UTF8&amp;geocode=FbVFygEdG1TcAQ&amp;split=0&amp;hq=&amp;hnear=2011+Egyptian+revolution&amp;ll=30.033333,31.216667&amp;spn=0.067988,0.132093&amp;z=6&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://www.facebook.com/EgyptRevolutionOrAnarchy?fref=ts" />
+          </Feeds>
+          </Common>
+        </Crisis>
+
+        <Crisis ID="CRI_NORWAY" Name="2011 Norway attacks">
+                <People>
+                  <Person ID="PER_JENSTO" />
+              </People>
+            <Organizations>
+                <Org ID="ORG_LABPAR" />
+            </Organizations>
+            <Kind>Terrorist Attack</Kind>
+            <Date>2011-07-22</Date>
+            <Time>15:25:22</Time>
+            <Locations>
+                <li>Oslo, Norway</li>
+                <li>Utoya, Norway</li>
+            </Locations>
+            <HumanImpact>
+                <li>77 deaths and 319 injured.</li>
+            </HumanImpact>
+            <EconomicImpact>
+                <li>na</li>
+            </EconomicImpact>
+            <ResourcesNeeded>
+                <li>na</li>
+            </ResourcesNeeded>
+            <WaysToHelp>
+                <li href="http://www.twinutesilence.com/">A moment of social media silence in memory of the victims.</li>
+            </WaysToHelp>
+            <Common>
+              <Citations>
+                  <li href="http://www.jordskjelv.no/cgi-bin/showpage.cgi?type=siste&amp;id=1311425084">Norsar Jordskjelv.no.</li>
+              </Citations>
+          <ExternalLinks>
+              <li href="http://en.wikipedia.org/wiki/2011_Norway_attacks">Wikipedia article</li>
+          </ExternalLinks>
+          <Images>
+              <li embed="http://media.oregonlive.com/oregonian/photo/2011/07/-4621d0637b17b96f.JPG" />
+          </Images>
+          <Videos>
+              <li embed="//www.youtube.com/embed/n8B8dnbdvr8" />
+          </Videos>
+          <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2011+norway+attacks&amp;aq=&amp;sll=30.036851,31.228037&amp;sspn=0.067988,0.132093&amp;ie=UTF8&amp;hq=&amp;hnear=2011+Norway+attacks&amp;t=m&amp;z=6&amp;iwloc=A&amp;ll=59.914978,10.746544&amp;output=embed" />
+            </Maps>
+            <Feeds>
+                <li embed="https://www.facebook.com/pages/Norway-massacre/267299463284403" />
+          </Feeds>
+          </Common>
+        </Crisis>
+
+    
+      <Person ID="PER_ROBMUG" Name="Robert Mugabe">
+        <Crises>
+            <Crisis ID="CRI_ZMBDMD" />
+        </Crises>
+        <Kind>Politician</Kind>
+        <Location>Zimbabwe</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.biography.com/people/robert-mugabe-9417391">Biography</li>
+            </Citations>
+            <ExternalLinks>
+                 <li href="http://en.wikipedia.org/wiki/Robert_Mugabe">Wikipedia Entry</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/8/8d/Robert_Mugabe_-_2009.jpg" />
+                <li embed="http://dingo.care2.com/pictures/c2c/share/12/129/949/1294930_370.jpg" />
+            </Images>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=robert+mugabe&amp;aq=&amp;sll=-1.264012,36.875267&amp;sspn=0.165098,0.264187&amp;ie=UTF8&amp;ll=-1.264012,36.875267&amp;spn=0.165094,0.264187&amp;t=m&amp;z=13&amp;output=embed"></li>
+            </Maps>
+            <Summary>
+                Controversial president of Zimbabwe since 1987. Zimbabwe's GDP/C has shrunk by more than half over his reign, and has included claims of racism, genocide, and other civil rights violations. Critics claim that he
+                was reponsible for the massacre of 150 illegal miners and ongoing civil rights violations around the Mutare diamond fields.
+            </Summary>
+        </Common>        
+    </Person>
+    <Person ID="PER_MNSNGH" Name="Manmohan Singh">
+        <Crises>
+            <Crisis ID="CRI_NRINFL" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_PMRLFD" />
+        </Organizations>
+        <Kind>Politician</Kind>
+        <Location>India</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.rediff.com/money/2005/sep/26pm.htm">Manmohan Singh's Economic Reform :Rediff</li>
+                <li href="http://www.reuters.com/article/2009/05/22/india-election-pm-idUSDEL00004820090522">India PM Singh takes oath for second term :Reuters</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://news.bbc.co.uk/2/hi/south_asia/3725357.stm">BBC Profile: Prime Minister of India</li>
+                <li href="http://en.wikipedia.org/wiki/2013_North_India_floods">Prime Minister's Office, India</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Prime_Minister_Manmohan_Singh_in_WEF_,2009.jpg/220px-Prime_Minister_Manmohan_Singh_in_WEF_,2009.jpg" />
+                <li embed="http://www.dnd.com.pk/wp-content/uploads/2013/05/Prime-Minister-Manmohan-Singh.jpg" />
+                <li embed="http://www.darpanmagazine.com/wp-content/uploads/2011/11/barack-obama_16.jpg" />
+                <li embed="http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2013/03/29/Photos/jinping_singh--621x414.jpg" />
+                <li embed="http://kaw.stb.s-msn.com/i/CE/A2B72AD930BB988F2DE214D739FD6.jpg" />
+                <li embed="http://static.ibnlive.in.com/ibnlive/pix/sitepix/09_2012/manmohan_singh_fdi_pti.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/-xEWkHehqdg" />
+                <li embed="//www.youtube.com/embed/DiFftNWRu6g" />
+                <li embed="//www.youtube.com/embed/TBrbnaSfDDo" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=7,+Race+Course+Road,+Delhi+Gymkhana+Club,+Delhi,+India&amp;aq=0&amp;oq=7+race+course+road+del&amp;sll=30.325471,-97.753601&amp;sspn=0.708857,1.234589&amp;ie=UTF8&amp;hq=&amp;hnear=Race+Course+Rd,+Delhi+Gymkhana+Club,+New+Delhi,+Delhi+110011,+India&amp;t=m&amp;z=14&amp;ll=28.598757,77.203198&amp;output=embed"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/search?q=%23manmohan%20singh" />
+            </Feeds>
+            <Summary>Manmohan Singh (born 26 September 1932) is the 13th and current Prime Minister of India. Singh holds a doctorate in economics from Oxford university, and has served as an advisor to the Ministry of Foreign Trade, India (1966-69), Governer of the Reserve Bank of India (1982-85) and Deputy Chairman of the Planning Commission (1985-87), before being appointed the Minister of Finance in the Indian cabinet in 1991. As the Minister of finance, Singh carried out several structural reforms that liberalised India's economy. In 2004, Singh was elected as the Prime Minister of India. His government has since executed several key legislations and projects including the Rural Health Mission, Unique Identification Authority, Rural Employment Guarantee scheme and the Right to Information Act.</Summary>
+        </Common>        
+    </Person>
+     <Person ID="PER_BGATES" Name="Bill Gates">
+        <Crises>
+            <Crisis ID="CRI_AIDSHI" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_BAMGFN" />
+        </Organizations>
+        <Kind>Philanthropist</Kind>
+        <Location>United States</Location>
+        <Common>
+            <ExternalLinks>
+                <li href="http://www.gatesfoundation.org/">Website</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://www.microsoft.com/global/en-us/news/PublishingImages/bod/billg/gates_print.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/CIZGDT7ZqdM" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=bill+gates+usa&amp;aq=&amp;sll=45.41002,-119.075317&amp;sspn=2.306106,4.938354&amp;ie=UTF8&amp;hq=&amp;hnear=Bill+Gates'+House,+Medina,+Washington+98039&amp;ll=47.628017,-122.242108&amp;spn=0.034591,0.077162&amp;t=m&amp;z=14&amp;output=embed"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/BillGates"></li>
+            </Feeds>
+            <Summary>Famous founder of Microsoft and previously the richest man in the world, Bill Gates now spends most of his time heading his philanthropy organization, The Bill and Melinda Gates Foundation</Summary>
+        </Common>        
+    </Person>
+    
+       <Person ID="PER_JANEGE" Name="Jan Egeland">
+        <Crises>
+            <Crisis ID="CRI_IOTSUN" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_UNOCHA" />
+        </Organizations>
+        <Kind>Politician</Kind>
+        <Location>Norway</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.un.org/news/Press/docs/2003/sga840Rev1.doc.htm">UN Press Release</li>
+                <li href="http://washingtontimes.com/national/20041228-122330-7268r.htm">U.N. official slams U.S. as stingy over aid</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.aftenposten.no/meninger/kronikker/article1672368.ece#.UdtEsz6DR7M">Newspaper Article on Jan Egeland</li>
+                <li href="http://www.hrw.org/bios/jan-egeland">Human Rights Watch Biography</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://www.hrw.org/sites/default/files/imagecache/scale-200x/media/images/photographs/Jan_Egeland_web.jpg" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/3/3b/JePak_%28128%29.jpg" />
+                <li embed="http://english.nupi.no/var/ezwebin_site/storage/images/nupi.no/virksomheten/ledelse/jan-egeland/egelan-jan-04-x-crop/44014-1-nor-NO/Egelan-Jan-04-X-crop.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/_E_-xa2u2qE" />
+                <li embed="//www.youtube.com/embed/6S3gu9pnEFw" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=norway&amp;aq=&amp;sll=-1.320474,36.804543&amp;sspn=0.165094,0.264187&amp;ie=UTF8&amp;hq=&amp;hnear=Norway&amp;ll=60.472024,8.468946&amp;spn=1.328733,4.22699&amp;t=m&amp;z=9&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/search?q=%23Egeland" />
+            </Feeds>
+            <Summary>Jan Egeland (born 12 September 1957 in Stavanger, Norway) is a Norwegian politician from the Labour party. He is the Deputy Director of Human Rights Watch and the Director of Human Rights Watch Europe. Egeland took up the position as director of the Norwegian Institute of International Affairs on 1 September 2007. Egeland also holds a post as Professor II at theUniversity of Stavanger.
+Egeland was the United Nations Undersecretary-General for Humanitarian Affairs and Emergency Relief Coordinator from June 2003 to December 2006. Egeland was appointed bySecretary-General Kofi Annan and succeeded Kenzo Oshima. He traveled extensively, drawing attention to humanitarian emergencies.
+Egeland was also Secretary General of the Norwegian Red Cross. He served as State Secretary in the Norwegian Ministry of Foreign Affairs (1990 to 1997) and was Chair of Amnesty International Norway..</Summary>
+        </Common>        
+    </Person>
+    
+    <Person ID="PER_GEDAPE" Name="General David Petraeus">
+        <Crises>
+            <Crisis ID="CRI_USDAIP" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_CEINAG" />
+        </Organizations>
+        <Kind>Former Director CIA</Kind>
+        <Location>Los Angeles, CA (currently a USC faculty member)</Location>
+        <Common>
+            <Citations>
+                <li href="http://ktla.com/2013/05/02/ex-cia-director-david-petraeus-joins-usc-faculty/#axzz2YDlZyZGS">KTLA 5 Los Angeles, CA</li>
+            </Citations>
+                <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/David_Petraeus">Wikipedia article</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://msnbcmedia.msn.com/j/MSNBC/Components/Photo/_new/121109-david-petraeus-wife-1258p.380;380;7;70;0.jpg" />
+                <li embed="http://1.bp.blogspot.com/-QlXuheRKXeo/UJ_Y-AjMvRI/AAAAAAAAEI4/WRZIiqVl4CY/s1600/David-Petraeus.jpg" />
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DCIA_David_Petraeus.jpg/220px-DCIA_David_Petraeus.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/mgake-R32YE" />
+                <li embed="//www.youtube.com/embed/iNVmqCwxQQo" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=pentagon&amp;aq=&amp;sll=37.596824,-79.508057&amp;sspn=8.370901,16.907959&amp;ie=UTF8&amp;hq=pentagon&amp;ll=38.870895,-77.055829&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/PetraeusNews" />
+            </Feeds>
+        </Common>        
+    </Person>
+
+    <Person ID="PER_HOSMUB" Name="Hosni Mubarak">
+        <Crises>
+            <Crisis ID="CRI_UEGYPT" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_SCOTAF" />
+        </Organizations>
+        <Kind>Former President Egypt</Kind>
+        <Location>Egypt</Location>
+        <Common>
+            <Citations>
+                <li href="http://topics.nytimes.com/top/reference/timestopics/people/m/hosni_mubarak/index.html">New York Times</li>
+            </Citations>
+                <ExternalLinks>
+                <li href="https://en.wikipedia.org/wiki/Hosni_Mubarak">Wikipedia article</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hosni_Mubarak_ritratto.jpg/220px-Hosni_Mubarak_ritratto.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/NtpamD9Jx3g" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=torah+prison+egypt&amp;aq=&amp;sll=30.04442,31.235712&amp;sspn=0.177721,0.308647&amp;ie=UTF8&amp;hq=&amp;hnear=Passages+Insaid+Toura+Prison,+Egypt&amp;t=m&amp;z=14&amp;ll=29.955847,31.281636&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://www.facebook.com/pages/Hosni-Mubarak/112362755441646?fref=ts" />
+            </Feeds>
+        </Common>        
+    </Person>
+
+    <Person ID="PER_JENSTO" Name="Jens Stoltenberg">
+        <Crises>
+            <Crisis ID="CRI_NORWAY" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_LABPAR" />
+        </Organizations>
+        <Kind>Current Prime Minister of Norway</Kind>
+        <Location>Norway</Location>
+        <Common>
+            <Citations>
+                <li href="http://www.bt.no/nyheter/--Man-ma-tro-at-det-nytter-2633333.html#.Udubr_nvsrU">Bergens Tidende</li>
+            </Citations>
+                <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Jens_Stoltenberg">Wikipedia article</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="https://upload.wikimedia.org/wikipedia/commons/8/81/Jens_Stoltenberg.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/8oPbd9UvZuY" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?q=Inkognitogata+18+map&amp;ie=UTF8&amp;hq=&amp;hnear=Inkognitogata+18&amp;gl=us&amp;ll=59.918056,10.723611&amp;spn=0.006432,0.01929&amp;t=m&amp;z=14&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://www.facebook.com/jensstoltenberg?fref=ts" />
+            </Feeds>
+        </Common>        
+    </Person>
+
+    <Person ID="PER_MRBONO" Name="Bono">
+        <Crises>
+            <Crisis ID="CRI_AIDSHI" />
+            <Crisis ID="CRI_MALARI" />
+        </Crises>
+        <Organizations>
+            <Org ID="ORG_GFFATM" />
+        </Organizations>
+        <Kind>Singer in group U2</Kind>
+        <Location>Ireland</Location>
+        <Common>
+                <ExternalLinks>
+                <li href="http://http://en.wikipedia.org/wiki/Bono">Wikipedia article</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://greenbuzzz.net/wp-content/uploads/2011/10/bono-www-genomeboy-com.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/1VOlXwhp00Y" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=ireland&amp;aq=&amp;sll=53.340303,-6.48468&amp;sspn=0.394391,1.056747&amp;ie=UTF8&amp;hq=&amp;hnear=Ireland&amp;ll=53.41291,-8.24389&amp;spn=0.197301,0.528374&amp;t=m&amp;z=12&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/paul_hewson"></li>
+            </Feeds>
+        </Common>        
+    </Person>
+
+    <Person ID="PER_BROBMA" Name="Barack Obama">
+        <Crises>
+            <Crisis ID="CRI_USDAIP"/>
+        </Crises>
+        <Kind>President</Kind>
+        <Location>Washington, D.C, United States of America</Location>
+        <Common>
+            <Citations>
+                <li href="http://en.wikipedia.org/wiki/Barack_Obama">Wikipedia page for Barack Obama</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.whitehouse.gov/administration/president-obama/">Official Whitehouse page for Barack Obama</li>
+                <li href="http://www.barackobama.com">Barack Obama's campaign website</li>
+                <li href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=o000167">Official Congressional page for Barack Obama</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg" text="President Barack Obama"/>
+                <li embed="http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Ann_Dunham_with_father_and_children.jpg/220px-Ann_Dunham_with_father_and_children.jpg" text="Young Barack Obama with family"/>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flickr_Obama_Springfield_01.jpg/220px-Flickr_Obama_Springfield_01.jpg" text="President Obama and First Lady at a rally"/>
+                <li embed="http://disinfo.s3.amazonaws.com/wp-content/uploads/2010/02/JointSessionCongress.jpg" text="United States Congress joint session"/>
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/qIJr_Pr6A4o" />
+                <li embed="//www.youtube.com/embed/oMJxzueBxjQ" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=cs&amp;ie=UTF8&amp;q=white+house+maps&amp;fb=1&amp;gl=us&amp;hq=white+house+maps&amp;hnear=white+house+maps&amp;cid=0,0,8167675777476425407&amp;t=m&amp;iwloc=A&amp;ll=38.897683,-77.036497&amp;spn=0.006295,0.006295&amp;output=embed" text="The White House"/>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/BarackObama"></li>
+            </Feeds>
+        </Common>
+    </Person>
+
+    <Person ID="PER_MICHEL" Name="Michel Joseph Martelly">
+        <Crises>
+            <Crisis ID="CRI_EHAITI" />
+        </Crises>
+        <Kind>President of Haiti</Kind>
+        <Location>Port-au-Prince, Haiti</Location>
+        <Common>
+                <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Michel_Martelly">Wikipedia article</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/5/50/Michel_Martelly_on_April_20%2C_2011.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/uUhQzYyGCdU" />
+            </Videos>
+            <Maps>
+                <li embed ="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=michel+martelly+residence&amp;aq=&amp;sll=18.94266,-72.246094&amp;sspn=1.45995,2.469177&amp;ie=UTF8&amp;ll=18.94266,-72.246094&amp;spn=2.919691,4.938354&amp;t=m&amp;z=8&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/MichelJMartelly"></li>
+            </Feeds>
+        </Common>        
+    </Person>
+
+    <Organization ID="ORG_GFFATM" Name="The Global Fund">
+        <Crises>
+            <Crisis ID="CRI_AIDSHI" />
+            <Crisis ID="CRI_MALARI" />
+        </Crises>
+        <People>
+            <Person ID="PER_MRBONO" />
+        </People>
+        <Kind>International Financing Organization</Kind>
+        <Location>India</Location>
+        <History>
+            <li>Since the Fund was created in 2002, public sector pledges have totaled USD 28.3 billion (95 percent of all pledges). The remaining USD 1.6 billion (5 percent) has been pledged from the private sector or other financing initiatives. </li>
+        </History>
+        <ContactInfo>
+            <li>Telephone: +41 58 791 1700</li>
+            <li href="http://www.theglobalfund.org/en/contact/">Contact Online</li>
+        </ContactInfo>
+        <Common>
+            <ExternalLinks>
+                <li href="http://www.theglobalfund.org/en/">The Global Fund: Home</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="http://www.fightaidsghana.org/wp-content/uploads/2012/09/Global-fund.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/Q3UCryoc6sc?feature=player_detailpage" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=The+Global+Fund+geneva&amp;daddr=&amp;hl=en&amp;geocode=&amp;aq=&amp;sll=38.719805,-110.368652&amp;sspn=16.471234,33.815918&amp;mra=ls&amp;ie=UTF8&amp;ll=46.220446,6.098655&amp;spn=0.006295,0.009099&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/globalfundnews"></li>
+            </Feeds>
+            <Summary>The Global Fund is an innovative financing institution that provides funding to countries to support programs that prevent, treat and care for people with HIV and AIDS, tuberculosis and malaria.</Summary>
+        </Common>
+    </Organization>
+    
+    <Organization ID="ORG_PMRLFD" Name="Prime Minister's Relief Fund">
+        <Crises>
+            <Crisis ID="CRI_NRINFL" />
+            <Crisis ID="CRI_CYCNAR" />
+        </Crises>
+        <People>
+            <Person ID="PER_MNSNGH" />
+        </People>
+        <Kind>Governement Fund</Kind>
+        <Location>India</Location>
+        <History>
+            <li>Founded in 1948 by the then Prime Minister of India, Pt. Jawaharlal Nehru.</li>
+        </History>
+        <ContactInfo>
+            <li>Telephone: 91-11-23012312</li>
+            <li href="http://pmindia.gov.in/feedback.php">Feedback</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://www.newstrackindia.com/newsdetails/2013/06/21/44--Affected-people-in-Uttarakhand-need-our-help-says-PM.html">'Affected people in Uttarakhand need our help', says PM</li>
+                <li href="http://www.dnaindia.com/india/1851011/report-uttarakhand-floods-donate-to-help-victims-appeals-prime-minister-manmohan-singh">Uttarakhand floods: Donate to help victims, appeals Prime Minister Manmohan Singh</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://pmindia.gov.in/pmfunds.php">PMNRF: Home</li>
+                <li href="http://pmindia.gov.in/relief.php?nodeid=70">PMNRF: Projects under implementation</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/p480x480/935902_10151563003564215_2143045726_n.png" />
+                <li embed="http://photogallery.indiatimes.com/news/india/rescue-relief-uttarakhand/photo/20713370/Army-men-unload-relief-material-from-an-IAF-MI-26-helicopter-at-Gauchar-district-Chamoli-in-Uttarakhand-.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/RwSghlRceeY" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=prime+minister's+office+new+delhi&amp;aq=&amp;sll=46.203359,6.012268&amp;sspn=0.228585,0.528374&amp;ie=UTF8&amp;hq=prime+minister's+office&amp;hnear=West+Delhi,+Delhi,+India&amp;t=m&amp;fll=28.617782,77.206271&amp;fspn=0.00906,0.016512&amp;st=104645220268739582178&amp;rq=1&amp;ev=zo&amp;split=1&amp;ll=28.628192,77.177008&amp;spn=0.00906,0.016512&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/search?q=pmnrf.gov.in" />
+            </Feeds>
+            <Summary>In pursuance of an appeal by the then Prime Minister, Pt. Jawaharlal Nehru in January, 1948, the Prime Minister's National Relief Fund (PMNRF) was established with public contributions to assist displaced persons from Pakistan. The resources of the PMNRF are now utilized primarily to render immediate relief to families of those killed in natural calamities like floods, cyclones and earthquakes, etc. and to the victims of the major accidents and riots. Assistance from PMNRF is also rendered for medical treatment like heart surgeries, kidney transplantation, cancer treatment, etc. The fund consists entirely of public contributions and does not get any budgetary support. The corpus of the fund is invested with banks in fixed deposits. Disbursements are made with the approval of the Prime Minister.</Summary>
+        </Common>
+    </Organization>
+  
+   <Organization ID="ORG_UNOCHA" Name="United Nations Office for the Coordination of Humanitarian Affairs">
+        <Crises>
+            <Crisis ID="CRI_IOTSUN" />
+        </Crises>
+        <People>
+            <Person ID="PER_JANEGE" />
+        </People>
+        <Kind>Inter Agency Body</Kind>
+        <Location>United States of America</Location>
+        <History>
+            <li>The United Nations Office for the Coordination of Humanitarian Affairs (OCHA) is a United Nations (UN) body formed in December 1991 by General Assembly Resolution 46/182. The resolution was designed to strengthen the UN's response to complex emergencies and natural disasters by creating the Department of Humanitarian Affairs (DHA), and replacing the Office of the United Nations Disaster Relief Coordinator, which had been formed in 1972. In 1998, due to reorganisation, DHA merged into the OCHA and was designed to be the UN focal point on major disasters. Its mandate was expanded to also include the coordination of humanitarian response, policy development and humanitarian advocacy. </li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.unocha.org/contact">Contact Form for OCHA</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://www.unocha.org/top-stories/all-stories/whd-life-and-death-tsunami-hit-indonesia">WHD: Life and death in Tsunami-hit Indonesia</li>
+            </Citations>
+            <ExternalLinks>
+                <li href="http://www.unocha.org">OCHA: Home</li>
+                <li href="http://www.unocha.org/what-we-do/coordination/overview">OCHA : Coordination</li>
+            </ExternalLinks>
+            
+            <Images>
+                <li embed="https://sphotos-b.xx.fbcdn.net/hphotos-ash3/p480x480/563390_420244154734043_963602538_n.jpg" />
+                <li embed="http://www.un.org/News/dh/photos/large/2009/62206-tsunami.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/kn8Yh6lP4ks" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+Nations+Office+for+the+Coordination+of+Humanitarian+Affairs+office&amp;sll=42.811522,40.253906&amp;sspn=61.229473,135.263672&amp;ie=UTF8&amp;hq=United+Nations+Office+for+the+Coordination+of+Humanitarian+Affairs+office&amp;hnear=&amp;ll=46.222838,6.138906&amp;spn=0.071946,0.071946&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/UNOCHA" />
+            </Feeds>
+            <Summary>OCHA is headed by the Undersecretary-General for Humanitarian Affairs and Emergency Relief Coordinator, currently Valerie Amos. As of 2007 OCHA has some 1,064 staff, distributed across the world. Major OCHA country offices are located in Afghanistan, Burundi, Central African Republic, Chad, Colombia, Democratic Republic of Congo, Ethiopia, Eritrea, Ivory Coast, Palestinian territories, Sri Lanka, Sudan (including a sub-office in Southern Sudan's capital Juba), Uganda, and Zimbabwe, while regional offices are located in Panama City, Dakar, Cairo, Johannesburg, and Bangkok. OCHA also has some liaison and support staff in New York and Geneva.</Summary> 
+       </Common>
+    </Organization>
+
+  
+    <Organization ID="ORG_UNITED" Name="United Nations">
+        <Crises>
+            <Crisis ID="CRI_AIDSHI" />
+        </Crises>
+        <Kind>Interational Cooperative</Kind>
+        <Location>Worldwide</Location>
+        <History>
+            <li>Founded in 1945 after World War II.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.un.org/en/">Website</li>
+        </ContactInfo>
+        <Common>
+            <Images>
+                <li embed="http://2.bp.blogspot.com/-uUSCw_OQS7U/UFsbtC43cLI/AAAAAAAAAco/CC_iwH4OOoM/s320/United-nations-UN-flag-picrure.png" />
+            </Images>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Quaker+United+Nations+Office,+United+Nations+Plaza,+New+York,+NY&amp;aq=0&amp;oq=United+Nations+Office+new&amp;sll=46.225737,6.140671&amp;sspn=0.028561,0.066047&amp;ie=UTF8&amp;hq=Quaker+United+Nations+Office,&amp;hnear=United+Nations+Plaza,+New+York&amp;ll=40.75014,-73.969197&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="//www.youtube.com/embed/GbQTYHAN2c8" />
+            </Feeds>
+            <Summary>
+                International organization containing 193 member countries as an advocate of peace and cooperation between member states.
+            </Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_BAMGFN" Name="Bill and Melinda Gates Foundation">
+        <Crises>
+            <Crisis ID="CRI_AIDSHI" />
+        </Crises>
+        <Kind>Interational Cooperative</Kind>
+        <Location>Worldwide</Location>
+        <History>
+            <li>Founded by Bill and Melinda Gates in 1994 with an initial endowment of 94 million. Now largely ran by Bill Gates himself after he resigned as CEO of Microsoft</li>
+        </History>
+        <ContactInfo>
+            <li href="http://en.wikipedia.org/wiki/Bill_%26_Melinda_Gates_Foundation">Wikipedia Page</li>
+        </ContactInfo>
+        <Common>
+            <ExternalLinks>
+                <li href="http://www.gatesfoundation.org/">Official Website</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://blogs-images.forbes.com/mfonobongnsehe/files/2012/07/Bill-and-Melinda-Gates-Foundation1.png" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/2VdMqmVtnOM" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=The+Gates+Foundation,+5th+Avenue+North,+Seattle,+WA&amp;aq=0&amp;oq=gates+&amp;sll=47.61054,-122.334694&amp;sspn=0.027833,0.066047&amp;g=Main+Office+500+Fifth+Avenue+North+Seattle,+WA+98102+(206)+709-3100&amp;ie=UTF8&amp;hq=The+Gates+Foundation,+5th+Avenue+North,+Seattle,+WA&amp;ll=47.623322,-122.345635&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/gatesfoundation"></li>
+            </Feeds>
+
+            <Summary>A leading philanthrocapitalist organization founded by the founder of Microsoft Bill Gates and his wife Melinda. </Summary>
+        </Common>
+    </Organization>
+
+     <Organization ID="ORG_NBNETS" Name="Nothing But Nets">
+        <Crises>
+            <Crisis ID="CRI_MALARI" />
+        </Crises>
+        <Kind>Charity</Kind>
+        <Location>Worldwide</Location>
+        <History>
+            <li>Founded in 2006 from a column in Sports Illustrated written by Rick Reilly advocating nets for malaria prevention.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.nothingbutnets.net">Official Website</li>
+        </ContactInfo>
+        <Common>
+            <Images>
+                <li embed="http://www.jcivancouver.com/wp-content/uploads/2012/05/Stop-This-Killer-A4.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/dyBWjN1e31A" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=nothing+but+nets&amp;aq=&amp;sll=36.456636,-32.519531&amp;sspn=118.085589,270.527344&amp;ie=UTF8&amp;hq=nothing+but+nets&amp;ll=42.267652,-71.351681&amp;spn=0.016514,0.032015&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/nothingbutnets"></li>
+            </Feeds>
+            <Summary>A nonprofit organization dedicated to providing insecticide-treated mosquito nets for those most in need.</Summary>
+        </Common>
+    </Organization>
+
+    <Organization ID="ORG_CEINAG" Name="Central Intelligence Agency">
+        <Crises>
+            <Crisis ID="CRI_USDAIP" />
+        </Crises>
+        <People>
+            <Person ID="PER_GEDAPE" />
+        </People>
+        <Kind>Governmental Intelligence</Kind>
+        <Location>Langley, VA</Location>
+        <History>
+            <li>Formed on September 18, 1947.</li>
+        </History>
+        <ContactInfo>
+            <li href="https://www.cia.gov/contact-cia">contact the CIA</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="https://www.cia.gov/about-cia/history-of-the-cia/index.html">History of the CIA</li>
+            </Citations>
+                <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Central_Intelligence_Agency">Wikipedia article</li>
+                <li href="https://www.cia.gov/index.html">Central Intelligence Agency site</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://silverunderground.com/wp-content/uploads/2013/03/CIA.jpg" />
+                <li embed="http://cryptome.org/eyeball/cia-dc/cia-dc-cia-hq-south.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/6k_pZ5lBg14" />
+                <li embed="//www.youtube.com/embed/XTCoOKZoDIE" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=cia+office&amp;sll=39.070379,-77.879333&amp;sspn=2.051303,4.22699&amp;ie=UTF8&amp;hq=cia+office&amp;hnear=&amp;ll=39.070379,-77.879333&amp;spn=2.051303,4.22699&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="None" />
+            </Feeds>
+            </Common>
+    </Organization>
+
+    <Organization ID="ORG_SCOTAF" Name="Supreme Council of the Armed Forces">
+        <Crises>
+            <Crisis ID="CRI_UEGYPT" />
+        </Crises>
+        <People>
+            <Person ID="PER_HOSMUB" />
+        </People>
+        <Kind>Governing body of Egyptian military</Kind>
+        <Location>Cairo, Egypt</Location>
+        <History>
+            <li>Took control of the Egyptian government on Feb. 11, 2011.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.sis.gov.eg/Ar/Default.aspx">Egypt State Information Service</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://www.theglobeandmail.com/news/world/crisis-in-egypt/the-new-face-of-power-in-cairo/article1904700/">The Globe and Mail</li>
+            </Citations>
+                <ExternalLinks>
+                <li href="https://en.wikipedia.org/wiki/Supreme_Council_of_the_Armed_Forces">Wikipedia article</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://www.onislam.net/english/oimedia/onislamen/images/mainimages/main_picture.jpg" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/Bjh7QdyeUyU" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Supreme+Council+of+the+Armed+Forces+location&amp;sll=29.654642,30.978699&amp;sspn=2.29604,4.22699&amp;ie=UTF8&amp;hq=Supreme+Council+of+the+Armed+Forces&amp;hnear=&amp;ll=29.654642,30.978699&amp;spn=1.872463,3.158022&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://www.facebook.com/pages/Supreme-Council-of-the-Armed-Forces/211393838875525?fref=ts" />
+            </Feeds>
+            </Common>
+    </Organization>
+
+    <Organization ID="ORG_LABPAR" Name="Labour Party (Norway)">
+        <Crises>
+            <Crisis ID="CRI_NORWAY" />
+        </Crises>
+        <People>
+            <Person ID="PER_JENSTO" />
+        </People>
+        <Kind>Political Party</Kind>
+        <Location>Norway</Location>
+        <History>
+            <li>Founded in 1887.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://arbeiderpartiet.no/Kontakt">It's all in Norwegian!</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://arbeiderpartiet.no/Om-AP/Historien/Aps-historie/Ap-gjennom-125-aar">Arbeiderpartiet</li>
+            </Citations>
+                <ExternalLinks>
+                <li href="https://en.wikipedia.org/wiki/Labour_Party_(Norway)">Wikipedia article</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://www.norwayemb.org.in/FileCache/NR/rdonlyres/4A222810935343F5BBF9A8F2E2AF6E4D/100815/lparty.JPG/width_300.height_235.mode_FillAreaWithCrop.pos_Default.color_White.JPG" />
+            </Images>
+            <Videos>
+                <li embed="//www.youtube.com/embed/FtyRe6IQLSM" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=norway&amp;aq=&amp;sll=59.394772,10.184326&amp;sspn=2.690865,8.453979&amp;ie=UTF8&amp;hq=&amp;hnear=Norway&amp;ll=60.472024,8.468946&amp;spn=0.331368,1.056747&amp;t=m&amp;z=11&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://www.facebook.com/pages/Norwegian-Labour-Party/105784066119047?nr" />
+            </Feeds>
+            </Common>
+    </Organization>
+    
+    <Organization ID="ORG_DIEMCO" Name="Disasters Emergency Committee">
+        <Crises>
+            <Crisis ID="CRI_EHAITI" />
+        </Crises>
+        <Kind> Umbrella Organization for 14 Humanitarian Aid Agencies</Kind>
+        <Location>London, England</Location>
+        <History>
+            <li>The DEC began its life in 1963 in the offices of the British Red Cross in Grosvenor Crescent in London as a simple co-ordinating committee.</li>
+        </History>
+        <ContactInfo>
+            <li href="http://www.dec.org.uk/about-dec/contact-us">Disasters Emergency Committe Contact Page</li>
+        </ContactInfo>
+        <Common>
+            <Citations>
+                <li href="http://www.dec.org.uk/">DEC Disasters Emergency Committee</li>
+            </Citations>
+                <ExternalLinks>
+                <li href="http://en.wikipedia.org/wiki/Disasters_Emergency_Committee">Wikipedia Disasters Emergency Committee</li>
+            </ExternalLinks>
+            <Images>
+                <li embed="http://johnsonbanks.co.uk/wp-content/uploads/DEC_logo_main.jpg" />
+            </Images>
+            <Videos>
+                <li embed="http://www.youtube.com/embed/_tMWAm1y904" />
+            </Videos>
+            <Maps>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Disasters+Emergency+Committee,+Chalton+Street,+London,+United+Kingdom&amp;aq=0&amp;oq=disaster&amp;sll=54.863963,-0.043945&amp;sspn=12.188098,33.815918&amp;ie=UTF8&amp;hq=Disasters+Emergency+Committee,&amp;hnear=Chalton+St,+London,+United+Kingdom&amp;ll=51.529497,-0.129775&amp;spn=0.006295,0.006295&amp;t=m&amp;output=embed"></li>
+            </Maps>
+            <Feeds>
+                <li embed="https://twitter.com/decappeal" />
+            </Feeds>
+            </Common>
+    </Organization>
+
+</WorldCrises>
