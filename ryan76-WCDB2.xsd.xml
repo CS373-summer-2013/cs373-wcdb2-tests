@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+
+<!-- XSD for World Crises database -->
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="WorldCrises">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="Crisis" type="CrisisType" minOccurs="1" maxOccurs="unbounded" />
+                <xsd:element name="Person" type="PersonType" minOccurs="1" maxOccurs="unbounded" />
+                <xsd:element name="Organization" type="OrgType" minOccurs="1" maxOccurs="unbounded" />
+            </xsd:sequence>
+        </xsd:complexType>
+        
+        <!-- All keys and keyrefs go here -->
+        <xsd:key name="CrisisKey">
+            <xsd:selector xpath="Crisis" />
+            <xsd:field xpath="@ID" />
+        </xsd:key>
+        <xsd:keyref name="CrisisKeyRef_Person" refer="CrisisKey">
+            <xsd:selector xpath="Person/Crises/Crisis" />
+            <xsd:field xpath="@ID" />
+        </xsd:keyref>
+        <xsd:keyref name="CrisisKeyRef_Org" refer="CrisisKey">
+            <xsd:selector xpath="Organization/Crises/Crisis" />
+            <xsd:field xpath="@ID" />
+        </xsd:keyref>
+        
+        <xsd:key name="PersonKey">
+            <xsd:selector xpath="Person" />
+            <xsd:field xpath="@ID" />
+        </xsd:key>
+        <xsd:keyref name="PersonKeyRef_Crisis" refer="PersonKey">
+            <xsd:selector xpath="Crisis/People/Person" />
+            <xsd:field xpath="@ID" />
+        </xsd:keyref>
+        <xsd:keyref name="PersonKeyRef_Org" refer="PersonKey">
+            <xsd:selector xpath="Organization/People/Person" />
+            <xsd:field xpath="@ID" />
+        </xsd:keyref>
+        
+        <xsd:key name="OrgKey">
+            <xsd:selector xpath="Organization" />
+            <xsd:field xpath="@ID" />
+        </xsd:key>
+        <xsd:keyref name="OrgKeyRef_Crisis" refer="OrgKey">
+            <xsd:selector xpath="Crisis/Organizations/Org" />
+            <xsd:field xpath="@ID" />
+        </xsd:keyref>
+        <xsd:keyref name="OrgKeyRef_Person" refer="OrgKey">
+            <xsd:selector xpath="Person/Organizations/Org" />
+            <xsd:field xpath="@ID" />
+        </xsd:keyref>
+    </xsd:element>
+    
+    <!-- Crisis Data Type -->
+    <!-- Required: Name, ID (attributes), People, Orgs (each with ID attributes)-->
+    <xsd:complexType name="CrisisType">
+        <xsd:sequence>
+            <xsd:element name="People" minOccurs="0" maxOccurs="1">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="Person" type="PersonWithID" minOccurs="1" maxOccurs="unbounded" />
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="Organizations" minOccurs="0" maxOccurs="1">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="Org" type="OrgWithID" minOccurs="1" maxOccurs="unbounded" />
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            
+            <xsd:element name="Kind" type="xsd:token" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Date" type="xsd:date" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Time" type="xsd:time" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Locations" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="HumanImpact" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="EconomicImpact" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="ResourcesNeeded" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="WaysToHelp" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Common" type="CommonType" minOccurs="0" maxOccurs="1" />
+            <xsd:any minOccurs="0" />
+        </xsd:sequence>
+        <xsd:attribute name="ID" type="CrisisIDType" use="required" />
+        <xsd:attribute name="Name" type="xsd:token" use="required" />
+    </xsd:complexType>
+    
+    <!-- Person Data Type -->
+    <!-- Required: Name, ID (attributes), Crises, Orgs (each with ID attributes) -->
+    <xsd:complexType name="PersonType">
+        <xsd:sequence>
+            <xsd:element name="Crises" minOccurs="0" maxOccurs="1">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="Crisis" type="CrisisWithID" minOccurs="1" maxOccurs="unbounded" />
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="Organizations" minOccurs="0" maxOccurs="1">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="Org" type="OrgWithID" minOccurs="1" maxOccurs="unbounded" />
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            
+            <xsd:element name="Kind" type="xsd:token" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Location" type="xsd:token" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Common" type="CommonType" minOccurs="0" maxOccurs="1" />
+            <xsd:any minOccurs="0" />
+        </xsd:sequence>
+        <xsd:attribute name="ID" type="PersonIDType" use="required" />
+        <xsd:attribute name="Name" type="xsd:token" use="required" />
+    </xsd:complexType>
+    
+    <!-- Person Data Type -->
+    <!-- Required: Name, ID (attributes), Crises, People (each with ID attributes) -->
+    <xsd:complexType name="OrgType">
+        <xsd:sequence>
+            <xsd:element name="Crises" minOccurs="0" maxOccurs="1">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="Crisis" type="CrisisWithID" minOccurs="1" maxOccurs="unbounded" />
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="People" minOccurs="0" maxOccurs="1">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element name="Person" type="PersonWithID" minOccurs="1" maxOccurs="unbounded" />
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            
+            <xsd:element name="Kind" type="xsd:token" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Location" type="xsd:token" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="History" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="ContactInfo" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Common" type="CommonType" minOccurs="0" maxOccurs="1" />
+            <xsd:any minOccurs="0" />
+        </xsd:sequence>
+        <xsd:attribute name="ID" type="OrgIDType" use="required"/>
+        <xsd:attribute name="Name" type="xsd:token" use="required" />
+    </xsd:complexType>
+    
+    <!-- CommonType contains elements common to crises, people and organizations. Each of these elements is a list. -->
+    <xsd:complexType name="CommonType">
+        <xsd:sequence>
+            <xsd:element name="Citations" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="ExternalLinks" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Images" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Videos" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Maps" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Feeds" type="ListType" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="Summary" type="xsd:token" minOccurs="0" maxOccurs="1" />
+        </xsd:sequence>
+    </xsd:complexType>
+    
+    <!-- ListType is a list of tokens. Each token can have an optional hyperlink (href attribute) and/or link for embedded object (embed attribute).
+        This is a generic type that can accomodate all types of lists (images, videos, citations, text, etc.) See example XML for usage -->
+    <xsd:complexType name="ListType">
+        <xsd:sequence>
+            <xsd:element name="li" minOccurs="1" maxOccurs="unbounded">
+                <xsd:complexType mixed="true">
+                    <xsd:attribute name="href" type="xsd:token" />
+                    <xsd:attribute name="embed" type="xsd:token" />
+                    <xsd:attribute name="text" type="xsd:token" />
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:sequence>
+    </xsd:complexType>
+    
+    <!-- Use these when making references to crises, people or orgs -->
+    <xsd:complexType name="CrisisWithID">
+        <xsd:attribute name="ID" type="CrisisIDType" use="required" />
+    </xsd:complexType>
+    
+    <xsd:complexType name="PersonWithID">
+        <xsd:attribute name="ID" type="PersonIDType" use="required" />
+    </xsd:complexType>
+    
+    <xsd:complexType name="OrgWithID">
+        <xsd:attribute name="ID" type="OrgIDType" use="required" />
+    </xsd:complexType>
+    
+    <!-- All ID Types go here -->
+    <xsd:simpleType name="CrisisIDType">
+        <xsd:restriction base="IDType">
+            <xsd:pattern value="CRI_[A-Z]{6}" />
+        </xsd:restriction>
+    </xsd:simpleType>
+    
+    <xsd:simpleType name="PersonIDType">
+        <xsd:restriction base="IDType">
+            <xsd:pattern value="PER_[A-Z]{6}" />
+        </xsd:restriction>
+    </xsd:simpleType>
+    
+    <xsd:simpleType name="OrgIDType">
+        <xsd:restriction base="IDType">
+            <xsd:pattern value="ORG_[A-Z]{6}" />
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name="IDType">
+        <xsd:restriction base="xsd:token">
+            <xsd:length value="10" />
+        </xsd:restriction>
+    </xsd:simpleType>
+</xsd:schema>
