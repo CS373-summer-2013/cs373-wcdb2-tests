@@ -1,0 +1,16 @@
+Creating test database for alias 'default'...
+Installed 0 object(s) from 0 fixture(s)
+.Installed 0 object(s) from 0 fixture(s)
+.............Installed 0 object(s) from 0 fixture(s)
+.........
+----------------------------------------------------------------------
+Ran 23 tests in 1.542s
+
+OK
+Destroying test database for alias 'default'...
+(venv)stephenc@starburst:/v/filer4b/v38q001/stephenc/Desktop/cs373-wcdb$ ./manage.py test crisis_app > djc977-TestWCDB1.out
+.......................
+----------------------------------------------------------------------
+Ran 23 tests in 1.557s
+
+OK

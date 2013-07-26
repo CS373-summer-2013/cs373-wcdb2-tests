@@ -1,0 +1,941 @@
+<?xml version="1.0" ?>
+<WorldCrises>
+	<Crisis ID="CRI_HURSAN" Name="Hurricane Sandy">
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+		</Organizations>
+		<Kind>natural disaster</Kind>
+		<Date>2012-10-29</Date>
+		<Time>05:00:00</Time>
+		<Locations>
+			<li>New York metropolitan area</li>
+		</Locations>
+		<HumanImpact>
+			<li>Hurricane Sandy was the deadliest and most destructive hurricane of the 2012 Atlantic hurricane season, as well as the second-costliest hurricane in United States history. At least 286 people were killed along the path of the storm in seven countries. In Jamaica, winds left 70% of residents without electricity, blew roofs off buildings, and killed one. In Haiti, Sandy's outer bands brought flooding that killed at least 54, caused food shortages, and left about 200,000 homeless. In the Dominican Republic, two died. In Puerto Rico, one man was swept away by a swollen river. In Cuba, there was extensive coastal flooding and wind damage inland, destroying some 15,000 homes, and killing 11.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Estimates as of June 2013 assess damage to have been over $68 billion (2013 USD), a total surpassed only by Hurricane Katrina. The severe and widespread damage the storm caused in the United States, as well as its unusual merge with a frontal system, resulted in the nicknaming of the hurricane by the media and several organizations of the U.S. government &quot;Superstorm Sandy&quot;. The storm caused about $100 million (2012 USD) in damage in Jamaica, and around $2 billion (2012 USD) in damage in Cuba.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Clean-up and restoration of the areas hit hardest, temporary housing for those that lost their homes. clothing and shelter donations.
+</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>FEMA has been collaborating with many national, state, tribal, and local partners in response to Hurricane Sandy, including the National Voluntary Organizations Active in Disaster (NVOAD) and the Corporation for National and Community Service. Learn more on how you can donate and volunteer responsibly to assist the survivors of Hurricane Sandy here: http://www.fema.gov/hurricane-sandy-donate-and-volunteer</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://www.fema.gov/hurricane-sandy">FEMA Hurricane sandy site</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://en.wikipedia.org/wiki/Hurricane_Sandy">Wikipedia Hurricane Sandy site</li>
+				<li href="http://crisiswiki.org/2012_Hurricane_Sandy">Crisis Wiki Hurricane Sandy site</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sandy_Oct_25_2012_0400Z.JPG/546px-Sandy_Oct_25_2012_0400Z.JPG" text="Satellite photo of hurricane Sandy"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/HurricaneSANDYCheltenham.jpg/220px-HurricaneSANDYCheltenham.jpg" text="Damage to neighborhood caused by Hurricane Sandy"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sandy_Poweroutage_1.jpg/220px-Sandy_Poweroutage_1.jpg" text="Manhattan power outage caused by Hurricane Sandy"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=91ldZZiOqAs" text="Hurricane Sandy radar loop"/>
+			</Videos>
+			<Maps>
+				<li embed="http://google.org/crisismap/2012-sandy" text="Crisis map of Hurricane Sandy"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_HAIEAR" Name="2010 Haiti Earthquake">
+		<People>
+			<Person ID="PER_RENPRE"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_WHORGN"/>
+		</Organizations>
+		<Kind>Natural Disaster</Kind>
+		<Date>2010-01-12</Date>
+		<Time>22:53:00</Time>
+		<Locations>
+			<li>southern Haiti</li>
+		</Locations>
+		<HumanImpact>
+			<li>An estimated three million people were affected by the quake. The highest reliable death count was estimated at 220,000. Haitian government estimates were higher.
+While the vast majority of casualties were Haitian civilians, the dead included aid workers, embassy staff, foreign tourists—and a number of public figures, including Archbishop of Port-au-Prince Monsignor Joseph Serge Miot, aid worker Zilda Arns and officials in the Haitian government, including opposition leader Michel &quot;Micha&quot; Gaillard. Also killed were a number of well-known Haitian musicians[104] and sports figures, including thirty members of the Fédération Haïtienne de Football. At least 85 United Nations personnel working with MINUSTAH were killed, among them the Mission Chief, Hédi Annabi, his deputy, Luiz Carlos da Costa., and police commissioner Douglas Coates. Around 200 guests were killed in the collapse of the Hôtel Montana in Port-au-Prince.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Hundreds of thousands of buildings plummeted to the ground including homes, the presidential palace, and even the United Nations Peacekeeping Mission.  The earthquake resulted in 105,000 homes being destroyed, causing $2.3 billion in damage and the nation being covered in rubble (Haiti). The government of Haiti estimated that 250,000 residences and 30,000 commercial buildings had collapsed or were severely damaged.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Many countries responded to the appeals and launched fund-raising efforts, as well as sending search and rescue teams. The neighbouring Dominican Republic was the first country to give aid to Haiti,[111] sending water, food and heavy-lifting machinery.[115] The hospitals in the Dominican Republic were made available; a combined effort of the Airports Department (DA), together with the Dominican Naval Auxiliaries, the UN and other parties formed the Dominican-Haitian Aerial Support Bridge, making the main Dominican airports available for support operations to Haiti. The Dominican website FlyDominicanRepublic.com made available to the internet, daily updates on airport information and news from the operations center on the Dominican side. The Dominican emergency team assisted more than 2,000 injured people, while the Dominican Institute of Telecommunications (Indotel) helped with the restoration of some telephone services.The Dominican Red Cross coordinated early medical relief in conjunction with the International Red Cross.The government sent eight mobile medical units along with 36 doctors including orthopaedic specialists, traumatologists, anaesthetists, and surgeons. In addition, 39 trucks carrying canned food were dispatched, along with 10 mobile kitchens and 110 cooks capable of producing 100,000 meals per day</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>From 12 January, the International Committee of the Red Cross, which has been working in Haiti since 1994, focused on bringing emergency assistance to victims of the catastrophe, in close cooperation with its partners within the International Red Cross and Red Crescent Movement, particularly the Haitian Red Cross and the International Federation of Red Cross and Red Crescent Societies.
+Canadians were able to donate through the Humanitarian Coalition which distributed funds to partner organizations working in the field. During this time the Humanitarian Coalition raised over C$15 Million.
+The Netherlands sponsored a project, called Radio555. The Dutch radio channels 3FM, Radio 538 and Radio Veronica all broadcast under the name of Radio555, funded by a contribution of €80 million.
+Immediately following the earthquake, Real Medicine Foundation began providing medical staffing, in-kind medical supplies and strategic coordination to help meet the surging needs of the health crisis on the ground. Working in close partnership with other relief organizations, Real Medicine organized deployments of volunteer medical specialists to meet the needs of partner hospitals and clinics at the Haiti–Dominican Republic border and in Port-au-Prince, provided direct funding, medical supplies and pharmaceuticals to local health facilities and partner hospitals, provided advisory services and coordination to local health facilities, including physical therapy support, and coordinated mobile health outreaches, field clinics and food supplies to outlying villages overlooked in the relief effort.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2010_Haiti_Earthquake">Haiti Earthquake Wiki</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://haitiearthquake.web.unc.edu/economic-impact-of-the-earthquake/">Haiti Earthquake article</li>
+				<li href="http://www.rdp.sg/film/haiti/">Haiti Earthquake 2010 (HD Documentary Short)</li>
+				<li href="http://insidedisaster.com/haiti/">Inside Disaster interactive website</li>
+				<li href="http://www.nj.com/news/index.ssf/2010/04/haitis_ambassador_to_us_says_e.html">Raymond Joseph article on NJ.com</li>
+				<li href="http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/7022556/Haiti-earthquake-Wyclef-Jean-calls-for-evacuation-of-Port-au-Prince.html">Wyclef Jean calls for evacuation</li>
+				<li href="http://www.canada.com/news/Hard+power+needed+Haiti+Harper/2572453/story.html">Stephen Harper article</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/7/79/UNDP-HTI-10-201.jpg.jpg" text="Haiti Earthquake rubble cleanup"/>
+				<li embed="http://www.coolgeography.co.uk/GCSE/AQA/Restless%20Earth/Earthquakes/Haiti%20Map.gif" text="Haiti Earthquake tremor map"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/d/d5/Haiti_earthquake_damage_overhead.jpg" text="Haiti Earthquake damage overhead"/>
+				<li embed="http://haitiearthquake.web.unc.edu/files/2010/11/800px-Haiti_earthquake_damage1.jpg" text="Haiti Earthquake housing damage"/>
+				<li embed="http://i.i.com.com/cnwk.1d/i/tim//2010/01/12/112_raw_haitiQuake_480x360.jpg" text="Haiti Earthquake aftermath"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/5/58/Flickr_-_Israel_Defense_Forces_-_Rescue_of_a_Haitian_Man_from_Government_Building_%282%29.jpg" text="Israel Defense Forces - Rescue of a Haitian Man"/>
+				<li embed="http://www.doctorswithoutborders.org/images/news/2010/Haiti-52621b.jpg" text="Doctors Without Borders - Haiti"/>
+				<li embed="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=137007" text="In Haiti: This is the spirit of the IDF"/>
+				<li embed="http://www.ifrc.org/PageFiles/40573/haiti_2010_00661.jpg" text="Generic IFRC pic"/>
+				<li embed="http://www.flipbooksoft.com/upload/books/0e900b86120f78e976635e61e6ef9e24/images/thumbs/page_1.jpg" text="RCRC Mag front cover"/>
+				<li embed="http://humanitariancoalition.ca/sites/default/files/styles/large/public/images/primary/haiti-5243015106_606072f092_b.jpg" text="Haiti Earthquake 2010 | Humanitarian Coalition"/>
+				<li embed="http://cdn1.tabletmag.com/wp-content/files_mf/126393781220100119joseph.jpg" text="Raymond Joseph on Rachel Maddow"/>
+				<li embed="http://i.telegraph.co.uk/multimedia/archive/01561/jean_1561579c.jpg" text="Wyclef Jean"/>
+				<li embed="http://www.canada.com/cms/binary/2572466.jpg" text="Stephen Harper visits Haiti"/>
+				<li embed="http://www2.pictures.zimbio.com/gi/Major+Earthquake+Hits+Haiti+G5nm-m9vbQol.jpg" text="René Préval with wife and Dr. Barth Green"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?feature=player_detailpage&amp;v=AhoMuODjrU8" text="2010 Haiti Earthquake Relief"/>
+				<li embed="http://www.youtube.com/watch?v=IfBdiFyxKOk" text="The Week in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=UhLUMNdO8ic" text="Haiti Earthquake Caught on Tape"/>
+				<li embed="http://www.youtube.com/watch?v=V_s4UMLm8LM" text="Sad and disturbing footage of Haiti Earthquake"/>
+				<li embed="http://vimeo.com/13595568" text="NCMO 2010 Haiti Earthquake Relief"/>
+				<li embed="http://www.youtube.com/watch?v=85FLbzuaGlk" text="Google Maps &amp; International Medical Corps - 2010 Haiti Earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=AKju8x4p-dA" text="Laurent Lamothe - Rebuilding Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=nf4lZCwiwX8" text="Sean Penn, Michel Joseph Martelly, Laurent Lamothe"/>
+				<li embed="http://www.youtube.com/watch?v=vw3G85jzhKk" text="Progress Report of President Michel Martelly and Laurent Lamothe"/>
+				<li embed="http://www.youtube.com/watch?v=J_9P8N8OqXk" text="BBC News - PM insists Haiti is recovering from 2010 earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=mU41MbK1C-o" text="Foreign Ministers Discuss Recovery Efforts in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=soPVme4AEfU" text="Honorable Mayor Jean-Yves, Jason of Port-au-Prince"/>
+				<li embed="http://www.youtube.com/watch?v=447BIGFvK_s" text="Frustration in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=viaYXGr7H9Y" text="Jean Yves Jason CNN Interview"/>
+				<li embed="http://www.youtube.com/watch?v=Oxy9PIdkf_A" text="Haiti Ambassador Raymond Joseph on earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=Aq-LpP2w2VU" text="Pat Robertson &amp; Haitian Ambassador on earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=mHEk_qR5l1I" text="Haiti Ambassador on Disaster"/>
+				<li embed="http://www.youtube.com/watch?v=0Q1ASN7Hy7k" text="Wyclef Jean reacts to earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=rAN29LoL21g" text="Wyclef Jean Discusses Haiti Earthquake Relief Efforts"/>
+				<li embed="http://www.youtube.com/watch?v=BZxYSqrYv5E" text="&quot;From The Ashes We Shall Rise&quot; Wyclef Jean"/>
+				<li embed="http://www.youtube.com/watch?v=JumCMHCQmrM" text="PM statement on the situation in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=iBbB9__qt84" text="Haiti Earthquake: Rene Preval video"/>
+				<li embed="http://www.youtube.com/watch?v=pJwpLuCmDz8" text="President haiti rene preval: 'My palace collapsed'"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=http://mw1.google.com/mw-earth-vectordb/haiti/Haiti-Earthquake-nl.kml&amp;sll=40.111689,-95.712891&amp;sspn=41.414553,93.076172&amp;ie=UTF8&amp;z=11" text="Satellite Images of Haiti, Post-Earthquake"/>
+				<li embed="http://mw1.google.com/mw-earth-vectordb/haiti/Haiti-Earthquake-nl.kml" text="Google Earth KML Layer of Haiti, Post-Earthquake"/>
+				<li embed="http://www.bing.com/maps/?v=2&amp;cp=18.54956927907911~-72.32450745999813&amp;lvl=17&amp;sty=h&amp;where1=Port%20au%20Prince%20International%2C%20Haiti#Y3A9MTguNTQ5NTY5fi03Mi4zMjQ1MDcmbHZsPTE3JnN0eT1oJnE9UG9ydCUyNTIwYXUlMjUyMFByaW5jZSUyNTIwSW50ZXJuYXRpb25hbCUyNTJDJTI1MjB" text="Port au Prince International, Haiti"/>
+				<li embed="http://www.bing.com/maps/?form=MPSRCH&amp;cp=18.542811~-72.33903&amp;lvl=18&amp;style=a&amp;app=50328~#Y3A9MTguNTQyODExfi03Mi4zMzkwMzAmbHZsPTE4JnN0eT1h" text="Haiti Earthquake Bing Maps app (req. Silverlight)"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_EXXVAL" Name="Exxon Valdez Oil Spill ">
+		<People>
+			<Person ID="PER_JOSHAZ"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_NATOAA"/>
+			<Org ID="ORG_MARORG"/>
+		</Organizations>
+		<Kind>human-caused environmental disasters</Kind>
+		<Date>1989-03-24</Date>
+		<Time>06:00:00</Time>
+		<Locations>
+			<li>Prince William Sound, Alaska</li>
+		</Locations>
+		<HumanImpact>
+			<li>Several residents, including one former mayor, committed suicide after the spill.
+20 communities were in the oil's path where it caused major social and psychological impact like depression and Post-Traumatic Stress Disorder.This injury continues in places like Cordova today.
+Cleanup workers faced average oil mist exposure 12 times in excess of the regulatory limits, with a maximum exposure 400 times higher during hot water beach washing.  In 1989, 1,811 workers filed compensation claims, primarily for respiratory system damage, according to National Institute of Occupational Safety and Health</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>According to several studies funded by the state of Alaska, the spill had both short-term and long-term economic effects. These included the loss of recreational sports, fisheries, reduced tourism, and an estimate of what economists call &quot;existence value&quot;, which is the value to the public of a pristine Prince William Sound.
+The economy of the city of Cordova, Alaska was adversely affected after the spill damaged stocks of salmon and herring in the area.
+In 1991, following the collapse of the local marine population (particularly clams, herring, and seals) the Chugach Alaska Corporation, an Alaska Native Corporation, filed for Chapter 11 bankruptcy protection. It has since recovered</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>There was use of a dispersant, a surfactant and solvent mixture. A private company applied dispersant on March 24 with a helicopter and dispersant bucket. Because there was not enough wave action to mix the dispersant with the oil in the water, the use of the dispersant was discontinued. One trial explosion was also conducted during the early stages of the spill to burn the oil, in a region of the spill isolated from the rest by another explosion.[clarification needed] The test was relatively successful, reducing 113,400 liters of oil to 1,134 liters of removable residue, but because of unfavorable weather no additional burning was attempted.Mechanical cleanup was started shortly afterwards using booms and skimmers, but the skimmers were not readily available during the first 24 hours following the spill, and thick oil and kelp tended to clog the equipment.Despite civilian insistence for a complete clean, only 10% of total oil was actually completely cleaned.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>In 1991, the Trustee Council was formed to restore Prince William Sound and the Gulf of Alaska to the &quot;healthy, productive, world-renowned ecosystem&quot; that existed before the spill. In February 2012, funding commenced for the two long-term Programs: the Herring Research and Monitoring Program and the Long-Term Monitoring Program, also known as GulfWatch Alaska. The Programs are administrated under five-year contracts, which include annual Council and Public Advisory Committee meetings to review the past-year's results and future year's requested funding. The current Council contemplates the Programs to be twenty-years in length, concluding in 2032.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Exxon_Valdez_oil_spill">Exxon Valdez Oil Spill Wiki page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.epa.gov/osweroe1/content/learning/exxon.htm">EPA webpage on oil spill</li>
+				<li href="http://www.alaskadispatch.com/article/former-gov-cowper-exxon-valdez-we-couldn-t-just-throw-towel">Steve Cowper on Alaska Dispatch</li>
+				<li href="http://www.nola.com/news/gulf-oil-spill/index.ssf/2010/06/alaskas_present_after_1989_exxon_valdez_oil_spill_might_be_gulf_coast_future.html">NOLA article</li>
+				<li href="http://arcticcircle.uconn.edu/SEEJ/Alaska/miller2.htm">EXXON VALDEZ OIL SPILL: Ten Years Later  </li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://pdxretro.com/wp-content/uploads/2011/03/Exxon-Valdez-oil-spill.jpg" text="Exxon-Valdez-oil-spill"/>
+				<li embed="http://media1.s-nbcnews.com/j/MSNBC/Components/Slideshows/_production/ss-090317-exxon-valdez/ss-090317-exxon-valdez-05.grid-8x2.jpg" text="Oil Slick from Exxon Valdez"/>
+				<li embed="http://media.treehugger.com/assets/images/2011/10/wxxon-valdez-oil-spill-photo.jpg" text="oil-spill-photo"/>
+				<li embed="http://www.onthisdeity.com/wp-content/uploads/2011/03/dead-whale1.jpg" text="Dead Whale from oil spill"/>
+				<li embed="http://www.explorenorth.com/library/maps/images/exxonvaldezmap-adn.gif" text="Spread of oil from Exxon Valdez"/>
+				<li embed="http://static.ddmcdn.com/gif/blogs/6a00d8341bf67c53ef016769462b79970b-640wi.jpg" text="Exxon Valdez ship, back view"/>
+				<li embed="http://cdn2.shipspotting.com/photos/middle/8/8/1/976188.jpg" text="Exxon Valdez ship"/>
+			</Images>
+			<Videos>
+				<li embed="http://vimeo.com/1532967" text="Exxon Valdez Oil Spill: Google Earth Field Trip"/>
+				<li embed="http://www.youtube.com/watch?v=YkzB1ZYcTwM" text="Exxon Valdez Oil Spill 1989"/>
+				<li embed="http://www.youtube.com/watch?v=MbjC9SMKClE" text="The Exxon Valdez Disaster: 20 Years Later"/>
+				<li embed="http://www.youtube.com/watch?v=qS2FbvfnNDw" text="Hindsight and Foresight: 20 Years After the Exxon Valdez Spill"/>
+			</Videos>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_FUKUSH" Name="Fukushima Daiichi Nuclear Disaster">
+		<People>
+			<Person ID="PER_CEOTEP"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_WHORGN"/>
+			<Org ID="ORG_TEPCOM"/>
+			<Org ID="ORG_GENELE"/>
+		</Organizations>
+		<Kind>Nuclear Power Plant Failure</Kind>
+		<Date>2011-03-11</Date>
+		<Time>06:00:00</Time>
+		<Locations>
+			<li>Okuma, Fukushima, Japan</li>
+		</Locations>
+		<HumanImpact>
+			<li>There were no deaths caused by radiation exposure, while 
+approximately 18,500 people died due to the earthquake and tsunami. 
+Future cancer deaths from accumulated radiation exposures in the population 
+living near Fukushima are predicted to be extremely low to none.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Estimates of the total economic loss range from $250-$500 billion US.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>The tasks of disaster response technical workers
+ in Fukushima Dai-ichi NPP after the tsunami were to restore
+ the cooling of reactors and the fuel pools, 
+containment and treatment of water contaminated by radioactive materials, 
+and mitigation of radioactive materials emission in the environment eventually achieving the cold shutdown of the NPP.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Government agencies and TEPCO were thoroughly unprepared for the &quot;cascading nuclear disaster&quot;. The tsunami that &quot;began the nuclear disaster could and should have been anticipated and that ambiguity about the roles of public and private institutions in such a crisis was a factor in the poor response at Fukushima&quot;. In March 2012, Prime Minister Yoshihiko Noda said that the government shared the blame for the Fukushima disaster, saying that officials had been blinded by a false belief in the country's &quot;technological infallibility&quot;, and were taken in by a &quot;safety myth&quot;. Noda said &quot;Everybody must share the pain of responsibility&quot;.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://www.tepco.co.jp/en/index-e.html">TEPCO Website</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.who.int/mediacentre/news/releases/2013/fukushima_report_20130228/en/">Gloabal Report of Health Risks of Fukushima Incident</li>
+				<li href="http://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster#Response">Fukushima Disaster Wiki Page</li>
+				<li href="http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nuclear_plants_Japan_in_2011.svg/600px-Nuclear_plants_Japan_in_2011.svg.png">Earthquake Origin</li>
+				<li href="http://en.wikipedia.org/wiki/Masataka_Shimizu">Wiki Page for Masataka Shimizu</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Fukushima_I_by_Digital_Globe.jpg/800px-Fukushima_I_by_Digital_Globe.jpg" text="Fukushima Plant"/>
+				<li embed="http://greenpeaceblogs.org/wp-content/uploads/2013/03/RememberFukushima.jpg" text="Nuclear Power Protesters"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bwr-rpv.svg/342px-Bwr-rpv.svg.png" text="Nuclear Boiling Water Reactor"/>
+				<li embed="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/3/29/1301387379320/Masataka-Shimizu-presiden-007.jpg" text="CEO of TEPCO"/>
+				<li embed="http://www.toledoblade.com/image/2011/06/11/800x_b1_cCM_z/Nuclear-Protest-Masataka-Shimizu-sign.jpg" text="Protests Against Shimizu"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/user/fuku1live" text="Fukushima Footage Archive"/>
+				<li embed="http://www.youtube.com/watch?v=MxZlcmlVrHY" text="Fukushima: Human Impacts"/>
+				<li embed="http://www.youtube.com/watch?v=rhknDgOl7H4" text="Shimizu Urged to Quit After Costing Holders $29 Billion "/>
+			</Videos>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_BMBOMB" Name="Boston Marathon Bombings">
+		<People>
+			<Person ID="PER_BOMBER"/>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+		</Organizations>
+		<Kind>Bombing</Kind>
+		<Date>2013-04-15</Date>
+		<Time>07:49:00</Time>
+		<Locations>
+			<li>Boston, Massachusetts</li>
+		</Locations>
+		<HumanImpact>
+			<li>Three spectators were killed in the bombings: Krystle Marie Campbell, 29, a restaurant manager from Medford, Massachusetts; Lü Lingzi (Chinese: ???), 23, a Chinese national and Boston University graduate student from Shenyang, Liaoning; and Martin William Richard, an eight-year-old boy from the Dorchester neighborhood of Boston, who was killed by the second bomb.
+On April 18 at about 10:48 pm, Sean Collier, 27, an MIT police officer of Wilmington, Massachusetts living in Somerville, Massachusetts, was ambushed in his police car and died from multiple gunshot wounds allegedly from the bombing suspects.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>The blasts blew out windows on adjacent buildings but did not cause any structural damage.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>The marathon was halted abruptly. Police, following emergency plans, diverted the remaining runners away from the finish line to Boston Common and Kenmore Square. The nearby Lenox Hotel and other buildings were evacuated. Police closed down a 15-block area around the blast site; this was reduced to a 12-block crime scene on April 16. Massachusetts Army National Guard soldiers already at the scene joined local authorities in rendering aid. Boston police commissioner Ed Davis recommended that people stay off the streets.
+Many people dropped backpacks and other bags as they fled, requiring each to be treated as a potential bomb. A number of news reports stated that more bombs had been found nearby and the Boston Police Bomb Squad said they would perform a controlled explosion on the 600 block of Boylston Street, but in the end no other bombs were found. Some media outlets also reported a potential bombing at the John F Kennedy Presidential Library in the Dorchester section of the city. This turned out to be an unrelated electrical fire. The Navy sent one of its bomb-disposal units to Boston to help local authorities/
+As a precaution, the Federal Aviation Administration restricted airspace over Boston, and issued a temporary ground stop for Boston's Logan International Airport. Some Massachusetts Bay Transportation Authority service was halted. Several cities in Massachusetts and other states put their police forces on alert. U.S. Attorney General Eric Holder directed that the &quot;full resources&quot; of the U.S. Department of Justice be brought to bear on investigating the explosions.
+The Massachusetts Emergency Management Agency suggested people trying to contact those in the vicinity use text messaging, instead of voice calls, because of crowded cellphone lines. Cellphone service in Boston was congested but remained in operation, despite some local media reports stating that cell service was shut down to prevent cell phones from being used as detonators.
+The American Red Cross helped concerned friends and family receive information about runners and casualties. The Boston Police Department also set up a helpline for people concerned about relatives or acquaintances to contact and a line for people to provide information. Google Person Finder activated their disaster service under Boston Marathon Explosions to log known information about missing persons as a publicly viewable file.
+Because of the closure of several hotels near the blast zone, some out-of-town visitors were left with nowhere to stay; many Boston-area residents opened their homes to them.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>The One Fund Boston, established by Massachusetts Governor Deval Patrick and Boston mayor Thomas Menino and administered by attorney Kenneth Feinberg, expects to make distributions to bombing victims by June 30. &quot;In my 20 years as mayor, I've never seen the business community come together so quickly,&quot; said Mayor Menino. A week after the bombings, crowdfunding websites, such as GoFundMe, GiveForward, FundRazr, YouCaring and Fundly, received more than 23,000 pledges promising more than $2 million for the victims, their families, and others affected by the bombings. On May 30, 2013 the Boston Strong concert at the TD Garden in Boston benefitted the One Fund. The concert featured Aerosmith, James Taylor, Boston, J. Geils Band, Dropkick Murphys, New Kids on the Block, Bill Biv DeVoe, Boyz II Men, Jimmy Buffett, Carole King, Extreme, and Jason Aldean.
+The Israel Trauma Coalition for Response and Preparedness sent six psychologists and specialists from Israel to help Boston emergency responder, government administrators, and community stakeholders develop post-terrorist attack recovery strategies.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Boston_bombing">Boston Marthon Bombing Wiki Page</li>
+			</Citations>
+			<Images>
+				<li embed="http://d25d2506sfb94s.cloudfront.net/cumulus_uploads/entry/5840/bostonmarathon_article%20(1).jpg" text="Blast Scene"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=5gg1hkd5wnI" text="Video Feed of Bombers"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=Boylston+Street,+west+of+Copley+Square,+Boston,+Massachusetts,+U.S.&amp;oe=utf-8&amp;ie=UTF-8&amp;ei=2BnbUe-IBunw0QHcjIGQBw&amp;ved=0CAoQ_AUoAg" text="Loaction of Bombing"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_AIDSHI" Name="AIDS/HIV">
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_UNAIDS"/>
+		</Organizations>
+		<Kind>Epidemic </Kind>
+		<Date>1900-01-01</Date>
+		<Time>18:00:00</Time>
+		<Locations>
+			<li>Worldwide </li>
+		</Locations>
+		<HumanImpact>
+			<li>25,000,000 deaths
+Genetic research indicates that HIV originated in west-central Africa during the early twentieth century. AIDS was first recognized by the Centers for Disease Control and Prevention (CDC) in 1981 and its cause—HIV infection—was identified in the early part of the decade. Since its discovery, AIDS has caused nearly 30 million deaths (as of 2009). As of 2010, approximately 34 million people are living with HIV globally. AIDS is considered a pandemic—a disease outbreak which is present over a large area and is actively spreading.
+HIV/AIDS has had a great impact on society, both as an illness and as a source of discrimination. The disease also has significant economic impacts. There are many misconceptions about HIV/AIDS such as the belief that it can be transmitted by casual non-sexual contact. The disease has also become subject to many controversies involving religion.
+AIDS stigma exists around the world in a variety of ways, including ostracism, rejection, discrimination and avoidance of HIV infected people; compulsory HIV testing without prior consent or protection of confidentiality; violence against HIV infected individuals or people who are perceived to be infected with HIV; and the quarantine of HIV infected individuals. Stigma-related violence or the fear of violence prevents many people from seeking HIV testing, returning for their results, or securing treatment, possibly turning what could be a manageable chronic illness into a death sentence and perpetuating the spread of HIV.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Economic research helps to estimate the effects of HIV/AIDS on the African economy and the cost effectiveness of prevention and treatment programmes
+Economic theory predicts that HIV/AIDS reduces labour supply and productivity, reduces exports, and increases imports
+The pandemic has already reduced average national economic growth rates by 2-4% a year across Africa
+Prevention and treatment programmes and economic measures such as targeted training in skills needed in key industries will limit the economic effects of HIV/AIDS
+HIV/AIDS affects the economics of both individuals and countries. The gross domestic product of the most affected countries has decreased due to the lack of human capital. Without proper nutrition, health care and medicine, large numbers of people die from AIDS-related complications. They will not only be unable to work, but will also require significant medical care. It is estimated that as of 2007 there were 12 million AIDS orphans.
+By affecting mainly young adults, AIDS reduces the taxable population, in turn reducing the resources available for public expenditures such as education and health services not related to AIDS resulting in increasing pressure for the state's finances and slower growth of the economy. This causes a slower growth of the tax base, an effect that is reinforced if there are growing expenditures on treating the sick, training (to replace sick workers), sick pay and caring for AIDS orphans. This is especially true if the sharp increase in adult mortality shifts the responsibility and blame from the family to the government in caring for these orphans.
+At the household level, AIDS causes both loss of income and increased spending on healthcare. A study in Côte d'Ivoire showed that households with an HIV/AIDS patient, spent twice as much on medical expenses as other households. This additional expenditure also leaves less income to spend on education and other personal or family investment.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>In many developing countries, high HIV rates are over-burdening already fragile health systems. As these health sectors struggle to provide basic health services, they must now also make HIV/AIDS prevention, services, and care available. To contain the spread and minimize the impact of HIV/AIDS, several global initiatives are making large amounts of financial and medical resources available. However, without efficient health systems, their impact will be limited.
+Consistent condom use reduces the risk of HIV transmission by approximately 80% over the long term. When condoms are used consistently by a couple in which one person is infected, the rate of HIV infection is less than 1% per year. There is some evidence to suggest that female condoms may provide an equivalent level of protection. Application of a vaginal gel containing tenofovir (a reverse transcriptase inhibitor) immediately before sex seems to reduce infection rates by approximately 40% among African women
+Circumcision in Sub-Saharan Africa &quot;reduces the acquisition of HIV by heterosexual men by between 38% and 66% over 24 months&quot;. Based on these studies, the World Health Organization and UNAIDS both recommended male circumcision as a method of preventing female-to-male HIV transmission in 2007. Whether it protects against male-to-female transmission is disputed and whether it is of benefit in developed countries and among men who have sex with men is undetermined. Some experts fear that a lower perception of vulnerability among circumcised men may cause more sexual risk-taking behavior, thus negating its preventive effects.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>The Ryan White HIV/AIDS Program, Federal Funding, 
+AIDS Education and Training Centers (AETC), Minority AIDS Initiative (MAI), Federal Testing Programs 
+There is currently no cure or effective HIV vaccine. Treatment consists of high active antiretroviral therapy (HAART) which slows progression of the disease[113] and as of 2010 more than 6.6 million people were taking them in low and middle income countries.[7] Treatment also includes preventive and active treatment of opportunistic infections.
+Programs encouraging sexual abstinence do not appear to affect subsequent HIV risk. Evidence for a benefit from peer education is equally poor. Comprehensive sexual education provided at school may decrease high risk behavior. A substantial minority of young people continues to engage in high-risk practices despite knowing about HIV/AIDS, underestimating their own risk of becoming infected with HIV. It is not known whether treating other sexually transmitted infections is effective in preventing HIV.</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_BFACTO" Name="Savar Building Collapse">
+		<People>
+			<Person ID="PER_POPEFR"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_CATHLC"/>
+		</Organizations>
+		<Kind>Building collapse</Kind>
+		<Date>2013-04-23</Date>
+		<Time>13:45:00</Time>
+		<Locations>
+			<li>Savar, Dhaka, Bangladesh</li>
+		</Locations>
+		<HumanImpact>
+			<li>1,127 people killed. 2,500 people injured (http://www.guardian.co.uk/world/2013/may/23/bangladesh-factory-collapse-rana-plaza) </li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Spurred clothing companies to combine resources to improve the safety of garment factories in general as well as pool together data on these factories to ensure continuing safety (http://www.huffingtonpost.com/2013/07/08/bangladesh-factory-inspections-retailers-agree_n_3558754.html) . Garment exports are a $16 billion dollar industry for Bangladesh (http://www.guardian.co.uk/world/2013/may/23/bangladesh-factory-collapse-rana-plaza). Over 120,000 lbs. of clothing exported from this location over the last 8 months (http://www.guardian.co.uk/world/2013/may/23/bangladesh-factory-collapse-rana-plaza). Over 5 million people work in the garment industry in Bangladesh (http://www.bbc.co.uk/news/world-asia-22476774). </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>The army was sent to help clear out the rubble and rescue trapped workers (http://www.bbc.co.uk/news/world-asia-22476774). </li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>None</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_SYCLWR" Name="Syrian Civil War">
+		<People>
+			<Person ID="PER_VPUTIN"/>
+		</People>
+		<Kind>Civil War Crisis</Kind>
+		<Date>2011-03-16</Date>
+		<Time>00:34:20</Time>
+		<Locations>
+			<li>Syria, Russia, Iran, Qatar, Saudi Arabia, Turkey and Jordan</li>
+		</Locations>
+		<HumanImpact>
+			<li>In June 2013, the death toll was updated to 92,900–100,000 by the United Nations. According to various opposition activist groups, between 75,365 and 100,195 people have been killed, of which about half were civilians, but also including 61,000 armed combatants consisting of both the Syrian Army and rebel forces, up to 1,000 opposition protesters and 1,000 government officials.
+By October 2012, up to 28,000 people had been reported missing, including civilians forcibly abducted by government troops or security forces. According to the UN, about 4 million Syrians have been displaced within the country and 1.5 million have fled to other countries. 
+In addition,tens of thousands of protesters have been imprisoned and there are reports of widespread torture and terror in state prisons. 
+International organizations have accused both government and opposition forces of severe human rights violations. UN investigations have concluded that the government's abuses are the greatest in gravity, frequency and scale.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Discontent against the government was strongest in Syria's poorer areas, predominantly among conservative Sunnis. These included cities with high poverty rates, such as Daraa and Homs, rural areas hit hard by a drought in early 2011, and the poorer districts of large cities. 
+Socioeconomic inequality increased significantly after free market policies were initiated by Hafez al-Assad in his later years, and accelerated after Bashar al-Assad came to power. With an emphasis on the service sector, these policies benefited a minority of the nation's population, mostly people who had 
+connections with the government, and members of the Sunni merchant class of Damascus and Aleppo. 
+By 2011, Syria was facing a deterioration in the national standard of living and steep rises in the prices of commodities. The country also faced particularly high youth unemployment rates.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>The World Health Organization has reported that 35% of the country's hospitals are out of service and, depending upon the region, up to 70% of the health care professionals have fled. Cases of diarrhoea and hepatitis-A have increased by more than twofold since the beginning of the year. Due to the fighting the normal vaccination programs cannot be undertaken. The displaced refugees also may pose a risk to the countries to which they have fled.
+Israel has been providing medical care to Syrians who seek assistance at the border and, according to some reports, has sent security personnel a short distance into Syrian territory. Care for Syrians is paid for by Health Ministry and Defense Ministry, as well as many charities. Arabic-speaking staff is available.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>USAID and other government agencies in US delivered nearly $385 million of aid items to Syria in 2012 and 2013. 
+The United States is providing food aid, medical supplies, emergency and basic health care, shelter materials, clean water, hygiene education and supplies, 
+and other relief supplies.
+Islamic Relief has stocked 30 hospitals and sent hundreds of thousands of medical and food parcels.
+Iran has been exporting between 500 and 800 tonnes of flour daily, by sea and land, to Syria.
+On 26 April 2013 a humanitarian convoy, inspired by Gaza Flotilla, departed from Turkey to Syria. Called Hayat (Life), it is set to deliver aid items to IDPs inside Syria and refugees in neighboring countries: Turkey, Lebanon, Jordan, Iraq and Egypt.</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_SSCHAD" Name="Space Shuttle Challenger Disaster">
+		<People>
+			<Person ID="PER_SYRIDE"/>
+			<Person ID="PER_RBOISJ"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_THIOKL"/>
+			<Org ID="ORG_NASAUS"/>
+		</Organizations>
+		<Kind>Equipment malfunction, disaster</Kind>
+		<Date>1986-01-28</Date>
+		<Time>17:39:13</Time>
+		<Locations>
+			<li>Atlantic Ocean, off coast of central Florida</li>
+		</Locations>
+		<HumanImpact>
+			<li>7 people killed</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>All of the lessons the agency learned were incorporated into every subsequent flight NASA flew, and are now being used to inform the design of its next-generation spaceship, Orion. $1.7 billion spent creating space shuttle Challenger.  $400 million to clean up the debris.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Clean up crews.  Trucks used to haul off the shuttle debris. Inquiry staff to investigate why the disaster happened.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>None</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_PIRATE" Name="Piracy in Somalia">
+		<People>
+			<Person ID="PER_ABDALA"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_MARORG"/>
+		</Organizations>
+		<Kind>Piracy</Kind>
+		<Date>2005-01-01</Date>
+		<Time>06:00:00</Time>
+		<Locations>
+			<li>Coast of Somalia</li>
+		</Locations>
+		<HumanImpact>
+			<li>Each pirate attack means at least a few kidnappings for ransom. Illegal fishing conduced by the pirates has led to depletion of fish in the Somalia ocean region, which is causing hunger on the mainland. </li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Piracy has impeded the delivery of shipments and increased shipping expenses, costing an estimated $6.6 to $6.9 billion a year in global trade. Insurance Premiums have increased significantly as a result</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Russian and Indian navy forces have been dispatched to assist with containing the piracy problem. In addition, a international task forces were put together as part of Operation: Enduring Freedom (Combined Task Force 150).</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Humanitarian Aid in the form of food to the home regions of the pirates has been distributed in an attempt to make the risk of piracy less attractive.</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Person ID="PER_BROBMA" Name="Barack Obama">
+		<Crises>
+			<Crisis ID="CRI_HURSAN"/>
+			<Crisis ID="CRI_BMBOMB"/>
+			<Crisis ID="CRI_AIDSHI"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_WHORGN"/>
+		</Organizations>
+		<Kind>President</Kind>
+		<Location>Washington, D.C, United States of America</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Barack_Obama">Wikipedia page for Barack Obama</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.whitehouse.gov/administration/president-obama/">Official Whitehouse page for Barack Obama</li>
+				<li href="http://www.barackobama.com">Barack Obama's campaign website</li>
+				<li href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=o000167">Official Congressional page for Barack Obama</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg" text="President Barack Obama"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Ann_Dunham_with_father_and_children.jpg/220px-Ann_Dunham_with_father_and_children.jpg" text="Young Barack Obama with family"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flickr_Obama_Springfield_01.jpg/220px-Flickr_Obama_Springfield_01.jpg" text="President Obama and First Lady at a rally"/>
+				<li embed="http://disinfo.s3.amazonaws.com/wp-content/uploads/2010/02/JointSessionCongress.jpg" text="United States Congress joint session"/>
+			</Images>
+			<Videos>
+				<li embed="http://commons.wikimedia.org/wiki/Obama_Administration_weekly_video_addresses" text="President Obama's first weekly video address"/>
+				<li embed="http://www.youtube.com/user/BarackObamadotcom" text="President Obama's youtube channel"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=1600+Pennsylvania+Avenue+Northwest,+Washington,+DC&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.732698,0.95993&amp;oq=1600+pen&amp;hnear=1600+Pennsylvania+Ave+NW,+Washington,+District+of+Columbia+20500&amp;t=m&amp;z=16" text="The White House"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_RENPRE" Name="René Préval">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+		</Crises>
+		<Kind>2010 Haitian President</Kind>
+		<Location>Haiti</Location>
+		<Common>
+			<Citations>
+				<li href="https://upload.wikimedia.org/wikipedia/commons/1/1a/Rene_Preval.jpg">René Préval photo</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://en.wikipedia.org/wiki/Ren%C3%A9_Pr%C3%A9val">René Préval Wiki page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/5/5d/Ren%C3%A9_Pr%C3%A9val_on_March_31%2C_2010.jpg" text="René Préval photo"/>
+				<li embed="http://www2.pictures.zimbio.com/gi/Major+Earthquake+Hits+Haiti+G5nm-m9vbQol.jpg" text="René Préval with wife and Dr. Barth Green"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=iBbB9__qt84" text="Haiti Earthquake: Rene Preval video"/>
+				<li embed="http://www.youtube.com/watch?v=pJwpLuCmDz8" text="President haiti rene preval: 'My palace collapsed'"/>
+			</Videos>
+		</Common>
+	</Person>
+	<Person ID="PER_JOSHAZ" Name="Joseph Hazelwood">
+		<Crises>
+			<Crisis ID="CRI_EXXVAL"/>
+		</Crises>
+		<Kind>Captain of the Exxon Valdez</Kind>
+		<Location>Alaska</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Joseph_Hazelwood">Joseph Hazelwood Wiki page</li>
+			</Citations>
+			<Images>
+				<li embed="http://library.thinkquest.org/10867/spill/people/hazelwood.jpg" text="Joseph Hazelwood pic"/>
+				<li embed="http://cache.daylife.com/imageserve/071weEIcxP1ys/x500.jpg" text="pic of Joseph Hazelwood"/>
+				<li embed="http://www.nypost.com/rw/nypost/2010/05/31/news/photos_stories/cropped/joseph_hazelwood--300x300.jpg" text="old Joseph Hazelwood"/>
+				<li embed="http://c.gcaptain.com/wp-content/uploads/2011/07/1302184844-49.jpg" text="Joseph Hazelwood wearing a cap"/>
+				<li embed="http://cdn2.shipspotting.com/photos/middle/8/8/1/976188.jpg" text="Exxon Valdez ship"/>
+			</Images>
+		</Common>
+	</Person>
+	<Person ID="PER_BOMBER" Name="Dzhokhar and Tamerlan Tsarnaev">
+		<Crises>
+			<Crisis ID="CRI_BMBOMB"/>
+		</Crises>
+		<Kind>Commited Boston Bombings</Kind>
+		<Location>Tamerlan was born in the Kalmyk Autonomous Soviet Socialist Republic[13] in 1986, and Dzhokhar was born in Kyrgyzstan in 1993</Location>
+		<Common>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/f/f4/Two_suspects_wanted_by_the_FBI_for_the_bombing.jpg" text="Tamerlan (front) and Dzhokhar Tsarnaev"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/thumb/6/65/BostonSuspect2.jpg/220px-BostonSuspect2.jpg" text="Dzhokhar Tsarnaev"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/thumb/7/78/BostonSuspect1.jpg/220px-BostonSuspect1.jpg" text="Tamerlan Tsarnaev"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=5gg1hkd5wnI" text="Video Feed of Bombers"/>
+			</Videos>
+		</Common>
+	</Person>
+	<Person ID="PER_POPEFR" Name="Pope Francis">
+		<Crises>
+			<Crisis ID="CRI_BFACTO"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_CATHLC"/>
+		</Organizations>
+		<Kind>Pope</Kind>
+		<Location>Vatican City, Italy</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.radiovaticana.va/news/2013/03/18/pope_francis_:_miserando_atque_eligendo.../en1-674605">Pope's chosen mottow</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.nydailynews.com/news/world/popebio-article-1.1287994">Biographical news article of Pope Francis</li>
+				<li href="http://en.wikipedia.org/wiki/Pope_Francis">Pope Francis Wikipedia page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Pope_Francis_in_March_2013.jpg/230px-Pope_Francis_in_March_2013.jpg" text="Pope Francis"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Jorge_Mario_Bergoglio_attended_a_salesian_school_between_1948_and_1949.jpg/330px-Jorge_Mario_Bergoglio_attended_a_salesian_school_between_1948_and_1949.jpg" text="Young Pope Francis"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Pope_Francis_with_Cristina_Fernandez_de_Kirchner_9.jpg/220px-Pope_Francis_with_Cristina_Fernandez_de_Kirchner_9.jpg" text="Pope Francis with Cristina Fernandez de Kirchner"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=rNmerd1IDmw" text="Pope Francis exorcism"/>
+				<li embed="http://www.youtube.com/watch?v=_rHL4P1_GFM" text="Meet Pope Francis"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=vatican+City&amp;hl=en&amp;sll=41.902916,12.453389&amp;sspn=0.018813,0.029998&amp;hnear=Vatican+City&amp;t=m&amp;z=15" text="Vatican City"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_SYRIDE" Name="Sally Ride">
+		<Crises>
+			<Crisis ID="CRI_SSCHAD"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_THIOKL"/>
+		</Organizations>
+		<Kind>Rodgers Commision Member</Kind>
+		<Location>Washington DC</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_ABDALA" Name="Ahmedou Ould-Abdallah">
+		<Crises>
+			<Crisis ID="CRI_PIRATE"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_MARORG"/>
+		</Organizations>
+		<Kind>UN Representative to Somalia</Kind>
+		<Location>Somalia</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_VPUTIN" Name="Vladimir Putin">
+		<Crises>
+			<Crisis ID="CRI_SYCLWR"/>
+		</Crises>
+		<Kind>President of Russia</Kind>
+		<Location>Russia</Location>
+		<Common>
+			<Images>
+				<li embed="http://www.religionfacts.com/politics/vladimir_putin.jpg" text="Vladimir Putin picture"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=33oIF-ggK5U" text="Vladimir Putin Interview"/>
+			</Videos>
+		</Common>
+	</Person>
+	<Person ID="PER_RBOISJ" Name="Roger Boisjoly">
+		<Crises>
+			<Crisis ID="CRI_SSCHAD"/>
+		</Crises>
+		<Kind>Engineer for SRB's on Space Shuttle</Kind>
+		<Location>Washington DC</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_CEOTEP" Name="Masataka Shimizu">
+		<Crises>
+			<Crisis ID="CRI_FUKUSH"/>
+		</Crises>
+		<Kind>CEO of TEPCO</Kind>
+		<Location>Tokyo, Japan</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Masataka_Shimizu">Wiki Page for Masataka Shimizu</li>
+			</Citations>
+			<Images>
+				<li embed="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/3/29/1301387379320/Masataka-Shimizu-presiden-007.jpg" text="CEO of TEPCO"/>
+				<li embed="http://www.toledoblade.com/image/2011/06/11/800x_b1_cCM_z/Nuclear-Protest-Masataka-Shimizu-sign.jpg" text="Protests Against Shimizu"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=rhknDgOl7H4" text="Shimizu Urged to Quit After Costing Holders $29 Billion "/>
+			</Videos>
+		</Common>
+	</Person>
+	<Organization ID="ORG_REDCRS" Name="Red Cross">
+		<Crises>
+			<Crisis ID="CRI_HURSAN"/>
+			<Crisis ID="CRI_HAIEAR"/>
+			<Crisis ID="CRI_BMBOMB"/>
+			<Crisis ID="CRI_AIDSHI"/>
+		</Crises>
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Kind>relief organization</Kind>
+		<Location>Washington, D.C, United States of America</Location>
+		<History>
+			<li>Issued a corporate charter by the United States Congress under Title 36 of the United States Code, Section 3001, the American National Red Cross is governed by volunteers and supported by community donations, income from health and safety training and products, and income from blood products. The American Red Cross is headquartered in Washington, D.C. The Chairman of the Board of Governors, serving her second three-year term, is Bonnie McElveen-Hunter. The current President and Chief Executive Officer is Gail J.  McGovern.
+</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.redcross.org/contact-us/general-inquiry</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.redcross.org/about-us/history">Red Cross history</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.redcross.org/about-us/publications">Red Cross publications</li>
+				<li href="http://www.redcross.org">Official Red Cross website</li>
+				<li href="http://www.nps.gov/history/NR/twhp/wwwlps/lessons/27barton/27barton.htm">History of Red Cross founder</li>
+				<li href="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/American_Red_Cross_Administrative_Headquarters.JPG/450px-American_Red_Cross_Administrative_Headquarters.JPG">Red Cross administrative headquarters</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/e/e9/Amer_redcross_2012_logo.png" text="Red Cross logo"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/American_Red_Cross_headquarters.JPG/800px-American_Red_Cross_headquarters.JPG" text="Red Cross headquarters"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Clara_Barton1.jpg/509px-Clara_Barton1.jpg" text="Red Cross founder Clara Barton"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=3yufZP-LZrk" text="Red Cross stories"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=2025+E+Street,+NW+Washington,+DC+20006&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.698312,0.95993&amp;hnear=2025+E+St+NW,+Washington,+District+of+Columbia,+20006&amp;t=m&amp;z=16" text="Location of Red Cross Headquarters"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_NATOAA" Name="National Oceanic and Atmospheric Administration">
+		<Crises>
+			<Crisis ID="CRI_EXXVAL"/>
+		</Crises>
+		<Kind>scientific agency</Kind>
+		<Location>Silver Spring, Maryland, USA</Location>
+		<History>
+			<li>NOAA was formed on October 3, 1970, after Richard Nixon proposed creating a new department to serve a national need &quot;… for better protection of life and property from natural hazards … for a better understanding of the total environment … [and] for exploration and development leading to the intelligent use of our marine resources …&quot; NOAA formed a conglomeration of several existing agencies that were among the oldest in the federal government. They were the United States Coast and Geodetic Survey, formed in 1807; the Weather Bureau, formed in 1870 -- Geodetic Survey and Weather Service had been combined by a 1965 consolidation into the Environmental Science Services Administration (ESSA); and the Bureau of Commercial Fisheries, formed in 1871. NOAA was established within the Department of Commerce via the Reorganization Plan No. 4 of 1970. </li>
+		</History>
+		<ContactInfo>
+			<li>http://www.noaa.gov/</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration">NOAA Wiki page</li>
+			</Citations>
+			<Images>
+				<li embed="https://upload.wikimedia.org/wikipedia/commons/3/3a/NOAA.png" text="NOAA logo"/>
+				<li embed="http://media.gulflive.com/mississippi-press-business/photo/ms0424noaa2webjpg-074145fa3a7304b9.jpg" text="NOAA building in Mississippi"/>
+			</Images>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_MARORG" Name="International Maritime Organization">
+		<Crises>
+			<Crisis ID="CRI_EXXVAL"/>
+			<Crisis ID="CRI_PIRATE"/>
+		</Crises>
+		<People>
+			<Person ID="PER_ABDALA"/>
+		</People>
+		<Kind>Maritime Regulation</Kind>
+		<Location>London, United Kingdom</Location>
+		<History>
+			<li>Inter-Governmental Maritime Consultative Organization (IMCO) was formed to fulfill a desire to bring the regulation of the safety of shipping into an international framework, for which the creation of the United Nations provided an opportunity. Hitherto such international conventions had been initiated piecemeal, notably the Safety of Life at Sea Convention (SOLAS), first adopted in 1914 following the Titanic disaster.IMCO's first task was to update that Convention; the resulting 1960 Convention was subsequently recast and updated in 1974 and it is that Convention that has been subsequently modified and updated to adapt to changes in safety requirements and technology.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.imo.org/</li>
+		</ContactInfo>
+		<Common>
+			<Images>
+				<li embed="http://www.imo.org/OurWork/Environment/PublishingImages/MEDandtheenvironment.jpg" text="IMO flyer pic"/>
+				<li embed="http://cruiseradio.net/wp-content/uploads/2012/05/IMO.gif" text="IMO logo"/>
+				<li embed="http://2.bp.blogspot.com/-zt8B2kNkOA0/TnbqTWE4hnI/AAAAAAAAAzc/DlMhAajjAzM/s1600/IMO.jpg" text="IMO building"/>
+				<li embed="http://usresponserestoration.files.wordpress.com/2011/06/imo-headquarters.jpg" text="IMO headquarters"/>
+				<li embed="http://static.worldmaritimenews.com/wp-content/uploads/2012/05/IMO-Capacity-Building-to-Counter-Piracy-Off-The-Coast-of-Somalia.jpg" text="IMO meeting room"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=0OYCnZhRPU0&amp;list=FLoQbQE-aEhVBywNRB-XsHOQ&amp;index=1" text="Generic IMO video - not linked to event"/>
+			</Videos>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_WHORGN" Name="World Health Organization">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+			<Crisis ID="CRI_FUKUSH"/>
+		</Crises>
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Kind>Public Health</Kind>
+		<Location>Geneva, Switzerland</Location>
+		<History>
+			<li>The World Health Organization (WHO) is a specialized agency of the United Nations (UN) that is concerned with international public health. It was established on 7 April 1948, with headquarters in Geneva, Switzerland, and is a member of the United Nations Development Group. Its predecessor, the Health Organization, was an agency of the League of Nations.
+The constitution of the World Health Organization had been signed by all 61 countries of the United Nations by 22 July 1946, with the first meeting of the World Health Assembly finishing on 24 July 1948. It incorporated the Office International d'Hygiène Publique and the League of Nations Health Organization. Since its creation, WHO has been responsible for playing a leading role in the eradication of smallpox. Its current priorities include communicable diseases, in particular, HIV/AIDS, malaria and tuberculosis; the mitigation of the effects of non-communicable diseases; sexual and reproductive health, development, and aging; nutrition, food security and healthy eating; occupational health; substance abuse; and drive the development of reporting, publications, and networking. WHO is responsible for the World Health Report, a leading international publication on health, the worldwide World Health Survey, and World Health Day (7th-April of every Year).</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.who.int/about/contacthq/en/index.html</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/World_Health_Organization#History">WHO Wiki Page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.who.int/en/">WHO Home Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_WHO.svg/800px-Flag_of_WHO.svg.png" text="WHO Flag"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?feature=player_profilepage&amp;v=QCljON3Pa4E" text="WHO Promotional Video"/>
+			</Videos>
+			<Maps>
+				<li embed="http://media.web.britannica.com/eb-media/67/64667-004-7F7A1490.gif" text="Location of WHO Headquarters"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_TEPCOM" Name="Tokyo Electric Power Comapny">
+		<Crises>
+			<Crisis ID="CRI_FUKUSH"/>
+		</Crises>
+		<Kind>Power Provider</Kind>
+		<Location>Chiyoda, Tokyo, Japan</Location>
+		<History>
+			<li>Tokyo Electric Power Company, Incorporated, also known as Toden or TEPCO,
+is a Japanese electric utilities servicing Japan's Kant? region, Yamanashi Prefecture, 
+and the eastern portion of Shizuoka Prefecture. This area includes Tokyo. Its headquarters 
+are located in Uchisaiwaicho, Chiyoda, Tokyo, and international branch offices exist in Washington, 
+D.C., and London. It is a founding member of strategic consortiums related to energy innovation and research.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.tepco.co.jp/en/other/contact/contop-e.html</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.tepco.co.jp/en/index-e.html">TEPCO Website</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://en.wikipedia.org/wiki/Tokyo_Electric_Power_Company">TEPCO Wiki Page</li>
+				<li href="http://en.wikipedia.org/wiki/Masataka_Shimizu">Wiki Page for Masataka Shimizu</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/c/c2/TEPCO_head_office.jpg" text="TEPCO Headquarters"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/3/33/TEPCO_logo.svg" text="TEPCO Logo"/>
+				<li embed="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/3/29/1301387379320/Masataka-Shimizu-presiden-007.jpg" text="CEO of TEPCO"/>
+				<li embed="http://www.toledoblade.com/image/2011/06/11/800x_b1_cCM_z/Nuclear-Protest-Masataka-Shimizu-sign.jpg" text="Protests Against Shimizu"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.tepco.co.jp/en/news/library/movie-01e.html" text="TEPCO President at Press Confrence"/>
+				<li embed="http://www.youtube.com/watch?v=rhknDgOl7H4" text="Shimizu Urged to Quit After Costing Holders $29 Billion "/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;oe=utf-8&amp;q=Chiyoda,+Tokyo,+Japan&amp;ie=UTF-8&amp;hq=&amp;hnear=0x60188c0c0b13f54d:0xb630953beee48188,Chiyoda,+Tokyo,+Japan&amp;gl=us&amp;ei=OhTbUbCyNY_pqAGm6IC4Cg&amp;ved=0CJ8BELYD" text="TEPCO Headquarters Location"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_GENELE" Name="General Electric">
+		<Crises>
+			<Crisis ID="CRI_FUKUSH"/>
+		</Crises>
+		<Kind>American Multinational Conglomerate corporation</Kind>
+		<Location>Fairfield, Connecticut</Location>
+		<History>
+			<li>General Electric, or GE, is an American multinational conglomerate corporation incorporated in Schenectady, New York and headquartered in Fairfield, Connecticut, United States. The company operates through four segments: Energy, Technology Infrastructure, Capital Finance and Consumer &amp; Industrial.
+In 2011, GE ranked among the Fortune 500 as the 6th-largest firm in the U.S. by gross revenue, as well as the 14th most profitable. However, the company is currently listed the 3rd-largest in the world among the Forbes Global 2000, further metrics being taken into account. Other rankings for 2011/2012 include No. 7 company for leaders (Fortune), No. 5 best global brand (Interbrand), No. 63 green company (Newsweek), No. 15 most admired company (Fortune), and No. 19 most innovative company (Fast Company).</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.ge.com/contact/general</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/General_Electric">GE Wiki Page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.ge.com/">GE Home Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/thumb/f/ff/General_Electric_logo.svg/200px-General_Electric_logo.svg.png" text="GE Logo"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?feature=player_embedded&amp;v=qVVj2ddb-eQ" text="Newest GE Airliner Engine Video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=Fairfield,+Connecticut,+U.S.&amp;ie=UTF-8&amp;ei=YxnbUejCJ8KY0QHqq4DYAg&amp;ved=0CAgQ_AUoAg" text="Location of GE Headquarters"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_CATHLC" Name="Catholic Church">
+		<Crises>
+			<Crisis ID="CRI_BFACTO"/>
+		</Crises>
+		<People>
+			<Person ID="PER_POPEFR"/>
+		</People>
+		<Kind>religious establishment</Kind>
+		<Location>Vatican City, Italy</Location>
+		<History>
+			<li>Catholic doctrine teaches that the Catholic Church was founded by Jesus Christ. It interprets the Confession of Peter as acknowledging Christ's designation of Apostle Peter and his successors to be the temporal head of his Church. Thus, it asserts that the Bishop of Rome has the sole legitimate claim to Petrine authority and the primacy due to the Roman Pontiff.[1] The Catholic Church claims legitimacy for its bishops and priests via the doctrine of apostolic succession and authority of the Pope via the unbroken line of popes, claimed as successors to Simon Peter.[2][3][4][5] In 313, the struggles of the Early Church were lessened by the legalisation of Christianity by the Emperor Constantine I. In 380, under Emperor Theodosius I, Christianity became the state religion of the Roman Empire by the decree of the Emperor, which would persist until the fall of the Western Empire, and later, with the Eastern Roman Empire, until the Fall of Constantinople.  During this time (the period of the Seven Ecumenical Councils) there were considered five primary sees according to Eusebius: Rome, Constantinople, Antioch, Jerusalem and Alexandria, known as the Pentarchy.  After the destruction of the western Roman Empire, the church in the West was a major factor in the preservation of classical civilization, establishing monasteries, and sending missionaries to convert the peoples of northern Europe, as far as Ireland in the north. In the East, the Byzantine Empire preserved Orthodoxy, well after the massive invasions of Islam in the mid-7th century. The invasions of Islam devastated three of the five Patriarchal sees, capturing Jerusalem first, then Alexandria, and then finally in the mid-8th century, Antioch.  The whole period of the next five centuries was dominated by the struggle between Christianity and Islam throughout the Mediterranean Basin. The battles of Poitiers, and Toulouse preserved the Catholic west, even though Rome itself was ravaged in 850, and Constantinople besieged. In the 11th century, already strained relations between the primarily Greek church in the East, and the Latin church in the West, developed into the East-West Schism, partially due to conflicts over Papal Authority. The fourth crusade, and the sacking of Constantinople by renegade crusaders proved the final breach.  In the 16th century, in response to the Protestant Reformation, the Church engaged in a process of substantial reform and renewal known as the Counter-Reformation.[6] In subsequent centuries, Catholicism spread widely across the world despite experiencing a reduction in its hold on European populations due to the growth of Protestantism and also because of religious scepticism during and after the Enlightenment. The Second Vatican Council in the 1960s introduced the most significant changes to Catholic practices since the Council of Trent three centuries before.
+</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.thecatholicdirectory.com</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Catholic_Church">Catholic Church's Wikipedia page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.vatican.va/">Vatican's official website</li>
+				<li href="http://www.news.va/">Official Vatican news site</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/StPetersBasilicaEarlyMorning.jpg/220px-StPetersBasilicaEarlyMorning.jpg" text="St. Peters Basilica Cathedral"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Thebible33.jpg/220px-Thebible33.jpg" text="The Bible"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/vatican" text="Vatican's official youtube channel"/>
+			</Videos>
+			<Maps>
+				<li embed="http://www.catholic.org/maps/" text="Maps from catholic.org"/>
+				<li embed="https://maps.google.com/maps?q=vatican+City&amp;hl=en&amp;sll=41.902916,12.453389&amp;sspn=0.018813,0.029998&amp;hnear=Vatican+City&amp;t=m" text="Map of Vatican City"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_THIOKL" Name="Morton-Thiokol">
+		<Crises>
+			<Crisis ID="CRI_SSCHAD"/>
+		</Crises>
+		<People>
+			<Person ID="PER_SYRIDE"/>
+		</People>
+		<Kind>Chemical Corporation</Kind>
+		<Location>Huntsville, Alabama</Location>
+		<History>
+			<li>Thiokol (variously Thiokol Chemical Corporation, Morton-Thiokol Inc., Cordant Technologies Inc., Thiokol Propulsion, AIC Group, ATK Thiokol; currently ATK Launch Systems Group) is a U.S. corporation concerned initially with rubber and related chemicals, and later with rocket and missile propulsion systems.[citation needed] Its name is a portmanteau of the Greek words for sulfur (???? &quot;theio&quot;) and glue (????? &quot;kolla&quot;), an allusion to the company's initial product.
+The Thiokol Chemical Company was founded in 1929. Its initial business was a range of synthetic rubber and polymer sealants, and Thiokol was a major supplier of liquid polymer sealants during World War II. When scientists at the Jet Propulsion Laboratory discovered that Thiokol's polymers made ideal rocket fuels, Thiokol moved into the new field, opening laboratories at Elkton, Maryland, and later production facilities at Elkton and at Redstone Arsenal in Huntsville, Alabama. Huntsville produced the XM33 Pollux, TX-18 Falcon, and TX-135 Nike-Zeus systems. It closed in 1996. In the mid-1950s the company bought extensive lands in Utah for its rocket test range, and continues to have major operations in the state, at Magna and Promontory (manufacture of the Space Shuttle's solid rocket motors), and its current headquarters at Brigham City. As of 2005 the company employed over 15,000 people worldwide and records annual sales of around $ 840 million.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.atk.com/</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+	<Organization ID="ORG_NASAUS" Name="National Aeronautics and Space Administration (NASA)">
+		<Crises>
+			<Crisis ID="CRI_SSCHAD"/>
+		</Crises>
+		<Kind>Government Organization</Kind>
+		<Location>Washington, DC</Location>
+		<History>
+			<li>NASA was created on October 1, 1958 during a time known as the space race, when the United States and Soviet Union were seeking to become the first countries to explore space. NASA began to began to conduct space missions 
+within months of its creation (http://history.nasa.gov/factsheet.htm) such as: creating the first space shuttle, sending robots to explore the moon, deploying satellitesto be used for communication and weather monitoring, and created the Skylab, an orbital workshop for astronauts (http://history.nasa.gov/factsheet.htm). 
+One of the highlights of the program occurred during Gemini 4, on June 3, 1965, when Edward H. White, Jr., became the first U.S. astronaut to conduct a spacewalk (http://history.nasa.gov/factsheet.htm). NASA was behind the Apollo 11 mission, the mission 
+that put Neil Armstrong and Buzz Aldrin as the first humans on the moon. In 1993, the United States and Russia, with NASA leading the way, designed the joint space station, the International Space Station.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.nasa.gov/about/contact/index.html#.Ud3cTRYzwkc</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+	<Organization ID="ORG_UNAIDS" Name="Joint United Nations Programme on HIV/AIDS">
+		<Crises>
+			<Crisis ID="CRI_AIDSHI"/>
+		</Crises>
+		<Kind>Humanitarian Health</Kind>
+		<Location>Geneva, Switzerland</Location>
+		<History>
+			<li>The aim of UNAIDS is to help mount and support an expanded response to HIV/AIDS, one that engages the efforts of many sectors and partners from government and civil society.
+Established in 1994 by a resolution of the UN Economic and Social Council and launched in January 1996, UNAIDS is guided by a Programme Coordinating Board with representatives of 22 governments from all geographic regions, the UNAIDS Cosponsors, and five representatives of nongovernmental organizations (NGOs), including associations of people living with HIV/AIDS.</li>
+		</History>
+		<ContactInfo>
+			<li>www.unaids.org</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+</WorldCrises>
