@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WorldCrises>
+	<Crisis ID="CRI_WTXPLX" Name="West Fertilizer Plant Explosion">
+		<People>
+			<Person ID="PER_RPERRY"/>
+			<Person ID="PER_DADAIR"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_TCEQTX"/>
+		</Organizations>
+		<Kind>Plant explosion</Kind>
+		<Date>2013-04-18</Date>
+		<Time>00:50:38</Time>
+		<Locations>
+			<li>West, Texas</li>
+		</Locations>
+		<HumanImpact>
+			<li>15 people were killed, 200 were injured</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>$100 million in property damage.  Destroyed 140 houses and some local businesses.  </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>$1 million investigation to determine the cause of the explosion, still undetermined. </li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>None, FEMA denied aid to West.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://www.slate.com/blogs/the_slatest/2013/05/17/cause_of_west_texas_fertilizer_explosion_officially_undetermined.html">Texas Plant Expl cit 3</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.wjla.com/articles/2013/04/west-fertilizer-co-explosion-damage-to-cost-100-million-group-says-87912.html">Texas Plant Expl cit 2</li>
+				<li href="http://www.wsws.org/en/articles/2013/05/27/west-m27.html">Texas Plant Expl cit 1</li>
+			</ExternalLinks>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=West,+TX&amp;amp;aq=0&amp;amp;oq=west&amp;amp;sll=31.34074,-93.846852&amp;amp;sspn=0.035261,0.066047&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=West,+McLennan,+Texas&amp;amp;t=m&amp;amp;z=14&amp;amp;ll=31.802383,-97.0" text="Texas Plant Expl map"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_COLSSD" Name="Columbia Space Shuttle Disaster">
+		<People>
+			<Person ID="PER_HUSBND"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_NASAUS"/>
+		</Organizations>
+		<Kind>Equipment malfunction, disaster</Kind>
+		<Date>2013-07-12</Date>
+		<Time>15:13:51</Time>
+		<Locations>
+			<li>Dallas, Texas</li>
+		</Locations>
+		<HumanImpact>
+			<li>Death of all seven crew members</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Some Texas residents recovered some of the debris, ignoring the warnings, and attempted to sell it on the online auction site eBay, starting at $10,000.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>In the months after the disaster, the largest-ever organized ground search took place. NASA issued warnings to the public that any debris could contain hazardous chemicals, that it should be left untouched, its location reported to local emergency services or government authorities, and that anyone in unauthorized possession of debris would be prosecuted. Because of the widespread area, volunteer amateur radio operators accompanied the search teams to provide communications support.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>None</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://articles.latimes.com/2003/sep/12/nation/na-shuttle12">Columbia Space Shuttle cit 3</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.space.com/19436-columbia-disaster.html">Columbia Space Shuttle cit 2</li>
+				<li href="http://www.space.com/19526-columbia-shuttle-disaster-explained-infographic.html">Columbia Space Shuttle cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/0/0b/Space_Shuttle_Columbia_launching_cropped_2.jpg.jpg" text="Columbia Space Shuttle"/>
+			</Images>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Dallas,+TX&amp;aq=0&amp;oq=Da+TX&amp;sll=31.802383,-97.091669&amp;sspn=0.070173,0.132093&amp;ie=UTF8&amp;hq=&amp;hnear=Dallas,+Texas&amp;t=m&amp;z=11&amp;ll=32.78014,-96.800451" text="Columbia Space Shuttle map"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_HAIEAR" Name="2010 Haiti Earthquake">
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_UNINAT"/>
+			<Org ID="ORG_WHORGN"/>
+			<Org ID="ORG_SALARM"/>
+		</Organizations>
+		<Kind>Natural Disaster</Kind>
+		<Date>2010-01-12</Date>
+		<Time>22:53:00</Time>
+		<Locations>
+			<li>southern Haiti</li>
+		</Locations>
+		<HumanImpact>
+			<li>An estimated three million people were affected by the quake. The highest reliable death count was estimated at 220,000. Haitian government estimates were higher.
+While the vast majority of casualties were Haitian civilians, the dead included aid workers, embassy staff, foreign tourists—and a number of public figures, including Archbishop of Port-au-Prince Monsignor Joseph Serge Miot, aid worker Zilda Arns and officials in the Haitian government, including opposition leader Michel &quot;Micha&quot; Gaillard. Also killed were a number of well-known Haitian musicians[104] and sports figures, including thirty members of the Fédération Haïtienne de Football. At least 85 United Nations personnel working with MINUSTAH were killed, among them the Mission Chief, Hédi Annabi, his deputy, Luiz Carlos da Costa., and police commissioner Douglas Coates. Around 200 guests were killed in the collapse of the Hôtel Montana in Port-au-Prince.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Hundreds of thousands of buildings plummeted to the ground including homes, the presidential palace, and even the United Nations Peacekeeping Mission.  The earthquake resulted in 105,000 homes being destroyed, causing $2.3 billion in damage and the nation being covered in rubble (Haiti). The government of Haiti estimated that 250,000 residences and 30,000 commercial buildings had collapsed or were severely damaged.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Many countries responded to the appeals and launched fund-raising efforts, as well as sending search and rescue teams. The neighbouring Dominican Republic was the first country to give aid to Haiti,[111] sending water, food and heavy-lifting machinery.[115] The hospitals in the Dominican Republic were made available; a combined effort of the Airports Department (DA), together with the Dominican Naval Auxiliaries, the UN and other parties formed the Dominican-Haitian Aerial Support Bridge, making the main Dominican airports available for support operations to Haiti. The Dominican website FlyDominicanRepublic.com made available to the internet, daily updates on airport information and news from the operations center on the Dominican side. The Dominican emergency team assisted more than 2,000 injured people, while the Dominican Institute of Telecommunications (Indotel) helped with the restoration of some telephone services.The Dominican Red Cross coordinated early medical relief in conjunction with the International Red Cross.The government sent eight mobile medical units along with 36 doctors including orthopaedic specialists, traumatologists, anaesthetists, and surgeons. In addition, 39 trucks carrying canned food were dispatched, along with 10 mobile kitchens and 110 cooks capable of producing 100,000 meals per day</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>From 12 January, the International Committee of the Red Cross, which has been working in Haiti since 1994, focused on bringing emergency assistance to victims of the catastrophe, in close cooperation with its partners within the International Red Cross and Red Crescent Movement, particularly the Haitian Red Cross and the International Federation of Red Cross and Red Crescent Societies.
+Canadians were able to donate through the Humanitarian Coalition which distributed funds to partner organizations working in the field. During this time the Humanitarian Coalition raised over C$15 Million.
+The Netherlands sponsored a project, called Radio555. The Dutch radio channels 3FM, Radio 538 and Radio Veronica all broadcast under the name of Radio555, funded by a contribution of €80 million.
+Immediately following the earthquake, Real Medicine Foundation began providing medical staffing, in-kind medical supplies and strategic coordination to help meet the surging needs of the health crisis on the ground. Working in close partnership with other relief organizations, Real Medicine organized deployments of volunteer medical specialists to meet the needs of partner hospitals and clinics at the Haiti–Dominican Republic border and in Port-au-Prince, provided direct funding, medical supplies and pharmaceuticals to local health facilities and partner hospitals, provided advisory services and coordination to local health facilities, including physical therapy support, and coordinated mobile health outreaches, field clinics and food supplies to outlying villages overlooked in the relief effort.</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/2010_Haiti_Earthquake">Haiti Earthquake Wiki</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://haitiearthquake.web.unc.edu/economic-impact-of-the-earthquake/">Haiti Earthquake article</li>
+				<li href="http://www.rdp.sg/film/haiti/">Haiti Earthquake 2010 (HD Documentary Short)</li>
+				<li href="http://insidedisaster.com/haiti/">Inside Disaster interactive website</li>
+				<li href="http://www.nj.com/news/index.ssf/2010/04/haitis_ambassador_to_us_says_e.html">Raymond Joseph article on NJ.com</li>
+				<li href="http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/7022556/Haiti-earthquake-Wyclef-Jean-calls-for-evacuation-of-Port-au-Prince.html">Wyclef Jean calls for evacuation</li>
+				<li href="http://www.canada.com/news/Hard+power+needed+Haiti+Harper/2572453/story.html">Stephen Harper article</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/7/79/UNDP-HTI-10-201.jpg.jpg" text="Haiti Earthquake rubble cleanup"/>
+				<li embed="http://www.coolgeography.co.uk/GCSE/AQA/Restless%20Earth/Earthquakes/Haiti%20Map.gif" text="Haiti Earthquake tremor map"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/d/d5/Haiti_earthquake_damage_overhead.jpg" text="Haiti Earthquake damage overhead"/>
+				<li embed="http://haitiearthquake.web.unc.edu/files/2010/11/800px-Haiti_earthquake_damage1.jpg" text="Haiti Earthquake housing damage"/>
+				<li embed="http://i.i.com.com/cnwk.1d/i/tim//2010/01/12/112_raw_haitiQuake_480x360.jpg" text="Haiti Earthquake aftermath"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/5/58/Flickr_-_Israel_Defense_Forces_-_Rescue_of_a_Haitian_Man_from_Government_Building_%282%29.jpg" text="Israel Defense Forces - Rescue of a Haitian Man"/>
+				<li embed="http://www.doctorswithoutborders.org/images/news/2010/Haiti-52621b.jpg" text="Doctors Without Borders - Haiti"/>
+				<li embed="http://www.jpost.com/HttpHandlers/ShowImage.ashx?ID=137007" text="In Haiti: This is the spirit of the IDF"/>
+				<li embed="http://www.ifrc.org/PageFiles/40573/haiti_2010_00661.jpg" text="Generic IFRC pic"/>
+				<li embed="http://www.flipbooksoft.com/upload/books/0e900b86120f78e976635e61e6ef9e24/images/thumbs/page_1.jpg" text="RCRC Mag front cover"/>
+				<li embed="http://humanitariancoalition.ca/sites/default/files/styles/large/public/images/primary/haiti-5243015106_606072f092_b.jpg" text="Haiti Earthquake 2010 | Humanitarian Coalition"/>
+				<li embed="http://cdn1.tabletmag.com/wp-content/files_mf/126393781220100119joseph.jpg" text="Raymond Joseph on Rachel Maddow"/>
+				<li embed="http://i.telegraph.co.uk/multimedia/archive/01561/jean_1561579c.jpg" text="Wyclef Jean"/>
+				<li embed="http://www.canada.com/cms/binary/2572466.jpg" text="Stephen Harper visits Haiti"/>
+				<li embed="http://www2.pictures.zimbio.com/gi/Major+Earthquake+Hits+Haiti+G5nm-m9vbQol.jpg" text="René Préval with wife and Dr. Barth Green"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?feature=player_detailpage&amp;v=AhoMuODjrU8" text="2010 Haiti Earthquake Relief"/>
+				<li embed="http://www.youtube.com/watch?v=IfBdiFyxKOk" text="The Week in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=UhLUMNdO8ic" text="Haiti Earthquake Caught on Tape"/>
+				<li embed="http://www.youtube.com/watch?v=V_s4UMLm8LM" text="Sad and disturbing footage of Haiti Earthquake"/>
+				<li embed="http://vimeo.com/13595568" text="NCMO 2010 Haiti Earthquake Relief"/>
+				<li embed="http://www.youtube.com/watch?v=85FLbzuaGlk" text="Google Maps &amp; International Medical Corps - 2010 Haiti Earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=AKju8x4p-dA" text="Laurent Lamothe - Rebuilding Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=nf4lZCwiwX8" text="Sean Penn, Michel Joseph Martelly, Laurent Lamothe"/>
+				<li embed="http://www.youtube.com/watch?v=vw3G85jzhKk" text="Progress Report of President Michel Martelly and Laurent Lamothe"/>
+				<li embed="http://www.youtube.com/watch?v=J_9P8N8OqXk" text="BBC News - PM insists Haiti is recovering from 2010 earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=mU41MbK1C-o" text="Foreign Ministers Discuss Recovery Efforts in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=soPVme4AEfU" text="Honorable Mayor Jean-Yves, Jason of Port-au-Prince"/>
+				<li embed="http://www.youtube.com/watch?v=447BIGFvK_s" text="Frustration in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=viaYXGr7H9Y" text="Jean Yves Jason CNN Interview"/>
+				<li embed="http://www.youtube.com/watch?v=Oxy9PIdkf_A" text="Haiti Ambassador Raymond Joseph on earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=Aq-LpP2w2VU" text="Pat Robertson &amp; Haitian Ambassador on earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=mHEk_qR5l1I" text="Haiti Ambassador on Disaster"/>
+				<li embed="http://www.youtube.com/watch?v=0Q1ASN7Hy7k" text="Wyclef Jean reacts to earthquake"/>
+				<li embed="http://www.youtube.com/watch?v=rAN29LoL21g" text="Wyclef Jean Discusses Haiti Earthquake Relief Efforts"/>
+				<li embed="http://www.youtube.com/watch?v=BZxYSqrYv5E" text="&quot;From The Ashes We Shall Rise&quot; Wyclef Jean"/>
+				<li embed="http://www.youtube.com/watch?v=JumCMHCQmrM" text="PM statement on the situation in Haiti"/>
+				<li embed="http://www.youtube.com/watch?v=iBbB9__qt84" text="Haiti Earthquake: Rene Preval video"/>
+				<li embed="http://www.youtube.com/watch?v=pJwpLuCmDz8" text="President haiti rene preval: 'My palace collapsed'"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=http://mw1.google.com/mw-earth-vectordb/haiti/Haiti-Earthquake-nl.kml&amp;sll=40.111689,-95.712891&amp;sspn=41.414553,93.076172&amp;ie=UTF8&amp;z=11" text="Satellite Images of Haiti, Post-Earthquake"/>
+				<li embed="http://mw1.google.com/mw-earth-vectordb/haiti/Haiti-Earthquake-nl.kml" text="Google Earth KML Layer of Haiti, Post-Earthquake"/>
+				<li embed="http://www.bing.com/maps/?v=2&amp;cp=18.54956927907911~-72.32450745999813&amp;lvl=17&amp;sty=h&amp;where1=Port%20au%20Prince%20International%2C%20Haiti#Y3A9MTguNTQ5NTY5fi03Mi4zMjQ1MDcmbHZsPTE3JnN0eT1oJnE9UG9ydCUyNTIwYXUlMjUyMFByaW5jZSUyNTIwSW50ZXJuYXRpb25hbCUyNTJDJTI1MjB" text="Port au Prince International, Haiti"/>
+				<li embed="http://www.bing.com/maps/?form=MPSRCH&amp;cp=18.542811~-72.33903&amp;lvl=18&amp;style=a&amp;app=50328~#Y3A9MTguNTQyODExfi03Mi4zMzkwMzAmbHZsPTE4JnN0eT1h" text="Haiti Earthquake Bing Maps app (req. Silverlight)"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_EGYPTR" Name="Political Unrest in Egypt">
+		<People>
+			<Person ID="PER_HOSMBK"/>
+		</People>
+		<Kind>Political Unrest</Kind>
+		<Date>2013-01-16</Date>
+		<Time>06:00:00</Time>
+		<Locations>
+			<li>Egypt, Africa</li>
+		</Locations>
+		<HumanImpact>
+			<li>Human deaths, political turmoil, economic hardships for the population in general.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Creates   complications for economic reform caused by previous regime fallout. If approved, the loan will come with strict conditions. In order to receive it, the IMF instead of collateral it will require that Egypt implement economic reforms usually in the form of the unpopular austerity measures to cut Egypt's deficit. This translates into a cut in spending on public benefits, social services and development projects. It also comes with an increase in taxes on items such as food, alcohol and cigarettes and petroleum derived products which also include gasoline and cause higher fees for public services including transportation.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>None used other than previous loans to help Egypt of previous political unrest.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Still pending a $4.8 billion loan from the International Monetary Fund (IMF)</li>
+		</WaysToHelp>
+		<Common>
+			<Images>
+				<li embed="http://www.csmonitor.com/var/ezflow_site/storage/images/media/content/2012/6-25-12-mohamed-morsi/12947278-1-eng-US/6-25-12-Mohamed-Morsi_full_600.jpg" text="Morsi picture"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=K9d_P58qMx4" text="Mohamed Morsi - president elect"/>
+			</Videos>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_DARFUR" Name="War in Darfur">
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_UNINAT"/>
+		</Organizations>
+		<Kind>Civil War</Kind>
+		<Date>2003-02-01</Date>
+		<Time>23:02:23</Time>
+		<Locations>
+			<li>Darfur, Sudan</li>
+		</Locations>
+		<HumanImpact>
+			<li>178,258–461,520 excess deaths
+2,850,000 Displaced (UN estimate)
+450,000 Displaced (Sudanese estimate)
+</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Following a donors conference in Doha that pledged US$3.6 billion to help rebuild Darfur</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>United Nations resources</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>A peacekeeping force of 17,300 soldiers</li>
+		</WaysToHelp>
+		<Common>
+			<Images>
+				<li embed="http://www.newsudanvision.com/images/stories/darfur.jpg" text="War in Darfur"/>
+				<li embed="http://graphics8.nytimes.com/images/2006/10/22/world/23sudan.xlarge1.jpg" text="Casualties from War in Darfur"/>
+			</Images>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_AIDSHI" Name="AIDS/HIV">
+		<People>
+			<Person ID="PER_BROBMA"/>
+			<Person ID="PER_MAGICJ"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_SALARM"/>
+		</Organizations>
+		<Kind>Epidemic </Kind>
+		<Date>1980-01-01</Date>
+		<Time>18:00:00</Time>
+		<Locations>
+			<li>Worldwide </li>
+		</Locations>
+		<HumanImpact>
+			<li>25,000,000 deaths
+Genetic research indicates that HIV originated in west-central Africa during the early twentieth century. AIDS was first recognized by the Centers for Disease Control and Prevention (CDC) in 1981 and its cause—HIV infection—was identified in the early part of the decade. Since its discovery, AIDS has caused nearly 30 million deaths (as of 2009). As of 2010, approximately 34 million people are living with HIV globally. AIDS is considered a pandemic—a disease outbreak which is present over a large area and is actively spreading.
+HIV/AIDS has had a great impact on society, both as an illness and as a source of discrimination. The disease also has significant economic impacts. There are many misconceptions about HIV/AIDS such as the belief that it can be transmitted by casual non-sexual contact. The disease has also become subject to many controversies involving religion.
+AIDS stigma exists around the world in a variety of ways, including ostracism, rejection, discrimination and avoidance of HIV infected people; compulsory HIV testing without prior consent or protection of confidentiality; violence against HIV infected individuals or people who are perceived to be infected with HIV; and the quarantine of HIV infected individuals. Stigma-related violence or the fear of violence prevents many people from seeking HIV testing, returning for their results, or securing treatment, possibly turning what could be a manageable chronic illness into a death sentence and perpetuating the spread of HIV.</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Economic research helps to estimate the effects of HIV/AIDS on the African economy and the cost effectiveness of prevention and treatment programmes
+Economic theory predicts that HIV/AIDS reduces labour supply and productivity, reduces exports, and increases imports
+The pandemic has already reduced average national economic growth rates by 2-4% a year across Africa
+Prevention and treatment programmes and economic measures such as targeted training in skills needed in key industries will limit the economic effects of HIV/AIDS
+HIV/AIDS affects the economics of both individuals and countries. The gross domestic product of the most affected countries has decreased due to the lack of human capital. Without proper nutrition, health care and medicine, large numbers of people die from AIDS-related complications. They will not only be unable to work, but will also require significant medical care. It is estimated that as of 2007 there were 12 million AIDS orphans.
+By affecting mainly young adults, AIDS reduces the taxable population, in turn reducing the resources available for public expenditures such as education and health services not related to AIDS resulting in increasing pressure for the state's finances and slower growth of the economy. This causes a slower growth of the tax base, an effect that is reinforced if there are growing expenditures on treating the sick, training (to replace sick workers), sick pay and caring for AIDS orphans. This is especially true if the sharp increase in adult mortality shifts the responsibility and blame from the family to the government in caring for these orphans.
+At the household level, AIDS causes both loss of income and increased spending on healthcare. A study in Côte d'Ivoire showed that households with an HIV/AIDS patient, spent twice as much on medical expenses as other households. This additional expenditure also leaves less income to spend on education and other personal or family investment.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>In many developing countries, high HIV rates are over-burdening already fragile health systems. As these health sectors struggle to provide basic health services, they must now also make HIV/AIDS prevention, services, and care available. To contain the spread and minimize the impact of HIV/AIDS, several global initiatives are making large amounts of financial and medical resources available. However, without efficient health systems, their impact will be limited.
+Consistent condom use reduces the risk of HIV transmission by approximately 80% over the long term. When condoms are used consistently by a couple in which one person is infected, the rate of HIV infection is less than 1% per year. There is some evidence to suggest that female condoms may provide an equivalent level of protection. Application of a vaginal gel containing tenofovir (a reverse transcriptase inhibitor) immediately before sex seems to reduce infection rates by approximately 40% among African women
+Circumcision in Sub-Saharan Africa &quot;reduces the acquisition of HIV by heterosexual men by between 38% and 66% over 24 months&quot;. Based on these studies, the World Health Organization and UNAIDS both recommended male circumcision as a method of preventing female-to-male HIV transmission in 2007. Whether it protects against male-to-female transmission is disputed and whether it is of benefit in developed countries and among men who have sex with men is undetermined. Some experts fear that a lower perception of vulnerability among circumcised men may cause more sexual risk-taking behavior, thus negating its preventive effects.</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>The Ryan White HIV/AIDS Program, Federal Funding, 
+AIDS Education and Training Centers (AETC), Minority AIDS Initiative (MAI), Federal Testing Programs 
+There is currently no cure or effective HIV vaccine. Treatment consists of high active antiretroviral therapy (HAART) which slows progression of the disease[113] and as of 2010 more than 6.6 million people were taking them in low and middle income countries.[7] Treatment also includes preventive and active treatment of opportunistic infections.
+Programs encouraging sexual abstinence do not appear to affect subsequent HIV risk. Evidence for a benefit from peer education is equally poor. Comprehensive sexual education provided at school may decrease high risk behavior. A substantial minority of young people continues to engage in high-risk practices despite knowing about HIV/AIDS, underestimating their own risk of becoming infected with HIV. It is not known whether treating other sexually transmitted infections is effective in preventing HIV.</li>
+		</WaysToHelp>
+		<Common/>
+	</Crisis>
+	<Crisis ID="CRI_BFACTO" Name="Savar Building Collapse">
+		<People>
+			<Person ID="PER_HASINA"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_INDGLU"/>
+		</Organizations>
+		<Kind>Building collapse</Kind>
+		<Date>2013-04-23</Date>
+		<Time>13:45:00</Time>
+		<Locations>
+			<li>Savar, Dhaka, Bangladesh</li>
+		</Locations>
+		<HumanImpact>
+			<li>1,127 people killed. 2,500 people injured (http://www.guardian.co.uk/world/2013/may/23/bangladesh-factory-collapse-rana-plaza) </li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Spurred clothing companies to combine resources to improve the safety of garment factories in general as well as pool together data on these factories to ensure continuing safety (http://www.huffingtonpost.com/2013/07/08/bangladesh-factory-inspections-retailers-agree_n_3558754.html) . Garment exports are a $16 billion dollar industry for Bangladesh (http://www.guardian.co.uk/world/2013/may/23/bangladesh-factory-collapse-rana-plaza). Over 120,000 lbs. of clothing exported from this location over the last 8 months (http://www.guardian.co.uk/world/2013/may/23/bangladesh-factory-collapse-rana-plaza). Over 5 million people work in the garment industry in Bangladesh (http://www.bbc.co.uk/news/world-asia-22476774). </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>The army was sent to help clear out the rubble and rescue trapped workers (http://www.bbc.co.uk/news/world-asia-22476774). </li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>None</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://www.cbsnews.com/8301-202_162-57584170/bangladesh-ends-building-collapse-search-final-toll-is-1127/">Savar Collapse cit 3</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.nytimes.com/2013/05/23/world/asia/report-on-bangladesh-building-collapse-finds-widespread-blame.html?_r=0">Savar Collapse cit 2</li>
+				<li href="http://www.cnn.com/2013/05/14/world/asia/bangladesh-building-collapse-aftermath">Savar Collapse cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://gdb.voanews.com/453E563E-7894-405B-95BA-859AEC15F3EC_mw1024_n_s.jpg" text="Savar Collapse img"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=lhXLUCbxM-8" text="Savar Collapse video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Savar,+Dhaka+Division,+Bangladesh&amp;amp;aq=0&amp;amp;oq=savar&amp;amp;sll=30.307761,-97.753401&amp;amp;sspn=1.140535,2.113495&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Savar,+Dhaka,+Dhaka+Division,+Bangla" text="Savar Collapse map"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_MOKTOR" Name="Moore, Oklahoma Tornado">
+		<People>
+			<Person ID="PER_FALLIN"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_OKNATG"/>
+			<Org ID="ORG_OKCNMF"/>
+		</Organizations>
+		<Kind>Natural Disaster</Kind>
+		<Date>2013-05-20</Date>
+		<Time>19:56:00</Time>
+		<Locations>
+			<li>Moore, Oklahoma</li>
+		</Locations>
+		<HumanImpact>
+			<li>24 dead, 230 injured (http://www.cnn.com/2013/05/21/us/severe-weather/index.html).</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>$2 billion in damages (http://www.nbcnews.com/science/satellite-picture-reveals-scar-left-behind-moore-tornado-6C10219235?franchiseSlug=sciencemain). Catastrophic damage to the city, with much of it flattened and destroyed (http://www.usatoday.com/story/weather/2013/05/21/oklahoma-tornadoes/2344923/), with an expected $1 billion in insurance claims (http://news.blogs.cnn.com/2013/05/21/live-tornado-devastates-oklahoma-city-area/). </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>stuffs</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>Emergency response teams provided by both Oklahoma and other states. Texas provided an 80 member urban search and rescue team, the Red Cross sent 25 emergency response vehicles, and National Guard troops were sent in (http://www.cnn.com/2013/05/21/us/severe-weather/index.html). </li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://www.srh.noaa.gov/oun/?n=tornadodata-city-moore">Moore, OK Tornado cit 1</li>
+			</Citations>
+			<Images>
+				<li embed="http://media1.policymic.com/site/articles/43299/1_photo.jpg" text="Moore, OK Tornado"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/embed/0L-XExpb3pY" text="Moore, OK Tornado video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=moore,+OK&amp;amp;aq=&amp;amp;sll=35.383346,-97.587114&amp;amp;sspn=0.557578,1.208496&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Moore,+Cleveland,+Oklahoma&amp;amp;t=m&amp;amp;z=12&amp;amp;ll=35.339508,-97.486703&amp;" text="Moore, OK Tornado map"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_SPTMEL" Name="September 11th">
+		<People>
+			<Person ID="PER_OSAMAB"/>
+		</People>
+		<Kind>Terrorist attack / national tragedy</Kind>
+		<Date>2001-09-11</Date>
+		<Time>13:00:00</Time>
+		<Locations>
+			<li>New York City, Washington D.C., and Pennsylvania </li>
+		</Locations>
+		<HumanImpact>
+			<li>2,996 people were killed in the air or on the ground</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>Destruction of the World Trade Center (estimated at $400 million in 1985 dollars).  It took $700 million to repair the section of the Pentagon that had been hit.  $3.9 billion to build the One World Trade Center, formally known as Freedom Tower.  </li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>Wounded Warrior Project. Congress passed legislation Wednesday to provide up to $4.2 billion in new aid to survivors of the September 2001 terrorism attack on the World Trade Center and responders who became ill working in its ruins (http://www.washingtontimes.com/news/2010/dec/22/sources-deal-reached-911-health-bill/#ixzz2YVrsi4af). 
+</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>In the past 10 years, Tuesday's Children has provided emotional support to 3,000 children affected by terrorism.  We will never forget and VOICES of September 11 is part of the reason why. By providing information, support services and annual commemorative events for 9/11 families, rescue workers and survivors, the organization continues to commemorate the essence of that tragic day. VOICES also works to promote public policy reform on prevention, preparedness and response to terrorism. The organization named for fallen firefighter Michael Lynch, aims to empower children who lost relatives on September 11 by giving them educational grants to pursue higher education. In the last 10 years, the foundation has doled out 96 college scholarships, totaling more than $2.3 million (http://www.huffingtonpost.com/2011/09/11/911-charities-how-you-can_n_957338.html).</li>
+		</WaysToHelp>
+		<Common>
+			<Images>
+				<li embed="http://www.mindinvasions.com/uploads/1/1/1/3/11132778/2146179.jpg" text="CIA Image"/>
+				<li embed="http://ows.edb.utexas.edu/sites/default/files/users/kdenny/cia_recruit_0327.jpg" text="CIA Image2"/>
+			</Images>
+			<Maps>
+				<li embed="https://maps.google.com/maps?hl=en&amp;q=lashkar-e-taiba&amp;client=ubuntu&amp;channel=cs&amp;usq=lashkar-e-taiba&amp;ie=UTF-8" text="CIA Map"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Crisis ID="CRI_OKCBOM" Name="Oklahoma City Bombings">
+		<People>
+			<Person ID="PER_MVEIGH"/>
+		</People>
+		<Organizations>
+			<Org ID="ORG_OKNATG"/>
+			<Org ID="ORG_OKCNMF"/>
+		</Organizations>
+		<Kind>Terrorist attack, national tragedy</Kind>
+		<Date>1996-04-19</Date>
+		<Time>14:02:00</Time>
+		<Locations>
+			<li>Oklahoma City, Oklahoma</li>
+		</Locations>
+		<HumanImpact>
+			<li>168 deaths, 680 injured</li>
+		</HumanImpact>
+		<EconomicImpact>
+			<li>-$5.7 long-term health cost  
+
+The blast destroyed or damaged 324 buildings within a sixteen-block radius, destroyed or burned 86 cars, and shattered glass in 258 nearby buildings.[3][4] The bomb was estimated to have caused at least $652 million worth of damage.</li>
+		</EconomicImpact>
+		<ResourcesNeeded>
+			<li>465 members of the Oklahoma National Guard, EMSA (Emergency Medical Services Authority) ambulances, police, and firefighters. The Federal Emergency Management Agency (FEMA) activated eleven of its Urban Search and Rescue Task Forces, which consisted of a team of 665 rescue worker</li>
+		</ResourcesNeeded>
+		<WaysToHelp>
+			<li>No major federal financial assistance was made available to the survivors of the Oklahoma City bombing, but the Murrah Fund set up in the wake of the bombing attracted over $300,000 in federal grants. Over $40 million was donated to the city to aid disaster relief and to compensate the victims. Funds were initially distributed to families who needed it to get back on their feet, and the rest was held in trust for longer-term medical and psychological needs. By 2005, $18 million of the donations remained, some of which was earmarked to provide a college education for each of the 219 children who lost one or both parents in the bombing. A committee chaired by Daniel Kurtenbach of Goodwill Industries provided financial assistance to the survivors.
+The Salvation Army served over 100,000 meals and provided over 100,000 ponchos, gloves, hard hats, and knee pads to rescue workers</li>
+		</WaysToHelp>
+		<Common>
+			<Citations>
+				<li href="http://www.fbi.gov/about-us/history/famous-cases/oklahoma-city-bombing">OKC bomb cit 2</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://web.archive.org/web/20080110063748/http://www.health.state.ok.us/PROGRAM/injury/Summary/bomb/OKCbomb.htm">OKC bomb cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://www.iwallscreen.com/stock/oklahoma-city-bombing.jpg" text="OKC bomb img 2"/>
+				<li embed="http://www.kevinalfredstrom.com/wp-content/uploads/2010/05/Murrah-after.jpg" text="OKC bomb img 1"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/embed/l08zD9Pn1jk" text="OKC bomb video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Oklahoma+City,+OK&amp;amp;aq=0&amp;amp;oq=okla&amp;amp;sll=30.307761,-97.753401&amp;amp;sspn=1.140535,2.113495&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Oklahoma+City,+Oklahoma&amp;amp;t=m&amp;amp;z=11&amp;amp;ll=35." text="OKC bomb map"/>
+			</Maps>
+		</Common>
+	</Crisis>
+	<Person ID="PER_BROBMA" Name="Barack Obama">
+		<Crises>
+			<Crisis ID="CRI_AIDSHI"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_REDCRS"/>
+			<Org ID="ORG_WHORGN"/>
+		</Organizations>
+		<Kind>President</Kind>
+		<Location>Washington, D.C, United States of America</Location>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/Barack_Obama">Wikipedia page for Barack Obama</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.whitehouse.gov/administration/president-obama/">Official Whitehouse page for Barack Obama</li>
+				<li href="http://www.barackobama.com">Barack Obama's campaign website</li>
+				<li href="http://bioguide.congress.gov/scripts/biodisplay.pl?index=o000167">Official Congressional page for Barack Obama</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/220px-President_Barack_Obama.jpg" text="President Barack Obama"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/en/thumb/3/33/Ann_Dunham_with_father_and_children.jpg/220px-Ann_Dunham_with_father_and_children.jpg" text="Young Barack Obama with family"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flickr_Obama_Springfield_01.jpg/220px-Flickr_Obama_Springfield_01.jpg" text="President Obama and First Lady at a rally"/>
+				<li embed="http://disinfo.s3.amazonaws.com/wp-content/uploads/2010/02/JointSessionCongress.jpg" text="United States Congress joint session"/>
+				<li embed="http://www.mindinvasions.com/uploads/1/1/1/3/11132778/2146179.jpg" text="CIA Image"/>
+				<li embed="http://ows.edb.utexas.edu/sites/default/files/users/kdenny/cia_recruit_0327.jpg" text="CIA Image2"/>
+			</Images>
+			<Videos>
+				<li embed="http://commons.wikimedia.org/wiki/Obama_Administration_weekly_video_addresses" text="President Obama's first weekly video address"/>
+				<li embed="http://www.youtube.com/user/BarackObamadotcom" text="President Obama's youtube channel"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=1600+Pennsylvania+Avenue+Northwest,+Washington,+DC&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.732698,0.95993&amp;oq=1600+pen&amp;hnear=1600+Pennsylvania+Ave+NW,+Washington,+District+of+Columbia+20500&amp;t=m&amp;z=16" text="The White House"/>
+				<li embed="https://maps.google.com/maps?hl=en&amp;q=lashkar-e-taiba&amp;client=ubuntu&amp;channel=cs&amp;usq=lashkar-e-taiba&amp;ie=UTF-8" text="CIA Map"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_MAGICJ" Name="Magic Johnson">
+		<Crises>
+			<Crisis ID="CRI_AIDSHI"/>
+		</Crises>
+		<Kind>Basketball player</Kind>
+		<Location>L.A.</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_OSAMAB" Name="Osama Bin Laden">
+		<Crises>
+			<Crisis ID="CRI_SPTMEL"/>
+		</Crises>
+		<Kind>Leader of Al-Qaeda </Kind>
+		<Location>Middle East</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_RPERRY" Name="Rick Perry">
+		<Crises>
+			<Crisis ID="CRI_WTXPLX"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_TCEQTX"/>
+		</Organizations>
+		<Kind>Texas governor</Kind>
+		<Location>Austin, Texas</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_HOSMBK" Name="Hosni Mubarak">
+		<Crises>
+			<Crisis ID="CRI_EGYPTR"/>
+		</Crises>
+		<Kind>Former President of Egypt </Kind>
+		<Location>Egypt</Location>
+		<Common/>
+	</Person>
+	<Person ID="PER_HUSBND" Name="Rick Husband">
+		<Crises>
+			<Crisis ID="CRI_COLSSD"/>
+		</Crises>
+		<Kind>Astronaut</Kind>
+		<Location>Houston, Texas</Location>
+		<Common>
+			<Citations>
+				<li href="http://amarillo.com/national/2013-01-26/10-years-later-remembering-amarillo-astronaut-rick-husband">Rick Husband cit 2</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.jsc.nasa.gov/Bios/htmlbios/husband.html">Rick Husband cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://www.spacefacts.de/bios/portraits2/astronauts/husband_rick.jpg" text="Rick Husband"/>
+			</Images>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Amarillo,+TX&amp;amp;aq=0&amp;amp;oq=amar&amp;amp;sll=30.307761,-97.753401&amp;amp;sspn=1.140535,2.113495&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Amarillo,+Potter,+Texas&amp;amp;t=m&amp;amp;z=12&amp;amp;ll=35.22199" text="Rick Husband map"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_HASINA" Name="Sheikh Hasina">
+		<Crises>
+			<Crisis ID="CRI_BFACTO"/>
+		</Crises>
+		<Organizations>
+			<Org ID="ORG_INDGLU"/>
+		</Organizations>
+		<Kind>Prime Minister</Kind>
+		<Location>Bangladesh</Location>
+		<Common>
+			<Citations>
+				<li href="http://www.virtualbangladesh.com/biography/hasina.html">Sheikh Hasina cit</li>
+			</Citations>
+			<Images>
+				<li embed="http://www.mnabd.com/press/wp-content/uploads/2012/10/sheikh_hasina-6.jpg" text="Sheikh Hasina"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=voZcxQIdFsA" text="Sheikh Hasina video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=embed&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Bangladesh&amp;amp;aq=1&amp;amp;oq=bang&amp;amp;sll=30.307761,-97.753401&amp;amp;sspn=1.140535,2.113495&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Bangladesh&amp;amp;t=m&amp;amp;z=7&amp;amp;ll=23.684994,90.356331&amp;amp;" text="Sheikh Hasina map"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_FALLIN" Name="Mary Fallin">
+		<Crises>
+			<Crisis ID="CRI_MOKTOR"/>
+		</Crises>
+		<Kind>Governor</Kind>
+		<Location>Oklahoma City, Oklahoma</Location>
+		<Common>
+			<Citations>
+				<li href="http://www.maryfallin.org/">Mary Fallin cit 2</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.ok.gov/governor/">Mary Fallin cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://1.bp.blogspot.com/_V09RaSn5H04/TBtZtppJx6I/AAAAAAAAAXE/XRkSU8MC11o/s640/091122_fallin_ap_392.jpg" text="Mary Fallin"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/embed/ZBljFTmqWPk" text="Mary Fallin video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=820+NE+23rd+St+Oklahoma+City,+OK+73105&amp;amp;sll=35.49227,-97.498909&amp;amp;sspn=0.008403,0.016512&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=820+NE+23rd+St,+Oklahoma+City,+Oklahoma,+73105&amp;amp;t=m" text="Mary Fallin map"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_MVEIGH" Name="Timothy McVeigh">
+		<Crises>
+			<Crisis ID="CRI_OKCBOM"/>
+		</Crises>
+		<Kind>Terrorist</Kind>
+		<Location>Oklahoma City, Oklahoma</Location>
+		<Common>
+			<Images>
+				<li embed="http://www.historyguy.com/biofiles/timothy-mcveigh.jpg" text="Timothy McVeigh"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/embed/hTbaosLrqRQ" text="Timothy McVeigh video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=oklahoma+city&amp;amp;ie=UTF8&amp;amp;hl=en&amp;amp;hq=&amp;amp;hnear=Oklahoma+City,+Oklahoma&amp;amp;t=m&amp;amp;source=embed&amp;amp;z=10&amp;amp;ll=35.46756,-97.516428&amp;amp;output=embed" text="Timothy McVeigh map"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Person ID="PER_DADAIR" Name="Donald Adair">
+		<Crises>
+			<Crisis ID="CRI_WTXPLX"/>
+		</Crises>
+		<Kind>Factor owner</Kind>
+		<Location>West, Texas</Location>
+		<Common>
+			<Citations>
+				<li href="http://www.forbes.com/sites/christopherhelman/2013/04/18/plant-in-texas-blast-had-2006-safety-investigation/">Donald Adair cit 1</li>
+			</Citations>
+			<Images>
+				<li embed="http://dakiniland.files.wordpress.com/2013/05/donald-and-wanda-adair.jpg?w=300&amp;h=211" text="Dona and Wanda Adair"/>
+				<li embed="http://johnteets.com/Interesting/Donald%20Adair%20Lowe%20Sr%20%20(Small).JPG" text="Donald Adair"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=1ReAjMhCeu0" text="Donald Adair video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=West+Fertilizer+Co,+Jerry+Mashek+Drive,+West,+TX&amp;amp;aq=1&amp;amp;oq=west&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=65.518178,135.263672&amp;amp;ie=UTF8&amp;amp;hq=West+Fertilizer+Co,+Jerry+Mashek" text="Donald Adair map"/>
+			</Maps>
+		</Common>
+	</Person>
+	<Organization ID="ORG_TCEQTX" Name="Texas Commission on Environmental Quality">
+		<Crises>
+			<Crisis ID="CRI_WTXPLX"/>
+		</Crises>
+		<People>
+			<Person ID="PER_RPERRY"/>
+		</People>
+		<Kind>Environmental Agency</Kind>
+		<Location>Austin, Texas</Location>
+		<History>
+			<li>The history of natural resource protection by the State of Texas is one of gradual evolution from protecting the right of access to natural resources (principally surface water) to a broader role in protecting public health and conserving natural resources for future generations of Texans.
+
+Natural resource programs were established in Texas at the turn of the 20th century, motivated initially by concerns over the management of water resources and water rights. In parallel with developments in the rest of the nation, and at the federal level, state natural resource efforts broadened at mid-century to include the protection of air and water resources, and later to the regulation of hazardous and non-hazardous waste generation. (http://www.tceq.texas.gov/about/tceqhistory.html)
+
+During the 1990s, the Texas Legislature moved to make natural resource protection more efficient by consolidating programs. This trend culminated in the creation of the Texas Natural Resource Conservation Commission in the fall of 1993 as a comprehensive environmental protection agency. Sunset legislation passed by the Texas Legislature in 2001 continued the agency until 2013 and changed its name to the Texas Commission on Environmental Quality. During the special session of the 81st Legislature (2009), legislation was adopted amending the 2013 date to 2011.</li>
+		</History>
+		<ContactInfo>
+			<li>ac@tceq.texas.gov</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.tceq.state.tx.us/">TCEQ cit 1</li>
+			</Citations>
+			<Images>
+				<li embed="http://www.sdafs.org/tcafs/images/TCEQ.JPG" text="TCEQ img"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/user/TCEQNews" text="TCEQ YouTube channel"/>
+				<li embed="http://www.youtube.com/watch?v=507I3b8_Un4" text="TCEQ video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?client=ubuntu&amp;amp;channel=cs&amp;amp;q=tceq+location&amp;amp;ie=UTF8&amp;amp;hq=tceq&amp;amp;hnear=&amp;amp;radius=15000&amp;amp;t=m&amp;amp;ll=29.733983,-95.317752&amp;amp;spn=0.006295,0.006295&amp;amp;output=embed" text="TCEQ map"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_REDCRS" Name="Red Cross">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+			<Crisis ID="CRI_DARFUR"/>
+			<Crisis ID="CRI_AIDSHI"/>
+		</Crises>
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Kind>relief organization</Kind>
+		<Location>Washington, D.C, United States of America</Location>
+		<History>
+			<li>Issued a corporate charter by the United States Congress under Title 36 of the United States Code, Section 3001, the American National Red Cross is governed by volunteers and supported by community donations, income from health and safety training and products, and income from blood products. The American Red Cross is headquartered in Washington, D.C. The Chairman of the Board of Governors, serving her second three-year term, is Bonnie McElveen-Hunter. The current President and Chief Executive Officer is Gail J.  McGovern.
+</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.redcross.org/contact-us/general-inquiry</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.redcross.org/about-us/history">Red Cross history</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.redcross.org/about-us/publications">Red Cross publications</li>
+				<li href="http://www.redcross.org">Official Red Cross website</li>
+				<li href="http://www.nps.gov/history/NR/twhp/wwwlps/lessons/27barton/27barton.htm">History of Red Cross founder</li>
+				<li href="http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/American_Red_Cross_Administrative_Headquarters.JPG/450px-American_Red_Cross_Administrative_Headquarters.JPG">Red Cross administrative headquarters</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/e/e9/Amer_redcross_2012_logo.png" text="Red Cross logo"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/American_Red_Cross_headquarters.JPG/800px-American_Red_Cross_headquarters.JPG" text="Red Cross headquarters"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Clara_Barton1.jpg/509px-Clara_Barton1.jpg" text="Red Cross founder Clara Barton"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?v=3yufZP-LZrk" text="Red Cross stories"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?q=2025+E+Street,+NW+Washington,+DC+20006&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.698312,0.95993&amp;hnear=2025+E+St+NW,+Washington,+District+of+Columbia,+20006&amp;t=m&amp;z=16" text="Location of Red Cross Headquarters"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_UNINAT" Name="United Nations">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+			<Crisis ID="CRI_DARFUR"/>
+		</Crises>
+		<Kind>international organization</Kind>
+		<Location>New York City, USA</Location>
+		<History>
+			<li>fter the League of Nations failed to prevent World War II (1939–1945), there was widespread recognition that humankind could not afford a third world war. Therefore, the United Nations was established to replace the flawed League of Nations in 1945 in order to maintain international peace and promote cooperation in solving international economic, social, and humanitarian problems. The earliest concrete plan for a new world organization was begun under the aegis of the U.S. State Department in 1939. Franklin D. Roosevelt first coined the term 'United Nations' as a term to describe the Allied countries. The term was first officially used on 1 January 1942, when 26 governments signed the Atlantic Charter, pledging to continue the war effort. On 25 April 1945, the UN Conference on International Organization began in San Francisco, attended by 50 governments and a number of non-governmental organizations involved in drafting the United Nations Charter. The UN officially came into existence on 24 October 1945 upon ratification of the Charter by the five then-permanent members of the Security Council—France, the Republic of China, the Soviet Union, the United Kingdom and the United States—and by a majority of the other 46 signatories. The first meetings of the General Assembly, with 51 nations represented, and the Security Council, took place in Methodist Central Hall Westminster in London beginning 6 January 1946.
+The organization was based at the Sperry Gyroscope Corporation's facility in Lake Success, New York, from 1946–1952, before moving to the United Nations Headquarters building in Manhattan upon its completion.
+Since its creation, there has been controversy and criticism of the United Nations. In the United States, an early opponent of the UN was the John Birch Society, which began a &quot;get US out of the UN&quot; campaign in 1959, charging that the UN's aim was to establish a &quot;One World Government&quot;. After the Second World War, the French Committee of National Liberation was late to be recognized by the US as the government of France, and so the country was initially excluded from the conferences that aimed at creating the new organization. Charles de Gaulle criticized the UN, famously calling it a machin (&quot;contraption&quot;), and was not convinced that a global security alliance would help maintain world peace, preferring direct defence treaties between countries.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.un.org/</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/United_Nations">United Nations Wiki page</li>
+			</Citations>
+			<Images>
+				<li embed="http://esa.un.org/techcoop/associateexperts/images/The-United-Nations.jpg" text="United Nations building"/>
+				<li embed="http://www.cameraoncampus.org/middle-east-issues/united_nations_security_council.jpg" text="United Nations empty council room"/>
+				<li embed="http://eurasianfinance.com/wp-content/uploads/2011/05/The-United-Nations-Security-Council1.jpg" text="United Nations filled security council room"/>
+			</Images>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_WHORGN" Name="World Health Organization">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+		</Crises>
+		<People>
+			<Person ID="PER_BROBMA"/>
+		</People>
+		<Kind>Public Health</Kind>
+		<Location>Geneva, Switzerland</Location>
+		<History>
+			<li>The World Health Organization (WHO) is a specialized agency of the United Nations (UN) that is concerned with international public health. It was established on 7 April 1948, with headquarters in Geneva, Switzerland, and is a member of the United Nations Development Group. Its predecessor, the Health Organization, was an agency of the League of Nations.
+
+The constitution of the World Health Organization had been signed by all 61 countries of the United Nations by 22 July 1946, with the first meeting of the World Health Assembly finishing on 24 July 1948. It incorporated the Office International d'Hygiène Publique and the League of Nations Health Organization. Since its creation, WHO has been responsible for playing a leading role in the eradication of smallpox. Its current priorities include communicable diseases, in particular, HIV/AIDS, malaria and tuberculosis; the mitigation of the effects of non-communicable diseases; sexual and reproductive health, development, and aging; nutrition, food security and healthy eating; occupational health; substance abuse; and drive the development of reporting, publications, and networking. WHO is responsible for the World Health Report, a leading international publication on health, the worldwide World Health Survey, and World Health Day (7th-April of every Year).</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.who.int/about/contacthq/en/index.html</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://en.wikipedia.org/wiki/World_Health_Organization#History">WHO Wiki Page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.who.int/en/">WHO Home Page</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_WHO.svg/800px-Flag_of_WHO.svg.png" text="WHO Flag"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/watch?feature=player_profilepage&amp;v=QCljON3Pa4E" text="WHO Promotional Video"/>
+			</Videos>
+			<Maps>
+				<li embed="http://media.web.britannica.com/eb-media/67/64667-004-7F7A1490.gif" text="Location of WHO Headquarters"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_FEMAAA" Name="Federal Emergency Management Agency">
+		<Kind>Disaster Relief</Kind>
+		<Location>Washington, DC</Location>
+		<History>
+			<li>As of October 8, 2011, FEMA has 7,474 employees across the country – at Headquarters, the ten regional offices, the National Emergency Training Center, Center for Domestic Preparedness/Noble Training Center and other locations.
+
+FEMA is not the team, but part of a team.  That team includes federal partners, state, tribal and local officials, the private sector, non-profits and faith-based groups and the general public. </li>
+		</History>
+		<ContactInfo>
+			<li>http://www.fema.gov/</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+	<Organization ID="ORG_SALARM" Name="Salvation Army">
+		<Crises>
+			<Crisis ID="CRI_HAIEAR"/>
+			<Crisis ID="CRI_AIDSHI"/>
+		</Crises>
+		<Kind>Charity</Kind>
+		<Location>Alexandria, VA</Location>
+		<History>
+			<li>The Salvation Army was founded in London's East End in 1865 by one-time Methodist Reform Church minister William Booth and his wife Catherine. Originally, Booth named the organization the East London Christian Mission. The name The Salvation Army developed from an incident on 19–20 May. William Booth was dictating a letter to his secretary George Scott Railton and said, &quot;We are a volunteer army.&quot; Bramwell Booth heard his father and said, &quot;Volunteer! I'm no volunteer, I'm a regular!&quot; Railton was instructed to cross out the word &quot;volunteer&quot; and substitute the word &quot;salvation&quot;. The Salvation Army was modeled after the military, with its own flag (or colours) and its own hymns, often with words set to popular and folkloric tunes sung in the pubs. Booth and the other soldiers in &quot;God's Army&quot; would wear the Army's own uniform, for meetings and ministry work. He became the &quot;General&quot; and his other ministers were given appropriate ranks as &quot;officers&quot;. Other members became &quot;soldiers&quot;.
+When William Booth became known as the General, Catherine was known as the &quot;Mother of The Salvation Army&quot;. William preached to the poor, and Catherine spoke to the wealthy, gaining financial support for their work. She also acted as a religious minister, which was unusual at the time; the Foundation Deed of the Christian Mission states that women had the same rights to preach as men. William Booth described the organisation's approach: &quot;The three ‘S's’ best expressed the way in which the Army administered to the 'down and outs': first, soup; second, soap; and finally, salvation.&quot;
+In 1880, the Salvation Army started its work in three other countries: Australia, Ireland, and the United States. It was not always an official Officer of The Salvation Army who started the Salvation Army in a new country; sometimes Salvationists emigrated to countries and started operating as &quot;the Salvation Army&quot; on their own authority. When the first official officers arrived in Australia and the United States, they found groups of Salvationists already waiting for them.
+The Salvation Army's main converts were at first alcoholics, morphine addicts, prostitutes and other &quot;undesirables&quot; unwelcome in polite Christian society, which helped prompt the Booths to start their own church. The Booths did not include the use of sacraments (mainly baptism and Holy Communion) in the Army's form of worship, believing that many Christians had come to rely on the outward signs of spiritual grace rather than on grace itself. Other beliefs are that its members should completely refrain from drinking alcohol (Holy Communion is not practiced), smoking, taking illegal drugs and gambling. Its soldiers wear a uniform tailored to the country in which they work; the uniform can be white, grey, navy, fawn and are even styled like a sari in some areas. Any member of the public is welcome to attend their meetings.
+
+
+Chief of the Staff of The Salvation Army, Commissioner André Cox, is currently acting as the leader of the Salvation Army.
+As the Salvation Army grew rapidly in the late 19th century, it generated opposition in England. Opponents, grouped under the name of the Skeleton Army, disrupted Salvation Army meetings and gatherings, with tactics such as throwing rocks, bones, rats, and tar as well as physical assaults on members of The Salvation Army. Much of this was led by pub owners who were losing business because of the Army's opposition to alcohol and targeting of the frequenters of saloons and public houses.
+The Salvation Army's reputation in the United States improved as a result of its disaster relief efforts following the Galveston Hurricane of 1900 and the 1906 San Francisco earthquake. The establishment of Victorian bell-ringers raising charity today &quot;helps complete the American portrait of Christmas&quot;, with over 25,000 volunteers taking up kettles over the holiday period in the U.S. alone. The church remains a highly visible and sometimes controversial presence in many parts of the world.
+In 1994, the Chronicle of Philanthropy, an industry publication, released the results of the largest study of charitable and non-profit organisation popularity and credibility. The study showed that The Salvation Army was ranked as the 4th &quot;most popular charity/non-profit in America&quot; of over 100 charities researched with 47% of Americans over the age of 12 choosing Love and Like A Lot for The Salvation Army.</li>
+		</History>
+		<ContactInfo>
+			<li>The Salvation Army National Headquarters 615 Slaters Lane P.O. Box 269 Alexandria, VA 22313</li>
+		</ContactInfo>
+		<Common/>
+	</Organization>
+	<Organization ID="ORG_NASAUS" Name="National Aeronautics and Space Administration (NASA)">
+		<Crises>
+			<Crisis ID="CRI_COLSSD"/>
+		</Crises>
+		<Kind>Government Organization</Kind>
+		<Location>Washington, DC</Location>
+		<History>
+			<li>NASA was created on October 1, 1958 during a time known as the space race, when the United States and Soviet Union were seeking to become the first countries to explore space. NASA began to began to conduct space missions 
+within months of its creation (http://history.nasa.gov/factsheet.htm) such as: creating the first space shuttle, sending robots to explore the moon, deploying satellitesto be used for communication and weather monitoring, and created the Skylab, an orbital workshop for astronauts (http://history.nasa.gov/factsheet.htm). 
+One of the highlights of the program occurred during Gemini 4, on June 3, 1965, when Edward H. White, Jr., became the first U.S. astronaut to conduct a spacewalk (http://history.nasa.gov/factsheet.htm). NASA was behind the Apollo 11 mission, the mission 
+that put Neil Armstrong and Buzz Aldrin as the first humans on the moon. In 1993, the United States and Russia, with NASA leading the way, designed the joint space station, the International Space Station.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.nasa.gov/about/contact/index.html#.Ud3cTRYzwkc</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.nasa.gov/about/sites/index.html#.UfCBFd-d7eU">NASA cit 3</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.nasa.gov/index.html#.UfCBAN-d7eV">NASA cit 2</li>
+				<li href="http://history.nasa.gov/factsheet.htm">NASA cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://casgc.ucsd.edu/blog/wp-content/uploads/NASA.png" text="NASA img"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/NASA" text="NASA YouTube channel"/>
+				<li embed="http://www.youtube.com/embed/NY6gn-RCtA0" text="NASA video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=300+E+Street+Southwest+Washington,+DC+20024&amp;amp;aq=&amp;amp;sll=38.882915,-77.014235&amp;amp;sspn=0.0076,0.006459&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=300+E+St+SW,+Washington,+District+of+Colum" text="NASA map"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_OKNATG" Name="Oklahoma National Guard">
+		<Crises>
+			<Crisis ID="CRI_MOKTOR"/>
+			<Crisis ID="CRI_OKCBOM"/>
+		</Crises>
+		<Kind>Government Organization</Kind>
+		<Location>Oklahoma City, OK</Location>
+		<History>
+			<li>The Oklahoma National Guard was formed in 1890 as the Oklahoma Territorial Militia and was officially renamed the Oklahoma National Guard in 1895. The Oklahoma Territorial National Guard consisted of two infantry regiments, two cavalry battalions, and one artillery battery and was limited to a maximum strength of 500 men.</li>
+		</History>
+		<ContactInfo>
+			<li>http://www.ok.ngb.army.mil/contact.htm</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.ok.ngb.army.mil/">Oklahoma National Guard cit 2</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://digital.library.okstate.edu/encyclopedia/entries/O/OK066.html">Oklahoma National Guard cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://www.addictinginfo.org/wp-content/uploads/2012/01/oklahoma.jpg" text="Oklahoma National Guard"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/embed/hzYtNFrN58c" text="Oklahoma National Guard video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?hl=en&amp;amp;q=oklahoma+national+guard&amp;amp;ie=UTF8&amp;amp;hq=national+guard&amp;amp;hnear=Oklahoma&amp;amp;t=m&amp;amp;cid=2870019571222260434&amp;amp;source=embed&amp;amp;iwloc=A&amp;amp;ll=35.505062,-97.469771&amp;amp;spn=4.375428,9.667969&amp;amp;output=embed" text="Oklahoma National Guard map"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_OKCNMF" Name="Oklahoma City National Memorial Foundation">
+		<Crises>
+			<Crisis ID="CRI_MOKTOR"/>
+			<Crisis ID="CRI_OKCBOM"/>
+		</Crises>
+		<Kind>Private Organization</Kind>
+		<Location>Oklahoma CIty, OK</Location>
+		<History>
+			<li>The Oklahoma City National Memorial Foundation was created in September 1996 as a private 501(c)(3) organization. The committees consisted of families that lost loved ones, survivors of the attack, community volunteers, and rescue workers. In July 1997, the organization settled on a design for the memorial building.  On October 9, 1997, President William J. Clinton signed Public Law 105-58 which made the Oklahoma City National Memorial a unit of the National Park System and designated the Oklahoma City National Memorial Trust to own and operate the Memorial.  In January 2004, President George W. Bush signed into law a bill that amended the original legislation, dissolved the Oklahoma City National Memorial Trust and transferred the Memorial to the Oklahoma City National Memorial Foundation. </li>
+		</History>
+		<ContactInfo>
+			<li>(405) 235-3313</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.oklahomacitynationalmemorial.org/903/">OKC National Mem cit 3</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="https://oklahomacitynationalmemorial.org/index.php">OKC National Mem cit 2</li>
+				<li href="http://www.oklahomacitynationalmemorial.org/secondary.php?section=1&amp;catid=193">OKC National Mem cit 1</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://img3.findthebest.com/sites/default/files/244/media/images/Oklahoma_City_National_Memorial_Museum_1.jpg" text="OKC National Mem img 3"/>
+				<li embed="http://upload.wikimedia.org/wikipedia/commons/9/9b/Oklahoma_City_National_Memorial_Museum.jpg" text="OKC National Mem img 2"/>
+				<li embed="http://c676132.r32.cf0.rackcdn.com/logo-4fda16362c798.png" text="OKC National Mem img 1"/>
+			</Images>
+			<Videos>
+				<li embed="http://www.youtube.com/okcnm" text="OKC National Mem YouTube channel"/>
+				<li embed="http://www.youtube.com/embed/eu4ysuIt_ME" text="OKC National Mem video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?client=ubuntu&amp;amp;channel=cs&amp;amp;ie=UTF8&amp;amp;q=oklahoma+city+national+memorial&amp;amp;fb=1&amp;amp;gl=us&amp;amp;hq=oklahoma+city+national+memorial&amp;amp;hnear=oklahoma+city+national+memorial&amp;amp;cid=0,0,4635276338053722639&amp;amp;ll=35.47297" text="OKC National Mem map"/>
+			</Maps>
+		</Common>
+	</Organization>
+	<Organization ID="ORG_INDGLU" Name="IndustriALL Global Union">
+		<Crises>
+			<Crisis ID="CRI_BFACTO"/>
+		</Crises>
+		<People>
+			<Person ID="PER_HASINA"/>
+		</People>
+		<Kind>Union</Kind>
+		<Location>Geneva, Switzerland</Location>
+		<History>
+			<li>Founded on 19 June 2012, the new organization brings together affiliates of the former global union federations: International Metalworkers' Federation (IMF), International Federation of Chemical, Energy, Mine and General Workers' Unions (ICEM) and International Textiles Garment and Leather Workers' Federation (ITGLWF) (http://www.industriall-union.org/about-us)</li>
+		</History>
+		<ContactInfo>
+			<li>info@industriall-union.org</li>
+		</ContactInfo>
+		<Common>
+			<Citations>
+				<li href="http://www.industriall-union.org/">IndustriALL Global Union Home Page</li>
+			</Citations>
+			<ExternalLinks>
+				<li href="http://www.youtube.com/user/industriallGU?feature=watch">IndustriALL Global Union YouTube Site</li>
+			</ExternalLinks>
+			<Images>
+				<li embed="http://www.industriall-union.org/sites/all/themes/custom/industriall_front/images/logo_large.gif" text="IndustriALL Global Union Logo"/>
+			</Images>
+			<Videos>
+				<li embed="http://youtu.be/FeRTVOsi-tU" text="IndustriALL Global Union Securing the future of garment workers video"/>
+			</Videos>
+			<Maps>
+				<li embed="https://maps.google.com/maps?f=q&amp;amp;source=s_q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=Route+des+Acacias+54+bis,+Geneva,+Switzerland&amp;amp;aq=&amp;amp;sll=46.188651,6.13484&amp;amp;sspn=0.003379,0.003229&amp;amp;gl=us&amp;amp;ie=UTF8&amp;amp;hq=&amp;amp;hnear=Route+des+Acacias+54,+1227+Gen%" text="IndustriALL Global Union Location"/>
+			</Maps>
+		</Common>
+	</Organization>
+</WorldCrises>
