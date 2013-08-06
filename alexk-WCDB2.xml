@@ -430,7 +430,7 @@
       <Summary></Summary>
     </Common>
   </Crisis>
-  <Crisis ID="CRI_UEGYPT" Name="Political unrest in Egypt">
+  <Crisis ID="CRI_EGYPTR" Name="Political unrest in Egypt">
 <!--     <People>
 
     </People> -->
@@ -993,7 +993,7 @@
         <li embed="http://www.myk4.com/patchcatalog/patch/oil%20and%20gas/BP/BP%20OLD%20PATCH.jpg">Patch</li>
       </Images>
       <Videos>
-        <li href="http://www.youtube.com/user/BPplc?feature=chclk">Youtube Channel</li>
+        <li href="http://www.youtube.com/embed/BUJP0fG6V_o">Youtube Channel</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=british+petroleum+London&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.993525,1.694641&amp;t=h&amp;hq=british+petroleum&amp;hnear=London,+United+Kingdom&amp;z=11">Map</li>
@@ -1033,7 +1033,7 @@
         <li embed="http://www.copshop.com/mm5/graphics/00000001/HomelandSecurityMedallion_big.jpg">Badge</li>
       </Images>
       <Videos>
-        <li href="http://www.youtube.com/user/ushomelandsecurity">Youtube Channel</li>
+        <li href="http://www.youtube.com/embed/xCE4PhHvlEE">Youtube Channel</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=homeland+security+washington&amp;hl=en&amp;sll=30.307761,-97.753401&amp;sspn=0.993525,1.694641&amp;t=h&amp;hq=homeland+security&amp;hnear=Washington,+District+of+Columbia&amp;z=13">Maps</li>
@@ -1073,7 +1073,7 @@
       </Images>
       <Videos>
         <li href="http://www.youtube.com/embed/qoPmLYArzHI">20 Years</li>
-        <li href="http://www.youtube.com/user/magicjohnsonfdn">Youtube Channel</li>
+        <li href="http://www.youtube.com/embed/CaziJljByLU">Youtube Channel</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=magic+johnson+foundation+california+beverly+hills&amp;hl=en&amp;sll=35.869091,-120.343007&amp;sspn=7.457872,13.557129&amp;t=h&amp;hq=magic+johnson+foundation+california&amp;hnear=Beverly+Hills,+Los+Angeles,+California&amp;z=11">Map</li>
@@ -1118,7 +1118,7 @@
         <li embed="http://prod.static.cowboys.clubs.nfl.com/assets/images/imported/DAL/Community/20121113_DAL_SalvArmy_meal62.JPG">Helping Everyone</li>
       </Images>
       <Videos>
-        <li href="http://www.youtube.com/user/SalvationArmyToday">Youtube Channel</li>
+        <li href="http://www.youtube.com/embed/7b1WQxIwp6g">Youtube Channel</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=salvation+army+alexandria+virginia&amp;hl=en&amp;ll=38.822591,-77.154408&amp;spn=0.112074,0.21183&amp;sll=38.18392,-78.487181&amp;sspn=3.618174,6.778564&amp;t=h&amp;hq=salvation+army&amp;hnear=Alexandria,+Virginia&amp;z=13">Map</li>
@@ -1162,7 +1162,7 @@
         <li embed="http://www.iach.knox.amedd.army.mil/images/redcross.jpg">Emblem</li>
       </Images>
       <Videos>
-        <li href="http://www.youtube.com/user/AmRedCross">Youtube Channel</li>
+        <li href="http://www.youtube.com/embed/dkMrC5gtAhw">Youtube Channel</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=red+cross+washington&amp;hl=en&amp;ll=38.895642,-77.040467&amp;spn=0.013995,0.026479&amp;sll=30.307761,-97.753401&amp;sspn=0.993525,1.694641&amp;t=h&amp;hq=red+cross&amp;hnear=Washington,+District+of+Columbia&amp;fll=38.89616,-77.038815&amp;spn=0.013995,0.026479&amp;z=16">Map</li>
@@ -1198,7 +1198,7 @@
         <li embed="http://www.worldwide-center.com/wp-content/uploads/2012/10/IMF-reduces-growth-forecast-for-Brazil.jpeg">Cool Stuff</li>
       </Images>
       <Videos>
-        <li href="http://www.youtube.com/user/imf">Youtube Channel</li>
+        <li href="http://www.youtube.com/embed/JhLGY9bP-Yo">Youtube Channel</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=imf+washington&amp;hl=en&amp;ll=38.899082,-77.040896&amp;spn=0.027988,0.052958&amp;sll=30.307761,-97.753401&amp;sspn=0.993525,1.694641&amp;t=h&amp;hq=imf+washington&amp;radius=15000&amp;z=15">Map</li>
@@ -1239,7 +1239,7 @@
         <li embed="http://www.ready.gov/sites/default/files/Recovering%20from%20Disaster%201.7.0.0_0.jpg">I'm FEMA. I'm helping.</li>
       </Images>
       <Videos>
-        <li href="http://www.youtube.com/user/FEMA">Youtube channel</li>
+        <li href="http://www.youtube.com/embed/DpBDSbVClgQ">Youtube channel</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=fema&amp;hl=en&amp;ll=38.911873,-76.993561&amp;spn=0.447733,0.847321&amp;sll=41.323201,-81.260376&amp;sspn=3.456923,6.778564&amp;t=h&amp;hq=fema&amp;fll=38.938048,-76.978455&amp;fspn=0.447568,0.847321&amp;z=11">Who needs a map?</li>
@@ -1281,7 +1281,7 @@
         <li embed="http://www.cameraoncampus.org/middle-east-issues/united_nations_security_council.jpg">The council</li>
       </Images>
       <Videos>
-        <li href="https://www.youtube.com/user/unitednations">Origin</li>
+        <li href="https://www.youtube.com/embed/Rx6hGA1lmsA">Origin</li>
       </Videos>
       <Maps>
         <li href="https://maps.google.com/maps?q=united+nations&amp;hl=en&amp;ll=40.749598,-73.968201&amp;spn=0.027245,0.052958&amp;sll=30.307761,-97.753401&amp;sspn=0.993525,1.694641&amp;t=h&amp;hq=united+nations&amp;radius=15000&amp;z=15">Map of U.N.</li>
