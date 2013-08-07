@@ -142,7 +142,7 @@
 		</Common>
 	</Crisis>
 
-	<Crisis ID="CRI_EXXONV" Name="Exxon Valdez Oil Spill">
+	<Crisis ID="CRI_EXXVAL" Name="Exxon Valdez Oil Spill">
 		<People>
 			<Person ID="PER_BUSDAD" />
 		</People>
@@ -170,7 +170,7 @@
 		</Common>
 	</Crisis>
 
-	<Crisis ID="CRI_HAITIE" Name="Haiti Earthquake">
+	<Crisis ID="CRI_HAIEAR" Name="Haiti Earthquake">
 		<People>
 			<Person ID="PER_RENPRE" />
 		</People>
@@ -257,7 +257,7 @@
 		</Common>
 	</Crisis>
 
-	<Crisis ID="CRI_NINEOO" Name="September 11 Attacks">
+	<Crisis ID="CRI_SPTMEL" Name="September 11 Attacks">
 		<People>
 			<Person ID="PER_OSAMAB" />
 		</People>
@@ -345,7 +345,7 @@
 
 	<Person ID="PER_BUSDAD" Name="George H. W. Bush">
 		<Crises>
-			<Crisis ID="CRI_EXXONV" />
+			<Crisis ID="CRI_EXXVAL" />
 		</Crises>
 		<Kind>President of the United States</Kind>
 		<Location>United States</Location>
@@ -379,7 +379,7 @@
 	<Person ID="PER_RENPRE" Name="Rene Preval">
 		<Crises>
 			<Crisis ID="CRI_HURIKE" />
-			<Crisis ID="CRI_HAITIE" />
+			<Crisis ID="CRI_HAIEAR" />
 		</Crises>
 		<Kind>President of Haiti</Kind>
 		<Location>Haiti</Location>
@@ -459,7 +459,7 @@
 
 	<Person ID="PER_OSAMAB" Name="Osama Bin Laden">
 		<Crises>
-			<Crisis ID="CRI_NINEOO" />
+			<Crisis ID="CRI_SPTMEL" />
 		</Crises>
 		<Organizations>
 			<Org ID="ORG_AQAEDA" />
@@ -501,7 +501,7 @@
 	<Organization ID="ORG_UNICEF" Name="UNICEF">
 		<Crises>
 			<Crisis ID="CRI_WSAFRC" />
-			<Crisis ID="CRI_HAITIE" />
+			<Crisis ID="CRI_HAIEAR" />
 		</Crises>
 		<Kind>Humanitarian</Kind>
 		<Location>New York, USA</Location>
@@ -549,7 +549,7 @@
 	<Organization ID="ORG_AQAEDA" Name="al-Qaeda">
 		<Crises>
 			<Crisis ID="CRI_IRAQWR" />
-			<Crisis ID="CRI_NINEOO" />
+			<Crisis ID="CRI_SPTMEL" />
 		</Crises>
 		<People>
 			<Person ID="PER_OSAMAB" />
@@ -663,7 +663,7 @@
 
 	<Organization ID="ORG_OILREC" Name="Oil Spill Recovery Institute">
 		<Crises>
-			<Crisis ID="CRI_EXXONV" />
+			<Crisis ID="CRI_EXXVAL" />
 		</Crises>
 		<Kind>Enviromental</Kind>
 		<Location>Alaska</Location>
