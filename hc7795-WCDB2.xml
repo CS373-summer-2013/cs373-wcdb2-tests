@@ -229,7 +229,7 @@
 		</Common>
 	</Crisis>
 
-	<Crisis ID="CRI_UEGYPT" Name="Political unrest in Egypt">
+	<Crisis ID="CRI_EGYPTR" Name="Political unrest in Egypt">
 		<People>
 			<Person ID="PER_MUBRAK" />
 		</People>
@@ -411,7 +411,7 @@
 
 	<Person ID="PER_MUBRAK" Name="Hosni Mubarak">
 		<Crises>
-			<Crisis ID="CRI_UEGYPT" />
+			<Crisis ID="CRI_EGYPTR" />
 		</Crises>
 		<Kind>President of Egypt</Kind>
 		<Location>Egypt</Location>
@@ -685,7 +685,7 @@
 
 	<Organization ID="ORG_EGYHUM" Name="Egyptian Organization for Human Rights">
 		<Crises>
-			<Crisis ID="CRI_UEGYPT" />
+			<Crisis ID="CRI_EGYPTR" />
 		</Crises>
 		<Kind>Human Rights</Kind>
 		<Location>Egypt</Location>
