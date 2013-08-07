@@ -4,7 +4,7 @@
 			<Person ID="PER_RENPRE" />
 		</People>
 		<Organizations>
-			<Org ID="ORG_FEDEMA" />
+			<Org ID="ORG_FEMAAA" />
 		</Organizations>
 		<Kind>Natural Disaster</Kind>
 		<Date>2008-09-01</Date>
@@ -119,7 +119,7 @@
 			<Person ID="PER_GHARTL" />
 		</People>
 		<Organizations>
-			<Org ID="ORG_WHLORG" />
+			<Org ID="ORG_WHORGN" />
 			<Org ID="ORG_CFDCAP" />
 			<Org ID="ORG_REDCRS" />
 		</Organizations>
@@ -205,7 +205,7 @@
 			<Person ID="PER_MAGICJ" />
 		</People>
 		<Organizations>
-			<Org ID="ORG_WHLORG" />
+			<Org ID="ORG_WHORGN" />
 		</Organizations>
 		<Kind>Pandemic</Kind>
 		<Date>1930-01-01</Date>
@@ -329,7 +329,7 @@
 			<Crisis ID="CRI_SWNFLU" />
 		</Crises>
 		<Organizations>
-			<Org ID="ORG_WHLORG" />
+			<Org ID="ORG_WHORGN" />
 		</Organizations>
 		<Kind>Head of Public Relations/Social Media for World Health Organization</Kind>
 		<Location>Switzerland</Location>
@@ -569,7 +569,7 @@
 		</Common>
 	</Organization>
 
-	<Organization ID="ORG_WHLORG" Name="World Health Organization">
+	<Organization ID="ORG_WHORGN" Name="World Health Organization">
 		<Crises>
 			<Crisis ID="CRI_SWNFLU" />
 			<Crisis ID="CRI_AIDSHI" />
@@ -617,7 +617,7 @@
 		</Common>
 	</Organization>
 
-	<Organization ID="ORG_FEDEMA" Name="Federal Emergency Management Agency">
+	<Organization ID="ORG_FEMAAA" Name="Federal Emergency Management Agency">
 		<Crises>
 			<Crisis ID="CRI_HURIKE" />
 		</Crises>
