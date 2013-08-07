@@ -487,8 +487,8 @@
     <Organizations>
         <Org ID="ORG_BPETRO" />
     </Organizations>
-    <Kind>Natural Disaster</Kind>
-    <Location>Gulf of Mexico</Location>
+    <Kind>Former CEO of British Petroleum</Kind>
+    <Location>London, UK</Location>
     <Common>
       <Citations>
         <li>Wikipedia</li>
@@ -525,8 +525,8 @@
         <Org ID="ORG_FEMAAA" />
         <Org ID="ORG_REDCRS" />
     </Organizations>
-    <Kind>Natural Disaster, War</Kind>
-    <Location>New Orleans, Lousiana, Darfur, Sudan</Location>
+    <Kind>43rd U.S. president </Kind>
+    <Location>USA</Location>
     <Common>
       <Citations>
         <li>Wikipedia</li>
@@ -563,8 +563,8 @@
     <Organizations>
         <Org ID="ORG_SMAFIA" />
     </Organizations>
-    <Kind>Environmental</Kind>
-    <Location>Naples, Italy</Location>
+    <Kind>50th Prime Minister of Italy</Kind>
+    <Location>Italy</Location>
     <Common>
       <Citations>
         <li>Wikipedia</li>
@@ -599,8 +599,8 @@
         <Org ID="ORG_HOMESC" />
         <Org ID="ORG_FEMAAA" />
     </Organizations>
-    <Kind>Natural Disaster</Kind>
-    <Location>New Orleans, Louisiana</Location>
+    <Kind>54th Governor of Louisiana</Kind>
+    <Location>Louisiana</Location>
     <Common>
       <Citations>
         <li>Wikipedia</li>
@@ -636,8 +636,8 @@
     <Organizations>
         <Org ID="ORG_KUKLUX" />
     </Organizations>
-    <Kind>Political Unrest</Kind>
-    <Location>Memphis, TN</Location>
+    <Kind>Exalted Cyclops</Kind>
+    <Location>Tennessee</Location>
     <Common>
       <Citations>
         <li>Wikipedia</li>
@@ -680,8 +680,8 @@
     <Organizations>
         <Org ID="ORG_REDCRS" />
     </Organizations>
-    <Kind>Natural Disaster, Terrorist attacks</Kind>
-    <Location>Greater Antilles, Bahamas, most of the eastern United States (especially the coastal Mid-Atlantic States), Bermuda, eastern Canada</Location>
+    <Kind>President and CEO of the American Red Cross</Kind>
+    <Location>USA</Location>
     <Common>
       <Citations>
         <li>Wikipedia</li>
@@ -727,8 +727,8 @@
     <Organizations>
         <Org ID="ORG_MAJFOU" />
     </Organizations>
-    <Kind>Epidemic </Kind>
-    <Location>Worldwide</Location>
+    <Kind>Basketball player</Kind>
+    <Location>L.A.</Location>
     <Common>
       <Citations>
         <li>Wikipedia</li>
