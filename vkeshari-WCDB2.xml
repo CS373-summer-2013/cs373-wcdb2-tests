@@ -78,7 +78,7 @@
         </Common>
     </Crisis>
     
-    <Crisis ID="CRI_EHAITI" Name="2010 Haiti Earthquake">
+    <Crisis ID="CRI_HAIEAR" Name="2010 Haiti Earthquake">
         <People>
             <Person ID="PER_MICHEL" />
         </People>
@@ -227,7 +227,7 @@
             <Person ID="PER_BGATES" />
         </People>
         <Organizations>
-            <Org ID="ORG_UNITED" />
+            <Org ID="ORG_UNINAT" />
             <Org ID="ORG_BAMGFN" />
         </Organizations>
         <Kind>Epidemic</Kind>
@@ -289,7 +289,7 @@
             <Person ID="PER_BGATES" />
         </People>
         <Organizations>
-            <Org ID="ORG_UNITED" />
+            <Org ID="ORG_UNINAT" />
             <Org ID="ORG_BAMGFN" />
             <Org ID="ORG_NBNETS" />
         </Organizations>
@@ -345,7 +345,7 @@
             <Person ID="PER_ROBMUG" />
         </People>
         <Organizations>
-            <Org ID="ORG_UNITED" />
+            <Org ID="ORG_UNINAT" />
         </Organizations>
         <Kind>Systemic Exploitation</Kind>
         <Date>2006-01-01</Date>
@@ -478,7 +478,7 @@ With a magnitude of Mw 9.1, it is the third largest earthquake ever recorded on 
                   <Person ID="PER_BROBMA" />
               </People>
             <Organizations>
-                <Org ID="ORG_CEINAG" />
+                <Org ID="ORG_CENTIA" />
             </Organizations>
             <Kind>Civilian Casualties of War</Kind>
             <Date>2004-06-18</Date>
@@ -530,9 +530,9 @@ With a magnitude of Mw 9.1, it is the third largest earthquake ever recorded on 
           </Common>
         </Crisis>
 
-        <Crisis ID="CRI_UEGYPT" Name="Political Unrest in Egypt">
+        <Crisis ID="CRI_EGYPTR" Name="Political Unrest in Egypt">
                 <People>
-                  <Person ID="PER_HOSMUB" />
+                  <Person ID="PER_HOSMBK" />
               </People>
             <Organizations>
                 <Org ID="ORG_SCOTAF" />
@@ -771,7 +771,7 @@ Egeland was also Secretary General of the Norwegian Red Cross. He served as Stat
             <Crisis ID="CRI_USDAIP" />
         </Crises>
         <Organizations>
-            <Org ID="ORG_CEINAG" />
+            <Org ID="ORG_CENTIA" />
         </Organizations>
         <Kind>Former Director CIA</Kind>
         <Location>Los Angeles, CA (currently a USC faculty member)</Location>
@@ -800,9 +800,9 @@ Egeland was also Secretary General of the Norwegian Red Cross. He served as Stat
         </Common>        
     </Person>
 
-    <Person ID="PER_HOSMUB" Name="Hosni Mubarak">
+    <Person ID="PER_HOSMBK" Name="Hosni Mubarak">
         <Crises>
-            <Crisis ID="CRI_UEGYPT" />
+            <Crisis ID="CRI_EGYPTR" />
         </Crises>
         <Organizations>
             <Org ID="ORG_SCOTAF" />
@@ -927,7 +927,7 @@ Egeland was also Secretary General of the Norwegian Red Cross. He served as Stat
 
     <Person ID="PER_MICHEL" Name="Michel Joseph Martelly">
         <Crises>
-            <Crisis ID="CRI_EHAITI" />
+            <Crisis ID="CRI_HAIEAR" />
         </Crises>
         <Kind>President of Haiti</Kind>
         <Location>Port-au-Prince, Haiti</Location>
@@ -1074,7 +1074,7 @@ Egeland was also Secretary General of the Norwegian Red Cross. He served as Stat
     </Organization>
 
   
-    <Organization ID="ORG_UNITED" Name="United Nations">
+    <Organization ID="ORG_UNINAT" Name="United Nations">
         <Crises>
             <Crisis ID="CRI_AIDSHI" />
         </Crises>
@@ -1164,7 +1164,7 @@ Egeland was also Secretary General of the Norwegian Red Cross. He served as Stat
         </Common>
     </Organization>
 
-    <Organization ID="ORG_CEINAG" Name="Central Intelligence Agency">
+    <Organization ID="ORG_CENTIA" Name="Central Intelligence Agency">
         <Crises>
             <Crisis ID="CRI_USDAIP" />
         </Crises>
@@ -1206,10 +1206,10 @@ Egeland was also Secretary General of the Norwegian Red Cross. He served as Stat
 
     <Organization ID="ORG_SCOTAF" Name="Supreme Council of the Armed Forces">
         <Crises>
-            <Crisis ID="CRI_UEGYPT" />
+            <Crisis ID="CRI_EGYPTR" />
         </Crises>
         <People>
-            <Person ID="PER_HOSMUB" />
+            <Person ID="PER_HOSMBK" />
         </People>
         <Kind>Governing body of Egyptian military</Kind>
         <Location>Cairo, Egypt</Location>
@@ -1280,7 +1280,7 @@ Egeland was also Secretary General of the Norwegian Red Cross. He served as Stat
     
     <Organization ID="ORG_DIEMCO" Name="Disasters Emergency Committee">
         <Crises>
-            <Crisis ID="CRI_EHAITI" />
+            <Crisis ID="CRI_HAIEAR" />
         </Crises>
         <Kind> Umbrella Organization for 14 Humanitarian Aid Agencies</Kind>
         <Location>London, England</Location>
