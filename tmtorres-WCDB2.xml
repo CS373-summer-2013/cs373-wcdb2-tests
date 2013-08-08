@@ -191,7 +191,6 @@
                 <li embed="http://images.politico.com/global/news/110220_libya_protests_ap_328.jpg" text="Protesters have seized control of some military bases and tanks. | AP Photo." />
                 <li embed="http://02varvara.files.wordpress.com/2012/03/00-libyan-militia-thugs-in-libyan-civil-war.jpg" />
                 <li embed="http://usawatchdog.com/wp-content/uploads/2011/02/cairo-riot3.jpg" />
-                <li embed="http://s133.photobucket.com/user/chainsawmoth/media/Libyan%20Civil%20War/Abu_Salim_seven_burned.jpg.html" text="Casualties" />
             </Images>
             <Videos>
                 <li embed="//www.youtube.com/embed/p3GN1fxA-B0" text="Visual diary shows Libyan soldier at war"/>
@@ -222,7 +221,7 @@
         </Locations>
         <HumanImpact>
             <li>Malian president Amadou Toumani Touré is ousted.</li>
-            <li>A Peace deal between the government and Tuareg rebels was signed on June 18th, 2013</li>
+            <li>A Peace deal between the government and Tuareg rebels was signed on June 18th, 2013.</li>
             <li>Between 2000-3000 deaths.</li>
             <li>More than 475,000 people, out of a total population of 15 million, have been displaced.</li>
         </HumanImpact>
@@ -732,7 +731,7 @@
             </ExternalLinks>
             <Images>
                 <!-- Put full URLs to images here, display them on your site in your own cool way -->
-                <li embed="http://www.mrconservative.com/files/2013/03/0219_adam-lanza2.jpg" />
+                <li embed="http://www.mrconservative.com/files/2013/03/0219_adam-lanza2.JPG" />
                 <li embed="http://upload.wikimedia.org/wikipedia/en/f/f0/Adam_lanza_sandy_hook_shooter.jpg" />
                 <li embed="http://www.abc.net.au/reslib/201305/r1113059_13548909.jpg" />
             </Images>
@@ -764,7 +763,6 @@
                 <li href="http://english.peopledaily.com.cn/data/people/hujintao.shtml">"Hu Jintao". People's Daily.</li>
                 <li href="http://news.bbc.co.uk/2/hi/asia-pacific/4165209.stm">"China's leader shows his stripes". BBC.</li>
                 <li href="http://www.time.com/time/magazine/article/0,9171,1668457,00.html">"In China, Hu is the Man to See". Time Inc.</li>
-
             </Citations>
             <ExternalLinks>
                 <li href="http://en.wikipedia.org/wiki/Hu_Jintao">"Hu Jintao". Wikipedia.</li>
@@ -909,8 +907,8 @@
         <Organizations>
             <Org ID="ORG_CDCPRE"/>
         </Organizations>
-        <Kind>Basketball player</Kind>
-        <Location>L.A.</Location>
+        <Kind>Basketball Player</Kind>
+        <Location>L.A., California</Location>
         <Common>
             <Citations>
                 <li href="http://www.biography.com/people/magic-johnson-9356150">"Magic Johnson biography". A+E Television Networks, LLC.</li>
@@ -936,7 +934,7 @@
                 <li embed="https://twitter.com/MagicJohnson" />
             </Feeds>
             <Summary>
-                Earvin "Magic" Johnson, Jr. is a former NBA player of the Los Angeles Lakers.  He is one of the most decorated point guard to play the game with 5 NBA Championships, 3 MVP awards, and an induction into the NBA Hall of Fame. On November 7, 1991 Magic announced his retirement due to him testing positive for HIV.  After the announcement, he created the Magic Johnson Foundation to help combat HIV and provide other charitable causes.  Magic has been a 20+ year survivor of HIV and continues to do amazing things through his foundation.
+                Earvin "Magic" Johnson, Jr. is a former NBA player of the Los Angeles Lakers.  He is one of the most decorated point guard to play the game with 5 NBA Championships, 3 MVP awards, and an induction into the NBA Hall of Fame. On November 7, 1991 Magic announced his retirement due to him testing positive for HIV. After the announcement, he created the Magic Johnson Foundation to help combat HIV and provide other charitable causes.  Magic has been a 20+ year survivor of HIV and continues to do amazing things through his foundation.
             </Summary>
         </Common>
     </Person>
@@ -1350,7 +1348,7 @@
             <li>The Centers for Disease Control and Prevention first recognized HIV/AIDS in 1981.</li>
         </History>
         <ContactInfo>
-            <li href="www.cdc.gov/contact">CDC Contact</li>
+            <li href="www.cdc.gov/contact">CDC Contact Page</li>
         </ContactInfo>
         <Common>
             <Citations>
