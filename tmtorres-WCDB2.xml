@@ -53,17 +53,21 @@
             <!-- hrefs optional in the following depending on how you want them to behave on your site -->
             <Images>
                 <!-- Put full URLs to images here, display them on your site in your own cool way -->
-                <li embed="http://www.realbiblecodes.com/blog/wp-content/uploads/2012/12/2012-12-17T065603Z_1_CBRE8BG0J9I00_RTROPTP_2_USA-SHOOTING-CONNECTICUT.jpg" text="Shooting victims: Sandy Hook Elementary School" />
+                <li embed="http://letsfindthem.files.wordpress.com/2012/12/sandy_hook_victims.jpg" text="Shooting victims: Sandy Hook Elementary School" />
+                <li embed="http://tribwpmt.files.wordpress.com/2012/12/s017686762-300.jpg" text="Sandy Hook Memorial" />
+                <li embed="http://img.chinasmack.com/www/wp-content/uploads/2012/12/sandy-hook-shooting-obama-tears-04.jpg" />
             </Images>
             <Videos>
                 <!-- Put youtube link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by youtube) -->
                 <!-- Embed example for your site: <iframe width="420" height="315" src="[THIS LINK]" frameborder="0" allowfullscreen></iframe> -->
                 <li embed="//www.youtube.com/embed/RVHufEjU9VU" text="President Barack Obama makes a Statement on the Shooting."/>
+                <li embed="//www.youtube.com/embed/WZwwzP6ANQo" />
+                <li embed="//www.youtube.com/embed/TX8V_ZWwgb4" />
             </Videos>
             <Maps>
                 <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
                 <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
-                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=m&amp;source=embed&amp;oe=UTF8&amp;msa=0&amp;msid=213845869214841596682.0004d0d7915820d13990e&amp;ll=41.414362,-73.253222&amp;spn=0.01001,0.05083&amp;output=embed" />
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=m&amp;oe=UTF8&amp;msa=0&amp;msid=213845869214841596682.0004d0d7915820d13990e&amp;ll=41.413896,-73.252716&amp;spn=0.077243,0.102997&amp;z=12&amp;output=embed" />
             </Maps>
             <!-- Optional summary field for extra random data -->
             <Summary>
@@ -72,7 +76,7 @@
         </Common>
     </Crisis>
 
-    <Crisis ID="CRI_SCHERQ" Name="2008 Sichuan earthquake">
+    <Crisis ID="CRI_SCHERQ" Name="2008 Sichuan Earthquake">
         <People>
             <Person ID="PER_HUJNTO" />
         </People>
@@ -129,7 +133,7 @@
             <Maps>
                 <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
                 <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
-                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=h&amp;oe=UTF8&amp;msa=0&amp;msid=206935958482646980562.00044d19b32c5c9a07f6b&amp;ll=31.028366,103.470526&amp;spn=0.014132,0.206852&amp;output=embed" />
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=h&amp;oe=UTF8&amp;msa=0&amp;msid=206935958482646980562.00044d19b32c5c9a07f6b&amp;ll=31.02234,103.478851&amp;spn=0.353059,0.411987&amp;z=10&amp;output=embed" />
             </Maps>
             <!-- Optional summary field for extra random data -->
             <Summary>
@@ -152,10 +156,10 @@
         </Locations>
         <HumanImpact>
             <li>Anti-Gaddafi forces take control of all major Libyan cities.</li>
-            <li>Death of Muammar Gaddafi</li>
-            <li>Assumption of interim control by National Transitional Council (NTC)</li>
-            <li>Diplomatic recognition of NTC as sole governing authority for Libya by 105 countries, UN, EU, AL and AU</li>
-            <li>Ongoing inter-factional fighting</li>
+            <li>Death of Muammar Gaddafi.</li>
+            <li>Assumption of interim control by National Transitional Council (NTC).</li>
+            <li>Diplomatic recognition of NTC as sole governing authority for Libya by 105 countries, UN, EU, AL and AU.</li>
+            <li>Ongoing inter-factional fighting.</li>
         </HumanImpact>
         <EconomicImpact>
             <li>On December 29th, 2011, Libya's National Oil Corporation announced that the country's output of crude oil was a little over 1 million barrels per day (bpd), compared to 1.6 million bpd before the uprising.</li>
@@ -185,6 +189,9 @@
                 <!-- Put full URLs to images here, display them on your site in your own cool way -->
                 <li embed="https://static-secure.guim.co.uk/sys-images/Guardian/About/General/2011/11/19/1321713344809/Libyans-celebrate-news-of-007.jpg" text="Libyans celebrate news of Gadhafi's death." />
                 <li embed="http://images.politico.com/global/news/110220_libya_protests_ap_328.jpg" text="Protesters have seized control of some military bases and tanks. | AP Photo." />
+                <li embed="http://02varvara.files.wordpress.com/2012/03/00-libyan-militia-thugs-in-libyan-civil-war.jpg" />
+                <li embed="http://usawatchdog.com/wp-content/uploads/2011/02/cairo-riot3.jpg" />
+                <li embed="http://s133.photobucket.com/user/chainsawmoth/media/Libyan%20Civil%20War/Abu_Salim_seven_burned.jpg.html" text="Casualties" />
             </Images>
             <Videos>
                 <li embed="//www.youtube.com/embed/p3GN1fxA-B0" text="Visual diary shows Libyan soldier at war"/>
@@ -192,7 +199,7 @@
             <Maps>
                 <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
                 <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
-                <li embed="https://maps.google.co.uk/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=200809166078445189642.00049f7a79747b94b2b24&amp;t=m&amp;ll=31.515851,13.320786&amp;spn=24.023962,39.334073&amp;output=embed" />
+                <li embed="https://maps.google.co.uk/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=200809166078445189642.00049f7a79747b94b2b24&amp;t=m&amp;ll=37.300275,12.65625&amp;spn=41.526391,52.734375&amp;z=3&amp;output=embed" />
             </Maps>
             <!-- Optional summary field for extra random data -->
             <Summary>
@@ -214,10 +221,10 @@
             <li>Northern Mali</li>
         </Locations>
         <HumanImpact>
-            <li>Malian president Amadou Toumani Touré is ousted</li>
+            <li>Malian president Amadou Toumani Touré is ousted.</li>
             <li>A Peace deal between the government and Tuareg rebels was signed on June 18th, 2013</li>
             <li>Between 2000-3000 deaths.</li>
-            <li>More than 475,000 people, out of a total population of 15 million, have been displaced</li>
+            <li>More than 475,000 people, out of a total population of 15 million, have been displaced.</li>
         </HumanImpact>
         <EconomicImpact>
             <li>The events happening in Mali are still ongoing.</li>
@@ -257,8 +264,7 @@
             <Maps>
                 <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
                 <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
-                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;oe=utf-8&amp;q=mali+africa+google+maps&amp;ie=UTF8&amp;hq=&amp;hnear=Mali&amp;gl=us&amp;t=m&amp;z=5&amp;ll=17.570692,-3.996166&amp;output=embed" />
-                <!--https://maps.google.com/maps?client=ubuntu&channel=fs&q=northern+mali+conflict+google+maps&oe=utf-8&ie=UTF-8&ei=LafcUdniEouK9gTe-oHoDg&ved=0CAoQ_AUoAg -->
+                <li embed="https://maps.google.co.uk/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Mali&amp;aq=&amp;sll=2.635789,21.533203&amp;sspn=78.677084,129.550781&amp;ie=UTF8&amp;hq=&amp;hnear=Mali&amp;t=m&amp;ll=17.560247,-3.955078&amp;spn=24.95859,26.367188&amp;z=4&amp;output=embed" />
             </Maps>
             <!-- Optional summary field for extra random data -->
             <Summary>
@@ -267,7 +273,7 @@
         </Common>
     </Crisis>
 
-    <Crisis ID="CRI_TUKPRO" Name="2013 protests in Turkey">
+    <Crisis ID="CRI_TUKPRO" Name="2013 Protests in Turkey">
         <People>
             <Person ID="PER_ERDOGA"/>
         </People>
@@ -302,6 +308,7 @@
                 <li href="http://www.bbc.co.uk/news/business-22750491">"Turkish stock market falls 10.5% as demonstrations escalate". BBC.</li>
                 <li href="http://www.reuters.com/article/2013/06/24/us-germany-turkey-merkel-idUSBRE95N11420130624">"Germany's Merkel calls on Turkey to remove hurdles to EU accession". Reuters.</li>
                 <li href="http://uk.reuters.com/article/2013/07/03/turkey-court-taksim-idUKL5N0F93C120130703">"Turkish court blocks disputed park project". Reuters.</li>
+                <li href="http://www.creativereview.co.uk/cr-blog/2013/june/occupygezi">"#OccupyGezi: The art of the Turkish protests". Creative Review.</li>
             </Citations>
             <ExternalLinks>
                 <li href="https://en.wikipedia.org/wiki/2013_protests_in_Turkey">"2013 protests in Turkey." Wikipedia.</li>
@@ -319,12 +326,8 @@
             <Maps>
                 <!-- Put google maps link here (pull this URL out of the src="[GET THIS LINK]" attribute in the embed object given by google maps) -->
                 <!-- Embed example for your site: <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="[THIS LINK]"></iframe> -->
-                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Taksim+Gezi+Park&amp;aq=&amp;sll=40.878218,29.196167&amp;sspn=0.467774,1.056747&amp;ie=UTF8&amp;hq=Taksim+Gezi+Park&amp;hnear=&amp;t=m&amp;z=10&amp;output=embed" />
-                <!--https://maps.google.com/maps?client=ubuntu&channel=fs&q=northern+mali+conflict+google+maps&oe=utf-8&ie=UTF-8&ei=LafcUdniEouK9gTe-oHoDg&ved=0CAoQ_AUoAg -->
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Taksim+Gezi+Park&amp;aq=&amp;sll=41.038707,28.987298&amp;sspn=0.126371,0.253029&amp;ie=UTF8&amp;hq=Taksim+Gezi+Park&amp;hnear=&amp;t=m&amp;ll=39.97712,31.157227&amp;spn=10.098678,13.183594&amp;z=5&amp;output=embed" />
             </Maps>
-            <Feeds>
-                <li embed="https://twitter.com/OccupyGezi" />
-            </Feeds>
             <!-- Optional summary field for extra random data -->
             <Summary>
                 Protests in Turkey started on May 28th, 2013 to initially contest the plans of replacing Taksim Gezi Park with a shopping mall and possible residence. The protests developed into riots when a group occupying the park was attacked by police with no mercy. The subjects of the protests have since broadened beyond the development of Taksim Gezi Park, covering issues such as freedom of assembly and freedom of expression, as well as more broadly defending the secularism of Turkey. The protests also spread to other cities in Turkey, and protests were seen in other countries with significant Turkish communities. On July 8th, Istanbul governor Hüseyin Avni Mutlu led a public reopening of the Gezi Park in front of all the media cameras. People called by the Taksim Solidarity group for a mass visit quickly filled it up. Within less than an hour of governor's leave, the park was cordoned by police and people forcefully evacuated, thus closing the park to the public again. This is still an ongoing event.
@@ -456,7 +459,7 @@
                 <li embed="//www.youtube.com/embed/56DMGD-lVZ8" text="Operation Tomodachi" />
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=205893302153370574806.00049e52d42b9a623db52&amp;t=m&amp;ll=38.628722,140.141916&amp;spn=8.010473,3.998393&amp;output=embed" />
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=205893302153370574806.00049e52d42b9a623db52&amp;t=m&amp;ll=37.961523,139.21875&amp;spn=10.388652,13.183594&amp;z=5&amp;output=embed" />
             </Maps>
             <Summary>
                 The 2011 Tohoku earthquake, was a magnitude 9.0 (Mw) undersea megathrust earthquake off the coast of Japan with the epicentre approximately 70 kilometres (43 mi) east of the Oshika Peninsula of Tohoku and the hypocenter at an underwater depth of approximately 30 km (19 mi). It was the most powerful known earthquake ever to have hit Japan, and the fifth most powerful earthquake in the world since modern record-keeping began in 1900. The earthquake triggered powerful tsunami waves that reached heights of up to 40.5 metres (133 ft) in Miyako in Tohoku's Iwate Prefecture, and which, in the Sendai area, travelled up to 10 km (6 mi) inland. The earthquake moved Honshu (the main island of Japan) 2.4 m (8 ft) east and shifted the Earth on its axis by estimates of between 10 cm (4 in) and 25 cm (10 in).
@@ -555,7 +558,7 @@
                 <li embed="//www.youtube.com/embed/JumCMHCQmrM" text="PM statement on the situation in Haiti"/>
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=L%C3%A9og%C3%A2ne,+haiti+earthquake&amp;aq=&amp;sll=18.483516,-72.463074&amp;sspn=0.28198,0.528374&amp;ie=UTF8&amp;hq=earthquake&amp;hnear=L%C3%A9og%C3%A2ne,+Ouest,+Haiti&amp;ll=18.483516,-72.463074&amp;spn=0.017319,0.358275&amp;t=m&amp;output=embed" />
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=2010+Haiti+earthquake,+Ouest,+Haiti&amp;aq=&amp;sll=18.458605,-72.527618&amp;sspn=0.158922,0.253029&amp;ie=UTF8&amp;hq=&amp;hnear=2010+Haiti+earthquake&amp;t=m&amp;ll=19.082884,-71.433105&amp;spn=6.226855,6.591797&amp;z=6&amp;output=embed" />
             </Maps>
             <Summary>
                 The 2010 Haiti earthquake was a catastrophic magnitude 7.0 Mw earthquake, with an epicenter near the town of Léogâne (Ouest Department), approximately 25 km (16 miles) west of Port-au-Prince, Haiti's capital. By January 24th, at least 52 aftershocks measuring 4.5 or greater had been recorded. The earthquake caused major damage in Port-au-Prince, Jacmel and other settlements in the region. Many notable landmark buildings were significantly damaged or destroyed, including the Presidential Palace, the National Assembly building, the Port-au-Prince Cathedral, and the main jail. With the governments death estimate at 316,000, this makes it the 2nd deadliest earthquake of all time.
@@ -628,7 +631,7 @@
                 <li embed="//www.youtube.com/embed/ZNYmK19-d0U" text="President Obama on Death of Osama bin Laden" />
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps/ms?source=embed&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=208322038254079068608.000486ad598c3e76ad271&amp;t=m&amp;ll=39.791048,-76.469012&amp;spn=1.840921,4.913538&amp;output=embed" />
+                <li embed="https://maps.google.com/maps/ms?source=embed&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=208322038254079068608.000486ad598c3e76ad271&amp;t=m&amp;ll=40.346544,-76.376953&amp;spn=5.02344,6.591797&amp;z=6&amp;output=embed" />
             </Maps>
             <Summary>
                 The September 11 attacks (also referred to as September 11, September 11th, or 9/11) were a series of four coordinated terrorist attacks launched by the Islamic terrorist group al-Qaeda upon the United States in New York City and the Washington, D.C. area on Tuesday, September 11, 2001.
@@ -657,7 +660,7 @@
             <li>Tanker collision (carrying 50 million gallons raw crude).</li>
             <li>Several residents, including one former mayor, committed suicide after the spill.</li>
             <li>20 communities were in the oil's path where it caused major social and psychological impact like depression and Post-Traumatic Stress Disorder.This injury continues in places like Cordova today.</li>
-            <li>Cleanup workers faced average oil mist exposure 12 times in excess of the regulatory limits, with a maximum exposure 400 times higher during hot water beach washing.  In 1989, 1,811 workers filed compensation claims, primarily for respiratory system damage, according to National Institute of Occupational Safety and Health</li>
+            <li>Cleanup workers faced average oil mist exposure 12 times in excess of the regulatory limits, with a maximum exposure 400 times higher during hot water beach washing.  In 1989, 1,811 workers filed compensation claims, primarily for respiratory system damage, according to National Institute of Occupational Safety and Health.</li>
         </HumanImpact>
         <EconomicImpact>
             <li>$2 billion cleanup.</li>
@@ -665,10 +668,10 @@
             <li>$500 million punitive damages.</li>
             <li>According to several studies funded by the state of Alaska, the spill had both short-term and long-term economic effects. These included the loss of recreational sports, fisheries, reduced tourism, and an estimate of what economists call "existence value", which is the value to the public of a pristine Prince William Sound.</li>
             <li>The economy of the city of Cordova, Alaska was adversely affected after the spill damaged stocks of salmon and herring in the area.</li>
-            <li>In 1991, following the collapse of the local marine population (particularly clams, herring, and seals) the Chugach Alaska Corporation, an Alaska Native Corporation, filed for Chapter 11 bankruptcy protection. It has since recovered</li>
+            <li>In 1991, following the collapse of the local marine population (particularly clams, herring, and seals) the Chugach Alaska Corporation, an Alaska Native Corporation, filed for Chapter 11 bankruptcy protection. It has since recovered.</li>
         </EconomicImpact>
         <ResourcesNeeded>
-            <li>There was use of a dispersant, a surfactant and solvent mixture. A private company applied dispersant on March 24 with a helicopter and dispersant bucket. Because there was not enough wave action to mix the dispersant with the oil in the water, the use of the dispersant was discontinued. One trial explosion was also conducted during the early stages of the spill to burn the oil, in a region of the spill isolated from the rest by another explosion.[clarification needed] The test was relatively successful, reducing 113,400 liters of oil to 1,134 liters of removable residue, but because of unfavorable weather no additional burning was attempted.Mechanical cleanup was started shortly afterwards using booms and skimmers, but the skimmers were not readily available during the first 24 hours following the spill, and thick oil and kelp tended to clog the equipment.Despite civilian insistence for a complete clean, only 10% of total oil was actually completely cleaned.</li>
+            <li>There was use of a dispersant, a surfactant and solvent mixture. A private company applied dispersant on March 24 with a helicopter and dispersant bucket. Because there was not enough wave action to mix the dispersant with the oil in the water, the use of the dispersant was discontinued. One trial explosion was also conducted during the early stages of the spill to burn the oil, in a region of the spill isolated from the rest by another explosion. The test was relatively successful, reducing 113,400 liters of oil to 1,134 liters of removable residue, but because of unfavorable weather no additional burning was attempted.Mechanical cleanup was started shortly afterwards using booms and skimmers, but the skimmers were not readily available during the first 24 hours following the spill, and thick oil and kelp tended to clog the equipment.Despite civilian insistence for a complete clean, only 10% of total oil was actually completely cleaned.</li>
         </ResourcesNeeded>
         <WaysToHelp>
             <li>In 1991, the Trustee Council was formed to restore Prince William Sound and the Gulf of Alaska to the "healthy, productive, world-renowned ecosystem" that existed before the spill. In February 2012, funding commenced for the two long-term Programs: the Herring Research and Monitoring Program and the Long-Term Monitoring Program, also known as GulfWatch Alaska. The Programs are administrated under five-year contracts, which include annual Council and Public Advisory Committee meetings to review the past-year's results and future year's requested funding. The current Council contemplates the Programs to be twenty-years in length, concluding in 2032.</li>
@@ -700,7 +703,7 @@
                 <li embed="//www.youtube.com/embed/qS2FbvfnNDw" text="Hindsight and Foresight: 20 Years After the Exxon Valdez Spill"/>
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=p&amp;oe=UTF8&amp;msa=0&amp;msid=218316811799567847406.0004898c12dd6c8d7df7e&amp;ll=16.123683,-37.798462&amp;spn=99.76913,218.600464&amp;iwloc=0004898cedc8b31e37b13&amp;output=embed" />
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;t=p&amp;oe=UTF8&amp;msa=0&amp;msid=218316811799567847406.0004898c12dd6c8d7df7e&amp;ll=60.06484,-146.645508&amp;spn=6.586133,13.183594&amp;z=5&amp;output=embed" />
             </Maps>
             <Summary>
                 The Exxon Valdez oil spill occurred in Prince William Sound, Alaska, on March 24, 1989, when Exxon Valdez, an oil tanker bound for Long Beach, California, struck Prince William Sound's Bligh Reef and spilled 260,000 to 750,000 barrels (41,000 to 119,000 cubic meters) of crude oil. It is considered to be one of the most devastating human-caused environmental disasters. The Valdez spill was the largest ever in US waters until the 2010 Deepwater Horizon oil spill, in terms of volume released. However, Prince William Sound's remote location, accessible only by helicopter, plane, or boat, made government and industry response efforts difficult and severely taxed existing plans for response. The region is a habitat for salmon, sea otters, seals and seabirds. The oil, originally extracted at the Prudhoe Bay oil field, eventually covered 1,300 miles (2,100 km) of coastline, and 11,000 square miles (28,000 squared km) of ocean. Exxon's CEO, Lawrence Rawl, shaped the company's response.
@@ -735,10 +738,10 @@
             </Images>
             <Videos>
                 <li embed="//www.youtube.com/embed/ItsOJUpK-cY" text="ABC News: Why Did Adam Lanza Snap?"/>
-                <li embed="//www.youtube.com/embed/ddyiMd3tdwE" text="Chilling Details Emerge on Newtown School Shooter Adam Lanza "/>
+                <li embed="//www.youtube.com/embed/ddyiMd3tdwE" text="Chilling Details Emerge on Newtown School Shooter Adam Lanza "/>          
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Sandy+Hook+Elementary+School,+Newtown,+CT&amp;aq=1&amp;oq=s&amp;sll=41.419431,-73.278894&amp;sspn=0.007104,0.016512&amp;ie=UTF8&amp;hq=Sandy+Hook+Elementary+School,+Newtown,+CT&amp;t=m&amp;z=16&amp;iwloc=A&amp;output=embed" text="Newtown, Connecticut, USA" />
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Sandy%2BHook%2BElementary%2BSchool,%2BNewtown,%2BCT&amp;aq=&amp;sll=59.998986,-150.430298&amp;sspn=2.681235,8.096924&amp;ie=UTF8&amp;hq=Sandy%2BHook%2BElementary%2BSchool,%2BNewtown,%2BCT&amp;t=m&amp;ll=41.419721,-73.278422&amp;spn=0.004827,0.006437&amp;z=16&amp;output=embed" />
             </Maps>
             <Summary>
                 Adam Lanza was the perpetrator of the 2012 Sandy Elementary School shooting in Newtown, Connecticut, USA. Lanza lived in Sandy Hook, 5 miles from the school with his mother. He attended Western Connecticut State University in 2008 and 2009. Students and teachers who knew him in high school described Lanza as "intelligent, but nervous and fidgety". He avoided attracting attention and was uncomfortable socializing. He is not known to have had any close friends in school. According to a law enforcement official, Lanza was reported to have been diagnosed with Asperger Syndrome. Lanza's brother told law enforcement that Adam was believed to have a personality disorder and was "somewhat autistic". On December 14, 2012, Lanza killed his mother and 26 others at the school.
@@ -777,7 +780,7 @@
                 <li embed="//www.youtube.com/embed/9auz-AAGyks" />
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=zhongnanhai,+Beijing,+China&amp;aq=1&amp;oq=Zhongnanhai&amp;sll=30.307761,-97.753401&amp;sspn=1.046869,2.113495&amp;ie=UTF8&amp;hq=zhongnanhai,&amp;hnear=Beijing,+China&amp;t=m&amp;z=15&amp;output=embed" text="Zhongnanhai, Beijing, China"/>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Zhongnanhai+Post+Bureau&amp;aq=&amp;sll=36.173357,72.421875&amp;sspn=119.462875,259.101562&amp;ie=UTF8&amp;hq=Zhongnanhai+Post+Bureau&amp;hnear=&amp;t=m&amp;ll=39.91474,116.390533&amp;spn=0.078999,0.102997&amp;z=12&amp;output=embed"/>
             </Maps>
             <Summary>
                 Hu Jintao was the 6th President of the People's Republic of China from 2003-2013. Hu has been involved in the Communist party bureaucracy for most of his adult life, notably as Party secretary for Guizhou province and the Tibet Autonomous Region, and then later First secretary of the Party Central Secretariat and Vice-President under former leader Jiang Zemin. Hu is the first leader of the Communist Party without any significant revolutionary credentials.
@@ -796,8 +799,7 @@
         <Location>Libya</Location>
         <Common>
             <Citations>
-                <li href="http://www.biography.com/people/muammar-al-qaddafi-39014">Biography.com</li>
-                <li href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8344034/Libya-civil-war-breaks-out-as-Gaddafi-mounts-rearguard-fight.html">Gaddafi Mounts Rearguard Fight</li>
+                <li href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/8344034/Libya-civil-war-breaks-out-as-Gaddafi-mounts-rearguard-fight.html">"Libya: civil war breaks out as Gaddafi mounts rearguard fight". Telegraph Media Group Limited.</li>
             </Citations>
             <ExternalLinks>
                 <li href="http://www.biography.com/people/muammar-al-qaddafi-39014">"Muammar al-Qaddafi biography". A+E Television Networks, LLC.</li>
@@ -815,7 +817,7 @@
                 <li embed="//www.youtube.com/embed/sGm492qVEzA">Warning: Graphic Video!</li>
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=214301650463033871851.0004aaf73e7ee9a96c942&amp;t=m&amp;ll=28.578823,14.051256&amp;spn=8.693769,9.01926&amp;output=embed" text="Free Libya Google Maps"/>
+                <li embed="https://maps.google.com/maps/ms?ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=214301650463033871851.0004aaf73e7ee9a96c942&amp;t=m&amp;ll=28.998532,13.886719&amp;spn=22.953626,26.367188&amp;z=4&amp;output=embed"/>
             </Maps>
             <Summary>
                 Muammar Muhammad Abu Minyar al-Gaddafi, or Colonel Gaddafi, was an Libyan politician who de facto ruled Lybya for 42 years. In 1969 he conducted a coup against King Idris and that led to the formation of the Libyan Arab Republic. He died on 20 October 2011 during the Battle of Sirte, and was found hiding in a culvert west of Sirte and captured by National Transitional Council forces. He was killed shortly afterwards. 
@@ -851,7 +853,7 @@
                 <li embed="//www.youtube.com/embed/5ecQtecInJs" text="Toure Speaks After 2012 Coup"/>
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=Bamako&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=&amp;hnear=Bamako,+Mali&amp;t=m&amp;z=11&amp;iwloc=A&amp;output=embed" text="Bamako, Mali"/>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Bamako,+Mali&amp;aq=&amp;sll=28.578823,14.051256&amp;sspn=18.773462,32.387695&amp;ie=UTF8&amp;hq=&amp;hnear=Bamako,+Mali&amp;t=m&amp;ll=15.36895,-5.581055&amp;spn=12.688092,13.183594&amp;z=5&amp;output=embed" />
             </Maps>
             <Summary>
                 Amadou Toumani Touré (born November 4th, 1948) is a Malian politician who was President of Mali from 2002 to 2012.
@@ -889,7 +891,7 @@
                 <li embed="//www.youtube.com/embed/zSwup4gy8wc" text="BBC News - Turkey clashes: Thousands rally as PM Erdogan returns "/>
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=Ba%C5%9Fbakanl%C4%B1k+Konutu&amp;oe=utf-8&amp;ie=UTF8&amp;hl=en&amp;hq=Ba%C5%9Fbakanl%C4%B1k+Konutu&amp;t=m&amp;z=16&amp;iwloc=A&amp;output=embed" text="Başbakanlık Konutu, Ankara, Turkey"/>
+                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Ba%C5%9Fbakanl%C4%B1k+Konutu,+Ankara,+Turkey&amp;aq=&amp;sll=13.576581,-5.723877&amp;sspn=5.209826,8.096924&amp;ie=UTF8&amp;hq=Ba%C5%9Fbakanl%C4%B1k+Konutu,+Ankara,+Turkey&amp;t=m&amp;ll=39.808536,33.684082&amp;spn=5.063236,6.591797&amp;z=6&amp;output=embed"/>
             </Maps>
             <Feeds>
                 <li embed="https://twitter.com/RT_Erdogan" />
@@ -1046,7 +1048,7 @@
                 <li embed="//www.youtube.com/embed/gWVC4JBjtEE" text="Osama Bin Laden Talks About the 9/11 Attacks"/>
             </Videos>
             <Maps>
-                <li embed="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=34%C2%B010%E2%80%B209.51%E2%80%B3N+73%C2%B014%E2%80%B232.78%E2%80%B3E&amp;aq=&amp;sll=35.464026,140.104523&amp;sspn=1.126331,2.024231&amp;ie=UTF8&amp;ll=34.169308,73.242439&amp;spn=0.008939,0.015814&amp;t=m&amp;z=14&amp;iwloc=6545032258397794998&amp;output=embed" text="Osama Bin Laden's Compound"/>
+                <li embed="https://maps.google.com/maps?client=ubuntu&amp;channel=fs&amp;q=osama+bin+laden's+hideout+compound&amp;oe=utf-8&amp;ie=UTF8&amp;hq=&amp;hnear=Osama+bin+Laden's+compound+in+Abbottabad&amp;t=m&amp;ll=34.169843,73.243189&amp;spn=0.021304,0.025749&amp;z=14&amp;output=embed"/>
             </Maps>
             <Summary>
                 Osama Bin Laden was the founder of al-Qaeda, the Sunni Islamist group responsible for the September 11 attacks against the United States.  After these attacks, Osama was a prime target in War on Terror.  On May 2, 2011, bin Laden was shot and killed inside a private residential compound in Abbottabad, Pakistan by the United States Special Ops under the command of Barack Obama.
@@ -1118,6 +1120,9 @@
             </ExternalLinks>
             <Images>
                 <li embed="http://www.unitedwayokc.org/sites/all/themes/uw/images/1.jpg" />
+                <li embed="http://www.unitedwaynwfl.org/Portals/12/front%20page%20graphic.jpg" />
+                <li embed="http://unitedwaymatsu.org/images/ourwork/0181_HR.jpg" />
+                <li embed="http://www.uwgk.org/wp-content/uploads/2013/05/United-Way-Banner1.jpg" />
             </Images>
             <Videos>
             	<li embed="//www.youtube.com/embed/YCT9cZNh0MQ" text="United Way Campaign" />
@@ -1173,6 +1178,9 @@
             </ExternalLinks>
             <Images>
                 <li embed="http://www.gochengdoo.com/images/blog/7031.jpg" />
+                <li embed="http://www.leaderpost.com/news/cms/binary/8280367.jpg" />
+                <li embed="http://cdn.physorg.com/newman/gfx/news/2013/8-7-6-5-4-3-2-1-chinarushesr.jpg" />
+                <li embed="http://www.gochengdoo.com/images/blog/7046.jpg" />
             </Images>
             <Videos>
             	<li embed="//www.youtube.com/embed/nR3DPKzBrwo" text="SQR 2008 Report"/>
@@ -1213,11 +1221,13 @@
                 <li href="http://www.boston.com/news/world/middle-east/2012/08/08/libya-transitional-rulers-hand-over-power/uMPkXd9vTSSHg589mU9ykJ/story.html">"Libya's transitional rulers hand over power". Boston.com.</li>
             </Citations>
             <ExternalLinks>
-                <li href="http://en.wikipedia.org/wiki/National_Transitional_Council">Wikipedia</li>
+                <li href="http://en.wikipedia.org/wiki/National_Transitional_Council">"National Transitional Council". Wikipedia.</li>
             </ExternalLinks>
             <Images>
                 <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Seal_of_the_National_Transitional_Council_%28Libya%29.svg/200px-Seal_of_the_National_Transitional_Council_%28Libya%29.svg.png" />
                 <li embed="http://www1.pictures.zimbio.com/gi/President+Obama+Meets+President+National+Transitional+STm2i_EQWMMl.jpg"/>
+                <li embed="http://www.economym.com/files/attach/images/90/845/007/56814dce32de68a6751693583e1e0350.jpg" />
+                <li embed="http://images.blatantworld.com/001_full_sized_image/new_libyan_national_flag_national_transitional_council_ntc.png" />
             </Images>
             <Videos>
             	<li embed="//www.youtube.com/embed/gIVZlSk1qbI"/>
@@ -1260,6 +1270,9 @@
             </ExternalLinks>
             <Images>
                 <li embed="http://1.bp.blogspot.com/-gxJP8gYN4DU/Tqmx3Vxe0BI/AAAAAAAAAtE/xzv4M8pB7gU/s320/49169African-Union.png"> African Union Symbol</li>
+                <li embed="http://www.au.int/en/sites/default/files/u1/flagbakground_700.jpg" />
+                <li embed="http://www.un.org/News/dh/photos/large/2013/January/541545-ki-moon-group.jpg" text="AU Leaders" />
+                <li embed="http://bielbienne.files.wordpress.com/2009/03/ug.jpg" text="African Union Military" />
             </Images>
             <Videos>
             	<li embed="//www.youtube.com/embed/G5Sn7PrXDoA" text="African Union on Mali" />
@@ -1296,13 +1309,16 @@
         </ContactInfo>
         <Common>
             <Citations>
-                <li href="http://www.creativereview.co.uk/cr-blog/2013/june/occupygezi">"#OccupyGezi: The art of the Turkish protests". Creative Review.</li>
+                <li href="https://blog.twitter.com/2011/engineering-behind-twitter%E2%80%99s-new-search-experience">"The Engineering Behind Twitter’s New Search Experience". Twitter, Inc.</li>
+                <li href="https://blog.twitter.com/2012/twitter-turns-six">"Twitter turns six". Twitter, Inc.</li>
             </Citations>
             <ExternalLinks>
-                <li href="http://en.wikipedia.org/wiki/Twitter">Wikipedia</li>
+                <li href="http://en.wikipedia.org/wiki/Twitter">"Twitter". Wikipedia.</li>
             </ExternalLinks>
             <Images>
+                <li embed="http://theinspirationroom.com/daily/design/2012/6/new_twitter_logo.jpg" />
                 <li embed="http://25.media.tumblr.com/19e6fef221cb39926b9f0399eac6913c/tumblr_mnyuelETRW1ste7qoo1_1280.jpg" text="Twitter role with Turkey Protests"/>
+                <li embed="http://cdn.thenextweb.com/files/2010/11/twitter_london.jpg" />
             </Images>
             <Videos>
             	<li embed="//www.youtube.com/embed/J0xbjIE8cPM" text="How to Use Twitter" />
@@ -1341,10 +1357,12 @@
                 <li href="http://web.archive.org/web/20050204141148/http://www.cdc.gov/HIV/pubs/facts/transmission.htm">"HIV and Its Transmission". CDC.</li>
             </Citations>
             <ExternalLinks>
-                <li href="http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention">Wikipedia</li>
+                <li href="http://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention">"Centers for Disease Control and Prevention". Wikipedia.</li>
             </ExternalLinks>
             <Images>
+                <li embed="http://www.capitolmarkets.com/files/2012/11/CDC-Headquarters.jpg" text="CDC headquarters" />
             	<li embed="http://childrenshospital.org/clinicalservices/Site1899/Images/CDC.jpg"/>
+                <li embed="http://www.bu.edu/ihblast/files/2012/09/IMG_1292.jpg" />
             </Images>
             <Videos>
             	<li embed="//www.youtube.com/embed/I_o_wkr7N8A?list=PL87B964CE4CF0A98C" text="CDC &amp; HIV/AIDS"/>
@@ -1381,10 +1399,12 @@
             	<li href="http://www.usgs.gov/">USGS Official Site</li>
             </Citations>
             <ExternalLinks>
-                <li href="http://en.wikipedia.org/wiki/United_States_Geological_Survey">United States Geological Survey Wiki</li>
+                <li href="http://en.wikipedia.org/wiki/United_States_Geological_Survey">"United States Geological Survey". Wikipedia.</li>
             </ExternalLinks>
             <Images>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/0/05/Usgs_Logo_Old.gif" />
             	<li embed="http://wxow.images.worldnow.com/images/20427163_BG1.jpg"/>
+                <li embed="http://www.usgs.gov/newsroom/images/mt_st_helens/msh04_gps_usgs_scientist_mount_adams_9-29-04.jpg" />
             </Images>
             <Videos>
                 <li embed="//www.youtube.com/embed/sMzK_aySff0" text="USGS Earthquakes" />
@@ -1419,7 +1439,7 @@
         </ContactInfo>
         <Common>
             <Citations>
-                <li href="http://en.wikipedia.org/wiki/World_Health_Organization#History">WHO Wiki Page</li>
+                <li href="http://en.wikipedia.org/wiki/World_Health_Organization#History">"World Health Organization: History". Wikipedia.</li>
             </Citations>
             <ExternalLinks>
                 <li href="http://www.who.int/en/">WHO Home Page</li>
@@ -1427,7 +1447,9 @@
             </ExternalLinks>
             <Images>
                 <li embed="http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_WHO.svg/800px-Flag_of_WHO.svg.png" text="WHO Flag"/>
+                <li embed="http://myhomedesign.ph/admin/wp-content/uploads/2011/12/2.jpg" />
                 <li embed="http://www.examiner.com/images/blog/EXID22920/images/World_Health_Organization(1).jpg"/>
+                <li embed="http://upload.wikimedia.org/wikipedia/commons/f/f3/World_Health_Organization_Flag.jpg" />
             </Images>
             <Videos>
                 <li embed="//www.youtube.com/embed/QCljON3Pa4E" text="WHO Promotional Video"/>
@@ -1461,14 +1483,17 @@
         </ContactInfo>
         <Common>
             <Citations>
-                <li href="http://en.wikipedia.org/wiki/United_Nations_Security_Council">United Nations Security Council Wiki</li>
+                <li href="http://www.unfoundation.org/what-we-do/issues/united-nations/the-un-security-council.html">"The UN Security Council". United Nations Foundation.</li>
             </Citations>
             <ExternalLinks>
             	<li href="https://www.facebook.com/pages/United-Nations-Security-Council/107569195932885">UNSC Facebook</li>
+                <li href="http://en.wikipedia.org/wiki/United_Nations_Security_Council">"United Nations Security Council". Wikipedia.</li>
             </ExternalLinks>
             <Images>
+                <li embed="http://www.sleepout.com/nomad/wp-content/uploads/2013/05/The-United-Nations.jpg" />
             	<li embed="http://bosmun.org/wp-content/uploads/2012/06/United-Nations-Security-Council.jpg" />
             	<li embed="http://graphics8.nytimes.com/images/2009/06/24/timestopics/UN-395.jpg" />
+                <li embed="http://metricpioneer.com/wp-content/uploads/2012/08/United-Nations-Security-Council1.jpg" />
             </Images>
             <Videos>
             	<li embed="//www.youtube.com/embed/gTB-LDWoETA" text="Obama at UN Security Council"/>
@@ -1502,10 +1527,11 @@
         </ContactInfo>
         <Common>
             <Citations>
-                <li href="http://en.wikipedia.org/wiki/Exxon_Shipping_Company">ExxonMobil Wiki page</li>
+                 <li href="http://www.exxonmobil.com/Corporate/about_who_mgmt.aspx">"Exxon Mobil, Our Management". ExxonMobil Corporation.</li>
             </Citations>
             <ExternalLinks>
             	<li href="https://www.facebook.com/pages/ExxonMobil/312303928430">ExxonMobil Facebook</li>
+                <li href="http://en.wikipedia.org/wiki/Exxon_Shipping_Company">"Exxon Shipping Company". Wikipedia.</li>
             </ExternalLinks>
             <Images>
                 <li embed="http://cdn2.shipspotting.com/photos/middle/8/8/1/976188.jpg" text="Exxon Valdez ship"/>
